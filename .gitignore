@@ -1,0 +1,15 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ai-in-legislature project
+projects/ai-in-legislature/data/
+projects/ai-in-legislature/charts/
+projects/ai-in-legislature/tools/
+projects/ai-in-legislature/chart_gen.log
+projects/ai-in-legislature/err*.log
+projects/ai-in-legislature/draft article/
+projects/ai-in-legislature/notes/
+projects/ai-in-legislature/*.log

@@ -1,0 +1,8 @@
+variable,label,coeff_pp,se_pp,ci_lo_pp,ci_hi_pp,p_value,n
+intercept,Intercept (baseline prevalence),1.5245,0.471,0.6013,2.4477,0.0012,2994
+is_house,House sponsor (vs Senate),2.0336,0.684,0.693,3.3742,0.0029,2994
+is_solo_sponsor,Solo sponsor (vs has cosponsors),2.2748,1.083,0.1521,4.3975,0.0357,2994
+age_per_decade_younger,Per decade younger (vs 60yo),1.1479,0.316,0.5285,1.7673,0.0003,2994
+topic_crime_and_law_enforcement,Crime & Law Enforcement (vs other topics),7.9218,2.5367,2.9499,12.8937,0.0018,2994
+topic_finance_and_financial_sector,Finance & Financial Sector (vs other topics),7.8679,3.7199,0.5769,15.1589,0.0344,2994
+topic_labor_and_employment,Labor & Employment (vs other topics),-2.8889,0.4168,-3.7058,-2.072,0.0,2994
