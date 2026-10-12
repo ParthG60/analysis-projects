@@ -17,13 +17,16 @@ note and hide both talk panels; Barnet shows talk, hides the note.
 **Workflow.** `refresh.yml` now commits `qol_history.json` (was missing — the scheduled job would have
 dropped it) and installs `requests` (the fetchers need it). Cache-bust `20261012f`, pushed `85cc514`.
 
-### Blocker: the scheduled refresh cannot run as-is
-`refresh.yml` checks out `ParthG60/analysis-projects` for the fetchers, but that repo **tracks 0 files
-under `projects/council hack day/`** (the whole project is untracked locally). So in CI there is no
-`pipeline.py`, no `data_england/*.csv`, no raw shards — `python pipeline.py` would fail immediately.
-Either (a) commit the project to the private data repo with a `.gitignore` excluding the heavy caches
-(`data_england/c*/`, `data_fy*/`, `contracts_cache/`, `*.xlsx`), or (b) change the workflow to check
-out the site repo for code and fetch raw data at runtime. Needs a decision — flagged to Parth.
+### Scheduled refresh fixed (was blocked)
+`refresh.yml` checks out `ParthG60/analysis-projects` for the fetchers, but that repo tracked **0 files
+under `projects/council hack day/`** — so `pipeline.py` and the data were absent in CI and the job would
+have failed. Resolved by committing the whole project to the data repo (`f7000cb`, ~469 MB): fetchers,
+`data_england/*.csv`, corpus shards, `contracts_cache/` and `data_imd/*.xlsx`. Excluded via a project
+`.gitignore`: `site/` (its own repo, checked out separately by the workflow) and scratch logs. Largest
+file 82.5 MB (`data/ghg_emissions_2024.csv`) — under GitHub's 100 MB hard limit (warning only). Verified
+`origin/master` now carries `pipeline.py`, 1,369 CSVs and 1,641 shard files; `site/` is excluded. Deps
+checked: pipeline imports only pandas / numpy / plotly / openpyxl / requests — all in the workflow's
+`pip install`.
 
 ## 2026-10-12 — Added the 5 Gateway-absent London boroughs (283 → 288 councils)
 

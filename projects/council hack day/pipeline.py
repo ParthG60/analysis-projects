@@ -62,8 +62,10 @@ def main():
     if prep_only:
         skip_fetch = True
 
-    # 1. Registry prep — only when we are allowed to hit the network.
-    if not skip_fetch and not skip_prep:
+    # 1. Registry prep — only when we are allowed to hit the network. `--prep-only`
+    # forces it even though it also skips the per-run fetchers below.
+    run_prep = not skip_prep and (not skip_fetch or prep_only)
+    if run_prep:
         for label, args in PREP_STEPS:
             run(label, args)
     else:
