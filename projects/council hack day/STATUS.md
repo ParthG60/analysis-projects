@@ -1,5 +1,24 @@
 # STATUS
 
+## 2026-10-12 — Trends for all 8 cards, deeper history, direction cue, London bar removed
+
+- **All 8 cards now have trends** (shipped): the `QOL_FIELDS` all carry `hist: true`; `qol_history.json`
+  has 8 metrics × 288 councils.
+- **Deeper history where sources allow:** life expectancy **2004–2025**, house/earnings **2008–2026**,
+  claimant **2004–2026** (ASHE pay floor is ~2008; HMLR back to 2004; Nomis claimant to 1986 but capped
+  at 2004). Source-limited: rent 2015–2026 (PIPR), air 2018–2024, child poverty 2022–2025 (only 4
+  Fingertips periods), crime 2022–2024 (ONS March files), attainment 2019–2024 (EES releases).
+- **Direction cue:** every trend card now states `higher = better` (life expectancy, attainment) or
+  `lower = better` (all others).
+- **Median end label:** the dashed benchmark line is labelled at the same x as the council line, so the
+  magnitude gap is visible; in rank mode the reference line is labelled `median #N`.
+- **London aggregation removed for now:** region/type benchmark options are hidden for London boroughs
+  ("London" region and "London Borough" type are the same 32 councils); the whole bar is hidden when
+  there's nothing to switch between. Non-London councils keep England / region / type.
+- `end_year()` handles 6-digit DfE academic years (`202324`→2024). 355 trend flags. Cache-bust
+  `20261012g`. Pushed `ef55c6c`, Pages OK. (If the intent was to drop the whole region/type switcher,
+  not just London, say so and it's a two-line revert.)
+
 ## 2026-10-12 — Trends for all 8 QoL cards + clear line labels
 
 **All cards now have a time series.** Rewrote `data_england/qol_history.py` to build an annual series

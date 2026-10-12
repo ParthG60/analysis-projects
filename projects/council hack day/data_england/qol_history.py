@@ -69,14 +69,14 @@ ONS_CRIME_PAGE = ("https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandj
 
 # key -> (label, unit, lower_better, min_year, first_year)
 METRICS = {
-    "life_expectancy":      ("Life expectancy", "yrs", False, 2010),
+    "life_expectancy":      ("Life expectancy", "yrs", False, 2004),
     "attainment8":          ("GCSE Attainment 8", "pts", False, 2019),
     "rent_affordability":   ("Rent affordability", "%", True, 2015),
     "air_quality_pm25_pct": ("Air quality (PM2.5)", "%", True, 2015),
     "child_poverty_pct":    ("Child poverty", "%", True, 2015),
-    "claimant_rate_pct":    ("Claimant rate", "%", True, 2015),
+    "claimant_rate_pct":    ("Claimant rate", "%", True, 2004),
     "crime_per_1000":       ("Crime rate", "", True, 2015),
-    "house_earnings":       ("House / earnings", "×", True, 2015),
+    "house_earnings":       ("House / earnings", "×", True, 2004),
 }
 
 
@@ -536,8 +536,8 @@ def main():
     parent_of = load_parent_county()
     districts_of = load_districts_by_county()
 
-    ashe_years = list(range(2015, 2026))
-    years_common = list(range(2015, 2027))
+    ashe_years = list(range(2004, 2026))
+    years_common = list(range(2004, 2027))
 
     raw = {}
     raw.update(fetch_fingertips(council_codes))
