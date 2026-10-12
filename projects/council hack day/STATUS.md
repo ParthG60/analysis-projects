@@ -1,5 +1,14 @@
 # STATUS
 
+## 2026-10-12 — Colour-coded QoL trends + cards (green/red/amber)
+
+Trend council line and its end label are now colour-coded by standing at the latest point vs the
+active comparison group: **green** `#15803d` = better, **red** `#b91c1c` = worse, **amber** `#b45309`
+= about the same (same tolerance as the card badge: 0.1 for air quality, 0.2 otherwise, 3 ranks in
+rank mode). Card `neutral` tag switched from grey to amber (`#92400e`/`#fef3c7`). Legend now explains
+all three colours plus the dashed group median. `trendStanding()` + `TREND_LINE_COLORS` in `app.js`.
+Cache-bust `20261012h`, pushed `aacfe09`.
+
 ## 2026-10-12 — Trends for all 8 cards, deeper history, direction cue, London bar removed
 
 - **All 8 cards now have trends** (shipped): the `QOL_FIELDS` all carry `hist: true`; `qol_history.json`
