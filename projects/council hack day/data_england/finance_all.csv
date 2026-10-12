@@ -1,0 +1,2854 @@
+ons_code,authority_name,class,service,spend_gbp_thousands
+E07000223,Adur,SD,Education services,0
+E07000223,Adur,SD,Highways and transport services,492
+E07000223,Adur,SD,Children Social Care,0
+E07000223,Adur,SD,Adult Social Care,0
+E07000223,Adur,SD,Public Health,0
+E07000223,Adur,SD,Housing services (GFRA only),4686
+E07000223,Adur,SD,Cultural and related services,2233
+E07000223,Adur,SD,Environmental and regulatory services,4824
+E07000223,Adur,SD,Planning and development services,3756
+E07000032,Amber Valley,SD,Education services,0
+E07000032,Amber Valley,SD,Highways and transport services,1363
+E07000032,Amber Valley,SD,Children Social Care,0
+E07000032,Amber Valley,SD,Adult Social Care,0
+E07000032,Amber Valley,SD,Public Health,0
+E07000032,Amber Valley,SD,Housing services (GFRA only),1918
+E07000032,Amber Valley,SD,Cultural and related services,5346
+E07000032,Amber Valley,SD,Environmental and regulatory services,9182
+E07000032,Amber Valley,SD,Planning and development services,3313
+E07000224,Arun,SD,Education services,0
+E07000224,Arun,SD,Highways and transport services,1192.9
+E07000224,Arun,SD,Children Social Care,0
+E07000224,Arun,SD,Adult Social Care,0
+E07000224,Arun,SD,Public Health,0
+E07000224,Arun,SD,Housing services (GFRA only),9978
+E07000224,Arun,SD,Cultural and related services,5174
+E07000224,Arun,SD,Environmental and regulatory services,14790.6
+E07000224,Arun,SD,Planning and development services,7734.7
+E07000170,Ashfield,SD,Education services,0
+E07000170,Ashfield,SD,Highways and transport services,2042
+E07000170,Ashfield,SD,Children Social Care,0
+E07000170,Ashfield,SD,Adult Social Care,0
+E07000170,Ashfield,SD,Public Health,0
+E07000170,Ashfield,SD,Housing services (GFRA only),5732
+E07000170,Ashfield,SD,Cultural and related services,1075
+E07000170,Ashfield,SD,Environmental and regulatory services,13749
+E07000170,Ashfield,SD,Planning and development services,5645
+E07000105,Ashford,SD,Education services,0
+E07000105,Ashford,SD,Highways and transport services,2077.65
+E07000105,Ashford,SD,Children Social Care,0
+E07000105,Ashford,SD,Adult Social Care,0
+E07000105,Ashford,SD,Public Health,32
+E07000105,Ashford,SD,Housing services (GFRA only),11289
+E07000105,Ashford,SD,Cultural and related services,4559
+E07000105,Ashford,SD,Environmental and regulatory services,19507
+E07000105,Ashford,SD,Planning and development services,12600
+E07000200,Babergh,SD,Education services,0
+E07000200,Babergh,SD,Highways and transport services,568
+E07000200,Babergh,SD,Children Social Care,0
+E07000200,Babergh,SD,Adult Social Care,0
+E07000200,Babergh,SD,Public Health,79
+E07000200,Babergh,SD,Housing services (GFRA only),5695
+E07000200,Babergh,SD,Cultural and related services,4812
+E07000200,Babergh,SD,Environmental and regulatory services,8602
+E07000200,Babergh,SD,Planning and development services,7880
+E09000002,Barking & Dagenham,LB,Education services,387929
+E09000002,Barking & Dagenham,LB,Highways and transport services,91717
+E09000002,Barking & Dagenham,LB,Children Social Care,90093.94
+E09000002,Barking & Dagenham,LB,Adult Social Care,121148
+E09000002,Barking & Dagenham,LB,Public Health,18654.66
+E09000002,Barking & Dagenham,LB,Housing services (GFRA only),42375.25
+E09000002,Barking & Dagenham,LB,Cultural and related services,7695
+E09000002,Barking & Dagenham,LB,Environmental and regulatory services,21529
+E09000002,Barking & Dagenham,LB,Planning and development services,8688
+E09000003,Barnet,LB,Education services,476080.47
+E09000003,Barnet,LB,Highways and transport services,44011.5
+E09000003,Barnet,LB,Children Social Care,107135.7
+E09000003,Barnet,LB,Adult Social Care,214637.75
+E09000003,Barnet,LB,Public Health,21818.13
+E09000003,Barnet,LB,Housing services (GFRA only),79110.77
+E09000003,Barnet,LB,Cultural and related services,13252.56
+E09000003,Barnet,LB,Environmental and regulatory services,33411.08
+E09000003,Barnet,LB,Planning and development services,20247.35
+E08000016,Barnsley,MD,Education services,182131
+E08000016,Barnsley,MD,Highways and transport services,16151
+E08000016,Barnsley,MD,Children Social Care,86661
+E08000016,Barnsley,MD,Adult Social Care,129706
+E08000016,Barnsley,MD,Public Health,26766
+E08000016,Barnsley,MD,Housing services (GFRA only),6243
+E08000016,Barnsley,MD,Cultural and related services,12189
+E08000016,Barnsley,MD,Environmental and regulatory services,37495
+E08000016,Barnsley,MD,Planning and development services,26493
+E07000066,Basildon,SD,Education services,0
+E07000066,Basildon,SD,Highways and transport services,621
+E07000066,Basildon,SD,Children Social Care,0
+E07000066,Basildon,SD,Adult Social Care,0
+E07000066,Basildon,SD,Public Health,0
+E07000066,Basildon,SD,Housing services (GFRA only),11001
+E07000066,Basildon,SD,Cultural and related services,13377
+E07000066,Basildon,SD,Environmental and regulatory services,22830
+E07000066,Basildon,SD,Planning and development services,7987
+E07000084,Basingstoke & Deane,SD,Education services,0
+E07000084,Basingstoke & Deane,SD,Highways and transport services,3597
+E07000084,Basingstoke & Deane,SD,Children Social Care,0
+E07000084,Basingstoke & Deane,SD,Adult Social Care,0
+E07000084,Basingstoke & Deane,SD,Public Health,0
+E07000084,Basingstoke & Deane,SD,Housing services (GFRA only),6264
+E07000084,Basingstoke & Deane,SD,Cultural and related services,11460
+E07000084,Basingstoke & Deane,SD,Environmental and regulatory services,17682
+E07000084,Basingstoke & Deane,SD,Planning and development services,10081
+E07000171,Bassetlaw,SD,Education services,0
+E07000171,Bassetlaw,SD,Highways and transport services,840
+E07000171,Bassetlaw,SD,Children Social Care,0
+E07000171,Bassetlaw,SD,Adult Social Care,0
+E07000171,Bassetlaw,SD,Public Health,0
+E07000171,Bassetlaw,SD,Housing services (GFRA only),4073
+E07000171,Bassetlaw,SD,Cultural and related services,4411
+E07000171,Bassetlaw,SD,Environmental and regulatory services,9330
+E07000171,Bassetlaw,SD,Planning and development services,11324
+E06000022,Bath & North East Somerset UA,UA,Education services,124541
+E06000022,Bath & North East Somerset UA,UA,Highways and transport services,22993
+E06000022,Bath & North East Somerset UA,UA,Children Social Care,54572
+E06000022,Bath & North East Somerset UA,UA,Adult Social Care,105991
+E06000022,Bath & North East Somerset UA,UA,Public Health,11850
+E06000022,Bath & North East Somerset UA,UA,Housing services (GFRA only),9802
+E06000022,Bath & North East Somerset UA,UA,Cultural and related services,23052
+E06000022,Bath & North East Somerset UA,UA,Environmental and regulatory services,37321
+E06000022,Bath & North East Somerset UA,UA,Planning and development services,17933
+E06000055,Bedford UA,UA,Education services,152542
+E06000055,Bedford UA,UA,Highways and transport services,19240
+E06000055,Bedford UA,UA,Children Social Care,54470
+E06000055,Bedford UA,UA,Adult Social Care,123745
+E06000055,Bedford UA,UA,Public Health,19459
+E06000055,Bedford UA,UA,Housing services (GFRA only),27056
+E06000055,Bedford UA,UA,Cultural and related services,13740
+E06000055,Bedford UA,UA,Environmental and regulatory services,22360
+E06000055,Bedford UA,UA,Planning and development services,6764
+E09000004,Bexley,LB,Education services,151956
+E09000004,Bexley,LB,Highways and transport services,20930
+E09000004,Bexley,LB,Children Social Care,64954
+E09000004,Bexley,LB,Adult Social Care,125569
+E09000004,Bexley,LB,Public Health,11975
+E09000004,Bexley,LB,Housing services (GFRA only),22085
+E09000004,Bexley,LB,Cultural and related services,13437
+E09000004,Bexley,LB,Environmental and regulatory services,38329
+E09000004,Bexley,LB,Planning and development services,6801
+E08000025,Birmingham,MD,Education services,1085158.59
+E08000025,Birmingham,MD,Highways and transport services,119119.6
+E08000025,Birmingham,MD,Children Social Care,339681.09
+E08000025,Birmingham,MD,Adult Social Care,608642.1
+E08000025,Birmingham,MD,Public Health,120301.54
+E08000025,Birmingham,MD,Housing services (GFRA only),135665.1
+E08000025,Birmingham,MD,Cultural and related services,72848.81
+E08000025,Birmingham,MD,Environmental and regulatory services,188088
+E08000025,Birmingham,MD,Planning and development services,33593
+E07000129,Blaby,SD,Education services,0
+E07000129,Blaby,SD,Highways and transport services,266
+E07000129,Blaby,SD,Children Social Care,195
+E07000129,Blaby,SD,Adult Social Care,1028
+E07000129,Blaby,SD,Public Health,332
+E07000129,Blaby,SD,Housing services (GFRA only),5454
+E07000129,Blaby,SD,Cultural and related services,1262
+E07000129,Blaby,SD,Environmental and regulatory services,7513
+E07000129,Blaby,SD,Planning and development services,6654
+E06000008,Blackburn with Darwen UA,UA,Education services,165795
+E06000008,Blackburn with Darwen UA,UA,Highways and transport services,13649
+E06000008,Blackburn with Darwen UA,UA,Children Social Care,60125
+E06000008,Blackburn with Darwen UA,UA,Adult Social Care,111175.6
+E06000008,Blackburn with Darwen UA,UA,Public Health,19216
+E06000008,Blackburn with Darwen UA,UA,Housing services (GFRA only),6463
+E06000008,Blackburn with Darwen UA,UA,Cultural and related services,20566
+E06000008,Blackburn with Darwen UA,UA,Environmental and regulatory services,22041
+E06000008,Blackburn with Darwen UA,UA,Planning and development services,14265
+E06000009,Blackpool UA,UA,Education services,92404
+E06000009,Blackpool UA,UA,Highways and transport services,20775
+E06000009,Blackpool UA,UA,Children Social Care,94614
+E06000009,Blackpool UA,UA,Adult Social Care,122978
+E06000009,Blackpool UA,UA,Public Health,24879
+E06000009,Blackpool UA,UA,Housing services (GFRA only),27819
+E06000009,Blackpool UA,UA,Cultural and related services,24289
+E06000009,Blackpool UA,UA,Environmental and regulatory services,32859
+E06000009,Blackpool UA,UA,Planning and development services,16869
+E07000033,Bolsover,SD,Education services,0
+E07000033,Bolsover,SD,Highways and transport services,479
+E07000033,Bolsover,SD,Children Social Care,0
+E07000033,Bolsover,SD,Adult Social Care,1
+E07000033,Bolsover,SD,Public Health,96
+E07000033,Bolsover,SD,Housing services (GFRA only),2616
+E07000033,Bolsover,SD,Cultural and related services,4950
+E07000033,Bolsover,SD,Environmental and regulatory services,6266
+E07000033,Bolsover,SD,Planning and development services,5111
+E08000001,Bolton,MD,Education services,314381
+E08000001,Bolton,MD,Highways and transport services,17226
+E08000001,Bolton,MD,Children Social Care,99622
+E08000001,Bolton,MD,Adult Social Care,187061
+E08000001,Bolton,MD,Public Health,24216.09
+E08000001,Bolton,MD,Housing services (GFRA only),16860.53
+E08000001,Bolton,MD,Cultural and related services,14628
+E08000001,Bolton,MD,Environmental and regulatory services,24620
+E08000001,Bolton,MD,Planning and development services,10157
+E07000136,Boston BC,SD,Education services,0
+E07000136,Boston BC,SD,Highways and transport services,648
+E07000136,Boston BC,SD,Children Social Care,0
+E07000136,Boston BC,SD,Adult Social Care,0
+E07000136,Boston BC,SD,Public Health,299
+E07000136,Boston BC,SD,Housing services (GFRA only),2565
+E07000136,Boston BC,SD,Cultural and related services,2384
+E07000136,Boston BC,SD,Environmental and regulatory services,9943
+E07000136,Boston BC,SD,Planning and development services,3216
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Education services,215619
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Highways and transport services,46386
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Children Social Care,115475
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Adult Social Care,259639
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Public Health,22506
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Housing services (GFRA only),32173
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Cultural and related services,37770
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Environmental and regulatory services,58756
+E06000058,"Bournemouth, Christchurch and Poole UA",UA,Planning and development services,19301
+E06000036,Bracknell Forest UA,UA,Education services,114106
+E06000036,Bracknell Forest UA,UA,Highways and transport services,12044
+E06000036,Bracknell Forest UA,UA,Children Social Care,36199
+E06000036,Bracknell Forest UA,UA,Adult Social Care,72906
+E06000036,Bracknell Forest UA,UA,Public Health,10420
+E06000036,Bracknell Forest UA,UA,Housing services (GFRA only),6693
+E06000036,Bracknell Forest UA,UA,Cultural and related services,9150
+E06000036,Bracknell Forest UA,UA,Environmental and regulatory services,18843
+E06000036,Bracknell Forest UA,UA,Planning and development services,5673
+E08000032,Bradford,MD,Education services,386569
+E08000032,Bradford,MD,Highways and transport services,32522
+E08000032,Bradford,MD,Children Social Care,262209
+E08000032,Bradford,MD,Adult Social Care,279957
+E08000032,Bradford,MD,Public Health,56560.49
+E08000032,Bradford,MD,Housing services (GFRA only),19540
+E08000032,Bradford,MD,Cultural and related services,50819
+E08000032,Bradford,MD,Environmental and regulatory services,67489
+E08000032,Bradford,MD,Planning and development services,32916
+E07000067,Braintree,SD,Education services,0
+E07000067,Braintree,SD,Highways and transport services,972
+E07000067,Braintree,SD,Children Social Care,0
+E07000067,Braintree,SD,Adult Social Care,0
+E07000067,Braintree,SD,Public Health,0
+E07000067,Braintree,SD,Housing services (GFRA only),3815
+E07000067,Braintree,SD,Cultural and related services,2662
+E07000067,Braintree,SD,Environmental and regulatory services,14813
+E07000067,Braintree,SD,Planning and development services,5679
+E07000143,Breckland,SD,Education services,0
+E07000143,Breckland,SD,Highways and transport services,996.74
+E07000143,Breckland,SD,Children Social Care,0
+E07000143,Breckland,SD,Adult Social Care,0
+E07000143,Breckland,SD,Public Health,0
+E07000143,Breckland,SD,Housing services (GFRA only),8587.23
+E07000143,Breckland,SD,Cultural and related services,4759.31
+E07000143,Breckland,SD,Environmental and regulatory services,9714.41
+E07000143,Breckland,SD,Planning and development services,6615.24
+E09000005,Brent,LB,Education services,321248
+E09000005,Brent,LB,Highways and transport services,40748
+E09000005,Brent,LB,Children Social Care,95581
+E09000005,Brent,LB,Adult Social Care,175936
+E09000005,Brent,LB,Public Health,24285
+E09000005,Brent,LB,Housing services (GFRA only),100185
+E09000005,Brent,LB,Cultural and related services,13860
+E09000005,Brent,LB,Environmental and regulatory services,47969
+E09000005,Brent,LB,Planning and development services,13433
+E07000068,Brentwood,SD,Education services,0
+E07000068,Brentwood,SD,Highways and transport services,988.7
+E07000068,Brentwood,SD,Children Social Care,0
+E07000068,Brentwood,SD,Adult Social Care,0
+E07000068,Brentwood,SD,Public Health,61.03
+E07000068,Brentwood,SD,Housing services (GFRA only),995.13
+E07000068,Brentwood,SD,Cultural and related services,1637.16
+E07000068,Brentwood,SD,Environmental and regulatory services,4551.6
+E07000068,Brentwood,SD,Planning and development services,2981.34
+E06000043,Brighton & Hove UA,UA,Education services,280175
+E06000043,Brighton & Hove UA,UA,Highways and transport services,50509
+E06000043,Brighton & Hove UA,UA,Children Social Care,77520
+E06000043,Brighton & Hove UA,UA,Adult Social Care,199182
+E06000043,Brighton & Hove UA,UA,Public Health,30062
+E06000043,Brighton & Hove UA,UA,Housing services (GFRA only),48904
+E06000043,Brighton & Hove UA,UA,Cultural and related services,33474
+E06000043,Brighton & Hove UA,UA,Environmental and regulatory services,50416
+E06000043,Brighton & Hove UA,UA,Planning and development services,14120
+E06000023,Bristol UA,UA,Education services,338149
+E06000023,Bristol UA,UA,Highways and transport services,62197
+E06000023,Bristol UA,UA,Children Social Care,157967
+E06000023,Bristol UA,UA,Adult Social Care,336786
+E06000023,Bristol UA,UA,Public Health,51339
+E06000023,Bristol UA,UA,Housing services (GFRA only),54699
+E06000023,Bristol UA,UA,Cultural and related services,35212
+E06000023,Bristol UA,UA,Environmental and regulatory services,65444
+E06000023,Bristol UA,UA,Planning and development services,41314
+E07000144,Broadland,SD,Education services,0
+E07000144,Broadland,SD,Highways and transport services,39.57
+E07000144,Broadland,SD,Children Social Care,0
+E07000144,Broadland,SD,Adult Social Care,0
+E07000144,Broadland,SD,Public Health,0
+E07000144,Broadland,SD,Housing services (GFRA only),2925.67
+E07000144,Broadland,SD,Cultural and related services,1006.88
+E07000144,Broadland,SD,Environmental and regulatory services,9308.81
+E07000144,Broadland,SD,Planning and development services,5201.04
+E09000006,Bromley,LB,Education services,202481
+E09000006,Bromley,LB,Highways and transport services,33935
+E09000006,Bromley,LB,Children Social Care,92101
+E09000006,Bromley,LB,Adult Social Care,175464.03
+E09000006,Bromley,LB,Public Health,18212.82
+E09000006,Bromley,LB,Housing services (GFRA only),56670
+E09000006,Bromley,LB,Cultural and related services,19502
+E09000006,Bromley,LB,Environmental and regulatory services,45278
+E09000006,Bromley,LB,Planning and development services,8755
+E07000234,Bromsgrove,SD,Education services,0
+E07000234,Bromsgrove,SD,Highways and transport services,1555
+E07000234,Bromsgrove,SD,Children Social Care,0
+E07000234,Bromsgrove,SD,Adult Social Care,0
+E07000234,Bromsgrove,SD,Public Health,0
+E07000234,Bromsgrove,SD,Housing services (GFRA only),2296
+E07000234,Bromsgrove,SD,Cultural and related services,699
+E07000234,Bromsgrove,SD,Environmental and regulatory services,13218
+E07000234,Bromsgrove,SD,Planning and development services,4365
+E07000095,Broxbourne,SD,Education services,0
+E07000095,Broxbourne,SD,Highways and transport services,4984
+E07000095,Broxbourne,SD,Children Social Care,0
+E07000095,Broxbourne,SD,Adult Social Care,0
+E07000095,Broxbourne,SD,Public Health,30
+E07000095,Broxbourne,SD,Housing services (GFRA only),7639
+E07000095,Broxbourne,SD,Cultural and related services,3593
+E07000095,Broxbourne,SD,Environmental and regulatory services,5994
+E07000095,Broxbourne,SD,Planning and development services,4392
+E07000172,Broxtowe,SD,Education services,0
+E07000172,Broxtowe,SD,Highways and transport services,436
+E07000172,Broxtowe,SD,Children Social Care,0
+E07000172,Broxtowe,SD,Adult Social Care,0
+E07000172,Broxtowe,SD,Public Health,0
+E07000172,Broxtowe,SD,Housing services (GFRA only),2474
+E07000172,Broxtowe,SD,Cultural and related services,2382
+E07000172,Broxtowe,SD,Environmental and regulatory services,6930
+E07000172,Broxtowe,SD,Planning and development services,4117
+E06000060,Buckinghamshire UA,UA,Education services,508418
+E06000060,Buckinghamshire UA,UA,Highways and transport services,67811
+E06000060,Buckinghamshire UA,UA,Children Social Care,145603
+E06000060,Buckinghamshire UA,UA,Adult Social Care,292414
+E06000060,Buckinghamshire UA,UA,Public Health,26070
+E06000060,Buckinghamshire UA,UA,Housing services (GFRA only),21535
+E06000060,Buckinghamshire UA,UA,Cultural and related services,14340
+E06000060,Buckinghamshire UA,UA,Environmental and regulatory services,71142
+E06000060,Buckinghamshire UA,UA,Planning and development services,33058
+E07000117,Burnley,SD,Education services,0
+E07000117,Burnley,SD,Highways and transport services,1108
+E07000117,Burnley,SD,Children Social Care,0
+E07000117,Burnley,SD,Adult Social Care,5
+E07000117,Burnley,SD,Public Health,0
+E07000117,Burnley,SD,Housing services (GFRA only),4284
+E07000117,Burnley,SD,Cultural and related services,7457
+E07000117,Burnley,SD,Environmental and regulatory services,8042
+E07000117,Burnley,SD,Planning and development services,11085
+E08000002,Bury MBC,MD,Education services,161448
+E08000002,Bury MBC,MD,Highways and transport services,8246
+E08000002,Bury MBC,MD,Children Social Care,59563
+E08000002,Bury MBC,MD,Adult Social Care,142882
+E08000002,Bury MBC,MD,Public Health,12858
+E08000002,Bury MBC,MD,Housing services (GFRA only),9669
+E08000002,Bury MBC,MD,Cultural and related services,11335
+E08000002,Bury MBC,MD,Environmental and regulatory services,11181
+E08000002,Bury MBC,MD,Planning and development services,5405
+E08000033,Calderdale,MD,Education services,173899
+E08000033,Calderdale,MD,Highways and transport services,13272
+E08000033,Calderdale,MD,Children Social Care,69520
+E08000033,Calderdale,MD,Adult Social Care,136903
+E08000033,Calderdale,MD,Public Health,20615
+E08000033,Calderdale,MD,Housing services (GFRA only),9161
+E08000033,Calderdale,MD,Cultural and related services,21732
+E08000033,Calderdale,MD,Environmental and regulatory services,30225
+E08000033,Calderdale,MD,Planning and development services,11736
+E07000008,Cambridge,SD,Education services,0
+E07000008,Cambridge,SD,Highways and transport services,3835
+E07000008,Cambridge,SD,Children Social Care,0
+E07000008,Cambridge,SD,Adult Social Care,0
+E07000008,Cambridge,SD,Public Health,0
+E07000008,Cambridge,SD,Housing services (GFRA only),9890
+E07000008,Cambridge,SD,Cultural and related services,12742
+E07000008,Cambridge,SD,Environmental and regulatory services,12582
+E07000008,Cambridge,SD,Planning and development services,8673
+E10000003,Cambridgeshire CC,SC,Education services,440577
+E10000003,Cambridgeshire CC,SC,Highways and transport services,62534
+E10000003,Cambridgeshire CC,SC,Children Social Care,135732
+E10000003,Cambridgeshire CC,SC,Adult Social Care,382666
+E10000003,Cambridgeshire CC,SC,Public Health,45703
+E10000003,Cambridgeshire CC,SC,Housing services (GFRA only),2547
+E10000003,Cambridgeshire CC,SC,Cultural and related services,8666
+E10000003,Cambridgeshire CC,SC,Environmental and regulatory services,59089
+E10000003,Cambridgeshire CC,SC,Planning and development services,12402
+E09000007,Camden,LB,Education services,352654
+E09000007,Camden,LB,Highways and transport services,37187
+E09000007,Camden,LB,Children Social Care,100754
+E09000007,Camden,LB,Adult Social Care,182596
+E09000007,Camden,LB,Public Health,36633
+E09000007,Camden,LB,Housing services (GFRA only),67996
+E09000007,Camden,LB,Cultural and related services,21437
+E09000007,Camden,LB,Environmental and regulatory services,44643
+E09000007,Camden,LB,Planning and development services,25452
+E07000192,Cannock Chase,SD,Education services,0
+E07000192,Cannock Chase,SD,Highways and transport services,660
+E07000192,Cannock Chase,SD,Children Social Care,0
+E07000192,Cannock Chase,SD,Adult Social Care,0
+E07000192,Cannock Chase,SD,Public Health,0
+E07000192,Cannock Chase,SD,Housing services (GFRA only),4847
+E07000192,Cannock Chase,SD,Cultural and related services,5318
+E07000192,Cannock Chase,SD,Environmental and regulatory services,8293
+E07000192,Cannock Chase,SD,Planning and development services,5021
+E07000106,Canterbury,SD,Education services,0
+E07000106,Canterbury,SD,Highways and transport services,7245
+E07000106,Canterbury,SD,Children Social Care,0
+E07000106,Canterbury,SD,Adult Social Care,0
+E07000106,Canterbury,SD,Public Health,0
+E07000106,Canterbury,SD,Housing services (GFRA only),6772
+E07000106,Canterbury,SD,Cultural and related services,4799
+E07000106,Canterbury,SD,Environmental and regulatory services,12030
+E07000106,Canterbury,SD,Planning and development services,7013
+E07000069,Castle Point,SD,Education services,0
+E07000069,Castle Point,SD,Highways and transport services,2160
+E07000069,Castle Point,SD,Children Social Care,0
+E07000069,Castle Point,SD,Adult Social Care,0
+E07000069,Castle Point,SD,Public Health,0
+E07000069,Castle Point,SD,Housing services (GFRA only),4563
+E07000069,Castle Point,SD,Cultural and related services,7962
+E07000069,Castle Point,SD,Environmental and regulatory services,9451
+E07000069,Castle Point,SD,Planning and development services,4115
+E06000056,Central Bedfordshire UA,UA,Education services,235431
+E06000056,Central Bedfordshire UA,UA,Highways and transport services,16151.5
+E06000056,Central Bedfordshire UA,UA,Children Social Care,70298
+E06000056,Central Bedfordshire UA,UA,Adult Social Care,160645
+E06000056,Central Bedfordshire UA,UA,Public Health,24073
+E06000056,Central Bedfordshire UA,UA,Housing services (GFRA only),13396
+E06000056,Central Bedfordshire UA,UA,Cultural and related services,6438.31
+E06000056,Central Bedfordshire UA,UA,Environmental and regulatory services,31244.2
+E06000056,Central Bedfordshire UA,UA,Planning and development services,16942
+E07000130,Charnwood BC,SD,Education services,0
+E07000130,Charnwood BC,SD,Highways and transport services,976
+E07000130,Charnwood BC,SD,Children Social Care,46
+E07000130,Charnwood BC,SD,Adult Social Care,0
+E07000130,Charnwood BC,SD,Public Health,0
+E07000130,Charnwood BC,SD,Housing services (GFRA only),4590
+E07000130,Charnwood BC,SD,Cultural and related services,6128
+E07000130,Charnwood BC,SD,Environmental and regulatory services,13466
+E07000130,Charnwood BC,SD,Planning and development services,6432
+E07000070,Chelmsford,SD,Education services,0
+E07000070,Chelmsford,SD,Highways and transport services,4318.56
+E07000070,Chelmsford,SD,Children Social Care,0
+E07000070,Chelmsford,SD,Adult Social Care,0
+E07000070,Chelmsford,SD,Public Health,0
+E07000070,Chelmsford,SD,Housing services (GFRA only),21971.81
+E07000070,Chelmsford,SD,Cultural and related services,23739.1
+E07000070,Chelmsford,SD,Environmental and regulatory services,22608.48
+E07000070,Chelmsford,SD,Planning and development services,7698.11
+E07000078,Cheltenham,SD,Education services,0
+E07000078,Cheltenham,SD,Highways and transport services,2286
+E07000078,Cheltenham,SD,Children Social Care,0
+E07000078,Cheltenham,SD,Adult Social Care,0
+E07000078,Cheltenham,SD,Public Health,0
+E07000078,Cheltenham,SD,Housing services (GFRA only),1825
+E07000078,Cheltenham,SD,Cultural and related services,6385
+E07000078,Cheltenham,SD,Environmental and regulatory services,12549
+E07000078,Cheltenham,SD,Planning and development services,4163
+E07000177,Cherwell,SD,Education services,0
+E07000177,Cherwell,SD,Highways and transport services,61
+E07000177,Cherwell,SD,Children Social Care,0
+E07000177,Cherwell,SD,Adult Social Care,0
+E07000177,Cherwell,SD,Public Health,0
+E07000177,Cherwell,SD,Housing services (GFRA only),9409
+E07000177,Cherwell,SD,Cultural and related services,6264
+E07000177,Cherwell,SD,Environmental and regulatory services,17740
+E07000177,Cherwell,SD,Planning and development services,10362
+E06000049,Cheshire East UA,UA,Education services,351340
+E06000049,Cheshire East UA,UA,Highways and transport services,35155
+E06000049,Cheshire East UA,UA,Children Social Care,93083
+E06000049,Cheshire East UA,UA,Adult Social Care,242926
+E06000049,Cheshire East UA,UA,Public Health,19429
+E06000049,Cheshire East UA,UA,Housing services (GFRA only),11113
+E06000049,Cheshire East UA,UA,Cultural and related services,28035
+E06000049,Cheshire East UA,UA,Environmental and regulatory services,54303
+E06000049,Cheshire East UA,UA,Planning and development services,20122
+E06000050,Cheshire West and Chester UA,UA,Education services,335236
+E06000050,Cheshire West and Chester UA,UA,Highways and transport services,31188
+E06000050,Cheshire West and Chester UA,UA,Children Social Care,98878
+E06000050,Cheshire West and Chester UA,UA,Adult Social Care,242308
+E06000050,Cheshire West and Chester UA,UA,Public Health,24589
+E06000050,Cheshire West and Chester UA,UA,Housing services (GFRA only),12603
+E06000050,Cheshire West and Chester UA,UA,Cultural and related services,15502
+E06000050,Cheshire West and Chester UA,UA,Environmental and regulatory services,42300
+E06000050,Cheshire West and Chester UA,UA,Planning and development services,80928
+E07000034,Chesterfield,SD,Education services,0
+E07000034,Chesterfield,SD,Highways and transport services,1806
+E07000034,Chesterfield,SD,Children Social Care,0
+E07000034,Chesterfield,SD,Adult Social Care,0
+E07000034,Chesterfield,SD,Public Health,0
+E07000034,Chesterfield,SD,Housing services (GFRA only),4115
+E07000034,Chesterfield,SD,Cultural and related services,9314
+E07000034,Chesterfield,SD,Environmental and regulatory services,7810
+E07000034,Chesterfield,SD,Planning and development services,4208
+E07000225,Chichester,SD,Education services,0
+E07000225,Chichester,SD,Highways and transport services,3241
+E07000225,Chichester,SD,Children Social Care,0
+E07000225,Chichester,SD,Adult Social Care,0
+E07000225,Chichester,SD,Public Health,958
+E07000225,Chichester,SD,Housing services (GFRA only),7424
+E07000225,Chichester,SD,Cultural and related services,3050
+E07000225,Chichester,SD,Environmental and regulatory services,15364
+E07000225,Chichester,SD,Planning and development services,10905
+E07000118,Chorley,SD,Education services,0
+E07000118,Chorley,SD,Highways and transport services,955
+E07000118,Chorley,SD,Children Social Care,0
+E07000118,Chorley,SD,Adult Social Care,0
+E07000118,Chorley,SD,Public Health,319
+E07000118,Chorley,SD,Housing services (GFRA only),2751
+E07000118,Chorley,SD,Cultural and related services,7118
+E07000118,Chorley,SD,Environmental and regulatory services,13673
+E07000118,Chorley,SD,Planning and development services,10819
+E09000001,City of London,LB,Education services,11265
+E09000001,City of London,LB,Highways and transport services,22516
+E09000001,City of London,LB,Children Social Care,5106
+E09000001,City of London,LB,Adult Social Care,9931
+E09000001,City of London,LB,Public Health,1811
+E09000001,City of London,LB,Housing services (GFRA only),13126
+E09000001,City of London,LB,Cultural and related services,92046.2
+E09000001,City of London,LB,Environmental and regulatory services,40818
+E09000001,City of London,LB,Planning and development services,24223
+E07000071,Colchester,SD,Education services,0
+E07000071,Colchester,SD,Highways and transport services,14651
+E07000071,Colchester,SD,Children Social Care,0
+E07000071,Colchester,SD,Adult Social Care,0
+E07000071,Colchester,SD,Public Health,0
+E07000071,Colchester,SD,Housing services (GFRA only),20630
+E07000071,Colchester,SD,Cultural and related services,29999
+E07000071,Colchester,SD,Environmental and regulatory services,23253
+E07000071,Colchester,SD,Planning and development services,19163
+E06000052,Cornwall UA,UA,Education services,316836
+E06000052,Cornwall UA,UA,Highways and transport services,80551
+E06000052,Cornwall UA,UA,Children Social Care,131125
+E06000052,Cornwall UA,UA,Adult Social Care,412237
+E06000052,Cornwall UA,UA,Public Health,41847
+E06000052,Cornwall UA,UA,Housing services (GFRA only),52882
+E06000052,Cornwall UA,UA,Cultural and related services,24584
+E06000052,Cornwall UA,UA,Environmental and regulatory services,104506
+E06000052,Cornwall UA,UA,Planning and development services,44192
+E07000079,Cotswold,SD,Education services,0
+E07000079,Cotswold,SD,Highways and transport services,1134
+E07000079,Cotswold,SD,Children Social Care,0
+E07000079,Cotswold,SD,Adult Social Care,0
+E07000079,Cotswold,SD,Public Health,0
+E07000079,Cotswold,SD,Housing services (GFRA only),2626
+E07000079,Cotswold,SD,Cultural and related services,1305
+E07000079,Cotswold,SD,Environmental and regulatory services,13379
+E07000079,Cotswold,SD,Planning and development services,5756
+E08000026,Coventry,MD,Education services,276225
+E08000026,Coventry,MD,Highways and transport services,30171
+E08000026,Coventry,MD,Children Social Care,134294
+E08000026,Coventry,MD,Adult Social Care,189422
+E08000026,Coventry,MD,Public Health,31053
+E08000026,Coventry,MD,Housing services (GFRA only),37187
+E08000026,Coventry,MD,Cultural and related services,15187
+E08000026,Coventry,MD,Environmental and regulatory services,42010
+E08000026,Coventry,MD,Planning and development services,16069
+E07000226,Crawley,SD,Education services,0
+E07000226,Crawley,SD,Highways and transport services,2959
+E07000226,Crawley,SD,Children Social Care,0
+E07000226,Crawley,SD,Adult Social Care,363
+E07000226,Crawley,SD,Public Health,0
+E07000226,Crawley,SD,Housing services (GFRA only),16683
+E07000226,Crawley,SD,Cultural and related services,13015
+E07000226,Crawley,SD,Environmental and regulatory services,9460
+E07000226,Crawley,SD,Planning and development services,4332
+E09000008,Croydon,LB,Education services,283050.84
+E09000008,Croydon,LB,Highways and transport services,44374.98
+E09000008,Croydon,LB,Children Social Care,152189.13
+E09000008,Croydon,LB,Adult Social Care,229947.49
+E09000008,Croydon,LB,Public Health,32117.17
+E09000008,Croydon,LB,Housing services (GFRA only),104029.57
+E09000008,Croydon,LB,Cultural and related services,11812.65
+E09000008,Croydon,LB,Environmental and regulatory services,151845.1
+E09000008,Croydon,LB,Planning and development services,19727.53
+E06000063,Cumberland,UA,Education services,[x]
+E06000063,Cumberland,UA,Highways and transport services,[x]
+E06000063,Cumberland,UA,Children Social Care,[x]
+E06000063,Cumberland,UA,Adult Social Care,[x]
+E06000063,Cumberland,UA,Public Health,[x]
+E06000063,Cumberland,UA,Housing services (GFRA only),[x]
+E06000063,Cumberland,UA,Cultural and related services,[x]
+E06000063,Cumberland,UA,Environmental and regulatory services,[x]
+E06000063,Cumberland,UA,Planning and development services,[x]
+E07000096,Dacorum,SD,Education services,0
+E07000096,Dacorum,SD,Highways and transport services,2198
+E07000096,Dacorum,SD,Children Social Care,0
+E07000096,Dacorum,SD,Adult Social Care,0
+E07000096,Dacorum,SD,Public Health,0
+E07000096,Dacorum,SD,Housing services (GFRA only),8843.74
+E07000096,Dacorum,SD,Cultural and related services,9534
+E07000096,Dacorum,SD,Environmental and regulatory services,15076
+E07000096,Dacorum,SD,Planning and development services,9762
+E06000005,Darlington UA,UA,Education services,47199
+E06000005,Darlington UA,UA,Highways and transport services,10556
+E06000005,Darlington UA,UA,Children Social Care,40589
+E06000005,Darlington UA,UA,Adult Social Care,69630.01
+E06000005,Darlington UA,UA,Public Health,10575
+E06000005,Darlington UA,UA,Housing services (GFRA only),5437
+E06000005,Darlington UA,UA,Cultural and related services,20341
+E06000005,Darlington UA,UA,Environmental and regulatory services,16807
+E06000005,Darlington UA,UA,Planning and development services,3589
+E07000107,Dartford,SD,Education services,0
+E07000107,Dartford,SD,Highways and transport services,1005
+E07000107,Dartford,SD,Children Social Care,0
+E07000107,Dartford,SD,Adult Social Care,0
+E07000107,Dartford,SD,Public Health,146
+E07000107,Dartford,SD,Housing services (GFRA only),10321
+E07000107,Dartford,SD,Cultural and related services,3403
+E07000107,Dartford,SD,Environmental and regulatory services,11025
+E07000107,Dartford,SD,Planning and development services,6752
+E06000015,Derby City UA,UA,Education services,212802
+E06000015,Derby City UA,UA,Highways and transport services,37114
+E06000015,Derby City UA,UA,Children Social Care,98185
+E06000015,Derby City UA,UA,Adult Social Care,134449
+E06000015,Derby City UA,UA,Public Health,28404
+E06000015,Derby City UA,UA,Housing services (GFRA only),20695
+E06000015,Derby City UA,UA,Cultural and related services,13571
+E06000015,Derby City UA,UA,Environmental and regulatory services,35795
+E06000015,Derby City UA,UA,Planning and development services,14579
+E10000007,Derbyshire CC,SC,Education services,599015
+E10000007,Derbyshire CC,SC,Highways and transport services,63489
+E10000007,Derbyshire CC,SC,Children Social Care,202596
+E10000007,Derbyshire CC,SC,Adult Social Care,570205
+E10000007,Derbyshire CC,SC,Public Health,57410
+E10000007,Derbyshire CC,SC,Housing services (GFRA only),2208
+E10000007,Derbyshire CC,SC,Cultural and related services,15875
+E10000007,Derbyshire CC,SC,Environmental and regulatory services,64860
+E10000007,Derbyshire CC,SC,Planning and development services,6819
+E07000035,Derbyshire Dales,SD,Education services,0
+E07000035,Derbyshire Dales,SD,Highways and transport services,1371.32
+E07000035,Derbyshire Dales,SD,Children Social Care,0
+E07000035,Derbyshire Dales,SD,Adult Social Care,0
+E07000035,Derbyshire Dales,SD,Public Health,0
+E07000035,Derbyshire Dales,SD,Housing services (GFRA only),2999.34
+E07000035,Derbyshire Dales,SD,Cultural and related services,2194.23
+E07000035,Derbyshire Dales,SD,Environmental and regulatory services,10460.63
+E07000035,Derbyshire Dales,SD,Planning and development services,4198.49
+E10000008,Devon CC,SC,Education services,541195
+E10000008,Devon CC,SC,Highways and transport services,90055
+E10000008,Devon CC,SC,Children Social Care,233879
+E10000008,Devon CC,SC,Adult Social Care,520523
+E10000008,Devon CC,SC,Public Health,51387
+E10000008,Devon CC,SC,Housing services (GFRA only),1711
+E10000008,Devon CC,SC,Cultural and related services,12195
+E10000008,Devon CC,SC,Environmental and regulatory services,57486
+E10000008,Devon CC,SC,Planning and development services,18234
+E08000017,Doncaster,MD,Education services,165923
+E08000017,Doncaster,MD,Highways and transport services,19226
+E08000017,Doncaster,MD,Children Social Care,105170
+E08000017,Doncaster,MD,Adult Social Care,196795
+E08000017,Doncaster,MD,Public Health,35548
+E08000017,Doncaster,MD,Housing services (GFRA only),8842
+E08000017,Doncaster,MD,Cultural and related services,20248
+E08000017,Doncaster,MD,Environmental and regulatory services,44611
+E08000017,Doncaster,MD,Planning and development services,22387
+E06000059,Dorset UA,UA,Education services,298416
+E06000059,Dorset UA,UA,Highways and transport services,38240
+E06000059,Dorset UA,UA,Children Social Care,100225
+E06000059,Dorset UA,UA,Adult Social Care,277594
+E06000059,Dorset UA,UA,Public Health,18340
+E06000059,Dorset UA,UA,Housing services (GFRA only),19062
+E06000059,Dorset UA,UA,Cultural and related services,25377
+E06000059,Dorset UA,UA,Environmental and regulatory services,56134
+E06000059,Dorset UA,UA,Planning and development services,29113
+E07000108,Dover,SD,Education services,0
+E07000108,Dover,SD,Highways and transport services,2042.8
+E07000108,Dover,SD,Children Social Care,0
+E07000108,Dover,SD,Adult Social Care,0
+E07000108,Dover,SD,Public Health,0
+E07000108,Dover,SD,Housing services (GFRA only),8247
+E07000108,Dover,SD,Cultural and related services,3642
+E07000108,Dover,SD,Environmental and regulatory services,15457
+E07000108,Dover,SD,Planning and development services,8948
+E08000027,Dudley,MD,Education services,273583
+E08000027,Dudley,MD,Highways and transport services,20082
+E08000027,Dudley,MD,Children Social Care,92789
+E08000027,Dudley,MD,Adult Social Care,200319
+E08000027,Dudley,MD,Public Health,26079
+E08000027,Dudley,MD,Housing services (GFRA only),5810
+E08000027,Dudley,MD,Cultural and related services,23603
+E08000027,Dudley,MD,Environmental and regulatory services,42021
+E08000027,Dudley,MD,Planning and development services,14376
+E06000047,Durham UA,UA,Education services,445869
+E06000047,Durham UA,UA,Highways and transport services,60825
+E06000047,Durham UA,UA,Children Social Care,193208
+E06000047,Durham UA,UA,Adult Social Care,338206.01
+E06000047,Durham UA,UA,Public Health,64676
+E06000047,Durham UA,UA,Housing services (GFRA only),38711
+E06000047,Durham UA,UA,Cultural and related services,66091
+E06000047,Durham UA,UA,Environmental and regulatory services,82775
+E06000047,Durham UA,UA,Planning and development services,52074
+E09000009,Ealing,LB,Education services,499463.78
+E09000009,Ealing,LB,Highways and transport services,49839.57
+E09000009,Ealing,LB,Children Social Care,106961.81
+E09000009,Ealing,LB,Adult Social Care,179828.98
+E09000009,Ealing,LB,Public Health,30112.59
+E09000009,Ealing,LB,Housing services (GFRA only),102787.05
+E09000009,Ealing,LB,Cultural and related services,13451.72
+E09000009,Ealing,LB,Environmental and regulatory services,41725.53
+E09000009,Ealing,LB,Planning and development services,8991.39
+E07000009,East Cambridgeshire,SD,Education services,0
+E07000009,East Cambridgeshire,SD,Highways and transport services,428
+E07000009,East Cambridgeshire,SD,Children Social Care,0
+E07000009,East Cambridgeshire,SD,Adult Social Care,0
+E07000009,East Cambridgeshire,SD,Public Health,0
+E07000009,East Cambridgeshire,SD,Housing services (GFRA only),6081
+E07000009,East Cambridgeshire,SD,Cultural and related services,1262
+E07000009,East Cambridgeshire,SD,Environmental and regulatory services,8128
+E07000009,East Cambridgeshire,SD,Planning and development services,5902
+E07000040,East Devon,SD,Education services,0
+E07000040,East Devon,SD,Highways and transport services,1870
+E07000040,East Devon,SD,Children Social Care,0
+E07000040,East Devon,SD,Adult Social Care,0
+E07000040,East Devon,SD,Public Health,0
+E07000040,East Devon,SD,Housing services (GFRA only),4744
+E07000040,East Devon,SD,Cultural and related services,8577
+E07000040,East Devon,SD,Environmental and regulatory services,17730
+E07000040,East Devon,SD,Planning and development services,8823
+E07000085,East Hampshire,SD,Education services,0
+E07000085,East Hampshire,SD,Highways and transport services,609
+E07000085,East Hampshire,SD,Children Social Care,0
+E07000085,East Hampshire,SD,Adult Social Care,0
+E07000085,East Hampshire,SD,Public Health,0
+E07000085,East Hampshire,SD,Housing services (GFRA only),3809
+E07000085,East Hampshire,SD,Cultural and related services,2512
+E07000085,East Hampshire,SD,Environmental and regulatory services,9136
+E07000085,East Hampshire,SD,Planning and development services,8554
+E07000242,East Hertfordshire,SD,Education services,0
+E07000242,East Hertfordshire,SD,Highways and transport services,4764.5
+E07000242,East Hertfordshire,SD,Children Social Care,0
+E07000242,East Hertfordshire,SD,Adult Social Care,0
+E07000242,East Hertfordshire,SD,Public Health,0
+E07000242,East Hertfordshire,SD,Housing services (GFRA only),4776
+E07000242,East Hertfordshire,SD,Cultural and related services,6854
+E07000242,East Hertfordshire,SD,Environmental and regulatory services,10448
+E07000242,East Hertfordshire,SD,Planning and development services,7610
+E07000137,East Lindsey,SD,Education services,0
+E07000137,East Lindsey,SD,Highways and transport services,1683
+E07000137,East Lindsey,SD,Children Social Care,0
+E07000137,East Lindsey,SD,Adult Social Care,0
+E07000137,East Lindsey,SD,Public Health,0
+E07000137,East Lindsey,SD,Housing services (GFRA only),9587
+E07000137,East Lindsey,SD,Cultural and related services,9917
+E07000137,East Lindsey,SD,Environmental and regulatory services,17641
+E07000137,East Lindsey,SD,Planning and development services,7308
+E06000011,East Riding of Yorkshire UA,UA,Education services,348152
+E06000011,East Riding of Yorkshire UA,UA,Highways and transport services,36567
+E06000011,East Riding of Yorkshire UA,UA,Children Social Care,83080
+E06000011,East Riding of Yorkshire UA,UA,Adult Social Care,292384
+E06000011,East Riding of Yorkshire UA,UA,Public Health,19885
+E06000011,East Riding of Yorkshire UA,UA,Housing services (GFRA only),5922
+E06000011,East Riding of Yorkshire UA,UA,Cultural and related services,50204
+E06000011,East Riding of Yorkshire UA,UA,Environmental and regulatory services,51115
+E06000011,East Riding of Yorkshire UA,UA,Planning and development services,26245
+E07000193,East Staffordshire,SD,Education services,0
+E07000193,East Staffordshire,SD,Highways and transport services,1112.74
+E07000193,East Staffordshire,SD,Children Social Care,0
+E07000193,East Staffordshire,SD,Adult Social Care,0
+E07000193,East Staffordshire,SD,Public Health,19
+E07000193,East Staffordshire,SD,Housing services (GFRA only),2990.26
+E07000193,East Staffordshire,SD,Cultural and related services,4631.38
+E07000193,East Staffordshire,SD,Environmental and regulatory services,11069.37
+E07000193,East Staffordshire,SD,Planning and development services,4724.24
+E07000244,East Suffolk,SD,Education services,0
+E07000244,East Suffolk,SD,Highways and transport services,3863
+E07000244,East Suffolk,SD,Children Social Care,0
+E07000244,East Suffolk,SD,Adult Social Care,0
+E07000244,East Suffolk,SD,Public Health,888
+E07000244,East Suffolk,SD,Housing services (GFRA only),14919
+E07000244,East Suffolk,SD,Cultural and related services,8327
+E07000244,East Suffolk,SD,Environmental and regulatory services,35333
+E07000244,East Suffolk,SD,Planning and development services,22345
+E10000011,East Sussex CC,SC,Education services,390570
+E10000011,East Sussex CC,SC,Highways and transport services,89127
+E10000011,East Sussex CC,SC,Children Social Care,169505
+E10000011,East Sussex CC,SC,Adult Social Care,420641
+E10000011,East Sussex CC,SC,Public Health,37757
+E10000011,East Sussex CC,SC,Housing services (GFRA only),12142
+E10000011,East Sussex CC,SC,Cultural and related services,12431
+E10000011,East Sussex CC,SC,Environmental and regulatory services,63392
+E10000011,East Sussex CC,SC,Planning and development services,4278
+E07000061,Eastbourne,SD,Education services,0
+E07000061,Eastbourne,SD,Highways and transport services,212
+E07000061,Eastbourne,SD,Children Social Care,0
+E07000061,Eastbourne,SD,Adult Social Care,0
+E07000061,Eastbourne,SD,Public Health,0
+E07000061,Eastbourne,SD,Housing services (GFRA only),8726
+E07000061,Eastbourne,SD,Cultural and related services,14007.35
+E07000061,Eastbourne,SD,Environmental and regulatory services,7137.67
+E07000061,Eastbourne,SD,Planning and development services,3443.11
+E07000086,Eastleigh,SD,Education services,0
+E07000086,Eastleigh,SD,Highways and transport services,2127
+E07000086,Eastleigh,SD,Children Social Care,0
+E07000086,Eastleigh,SD,Adult Social Care,0
+E07000086,Eastleigh,SD,Public Health,0
+E07000086,Eastleigh,SD,Housing services (GFRA only),5298
+E07000086,Eastleigh,SD,Cultural and related services,6039
+E07000086,Eastleigh,SD,Environmental and regulatory services,9265
+E07000086,Eastleigh,SD,Planning and development services,5020
+E07000207,Elmbridge,SD,Education services,0
+E07000207,Elmbridge,SD,Highways and transport services,2392
+E07000207,Elmbridge,SD,Children Social Care,0
+E07000207,Elmbridge,SD,Adult Social Care,5181
+E07000207,Elmbridge,SD,Public Health,0
+E07000207,Elmbridge,SD,Housing services (GFRA only),10193
+E07000207,Elmbridge,SD,Cultural and related services,3923
+E07000207,Elmbridge,SD,Environmental and regulatory services,11811
+E07000207,Elmbridge,SD,Planning and development services,4690
+E09000010,Enfield,LB,Education services,545427
+E09000010,Enfield,LB,Highways and transport services,34048
+E09000010,Enfield,LB,Children Social Care,88150
+E09000010,Enfield,LB,Adult Social Care,189352.85
+E09000010,Enfield,LB,Public Health,21440.42
+E09000010,Enfield,LB,Housing services (GFRA only),82769.99
+E09000010,Enfield,LB,Cultural and related services,21631
+E09000010,Enfield,LB,Environmental and regulatory services,40125
+E09000010,Enfield,LB,Planning and development services,11264
+E07000072,Epping Forest,SD,Education services,0
+E07000072,Epping Forest,SD,Highways and transport services,1706
+E07000072,Epping Forest,SD,Children Social Care,0
+E07000072,Epping Forest,SD,Adult Social Care,0
+E07000072,Epping Forest,SD,Public Health,812
+E07000072,Epping Forest,SD,Housing services (GFRA only),6149.93
+E07000072,Epping Forest,SD,Cultural and related services,3409.78
+E07000072,Epping Forest,SD,Environmental and regulatory services,15771.18
+E07000072,Epping Forest,SD,Planning and development services,8837.4
+E07000208,Epsom & Ewell,SD,Education services,0
+E07000208,Epsom & Ewell,SD,Highways and transport services,2224
+E07000208,Epsom & Ewell,SD,Children Social Care,0
+E07000208,Epsom & Ewell,SD,Adult Social Care,1648
+E07000208,Epsom & Ewell,SD,Public Health,335
+E07000208,Epsom & Ewell,SD,Housing services (GFRA only),5234
+E07000208,Epsom & Ewell,SD,Cultural and related services,7685
+E07000208,Epsom & Ewell,SD,Environmental and regulatory services,6741
+E07000208,Epsom & Ewell,SD,Planning and development services,2745
+E07000036,Erewash,SD,Education services,0
+E07000036,Erewash,SD,Highways and transport services,556
+E07000036,Erewash,SD,Children Social Care,0
+E07000036,Erewash,SD,Adult Social Care,0
+E07000036,Erewash,SD,Public Health,0
+E07000036,Erewash,SD,Housing services (GFRA only),2876
+E07000036,Erewash,SD,Cultural and related services,3217
+E07000036,Erewash,SD,Environmental and regulatory services,6548
+E07000036,Erewash,SD,Planning and development services,3178
+E10000012,Essex CC,SC,Education services,930143
+E10000012,Essex CC,SC,Highways and transport services,130882
+E10000012,Essex CC,SC,Children Social Care,268660
+E10000012,Essex CC,SC,Adult Social Care,891493
+E10000012,Essex CC,SC,Public Health,85420
+E10000012,Essex CC,SC,Housing services (GFRA only),2351
+E10000012,Essex CC,SC,Cultural and related services,34896
+E10000012,Essex CC,SC,Environmental and regulatory services,99984
+E10000012,Essex CC,SC,Planning and development services,27332
+E07000041,Exeter,SD,Education services,0
+E07000041,Exeter,SD,Highways and transport services,3683
+E07000041,Exeter,SD,Children Social Care,0
+E07000041,Exeter,SD,Adult Social Care,0
+E07000041,Exeter,SD,Public Health,0
+E07000041,Exeter,SD,Housing services (GFRA only),10980
+E07000041,Exeter,SD,Cultural and related services,20000
+E07000041,Exeter,SD,Environmental and regulatory services,13205
+E07000041,Exeter,SD,Planning and development services,11968
+E07000087,Fareham,SD,Education services,0
+E07000087,Fareham,SD,Highways and transport services,1379.83
+E07000087,Fareham,SD,Children Social Care,0
+E07000087,Fareham,SD,Adult Social Care,0
+E07000087,Fareham,SD,Public Health,0
+E07000087,Fareham,SD,Housing services (GFRA only),4269
+E07000087,Fareham,SD,Cultural and related services,4513
+E07000087,Fareham,SD,Environmental and regulatory services,7395
+E07000087,Fareham,SD,Planning and development services,4044
+E07000010,Fenland,SD,Education services,0
+E07000010,Fenland,SD,Highways and transport services,966
+E07000010,Fenland,SD,Children Social Care,0
+E07000010,Fenland,SD,Adult Social Care,0
+E07000010,Fenland,SD,Public Health,0
+E07000010,Fenland,SD,Housing services (GFRA only),3811
+E07000010,Fenland,SD,Cultural and related services,2290
+E07000010,Fenland,SD,Environmental and regulatory services,8781
+E07000010,Fenland,SD,Planning and development services,3506
+E07000112,Folkestone & Hythe,SD,Education services,0
+E07000112,Folkestone & Hythe,SD,Highways and transport services,1806
+E07000112,Folkestone & Hythe,SD,Children Social Care,0
+E07000112,Folkestone & Hythe,SD,Adult Social Care,0
+E07000112,Folkestone & Hythe,SD,Public Health,0
+E07000112,Folkestone & Hythe,SD,Housing services (GFRA only),5838
+E07000112,Folkestone & Hythe,SD,Cultural and related services,4731
+E07000112,Folkestone & Hythe,SD,Environmental and regulatory services,9402
+E07000112,Folkestone & Hythe,SD,Planning and development services,6106
+E07000080,Forest of Dean,SD,Education services,0
+E07000080,Forest of Dean,SD,Highways and transport services,250
+E07000080,Forest of Dean,SD,Children Social Care,0
+E07000080,Forest of Dean,SD,Adult Social Care,0
+E07000080,Forest of Dean,SD,Public Health,0
+E07000080,Forest of Dean,SD,Housing services (GFRA only),2782
+E07000080,Forest of Dean,SD,Cultural and related services,852
+E07000080,Forest of Dean,SD,Environmental and regulatory services,8035
+E07000080,Forest of Dean,SD,Planning and development services,4663
+E07000119,Fylde,SD,Education services,0
+E07000119,Fylde,SD,Highways and transport services,590
+E07000119,Fylde,SD,Children Social Care,0
+E07000119,Fylde,SD,Adult Social Care,0
+E07000119,Fylde,SD,Public Health,0
+E07000119,Fylde,SD,Housing services (GFRA only),2208
+E07000119,Fylde,SD,Cultural and related services,4352
+E07000119,Fylde,SD,Environmental and regulatory services,8234
+E07000119,Fylde,SD,Planning and development services,5747
+E08000037,Gateshead,MD,Education services,193400
+E08000037,Gateshead,MD,Highways and transport services,14166
+E08000037,Gateshead,MD,Children Social Care,75681
+E08000037,Gateshead,MD,Adult Social Care,168221
+E08000037,Gateshead,MD,Public Health,23517
+E08000037,Gateshead,MD,Housing services (GFRA only),7729
+E08000037,Gateshead,MD,Cultural and related services,24858
+E08000037,Gateshead,MD,Environmental and regulatory services,49986
+E08000037,Gateshead,MD,Planning and development services,28601
+E07000173,Gedling,SD,Education services,0
+E07000173,Gedling,SD,Highways and transport services,427
+E07000173,Gedling,SD,Children Social Care,0
+E07000173,Gedling,SD,Adult Social Care,0
+E07000173,Gedling,SD,Public Health,0
+E07000173,Gedling,SD,Housing services (GFRA only),2792
+E07000173,Gedling,SD,Cultural and related services,8742
+E07000173,Gedling,SD,Environmental and regulatory services,9572
+E07000173,Gedling,SD,Planning and development services,3782
+E07000081,Gloucester,SD,Education services,0
+E07000081,Gloucester,SD,Highways and transport services,1418
+E07000081,Gloucester,SD,Children Social Care,0
+E07000081,Gloucester,SD,Adult Social Care,0
+E07000081,Gloucester,SD,Public Health,0
+E07000081,Gloucester,SD,Housing services (GFRA only),7242
+E07000081,Gloucester,SD,Cultural and related services,6127
+E07000081,Gloucester,SD,Environmental and regulatory services,15707
+E07000081,Gloucester,SD,Planning and development services,4449
+E10000013,Gloucestershire CC,SC,Education services,490348
+E10000013,Gloucestershire CC,SC,Highways and transport services,72413
+E10000013,Gloucestershire CC,SC,Children Social Care,181720
+E10000013,Gloucestershire CC,SC,Adult Social Care,386707
+E10000013,Gloucestershire CC,SC,Public Health,31156
+E10000013,Gloucestershire CC,SC,Housing services (GFRA only),630
+E10000013,Gloucestershire CC,SC,Cultural and related services,14107
+E10000013,Gloucestershire CC,SC,Environmental and regulatory services,36571
+E10000013,Gloucestershire CC,SC,Planning and development services,6018
+E07000088,Gosport,SD,Education services,0
+E07000088,Gosport,SD,Highways and transport services,770
+E07000088,Gosport,SD,Children Social Care,0
+E07000088,Gosport,SD,Adult Social Care,0
+E07000088,Gosport,SD,Public Health,0
+E07000088,Gosport,SD,Housing services (GFRA only),2948
+E07000088,Gosport,SD,Cultural and related services,3442
+E07000088,Gosport,SD,Environmental and regulatory services,5104
+E07000088,Gosport,SD,Planning and development services,2815
+E07000109,Gravesham,SD,Education services,0
+E07000109,Gravesham,SD,Highways and transport services,1760
+E07000109,Gravesham,SD,Children Social Care,0
+E07000109,Gravesham,SD,Adult Social Care,0
+E07000109,Gravesham,SD,Public Health,80
+E07000109,Gravesham,SD,Housing services (GFRA only),5650
+E07000109,Gravesham,SD,Cultural and related services,3291
+E07000109,Gravesham,SD,Environmental and regulatory services,8910
+E07000109,Gravesham,SD,Planning and development services,4297
+E07000145,Great Yarmouth,SD,Education services,0
+E07000145,Great Yarmouth,SD,Highways and transport services,2840
+E07000145,Great Yarmouth,SD,Children Social Care,0
+E07000145,Great Yarmouth,SD,Adult Social Care,0
+E07000145,Great Yarmouth,SD,Public Health,0
+E07000145,Great Yarmouth,SD,Housing services (GFRA only),5313
+E07000145,Great Yarmouth,SD,Cultural and related services,1802
+E07000145,Great Yarmouth,SD,Environmental and regulatory services,12038
+E07000145,Great Yarmouth,SD,Planning and development services,5723
+E09000011,Greenwich,LB,Education services,576033
+E09000011,Greenwich,LB,Highways and transport services,28430
+E09000011,Greenwich,LB,Children Social Care,113817
+E09000011,Greenwich,LB,Adult Social Care,180567
+E09000011,Greenwich,LB,Public Health,34356
+E09000011,Greenwich,LB,Housing services (GFRA only),48826
+E09000011,Greenwich,LB,Cultural and related services,38769
+E09000011,Greenwich,LB,Environmental and regulatory services,58921.2
+E09000011,Greenwich,LB,Planning and development services,27564
+E07000209,Guildford,SD,Education services,0
+E07000209,Guildford,SD,Highways and transport services,6376
+E07000209,Guildford,SD,Children Social Care,1664
+E07000209,Guildford,SD,Adult Social Care,1506
+E07000209,Guildford,SD,Public Health,0
+E07000209,Guildford,SD,Housing services (GFRA only),3603
+E07000209,Guildford,SD,Cultural and related services,8215
+E07000209,Guildford,SD,Environmental and regulatory services,12943
+E07000209,Guildford,SD,Planning and development services,5176
+E09000012,Hackney,LB,Education services,333601
+E09000012,Hackney,LB,Highways and transport services,44048
+E09000012,Hackney,LB,Children Social Care,101932
+E09000012,Hackney,LB,Adult Social Care,184203
+E09000012,Hackney,LB,Public Health,43003
+E09000012,Hackney,LB,Housing services (GFRA only),98205
+E09000012,Hackney,LB,Cultural and related services,20141
+E09000012,Hackney,LB,Environmental and regulatory services,66277
+E09000012,Hackney,LB,Planning and development services,18828
+E06000006,Halton UA,UA,Education services,140236
+E06000006,Halton UA,UA,Highways and transport services,76720
+E06000006,Halton UA,UA,Children Social Care,66165
+E06000006,Halton UA,UA,Adult Social Care,126101
+E06000006,Halton UA,UA,Public Health,14298
+E06000006,Halton UA,UA,Housing services (GFRA only),3810
+E06000006,Halton UA,UA,Cultural and related services,18429
+E06000006,Halton UA,UA,Environmental and regulatory services,17249
+E06000006,Halton UA,UA,Planning and development services,7037
+E09000013,Hammersmith & Fulham,LB,Education services,220925
+E09000013,Hammersmith & Fulham,LB,Highways and transport services,42907
+E09000013,Hammersmith & Fulham,LB,Children Social Care,67580
+E09000013,Hammersmith & Fulham,LB,Adult Social Care,124114
+E09000013,Hammersmith & Fulham,LB,Public Health,26563
+E09000013,Hammersmith & Fulham,LB,Housing services (GFRA only),54510
+E09000013,Hammersmith & Fulham,LB,Cultural and related services,9214
+E09000013,Hammersmith & Fulham,LB,Environmental and regulatory services,51421
+E09000013,Hammersmith & Fulham,LB,Planning and development services,13083
+E10000014,Hampshire CC,SC,Education services,1502914
+E10000014,Hampshire CC,SC,Highways and transport services,131756
+E10000014,Hampshire CC,SC,Children Social Care,367138
+E10000014,Hampshire CC,SC,Adult Social Care,784733
+E10000014,Hampshire CC,SC,Public Health,72455
+E10000014,Hampshire CC,SC,Housing services (GFRA only),243
+E10000014,Hampshire CC,SC,Cultural and related services,45570
+E10000014,Hampshire CC,SC,Environmental and regulatory services,78880
+E10000014,Hampshire CC,SC,Planning and development services,10833
+E07000131,Harborough,SD,Education services,0
+E07000131,Harborough,SD,Highways and transport services,1523
+E07000131,Harborough,SD,Children Social Care,0
+E07000131,Harborough,SD,Adult Social Care,563
+E07000131,Harborough,SD,Public Health,201
+E07000131,Harborough,SD,Housing services (GFRA only),3444
+E07000131,Harborough,SD,Cultural and related services,2443
+E07000131,Harborough,SD,Environmental and regulatory services,7933
+E07000131,Harborough,SD,Planning and development services,4195
+E09000014,Haringey,LB,Education services,329064
+E09000014,Haringey,LB,Highways and transport services,40500
+E09000014,Haringey,LB,Children Social Care,93528
+E09000014,Haringey,LB,Adult Social Care,170140
+E09000014,Haringey,LB,Public Health,27398
+E09000014,Haringey,LB,Housing services (GFRA only),77953
+E09000014,Haringey,LB,Cultural and related services,20326
+E09000014,Haringey,LB,Environmental and regulatory services,37715
+E09000014,Haringey,LB,Planning and development services,16453
+E07000073,Harlow,SD,Education services,0
+E07000073,Harlow,SD,Highways and transport services,2708
+E07000073,Harlow,SD,Children Social Care,312
+E07000073,Harlow,SD,Adult Social Care,568
+E07000073,Harlow,SD,Public Health,0
+E07000073,Harlow,SD,Housing services (GFRA only),5312
+E07000073,Harlow,SD,Cultural and related services,6342
+E07000073,Harlow,SD,Environmental and regulatory services,7309
+E07000073,Harlow,SD,Planning and development services,8299
+E09000015,Harrow,LB,Education services,212155.39
+E09000015,Harrow,LB,Highways and transport services,25537.55
+E09000015,Harrow,LB,Children Social Care,50930.16
+E09000015,Harrow,LB,Adult Social Care,135616.56
+E09000015,Harrow,LB,Public Health,12833.71
+E09000015,Harrow,LB,Housing services (GFRA only),33224.51
+E09000015,Harrow,LB,Cultural and related services,10451.64
+E09000015,Harrow,LB,Environmental and regulatory services,20560.64
+E09000015,Harrow,LB,Planning and development services,11551.59
+E07000089,Hart DC,SD,Education services,0
+E07000089,Hart DC,SD,Highways and transport services,764
+E07000089,Hart DC,SD,Children Social Care,0
+E07000089,Hart DC,SD,Adult Social Care,0
+E07000089,Hart DC,SD,Public Health,0
+E07000089,Hart DC,SD,Housing services (GFRA only),2622
+E07000089,Hart DC,SD,Cultural and related services,774
+E07000089,Hart DC,SD,Environmental and regulatory services,5723
+E07000089,Hart DC,SD,Planning and development services,4204
+E06000001,Hartlepool UA,UA,Education services,75812
+E06000001,Hartlepool UA,UA,Highways and transport services,13226
+E06000001,Hartlepool UA,UA,Children Social Care,53309
+E06000001,Hartlepool UA,UA,Adult Social Care,74161
+E06000001,Hartlepool UA,UA,Public Health,11185
+E06000001,Hartlepool UA,UA,Housing services (GFRA only),2936
+E06000001,Hartlepool UA,UA,Cultural and related services,10619
+E06000001,Hartlepool UA,UA,Environmental and regulatory services,13987
+E06000001,Hartlepool UA,UA,Planning and development services,3344
+E07000062,Hastings,SD,Education services,0
+E07000062,Hastings,SD,Highways and transport services,2467
+E07000062,Hastings,SD,Children Social Care,0
+E07000062,Hastings,SD,Adult Social Care,0
+E07000062,Hastings,SD,Public Health,0
+E07000062,Hastings,SD,Housing services (GFRA only),19018
+E07000062,Hastings,SD,Cultural and related services,8073
+E07000062,Hastings,SD,Environmental and regulatory services,8540
+E07000062,Hastings,SD,Planning and development services,5127
+E07000090,Havant,SD,Education services,0
+E07000090,Havant,SD,Highways and transport services,1572.02
+E07000090,Havant,SD,Children Social Care,0
+E07000090,Havant,SD,Adult Social Care,0
+E07000090,Havant,SD,Public Health,0
+E07000090,Havant,SD,Housing services (GFRA only),12192.69
+E07000090,Havant,SD,Cultural and related services,414.06
+E07000090,Havant,SD,Environmental and regulatory services,17298.48
+E07000090,Havant,SD,Planning and development services,6911.98
+E09000016,Havering,LB,Education services,237917
+E09000016,Havering,LB,Highways and transport services,27319
+E09000016,Havering,LB,Children Social Care,77303
+E09000016,Havering,LB,Adult Social Care,128390
+E09000016,Havering,LB,Public Health,13794
+E09000016,Havering,LB,Housing services (GFRA only),27431
+E09000016,Havering,LB,Cultural and related services,7156
+E09000016,Havering,LB,Environmental and regulatory services,24671
+E09000016,Havering,LB,Planning and development services,9340
+E06000019,Herefordshire UA,UA,Education services,182059
+E06000019,Herefordshire UA,UA,Highways and transport services,14608
+E06000019,Herefordshire UA,UA,Children Social Care,70367
+E06000019,Herefordshire UA,UA,Adult Social Care,127969
+E06000019,Herefordshire UA,UA,Public Health,12266
+E06000019,Herefordshire UA,UA,Housing services (GFRA only),12023
+E06000019,Herefordshire UA,UA,Cultural and related services,6162
+E06000019,Herefordshire UA,UA,Environmental and regulatory services,23033
+E06000019,Herefordshire UA,UA,Planning and development services,15777
+E10000015,Hertfordshire CC,SC,Education services,1034476.9
+E10000015,Hertfordshire CC,SC,Highways and transport services,114269.5
+E10000015,Hertfordshire CC,SC,Children Social Care,263322.23
+E10000015,Hertfordshire CC,SC,Adult Social Care,679487.47
+E10000015,Hertfordshire CC,SC,Public Health,69607.81
+E10000015,Hertfordshire CC,SC,Housing services (GFRA only),10282.13
+E10000015,Hertfordshire CC,SC,Cultural and related services,21736.35
+E10000015,Hertfordshire CC,SC,Environmental and regulatory services,67230.73
+E10000015,Hertfordshire CC,SC,Planning and development services,15818.32
+E07000098,Hertsmere,SD,Education services,0
+E07000098,Hertsmere,SD,Highways and transport services,1956
+E07000098,Hertsmere,SD,Children Social Care,0
+E07000098,Hertsmere,SD,Adult Social Care,0
+E07000098,Hertsmere,SD,Public Health,0
+E07000098,Hertsmere,SD,Housing services (GFRA only),3525
+E07000098,Hertsmere,SD,Cultural and related services,1947
+E07000098,Hertsmere,SD,Environmental and regulatory services,6344
+E07000098,Hertsmere,SD,Planning and development services,6985
+E07000037,High Peak,SD,Education services,0
+E07000037,High Peak,SD,Highways and transport services,515
+E07000037,High Peak,SD,Children Social Care,0
+E07000037,High Peak,SD,Adult Social Care,0
+E07000037,High Peak,SD,Public Health,0
+E07000037,High Peak,SD,Housing services (GFRA only),3096
+E07000037,High Peak,SD,Cultural and related services,4061
+E07000037,High Peak,SD,Environmental and regulatory services,8722
+E07000037,High Peak,SD,Planning and development services,5617
+E09000017,Hillingdon,LB,Education services,443513
+E09000017,Hillingdon,LB,Highways and transport services,22592
+E09000017,Hillingdon,LB,Children Social Care,77479
+E09000017,Hillingdon,LB,Adult Social Care,150043
+E09000017,Hillingdon,LB,Public Health,17927
+E09000017,Hillingdon,LB,Housing services (GFRA only),46161
+E09000017,Hillingdon,LB,Cultural and related services,16708
+E09000017,Hillingdon,LB,Environmental and regulatory services,37219
+E09000017,Hillingdon,LB,Planning and development services,8379
+E07000132,Hinckley & Bosworth,SD,Education services,0
+E07000132,Hinckley & Bosworth,SD,Highways and transport services,998
+E07000132,Hinckley & Bosworth,SD,Children Social Care,0
+E07000132,Hinckley & Bosworth,SD,Adult Social Care,0
+E07000132,Hinckley & Bosworth,SD,Public Health,0
+E07000132,Hinckley & Bosworth,SD,Housing services (GFRA only),3408
+E07000132,Hinckley & Bosworth,SD,Cultural and related services,1965
+E07000132,Hinckley & Bosworth,SD,Environmental and regulatory services,9622
+E07000132,Hinckley & Bosworth,SD,Planning and development services,6638
+E07000227,Horsham,SD,Education services,0
+E07000227,Horsham,SD,Highways and transport services,3407
+E07000227,Horsham,SD,Children Social Care,0
+E07000227,Horsham,SD,Adult Social Care,810
+E07000227,Horsham,SD,Public Health,557
+E07000227,Horsham,SD,Housing services (GFRA only),4399
+E07000227,Horsham,SD,Cultural and related services,8512
+E07000227,Horsham,SD,Environmental and regulatory services,13939
+E07000227,Horsham,SD,Planning and development services,8418
+E09000018,Hounslow,LB,Education services,313670
+E09000018,Hounslow,LB,Highways and transport services,45140
+E09000018,Hounslow,LB,Children Social Care,80219
+E09000018,Hounslow,LB,Adult Social Care,153270
+E09000018,Hounslow,LB,Public Health,20771
+E09000018,Hounslow,LB,Housing services (GFRA only),29510
+E09000018,Hounslow,LB,Cultural and related services,27751
+E09000018,Hounslow,LB,Environmental and regulatory services,30867
+E09000018,Hounslow,LB,Planning and development services,8224
+E07000011,Huntingdonshire,SD,Education services,0
+E07000011,Huntingdonshire,SD,Highways and transport services,2250
+E07000011,Huntingdonshire,SD,Children Social Care,0
+E07000011,Huntingdonshire,SD,Adult Social Care,0
+E07000011,Huntingdonshire,SD,Public Health,0
+E07000011,Huntingdonshire,SD,Housing services (GFRA only),6139
+E07000011,Huntingdonshire,SD,Cultural and related services,13726
+E07000011,Huntingdonshire,SD,Environmental and regulatory services,13693
+E07000011,Huntingdonshire,SD,Planning and development services,5352
+E07000120,Hyndburn BC,SD,Education services,0
+E07000120,Hyndburn BC,SD,Highways and transport services,355
+E07000120,Hyndburn BC,SD,Children Social Care,0
+E07000120,Hyndburn BC,SD,Adult Social Care,0
+E07000120,Hyndburn BC,SD,Public Health,130
+E07000120,Hyndburn BC,SD,Housing services (GFRA only),2385
+E07000120,Hyndburn BC,SD,Cultural and related services,4586
+E07000120,Hyndburn BC,SD,Environmental and regulatory services,7955
+E07000120,Hyndburn BC,SD,Planning and development services,3467
+E07000202,Ipswich,SD,Education services,0
+E07000202,Ipswich,SD,Highways and transport services,5375
+E07000202,Ipswich,SD,Children Social Care,0
+E07000202,Ipswich,SD,Adult Social Care,0
+E07000202,Ipswich,SD,Public Health,0
+E07000202,Ipswich,SD,Housing services (GFRA only),8824
+E07000202,Ipswich,SD,Cultural and related services,20489
+E07000202,Ipswich,SD,Environmental and regulatory services,14570
+E07000202,Ipswich,SD,Planning and development services,4692
+E06000046,Isle of Wight UA,UA,Education services,124879.84
+E06000046,Isle of Wight UA,UA,Highways and transport services,22648
+E06000046,Isle of Wight UA,UA,Children Social Care,44490.66
+E06000046,Isle of Wight UA,UA,Adult Social Care,114200.35
+E06000046,Isle of Wight UA,UA,Public Health,10421.31
+E06000046,Isle of Wight UA,UA,Housing services (GFRA only),8988
+E06000046,Isle of Wight UA,UA,Cultural and related services,10966
+E06000046,Isle of Wight UA,UA,Environmental and regulatory services,15261
+E06000046,Isle of Wight UA,UA,Planning and development services,7487
+E06000053,Isles of Scilly,UA,Education services,2071
+E06000053,Isles of Scilly,UA,Highways and transport services,2766
+E06000053,Isles of Scilly,UA,Children Social Care,1092
+E06000053,Isles of Scilly,UA,Adult Social Care,2578
+E06000053,Isles of Scilly,UA,Public Health,145
+E06000053,Isles of Scilly,UA,Housing services (GFRA only),611
+E06000053,Isles of Scilly,UA,Cultural and related services,729
+E06000053,Isles of Scilly,UA,Environmental and regulatory services,2360
+E06000053,Isles of Scilly,UA,Planning and development services,476
+E09000019,Islington,LB,Education services,434707.43
+E09000019,Islington,LB,Highways and transport services,47610.81
+E09000019,Islington,LB,Children Social Care,116194.9
+E09000019,Islington,LB,Adult Social Care,170037.68
+E09000019,Islington,LB,Public Health,39065.15
+E09000019,Islington,LB,Housing services (GFRA only),62775.49
+E09000019,Islington,LB,Cultural and related services,24097.44
+E09000019,Islington,LB,Environmental and regulatory services,47656.14
+E09000019,Islington,LB,Planning and development services,22554.72
+E09000020,Kensington & Chelsea,LB,Education services,131762
+E09000020,Kensington & Chelsea,LB,Highways and transport services,34243
+E09000020,Kensington & Chelsea,LB,Children Social Care,60437
+E09000020,Kensington & Chelsea,LB,Adult Social Care,102175
+E09000020,Kensington & Chelsea,LB,Public Health,26483
+E09000020,Kensington & Chelsea,LB,Housing services (GFRA only),81250
+E09000020,Kensington & Chelsea,LB,Cultural and related services,17845
+E09000020,Kensington & Chelsea,LB,Environmental and regulatory services,53470
+E09000020,Kensington & Chelsea,LB,Planning and development services,18488
+E10000016,Kent CC,SC,Education services,1346749.18
+E10000016,Kent CC,SC,Highways and transport services,135210
+E10000016,Kent CC,SC,Children Social Care,379205.76
+E10000016,Kent CC,SC,Adult Social Care,918085
+E10000016,Kent CC,SC,Public Health,92846.5
+E10000016,Kent CC,SC,Housing services (GFRA only),7351
+E10000016,Kent CC,SC,Cultural and related services,36807
+E10000016,Kent CC,SC,Environmental and regulatory services,107842.83
+E10000016,Kent CC,SC,Planning and development services,15126
+E07000146,King's Lynn & West Norfolk,SD,Education services,0
+E07000146,King's Lynn & West Norfolk,SD,Highways and transport services,8068
+E07000146,King's Lynn & West Norfolk,SD,Children Social Care,0
+E07000146,King's Lynn & West Norfolk,SD,Adult Social Care,0
+E07000146,King's Lynn & West Norfolk,SD,Public Health,0
+E07000146,King's Lynn & West Norfolk,SD,Housing services (GFRA only),6381
+E07000146,King's Lynn & West Norfolk,SD,Cultural and related services,8110
+E07000146,King's Lynn & West Norfolk,SD,Environmental and regulatory services,14826
+E07000146,King's Lynn & West Norfolk,SD,Planning and development services,6543
+E09000021,Kingston Upon Thames,LB,Education services,159861.66
+E09000021,Kingston Upon Thames,LB,Highways and transport services,29040
+E09000021,Kingston Upon Thames,LB,Children Social Care,43342.07
+E09000021,Kingston Upon Thames,LB,Adult Social Care,86337
+E09000021,Kingston Upon Thames,LB,Public Health,12157
+E09000021,Kingston Upon Thames,LB,Housing services (GFRA only),29264
+E09000021,Kingston Upon Thames,LB,Cultural and related services,10373
+E09000021,Kingston Upon Thames,LB,Environmental and regulatory services,25784
+E09000021,Kingston Upon Thames,LB,Planning and development services,9087
+E06000010,Kingston-upon-Hull UA,UA,Education services,156662
+E06000010,Kingston-upon-Hull UA,UA,Highways and transport services,26199
+E06000010,Kingston-upon-Hull UA,UA,Children Social Care,105309
+E06000010,Kingston-upon-Hull UA,UA,Adult Social Care,184950
+E06000010,Kingston-upon-Hull UA,UA,Public Health,33034
+E06000010,Kingston-upon-Hull UA,UA,Housing services (GFRA only),17194
+E06000010,Kingston-upon-Hull UA,UA,Cultural and related services,34809
+E06000010,Kingston-upon-Hull UA,UA,Environmental and regulatory services,53881
+E06000010,Kingston-upon-Hull UA,UA,Planning and development services,13681
+E08000034,Kirklees,MD,Education services,409222
+E08000034,Kirklees,MD,Highways and transport services,45780
+E08000034,Kirklees,MD,Children Social Care,103507
+E08000034,Kirklees,MD,Adult Social Care,282393
+E08000034,Kirklees,MD,Public Health,34249
+E08000034,Kirklees,MD,Housing services (GFRA only),37428
+E08000034,Kirklees,MD,Cultural and related services,24341
+E08000034,Kirklees,MD,Environmental and regulatory services,56937
+E08000034,Kirklees,MD,Planning and development services,24732
+E08000011,Knowsley,MD,Education services,185263
+E08000011,Knowsley,MD,Highways and transport services,16670
+E08000011,Knowsley,MD,Children Social Care,67247
+E08000011,Knowsley,MD,Adult Social Care,135122
+E08000011,Knowsley,MD,Public Health,21736
+E08000011,Knowsley,MD,Housing services (GFRA only),5054
+E08000011,Knowsley,MD,Cultural and related services,6854
+E08000011,Knowsley,MD,Environmental and regulatory services,10604
+E08000011,Knowsley,MD,Planning and development services,20773
+E09000022,Lambeth,LB,Education services,358878.54
+E09000022,Lambeth,LB,Highways and transport services,47179.87
+E09000022,Lambeth,LB,Children Social Care,125394.73
+E09000022,Lambeth,LB,Adult Social Care,209109.09
+E09000022,Lambeth,LB,Public Health,42913.97
+E09000022,Lambeth,LB,Housing services (GFRA only),134333.27
+E09000022,Lambeth,LB,Cultural and related services,31957.01
+E09000022,Lambeth,LB,Environmental and regulatory services,56761.64
+E09000022,Lambeth,LB,Planning and development services,19186.45
+E10000017,Lancashire CC,SC,Education services,1344610
+E10000017,Lancashire CC,SC,Highways and transport services,129330
+E10000017,Lancashire CC,SC,Children Social Care,298210
+E10000017,Lancashire CC,SC,Adult Social Care,829285
+E10000017,Lancashire CC,SC,Public Health,99202
+E10000017,Lancashire CC,SC,Housing services (GFRA only),0
+E10000017,Lancashire CC,SC,Cultural and related services,27730
+E10000017,Lancashire CC,SC,Environmental and regulatory services,113639
+E10000017,Lancashire CC,SC,Planning and development services,18424
+E07000121,Lancaster,SD,Education services,0
+E07000121,Lancaster,SD,Highways and transport services,1751
+E07000121,Lancaster,SD,Children Social Care,460
+E07000121,Lancaster,SD,Adult Social Care,0
+E07000121,Lancaster,SD,Public Health,0
+E07000121,Lancaster,SD,Housing services (GFRA only),7833
+E07000121,Lancaster,SD,Cultural and related services,10361
+E07000121,Lancaster,SD,Environmental and regulatory services,12575
+E07000121,Lancaster,SD,Planning and development services,7477
+E08000035,Leeds,MD,Education services,912496
+E08000035,Leeds,MD,Highways and transport services,106346
+E08000035,Leeds,MD,Children Social Care,305280
+E08000035,Leeds,MD,Adult Social Care,437881
+E08000035,Leeds,MD,Public Health,65577
+E08000035,Leeds,MD,Housing services (GFRA only),55174
+E08000035,Leeds,MD,Cultural and related services,110699
+E08000035,Leeds,MD,Environmental and regulatory services,127540
+E08000035,Leeds,MD,Planning and development services,28920
+E06000016,Leicester City UA,UA,Education services,363188.57
+E06000016,Leicester City UA,UA,Highways and transport services,35999
+E06000016,Leicester City UA,UA,Children Social Care,105841.15
+E06000016,Leicester City UA,UA,Adult Social Care,267786
+E06000016,Leicester City UA,UA,Public Health,47399
+E06000016,Leicester City UA,UA,Housing services (GFRA only),35066.4
+E06000016,Leicester City UA,UA,Cultural and related services,38724.41
+E06000016,Leicester City UA,UA,Environmental and regulatory services,49265
+E06000016,Leicester City UA,UA,Planning and development services,17009
+E10000018,Leicestershire CC,SC,Education services,404829
+E10000018,Leicestershire CC,SC,Highways and transport services,100757
+E10000018,Leicestershire CC,SC,Children Social Care,145265
+E10000018,Leicestershire CC,SC,Adult Social Care,357259
+E10000018,Leicestershire CC,SC,Public Health,37634
+E10000018,Leicestershire CC,SC,Housing services (GFRA only),3563
+E10000018,Leicestershire CC,SC,Cultural and related services,11276
+E10000018,Leicestershire CC,SC,Environmental and regulatory services,43080
+E10000018,Leicestershire CC,SC,Planning and development services,6053
+E07000063,Lewes,SD,Education services,0
+E07000063,Lewes,SD,Highways and transport services,673
+E07000063,Lewes,SD,Children Social Care,0
+E07000063,Lewes,SD,Adult Social Care,0
+E07000063,Lewes,SD,Public Health,0
+E07000063,Lewes,SD,Housing services (GFRA only),2694
+E07000063,Lewes,SD,Cultural and related services,2201
+E07000063,Lewes,SD,Environmental and regulatory services,8788.19
+E07000063,Lewes,SD,Planning and development services,4475.95
+E09000023,Lewisham,LB,Education services,388582
+E09000023,Lewisham,LB,Highways and transport services,34201
+E09000023,Lewisham,LB,Children Social Care,124905
+E09000023,Lewisham,LB,Adult Social Care,176123.97
+E09000023,Lewisham,LB,Public Health,31218.92
+E09000023,Lewisham,LB,Housing services (GFRA only),122570
+E09000023,Lewisham,LB,Cultural and related services,16577
+E09000023,Lewisham,LB,Environmental and regulatory services,42132
+E09000023,Lewisham,LB,Planning and development services,24885
+E07000194,Lichfield,SD,Education services,0
+E07000194,Lichfield,SD,Highways and transport services,1177
+E07000194,Lichfield,SD,Children Social Care,0
+E07000194,Lichfield,SD,Adult Social Care,0
+E07000194,Lichfield,SD,Public Health,0
+E07000194,Lichfield,SD,Housing services (GFRA only),3605
+E07000194,Lichfield,SD,Cultural and related services,6384
+E07000194,Lichfield,SD,Environmental and regulatory services,12108
+E07000194,Lichfield,SD,Planning and development services,7756
+E07000138,Lincoln City,SD,Education services,0
+E07000138,Lincoln City,SD,Highways and transport services,3737
+E07000138,Lincoln City,SD,Children Social Care,0
+E07000138,Lincoln City,SD,Adult Social Care,0
+E07000138,Lincoln City,SD,Public Health,1
+E07000138,Lincoln City,SD,Housing services (GFRA only),6475
+E07000138,Lincoln City,SD,Cultural and related services,4357
+E07000138,Lincoln City,SD,Environmental and regulatory services,12880
+E07000138,Lincoln City,SD,Planning and development services,5204
+E10000019,Lincolnshire CC,SC,Education services,518323
+E10000019,Lincolnshire CC,SC,Highways and transport services,86703
+E10000019,Lincolnshire CC,SC,Children Social Care,180122
+E10000019,Lincolnshire CC,SC,Adult Social Care,432847
+E10000019,Lincolnshire CC,SC,Public Health,42148
+E10000019,Lincolnshire CC,SC,Housing services (GFRA only),7037
+E10000019,Lincolnshire CC,SC,Cultural and related services,13852
+E10000019,Lincolnshire CC,SC,Environmental and regulatory services,43191
+E10000019,Lincolnshire CC,SC,Planning and development services,18263
+E08000012,Liverpool,MD,Education services,676667
+E08000012,Liverpool,MD,Highways and transport services,40297
+E08000012,Liverpool,MD,Children Social Care,227394
+E08000012,Liverpool,MD,Adult Social Care,395164
+E08000012,Liverpool,MD,Public Health,56455
+E08000012,Liverpool,MD,Housing services (GFRA only),61556
+E08000012,Liverpool,MD,Cultural and related services,52114
+E08000012,Liverpool,MD,Environmental and regulatory services,62246
+E08000012,Liverpool,MD,Planning and development services,36776
+E06000032,Luton UA,UA,Education services,226143
+E06000032,Luton UA,UA,Highways and transport services,20104
+E06000032,Luton UA,UA,Children Social Care,74075
+E06000032,Luton UA,UA,Adult Social Care,118001
+E06000032,Luton UA,UA,Public Health,22360
+E06000032,Luton UA,UA,Housing services (GFRA only),34541
+E06000032,Luton UA,UA,Cultural and related services,7715
+E06000032,Luton UA,UA,Environmental and regulatory services,34215
+E06000032,Luton UA,UA,Planning and development services,8226
+E07000110,Maidstone,SD,Education services,0
+E07000110,Maidstone,SD,Highways and transport services,2453
+E07000110,Maidstone,SD,Children Social Care,0
+E07000110,Maidstone,SD,Adult Social Care,0
+E07000110,Maidstone,SD,Public Health,360
+E07000110,Maidstone,SD,Housing services (GFRA only),7947
+E07000110,Maidstone,SD,Cultural and related services,4629
+E07000110,Maidstone,SD,Environmental and regulatory services,11992
+E07000110,Maidstone,SD,Planning and development services,9034
+E07000074,Maldon DC,SD,Education services,0
+E07000074,Maldon DC,SD,Highways and transport services,1195
+E07000074,Maldon DC,SD,Children Social Care,0
+E07000074,Maldon DC,SD,Adult Social Care,0
+E07000074,Maldon DC,SD,Public Health,0
+E07000074,Maldon DC,SD,Housing services (GFRA only),2168
+E07000074,Maldon DC,SD,Cultural and related services,2183
+E07000074,Maldon DC,SD,Environmental and regulatory services,7826
+E07000074,Maldon DC,SD,Planning and development services,3655
+E07000235,Malvern Hills,SD,Education services,0
+E07000235,Malvern Hills,SD,Highways and transport services,356
+E07000235,Malvern Hills,SD,Children Social Care,0
+E07000235,Malvern Hills,SD,Adult Social Care,0
+E07000235,Malvern Hills,SD,Public Health,0
+E07000235,Malvern Hills,SD,Housing services (GFRA only),2009
+E07000235,Malvern Hills,SD,Cultural and related services,1817
+E07000235,Malvern Hills,SD,Environmental and regulatory services,5815
+E07000235,Malvern Hills,SD,Planning and development services,7411
+E08000003,Manchester,MD,Education services,534620
+E08000003,Manchester,MD,Highways and transport services,60973
+E08000003,Manchester,MD,Children Social Care,217638
+E08000003,Manchester,MD,Adult Social Care,368414
+E08000003,Manchester,MD,Public Health,66400
+E08000003,Manchester,MD,Housing services (GFRA only),118044
+E08000003,Manchester,MD,Cultural and related services,59316
+E08000003,Manchester,MD,Environmental and regulatory services,64482
+E08000003,Manchester,MD,Planning and development services,44205
+E07000174,Mansfield,SD,Education services,0
+E07000174,Mansfield,SD,Highways and transport services,1305
+E07000174,Mansfield,SD,Children Social Care,0
+E07000174,Mansfield,SD,Adult Social Care,0
+E07000174,Mansfield,SD,Public Health,0
+E07000174,Mansfield,SD,Housing services (GFRA only),1972
+E07000174,Mansfield,SD,Cultural and related services,6669
+E07000174,Mansfield,SD,Environmental and regulatory services,12920
+E07000174,Mansfield,SD,Planning and development services,5715
+E06000035,Medway Towns UA,UA,Education services,163493
+E06000035,Medway Towns UA,UA,Highways and transport services,23847
+E06000035,Medway Towns UA,UA,Children Social Care,97334
+E06000035,Medway Towns UA,UA,Adult Social Care,151465.64
+E06000035,Medway Towns UA,UA,Public Health,22254
+E06000035,Medway Towns UA,UA,Housing services (GFRA only),21871
+E06000035,Medway Towns UA,UA,Cultural and related services,27986
+E06000035,Medway Towns UA,UA,Environmental and regulatory services,38930
+E06000035,Medway Towns UA,UA,Planning and development services,11757
+E07000133,Melton,SD,Education services,0
+E07000133,Melton,SD,Highways and transport services,453
+E07000133,Melton,SD,Children Social Care,0
+E07000133,Melton,SD,Adult Social Care,0
+E07000133,Melton,SD,Public Health,0
+E07000133,Melton,SD,Housing services (GFRA only),1989
+E07000133,Melton,SD,Cultural and related services,1583
+E07000133,Melton,SD,Environmental and regulatory services,3709
+E07000133,Melton,SD,Planning and development services,2723
+E09000024,Merton,LB,Education services,278979
+E09000024,Merton,LB,Highways and transport services,26207.92
+E09000024,Merton,LB,Children Social Care,51842
+E09000024,Merton,LB,Adult Social Care,103878.32
+E09000024,Merton,LB,Public Health,13272
+E09000024,Merton,LB,Housing services (GFRA only),32755.68
+E09000024,Merton,LB,Cultural and related services,15809.67
+E09000024,Merton,LB,Environmental and regulatory services,36789.32
+E09000024,Merton,LB,Planning and development services,8542.08
+E07000042,Mid Devon,SD,Education services,0
+E07000042,Mid Devon,SD,Highways and transport services,652.13
+E07000042,Mid Devon,SD,Children Social Care,0
+E07000042,Mid Devon,SD,Adult Social Care,0
+E07000042,Mid Devon,SD,Public Health,0
+E07000042,Mid Devon,SD,Housing services (GFRA only),3598.56
+E07000042,Mid Devon,SD,Cultural and related services,6260.07
+E07000042,Mid Devon,SD,Environmental and regulatory services,9862.48
+E07000042,Mid Devon,SD,Planning and development services,5663.12
+E07000203,Mid Suffolk,SD,Education services,0
+E07000203,Mid Suffolk,SD,Highways and transport services,479
+E07000203,Mid Suffolk,SD,Children Social Care,0
+E07000203,Mid Suffolk,SD,Adult Social Care,0
+E07000203,Mid Suffolk,SD,Public Health,88
+E07000203,Mid Suffolk,SD,Housing services (GFRA only),5855
+E07000203,Mid Suffolk,SD,Cultural and related services,4302
+E07000203,Mid Suffolk,SD,Environmental and regulatory services,10000
+E07000203,Mid Suffolk,SD,Planning and development services,10273
+E07000228,Mid Sussex,SD,Education services,0
+E07000228,Mid Sussex,SD,Highways and transport services,1850
+E07000228,Mid Sussex,SD,Children Social Care,0
+E07000228,Mid Sussex,SD,Adult Social Care,0
+E07000228,Mid Sussex,SD,Public Health,680
+E07000228,Mid Sussex,SD,Housing services (GFRA only),7961
+E07000228,Mid Sussex,SD,Cultural and related services,6333
+E07000228,Mid Sussex,SD,Environmental and regulatory services,10740
+E07000228,Mid Sussex,SD,Planning and development services,5886
+E06000002,Middlesbrough UA,UA,Education services,89974.79
+E06000002,Middlesbrough UA,UA,Highways and transport services,13425
+E06000002,Middlesbrough UA,UA,Children Social Care,81522.69
+E06000002,Middlesbrough UA,UA,Adult Social Care,126175
+E06000002,Middlesbrough UA,UA,Public Health,21487
+E06000002,Middlesbrough UA,UA,Housing services (GFRA only),9532
+E06000002,Middlesbrough UA,UA,Cultural and related services,10016
+E06000002,Middlesbrough UA,UA,Environmental and regulatory services,21823
+E06000002,Middlesbrough UA,UA,Planning and development services,8415
+E06000042,Milton Keynes UA,UA,Education services,236321
+E06000042,Milton Keynes UA,UA,Highways and transport services,27255
+E06000042,Milton Keynes UA,UA,Children Social Care,83132
+E06000042,Milton Keynes UA,UA,Adult Social Care,147804.8
+E06000042,Milton Keynes UA,UA,Public Health,15314.44
+E06000042,Milton Keynes UA,UA,Housing services (GFRA only),26987
+E06000042,Milton Keynes UA,UA,Cultural and related services,11523
+E06000042,Milton Keynes UA,UA,Environmental and regulatory services,35996
+E06000042,Milton Keynes UA,UA,Planning and development services,12505
+E07000210,Mole Valley,SD,Education services,0
+E07000210,Mole Valley,SD,Highways and transport services,1140
+E07000210,Mole Valley,SD,Children Social Care,0
+E07000210,Mole Valley,SD,Adult Social Care,5247
+E07000210,Mole Valley,SD,Public Health,0
+E07000210,Mole Valley,SD,Housing services (GFRA only),3616
+E07000210,Mole Valley,SD,Cultural and related services,6742
+E07000210,Mole Valley,SD,Environmental and regulatory services,7592
+E07000210,Mole Valley,SD,Planning and development services,3806
+E07000091,New Forest,SD,Education services,0
+E07000091,New Forest,SD,Highways and transport services,2863
+E07000091,New Forest,SD,Children Social Care,0
+E07000091,New Forest,SD,Adult Social Care,431
+E07000091,New Forest,SD,Public Health,206
+E07000091,New Forest,SD,Housing services (GFRA only),7150
+E07000091,New Forest,SD,Cultural and related services,2797
+E07000091,New Forest,SD,Environmental and regulatory services,15848
+E07000091,New Forest,SD,Planning and development services,5184
+E07000175,Newark & Sherwood ,SD,Education services,0
+E07000175,Newark & Sherwood ,SD,Highways and transport services,1190
+E07000175,Newark & Sherwood ,SD,Children Social Care,0
+E07000175,Newark & Sherwood ,SD,Adult Social Care,0
+E07000175,Newark & Sherwood ,SD,Public Health,0
+E07000175,Newark & Sherwood ,SD,Housing services (GFRA only),2677
+E07000175,Newark & Sherwood ,SD,Cultural and related services,6399
+E07000175,Newark & Sherwood ,SD,Environmental and regulatory services,11851
+E07000175,Newark & Sherwood ,SD,Planning and development services,6223
+E08000021,Newcastle,MD,Education services,232750
+E08000021,Newcastle,MD,Highways and transport services,38888
+E08000021,Newcastle,MD,Children Social Care,99007
+E08000021,Newcastle,MD,Adult Social Care,261096
+E08000021,Newcastle,MD,Public Health,34286
+E08000021,Newcastle,MD,Housing services (GFRA only),37100
+E08000021,Newcastle,MD,Cultural and related services,20205
+E08000021,Newcastle,MD,Environmental and regulatory services,55142
+E08000021,Newcastle,MD,Planning and development services,16649
+E07000195,Newcastle-under-Lyme,SD,Education services,0
+E07000195,Newcastle-under-Lyme,SD,Highways and transport services,484
+E07000195,Newcastle-under-Lyme,SD,Children Social Care,0
+E07000195,Newcastle-under-Lyme,SD,Adult Social Care,0
+E07000195,Newcastle-under-Lyme,SD,Public Health,0
+E07000195,Newcastle-under-Lyme,SD,Housing services (GFRA only),4502
+E07000195,Newcastle-under-Lyme,SD,Cultural and related services,4876
+E07000195,Newcastle-under-Lyme,SD,Environmental and regulatory services,15346
+E07000195,Newcastle-under-Lyme,SD,Planning and development services,11663
+E09000025,Newham,LB,Education services,370696
+E09000025,Newham,LB,Highways and transport services,40816
+E09000025,Newham,LB,Children Social Care,122088
+E09000025,Newham,LB,Adult Social Care,189654
+E09000025,Newham,LB,Public Health,38139
+E09000025,Newham,LB,Housing services (GFRA only),180910
+E09000025,Newham,LB,Cultural and related services,17862
+E09000025,Newham,LB,Environmental and regulatory services,40614
+E09000025,Newham,LB,Planning and development services,16816
+E10000020,Norfolk CC,SC,Education services,603404
+E10000020,Norfolk CC,SC,Highways and transport services,167707
+E10000020,Norfolk CC,SC,Children Social Care,246274
+E10000020,Norfolk CC,SC,Adult Social Care,705830
+E10000020,Norfolk CC,SC,Public Health,53216
+E10000020,Norfolk CC,SC,Housing services (GFRA only),0
+E10000020,Norfolk CC,SC,Cultural and related services,26856
+E10000020,Norfolk CC,SC,Environmental and regulatory services,56443
+E10000020,Norfolk CC,SC,Planning and development services,25848
+E07000043,North Devon,SD,Education services,0
+E07000043,North Devon,SD,Highways and transport services,1930
+E07000043,North Devon,SD,Children Social Care,0
+E07000043,North Devon,SD,Adult Social Care,0
+E07000043,North Devon,SD,Public Health,0
+E07000043,North Devon,SD,Housing services (GFRA only),4508
+E07000043,North Devon,SD,Cultural and related services,2125
+E07000043,North Devon,SD,Environmental and regulatory services,15779
+E07000043,North Devon,SD,Planning and development services,7110
+E07000038,North East Derbyshire,SD,Education services,0
+E07000038,North East Derbyshire,SD,Highways and transport services,406
+E07000038,North East Derbyshire,SD,Children Social Care,0
+E07000038,North East Derbyshire,SD,Adult Social Care,0
+E07000038,North East Derbyshire,SD,Public Health,0
+E07000038,North East Derbyshire,SD,Housing services (GFRA only),2489
+E07000038,North East Derbyshire,SD,Cultural and related services,6395
+E07000038,North East Derbyshire,SD,Environmental and regulatory services,7424
+E07000038,North East Derbyshire,SD,Planning and development services,3634
+E06000012,North East Lincolnshire UA,UA,Education services,75307
+E06000012,North East Lincolnshire UA,UA,Highways and transport services,19255
+E06000012,North East Lincolnshire UA,UA,Children Social Care,69331
+E06000012,North East Lincolnshire UA,UA,Adult Social Care,82650
+E06000012,North East Lincolnshire UA,UA,Public Health,18135
+E06000012,North East Lincolnshire UA,UA,Housing services (GFRA only),9385
+E06000012,North East Lincolnshire UA,UA,Cultural and related services,8474
+E06000012,North East Lincolnshire UA,UA,Environmental and regulatory services,28687
+E06000012,North East Lincolnshire UA,UA,Planning and development services,13703
+E07000099,North Hertfordshire,SD,Education services,0
+E07000099,North Hertfordshire,SD,Highways and transport services,3761
+E07000099,North Hertfordshire,SD,Children Social Care,0
+E07000099,North Hertfordshire,SD,Adult Social Care,5303
+E07000099,North Hertfordshire,SD,Public Health,369
+E07000099,North Hertfordshire,SD,Housing services (GFRA only),3580
+E07000099,North Hertfordshire,SD,Cultural and related services,4705
+E07000099,North Hertfordshire,SD,Environmental and regulatory services,12894
+E07000099,North Hertfordshire,SD,Planning and development services,4314
+E07000139,North Kesteven,SD,Education services,0
+E07000139,North Kesteven,SD,Highways and transport services,627
+E07000139,North Kesteven,SD,Children Social Care,0
+E07000139,North Kesteven,SD,Adult Social Care,809
+E07000139,North Kesteven,SD,Public Health,0
+E07000139,North Kesteven,SD,Housing services (GFRA only),4223
+E07000139,North Kesteven,SD,Cultural and related services,3523
+E07000139,North Kesteven,SD,Environmental and regulatory services,8264
+E07000139,North Kesteven,SD,Planning and development services,6962
+E06000013,North Lincolnshire UA,UA,Education services,158416.09
+E06000013,North Lincolnshire UA,UA,Highways and transport services,15591.19
+E06000013,North Lincolnshire UA,UA,Children Social Care,38385.58
+E06000013,North Lincolnshire UA,UA,Adult Social Care,100872.61
+E06000013,North Lincolnshire UA,UA,Public Health,12614.49
+E06000013,North Lincolnshire UA,UA,Housing services (GFRA only),8820.01
+E06000013,North Lincolnshire UA,UA,Cultural and related services,24370.46
+E06000013,North Lincolnshire UA,UA,Environmental and regulatory services,27984.7
+E06000013,North Lincolnshire UA,UA,Planning and development services,11865.16
+E07000147,North Norfolk,SD,Education services,0
+E07000147,North Norfolk,SD,Highways and transport services,1331
+E07000147,North Norfolk,SD,Children Social Care,0
+E07000147,North Norfolk,SD,Adult Social Care,0
+E07000147,North Norfolk,SD,Public Health,0
+E07000147,North Norfolk,SD,Housing services (GFRA only),5256
+E07000147,North Norfolk,SD,Cultural and related services,2733
+E07000147,North Norfolk,SD,Environmental and regulatory services,11847
+E07000147,North Norfolk,SD,Planning and development services,5158
+E06000061,North Northamptonshire,UA,Education services,273571
+E06000061,North Northamptonshire,UA,Highways and transport services,47250
+E06000061,North Northamptonshire,UA,Children Social Care,99326
+E06000061,North Northamptonshire,UA,Adult Social Care,196156
+E06000061,North Northamptonshire,UA,Public Health,21140
+E06000061,North Northamptonshire,UA,Housing services (GFRA only),14263
+E06000061,North Northamptonshire,UA,Cultural and related services,21434
+E06000061,North Northamptonshire,UA,Environmental and regulatory services,44357
+E06000061,North Northamptonshire,UA,Planning and development services,11942
+E06000024,North Somerset UA,UA,Education services,101757
+E06000024,North Somerset UA,UA,Highways and transport services,25133
+E06000024,North Somerset UA,UA,Children Social Care,64836
+E06000024,North Somerset UA,UA,Adult Social Care,150803
+E06000024,North Somerset UA,UA,Public Health,13525
+E06000024,North Somerset UA,UA,Housing services (GFRA only),8073
+E06000024,North Somerset UA,UA,Cultural and related services,10519
+E06000024,North Somerset UA,UA,Environmental and regulatory services,36665
+E06000024,North Somerset UA,UA,Planning and development services,8502
+E08000022,North Tyneside,MD,Education services,281349.38
+E08000022,North Tyneside,MD,Highways and transport services,15499
+E08000022,North Tyneside,MD,Children Social Care,75495
+E08000022,North Tyneside,MD,Adult Social Care,154915
+E08000022,North Tyneside,MD,Public Health,17128
+E08000022,North Tyneside,MD,Housing services (GFRA only),10853
+E08000022,North Tyneside,MD,Cultural and related services,29924
+E08000022,North Tyneside,MD,Environmental and regulatory services,31054
+E08000022,North Tyneside,MD,Planning and development services,10456
+E07000218,North Warwickshire,SD,Education services,0
+E07000218,North Warwickshire,SD,Highways and transport services,272
+E07000218,North Warwickshire,SD,Children Social Care,0
+E07000218,North Warwickshire,SD,Adult Social Care,0
+E07000218,North Warwickshire,SD,Public Health,0
+E07000218,North Warwickshire,SD,Housing services (GFRA only),978
+E07000218,North Warwickshire,SD,Cultural and related services,4117
+E07000218,North Warwickshire,SD,Environmental and regulatory services,5884
+E07000218,North Warwickshire,SD,Planning and development services,1999
+E07000134,North West Leicestershire,SD,Education services,0
+E07000134,North West Leicestershire,SD,Highways and transport services,948
+E07000134,North West Leicestershire,SD,Children Social Care,0
+E07000134,North West Leicestershire,SD,Adult Social Care,0
+E07000134,North West Leicestershire,SD,Public Health,0
+E07000134,North West Leicestershire,SD,Housing services (GFRA only),3116
+E07000134,North West Leicestershire,SD,Cultural and related services,2429
+E07000134,North West Leicestershire,SD,Environmental and regulatory services,10676
+E07000134,North West Leicestershire,SD,Planning and development services,11024
+E06000065,North Yorkshire,UA,Education services,437719
+E06000065,North Yorkshire,UA,Highways and transport services,82062.93
+E06000065,North Yorkshire,UA,Children Social Care,94858
+E06000065,North Yorkshire,UA,Adult Social Care,438380
+E06000065,North Yorkshire,UA,Public Health,30952
+E06000065,North Yorkshire,UA,Housing services (GFRA only),24809.04
+E06000065,North Yorkshire,UA,Cultural and related services,65078
+E06000065,North Yorkshire,UA,Environmental and regulatory services,135569.16
+E06000065,North Yorkshire,UA,Planning and development services,38034.47
+E06000057,Northumberland UA,UA,Education services,246228
+E06000057,Northumberland UA,UA,Highways and transport services,50876
+E06000057,Northumberland UA,UA,Children Social Care,88223
+E06000057,Northumberland UA,UA,Adult Social Care,228762
+E06000057,Northumberland UA,UA,Public Health,21893
+E06000057,Northumberland UA,UA,Housing services (GFRA only),7540
+E06000057,Northumberland UA,UA,Cultural and related services,17190
+E06000057,Northumberland UA,UA,Environmental and regulatory services,46317
+E06000057,Northumberland UA,UA,Planning and development services,25411
+E07000148,Norwich City,SD,Education services,0
+E07000148,Norwich City,SD,Highways and transport services,6985
+E07000148,Norwich City,SD,Children Social Care,0
+E07000148,Norwich City,SD,Adult Social Care,0
+E07000148,Norwich City,SD,Public Health,347
+E07000148,Norwich City,SD,Housing services (GFRA only),10297
+E07000148,Norwich City,SD,Cultural and related services,5878
+E07000148,Norwich City,SD,Environmental and regulatory services,12923
+E07000148,Norwich City,SD,Planning and development services,5441
+E06000018,Nottingham City UA,UA,Education services,194475
+E06000018,Nottingham City UA,UA,Highways and transport services,71873
+E06000018,Nottingham City UA,UA,Children Social Care,138202
+E06000018,Nottingham City UA,UA,Adult Social Care,225574
+E06000018,Nottingham City UA,UA,Public Health,40004
+E06000018,Nottingham City UA,UA,Housing services (GFRA only),30741
+E06000018,Nottingham City UA,UA,Cultural and related services,49938
+E06000018,Nottingham City UA,UA,Environmental and regulatory services,56546
+E06000018,Nottingham City UA,UA,Planning and development services,28436
+E10000024,Nottinghamshire CC,SC,Education services,542702
+E10000024,Nottinghamshire CC,SC,Highways and transport services,62922.99
+E10000024,Nottinghamshire CC,SC,Children Social Care,228881.82
+E10000024,Nottinghamshire CC,SC,Adult Social Care,569906.72
+E10000024,Nottinghamshire CC,SC,Public Health,59263
+E10000024,Nottinghamshire CC,SC,Housing services (GFRA only),86
+E10000024,Nottinghamshire CC,SC,Cultural and related services,16125.23
+E10000024,Nottinghamshire CC,SC,Environmental and regulatory services,50699.48
+E10000024,Nottinghamshire CC,SC,Planning and development services,27520
+E07000219,Nuneaton & Bedworth,SD,Education services,0
+E07000219,Nuneaton & Bedworth,SD,Highways and transport services,1244
+E07000219,Nuneaton & Bedworth,SD,Children Social Care,0
+E07000219,Nuneaton & Bedworth,SD,Adult Social Care,0
+E07000219,Nuneaton & Bedworth,SD,Public Health,0
+E07000219,Nuneaton & Bedworth,SD,Housing services (GFRA only),2080
+E07000219,Nuneaton & Bedworth,SD,Cultural and related services,3035
+E07000219,Nuneaton & Bedworth,SD,Environmental and regulatory services,9330
+E07000219,Nuneaton & Bedworth,SD,Planning and development services,2769
+E07000135,Oadby & Wigston,SD,Education services,0
+E07000135,Oadby & Wigston,SD,Highways and transport services,236
+E07000135,Oadby & Wigston,SD,Children Social Care,0
+E07000135,Oadby & Wigston,SD,Adult Social Care,0
+E07000135,Oadby & Wigston,SD,Public Health,0
+E07000135,Oadby & Wigston,SD,Housing services (GFRA only),2372
+E07000135,Oadby & Wigston,SD,Cultural and related services,271
+E07000135,Oadby & Wigston,SD,Environmental and regulatory services,2207
+E07000135,Oadby & Wigston,SD,Planning and development services,1309
+E08000004,Oldham,MD,Education services,252127
+E08000004,Oldham,MD,Highways and transport services,18459
+E08000004,Oldham,MD,Children Social Care,94143
+E08000004,Oldham,MD,Adult Social Care,158876
+E08000004,Oldham,MD,Public Health,22146
+E08000004,Oldham,MD,Housing services (GFRA only),20171
+E08000004,Oldham,MD,Cultural and related services,19085
+E08000004,Oldham,MD,Environmental and regulatory services,17534
+E08000004,Oldham,MD,Planning and development services,8314
+E07000178,Oxford,SD,Education services,0
+E07000178,Oxford,SD,Highways and transport services,4767
+E07000178,Oxford,SD,Children Social Care,0
+E07000178,Oxford,SD,Adult Social Care,0
+E07000178,Oxford,SD,Public Health,0
+E07000178,Oxford,SD,Housing services (GFRA only),21603
+E07000178,Oxford,SD,Cultural and related services,7718
+E07000178,Oxford,SD,Environmental and regulatory services,20827
+E07000178,Oxford,SD,Planning and development services,17112
+E10000025,Oxfordshire CC,SC,Education services,458923
+E10000025,Oxfordshire CC,SC,Highways and transport services,84680
+E10000025,Oxfordshire CC,SC,Children Social Care,173040
+E10000025,Oxfordshire CC,SC,Adult Social Care,381319
+E10000025,Oxfordshire CC,SC,Public Health,39439
+E10000025,Oxfordshire CC,SC,Housing services (GFRA only),7130
+E10000025,Oxfordshire CC,SC,Cultural and related services,17501
+E10000025,Oxfordshire CC,SC,Environmental and regulatory services,37663
+E10000025,Oxfordshire CC,SC,Planning and development services,5938
+E07000122,Pendle,SD,Education services,0
+E07000122,Pendle,SD,Highways and transport services,717
+E07000122,Pendle,SD,Children Social Care,0
+E07000122,Pendle,SD,Adult Social Care,0
+E07000122,Pendle,SD,Public Health,0
+E07000122,Pendle,SD,Housing services (GFRA only),3694
+E07000122,Pendle,SD,Cultural and related services,4352
+E07000122,Pendle,SD,Environmental and regulatory services,7471
+E07000122,Pendle,SD,Planning and development services,6556
+E06000031,Peterborough UA,UA,Education services,171852.03
+E06000031,Peterborough UA,UA,Highways and transport services,11060
+E06000031,Peterborough UA,UA,Children Social Care,82261.12
+E06000031,Peterborough UA,UA,Adult Social Care,113581.28
+E06000031,Peterborough UA,UA,Public Health,15662
+E06000031,Peterborough UA,UA,Housing services (GFRA only),14270.12
+E06000031,Peterborough UA,UA,Cultural and related services,8741
+E06000031,Peterborough UA,UA,Environmental and regulatory services,28975.54
+E06000031,Peterborough UA,UA,Planning and development services,11926.52
+E06000026,Plymouth UA,UA,Education services,198460
+E06000026,Plymouth UA,UA,Highways and transport services,31552
+E06000026,Plymouth UA,UA,Children Social Care,97182
+E06000026,Plymouth UA,UA,Adult Social Care,162176
+E06000026,Plymouth UA,UA,Public Health,24228
+E06000026,Plymouth UA,UA,Housing services (GFRA only),18510
+E06000026,Plymouth UA,UA,Cultural and related services,26976
+E06000026,Plymouth UA,UA,Environmental and regulatory services,49927
+E06000026,Plymouth UA,UA,Planning and development services,28912
+E06000044,Portsmouth UA,UA,Education services,125796
+E06000044,Portsmouth UA,UA,Highways and transport services,60720
+E06000044,Portsmouth UA,UA,Children Social Care,78452
+E06000044,Portsmouth UA,UA,Adult Social Care,114503
+E06000044,Portsmouth UA,UA,Public Health,24471
+E06000044,Portsmouth UA,UA,Housing services (GFRA only),35691
+E06000044,Portsmouth UA,UA,Cultural and related services,26911
+E06000044,Portsmouth UA,UA,Environmental and regulatory services,29758
+E06000044,Portsmouth UA,UA,Planning and development services,15596
+E07000123,Preston,SD,Education services,0
+E07000123,Preston,SD,Highways and transport services,1013
+E07000123,Preston,SD,Children Social Care,0
+E07000123,Preston,SD,Adult Social Care,0
+E07000123,Preston,SD,Public Health,108
+E07000123,Preston,SD,Housing services (GFRA only),6011
+E07000123,Preston,SD,Cultural and related services,6459
+E07000123,Preston,SD,Environmental and regulatory services,12816
+E07000123,Preston,SD,Planning and development services,10846
+E06000038,Reading UA,UA,Education services,149137
+E06000038,Reading UA,UA,Highways and transport services,22945
+E06000038,Reading UA,UA,Children Social Care,65163
+E06000038,Reading UA,UA,Adult Social Care,98315
+E06000038,Reading UA,UA,Public Health,12871
+E06000038,Reading UA,UA,Housing services (GFRA only),23972
+E06000038,Reading UA,UA,Cultural and related services,14389
+E06000038,Reading UA,UA,Environmental and regulatory services,28349
+E06000038,Reading UA,UA,Planning and development services,6842
+E09000026,Redbridge,LB,Education services,407648
+E09000026,Redbridge,LB,Highways and transport services,28963
+E09000026,Redbridge,LB,Children Social Care,73353
+E09000026,Redbridge,LB,Adult Social Care,142872.51
+E09000026,Redbridge,LB,Public Health,18722
+E09000026,Redbridge,LB,Housing services (GFRA only),77288
+E09000026,Redbridge,LB,Cultural and related services,12330.79
+E09000026,Redbridge,LB,Environmental and regulatory services,38377
+E09000026,Redbridge,LB,Planning and development services,11256
+E06000003,Redcar & Cleveland UA,UA,Education services,80728
+E06000003,Redcar & Cleveland UA,UA,Highways and transport services,15024
+E06000003,Redcar & Cleveland UA,UA,Children Social Care,68031
+E06000003,Redcar & Cleveland UA,UA,Adult Social Care,108515
+E06000003,Redcar & Cleveland UA,UA,Public Health,20082
+E06000003,Redcar & Cleveland UA,UA,Housing services (GFRA only),2567
+E06000003,Redcar & Cleveland UA,UA,Cultural and related services,6193
+E06000003,Redcar & Cleveland UA,UA,Environmental and regulatory services,24377
+E06000003,Redcar & Cleveland UA,UA,Planning and development services,6815
+E07000236,Redditch BC,SD,Education services,0
+E07000236,Redditch BC,SD,Highways and transport services,650
+E07000236,Redditch BC,SD,Children Social Care,0
+E07000236,Redditch BC,SD,Adult Social Care,0
+E07000236,Redditch BC,SD,Public Health,0
+E07000236,Redditch BC,SD,Housing services (GFRA only),4053
+E07000236,Redditch BC,SD,Cultural and related services,1981
+E07000236,Redditch BC,SD,Environmental and regulatory services,7603
+E07000236,Redditch BC,SD,Planning and development services,3698
+E07000211,Reigate and Banstead,SD,Education services,0
+E07000211,Reigate and Banstead,SD,Highways and transport services,1640
+E07000211,Reigate and Banstead,SD,Children Social Care,0
+E07000211,Reigate and Banstead,SD,Adult Social Care,0
+E07000211,Reigate and Banstead,SD,Public Health,0
+E07000211,Reigate and Banstead,SD,Housing services (GFRA only),3512.79
+E07000211,Reigate and Banstead,SD,Cultural and related services,3933.38
+E07000211,Reigate and Banstead,SD,Environmental and regulatory services,10652
+E07000211,Reigate and Banstead,SD,Planning and development services,3669
+E07000124,Ribble Valley,SD,Education services,0
+E07000124,Ribble Valley,SD,Highways and transport services,701.47
+E07000124,Ribble Valley,SD,Children Social Care,0
+E07000124,Ribble Valley,SD,Adult Social Care,21.51
+E07000124,Ribble Valley,SD,Public Health,0
+E07000124,Ribble Valley,SD,Housing services (GFRA only),976.66
+E07000124,Ribble Valley,SD,Cultural and related services,3703.6
+E07000124,Ribble Valley,SD,Environmental and regulatory services,5333.9
+E07000124,Ribble Valley,SD,Planning and development services,1769.3
+E09000027,Richmond upon Thames,LB,Education services,290338
+E09000027,Richmond upon Thames,LB,Highways and transport services,32479
+E09000027,Richmond upon Thames,LB,Children Social Care,53296
+E09000027,Richmond upon Thames,LB,Adult Social Care,119914
+E09000027,Richmond upon Thames,LB,Public Health,11546
+E09000027,Richmond upon Thames,LB,Housing services (GFRA only),29740
+E09000027,Richmond upon Thames,LB,Cultural and related services,21348
+E09000027,Richmond upon Thames,LB,Environmental and regulatory services,22869
+E09000027,Richmond upon Thames,LB,Planning and development services,9165
+E08000005,Rochdale,MD,Education services,255968
+E08000005,Rochdale,MD,Highways and transport services,18538
+E08000005,Rochdale,MD,Children Social Care,81095
+E08000005,Rochdale,MD,Adult Social Care,156291.03
+E08000005,Rochdale,MD,Public Health,25966
+E08000005,Rochdale,MD,Housing services (GFRA only),12190.42
+E08000005,Rochdale,MD,Cultural and related services,16422
+E08000005,Rochdale,MD,Environmental and regulatory services,17664
+E08000005,Rochdale,MD,Planning and development services,16571
+E07000075,Rochford,SD,Education services,0
+E07000075,Rochford,SD,Highways and transport services,904
+E07000075,Rochford,SD,Children Social Care,0
+E07000075,Rochford,SD,Adult Social Care,0
+E07000075,Rochford,SD,Public Health,0
+E07000075,Rochford,SD,Housing services (GFRA only),2714
+E07000075,Rochford,SD,Cultural and related services,2796
+E07000075,Rochford,SD,Environmental and regulatory services,7506
+E07000075,Rochford,SD,Planning and development services,3881
+E07000125,Rossendale,SD,Education services,0
+E07000125,Rossendale,SD,Highways and transport services,296
+E07000125,Rossendale,SD,Children Social Care,0
+E07000125,Rossendale,SD,Adult Social Care,0
+E07000125,Rossendale,SD,Public Health,0
+E07000125,Rossendale,SD,Housing services (GFRA only),4228
+E07000125,Rossendale,SD,Cultural and related services,2107
+E07000125,Rossendale,SD,Environmental and regulatory services,4193
+E07000125,Rossendale,SD,Planning and development services,2129
+E07000064,Rother,SD,Education services,0
+E07000064,Rother,SD,Highways and transport services,904
+E07000064,Rother,SD,Children Social Care,0
+E07000064,Rother,SD,Adult Social Care,0
+E07000064,Rother,SD,Public Health,0
+E07000064,Rother,SD,Housing services (GFRA only),7195
+E07000064,Rother,SD,Cultural and related services,2660
+E07000064,Rother,SD,Environmental and regulatory services,9233
+E07000064,Rother,SD,Planning and development services,4382
+E08000018,Rotherham,MD,Education services,138231
+E08000018,Rotherham,MD,Highways and transport services,12738
+E08000018,Rotherham,MD,Children Social Care,94184
+E08000018,Rotherham,MD,Adult Social Care,167299
+E08000018,Rotherham,MD,Public Health,21673
+E08000018,Rotherham,MD,Housing services (GFRA only),10563
+E08000018,Rotherham,MD,Cultural and related services,22519
+E08000018,Rotherham,MD,Environmental and regulatory services,35913
+E08000018,Rotherham,MD,Planning and development services,10121
+E07000220,Rugby,SD,Education services,0
+E07000220,Rugby,SD,Highways and transport services,995.96
+E07000220,Rugby,SD,Children Social Care,0
+E07000220,Rugby,SD,Adult Social Care,0
+E07000220,Rugby,SD,Public Health,176.7
+E07000220,Rugby,SD,Housing services (GFRA only),4003.69
+E07000220,Rugby,SD,Cultural and related services,6761.63
+E07000220,Rugby,SD,Environmental and regulatory services,11323.89
+E07000220,Rugby,SD,Planning and development services,4002.99
+E07000212,Runnymede,SD,Education services,0
+E07000212,Runnymede,SD,Highways and transport services,1367
+E07000212,Runnymede,SD,Children Social Care,0
+E07000212,Runnymede,SD,Adult Social Care,2888
+E07000212,Runnymede,SD,Public Health,0
+E07000212,Runnymede,SD,Housing services (GFRA only),3341
+E07000212,Runnymede,SD,Cultural and related services,4095
+E07000212,Runnymede,SD,Environmental and regulatory services,7997
+E07000212,Runnymede,SD,Planning and development services,3438
+E07000176,Rushcliffe,SD,Education services,0
+E07000176,Rushcliffe,SD,Highways and transport services,410
+E07000176,Rushcliffe,SD,Children Social Care,0
+E07000176,Rushcliffe,SD,Adult Social Care,0
+E07000176,Rushcliffe,SD,Public Health,0
+E07000176,Rushcliffe,SD,Housing services (GFRA only),1889
+E07000176,Rushcliffe,SD,Cultural and related services,3294
+E07000176,Rushcliffe,SD,Environmental and regulatory services,9873
+E07000176,Rushcliffe,SD,Planning and development services,4718
+E07000092,Rushmoor,SD,Education services,0
+E07000092,Rushmoor,SD,Highways and transport services,1177.83
+E07000092,Rushmoor,SD,Children Social Care,0
+E07000092,Rushmoor,SD,Adult Social Care,0
+E07000092,Rushmoor,SD,Public Health,0
+E07000092,Rushmoor,SD,Housing services (GFRA only),2886.17
+E07000092,Rushmoor,SD,Cultural and related services,4099.15
+E07000092,Rushmoor,SD,Environmental and regulatory services,7114.66
+E07000092,Rushmoor,SD,Planning and development services,4821.15
+E06000017,Rutland UA,UA,Education services,25100
+E06000017,Rutland UA,UA,Highways and transport services,5843.84
+E06000017,Rutland UA,UA,Children Social Care,9482
+E06000017,Rutland UA,UA,Adult Social Care,25701
+E06000017,Rutland UA,UA,Public Health,1687
+E06000017,Rutland UA,UA,Housing services (GFRA only),1170
+E06000017,Rutland UA,UA,Cultural and related services,2454.95
+E06000017,Rutland UA,UA,Environmental and regulatory services,7084.96
+E06000017,Rutland UA,UA,Planning and development services,2690.81
+E08000006,Salford,MD,Education services,319382
+E08000006,Salford,MD,Highways and transport services,18038
+E08000006,Salford,MD,Children Social Care,94226
+E08000006,Salford,MD,Adult Social Care,164813
+E08000006,Salford,MD,Public Health,21622
+E08000006,Salford,MD,Housing services (GFRA only),27303
+E08000006,Salford,MD,Cultural and related services,12543
+E08000006,Salford,MD,Environmental and regulatory services,20147
+E08000006,Salford,MD,Planning and development services,15220
+E08000028,Sandwell,MD,Education services,527479
+E08000028,Sandwell,MD,Highways and transport services,12731
+E08000028,Sandwell,MD,Children Social Care,140328
+E08000028,Sandwell,MD,Adult Social Care,226622
+E08000028,Sandwell,MD,Public Health,31512
+E08000028,Sandwell,MD,Housing services (GFRA only),26759
+E08000028,Sandwell,MD,Cultural and related services,16998
+E08000028,Sandwell,MD,Environmental and regulatory services,49501
+E08000028,Sandwell,MD,Planning and development services,22269
+E08000014,Sefton,MD,Education services,268102
+E08000014,Sefton,MD,Highways and transport services,14984
+E08000014,Sefton,MD,Children Social Care,112508
+E08000014,Sefton,MD,Adult Social Care,203616
+E08000014,Sefton,MD,Public Health,27632
+E08000014,Sefton,MD,Housing services (GFRA only),13057
+E08000014,Sefton,MD,Cultural and related services,27997
+E08000014,Sefton,MD,Environmental and regulatory services,31291
+E08000014,Sefton,MD,Planning and development services,13712
+E07000111,Sevenoaks,SD,Education services,0
+E07000111,Sevenoaks,SD,Highways and transport services,2149
+E07000111,Sevenoaks,SD,Children Social Care,61
+E07000111,Sevenoaks,SD,Adult Social Care,0
+E07000111,Sevenoaks,SD,Public Health,59
+E07000111,Sevenoaks,SD,Housing services (GFRA only),5800
+E07000111,Sevenoaks,SD,Cultural and related services,2303
+E07000111,Sevenoaks,SD,Environmental and regulatory services,18395
+E07000111,Sevenoaks,SD,Planning and development services,9960
+E08000019,Sheffield,MD,Education services,434655
+E08000019,Sheffield,MD,Highways and transport services,87514
+E08000019,Sheffield,MD,Children Social Care,167902
+E08000019,Sheffield,MD,Adult Social Care,364228
+E08000019,Sheffield,MD,Public Health,39606
+E08000019,Sheffield,MD,Housing services (GFRA only),34408
+E08000019,Sheffield,MD,Cultural and related services,45644
+E08000019,Sheffield,MD,Environmental and regulatory services,80065
+E08000019,Sheffield,MD,Planning and development services,35388
+E06000051,Shropshire UA,UA,Education services,188058
+E06000051,Shropshire UA,UA,Highways and transport services,33572
+E06000051,Shropshire UA,UA,Children Social Care,84198
+E06000051,Shropshire UA,UA,Adult Social Care,230745
+E06000051,Shropshire UA,UA,Public Health,17839
+E06000051,Shropshire UA,UA,Housing services (GFRA only),12106
+E06000051,Shropshire UA,UA,Cultural and related services,19999
+E06000051,Shropshire UA,UA,Environmental and regulatory services,33128
+E06000051,Shropshire UA,UA,Planning and development services,20808
+E06000039,Slough UA,UA,Education services,122581.99
+E06000039,Slough UA,UA,Highways and transport services,7074.62
+E06000039,Slough UA,UA,Children Social Care,45687.32
+E06000039,Slough UA,UA,Adult Social Care,72336.21
+E06000039,Slough UA,UA,Public Health,10414.17
+E06000039,Slough UA,UA,Housing services (GFRA only),45446.59
+E06000039,Slough UA,UA,Cultural and related services,1896.05
+E06000039,Slough UA,UA,Environmental and regulatory services,16609.86
+E06000039,Slough UA,UA,Planning and development services,3540.13
+E08000029,Solihull,MD,Education services,189318
+E08000029,Solihull,MD,Highways and transport services,16914
+E08000029,Solihull,MD,Children Social Care,80195.21
+E08000029,Solihull,MD,Adult Social Care,142333
+E08000029,Solihull,MD,Public Health,15053
+E08000029,Solihull,MD,Housing services (GFRA only),8783
+E08000029,Solihull,MD,Cultural and related services,6651
+E08000029,Solihull,MD,Environmental and regulatory services,30605
+E08000029,Solihull,MD,Planning and development services,11948
+E06000066,Somerset,UA,Education services,382899
+E06000066,Somerset,UA,Highways and transport services,63343
+E06000066,Somerset,UA,Children Social Care,159039
+E06000066,Somerset,UA,Adult Social Care,395000
+E06000066,Somerset,UA,Public Health,30740.73
+E06000066,Somerset,UA,Housing services (GFRA only),29490
+E06000066,Somerset,UA,Cultural and related services,27968
+E06000066,Somerset,UA,Environmental and regulatory services,89540
+E06000066,Somerset,UA,Planning and development services,36169
+E07000012,South Cambridgeshire,SD,Education services,0
+E07000012,South Cambridgeshire,SD,Highways and transport services,146
+E07000012,South Cambridgeshire,SD,Children Social Care,0
+E07000012,South Cambridgeshire,SD,Adult Social Care,156
+E07000012,South Cambridgeshire,SD,Public Health,17
+E07000012,South Cambridgeshire,SD,Housing services (GFRA only),5569
+E07000012,South Cambridgeshire,SD,Cultural and related services,801
+E07000012,South Cambridgeshire,SD,Environmental and regulatory services,19819
+E07000012,South Cambridgeshire,SD,Planning and development services,15405
+E07000039,South Derbyshire,SD,Education services,0
+E07000039,South Derbyshire,SD,Highways and transport services,358
+E07000039,South Derbyshire,SD,Children Social Care,0
+E07000039,South Derbyshire,SD,Adult Social Care,0
+E07000039,South Derbyshire,SD,Public Health,0
+E07000039,South Derbyshire,SD,Housing services (GFRA only),2744
+E07000039,South Derbyshire,SD,Cultural and related services,6911
+E07000039,South Derbyshire,SD,Environmental and regulatory services,10884
+E07000039,South Derbyshire,SD,Planning and development services,4370
+E06000025,South Gloucestershire UA,UA,Education services,215717
+E06000025,South Gloucestershire UA,UA,Highways and transport services,28154
+E06000025,South Gloucestershire UA,UA,Children Social Care,73636
+E06000025,South Gloucestershire UA,UA,Adult Social Care,195036
+E06000025,South Gloucestershire UA,UA,Public Health,11700
+E06000025,South Gloucestershire UA,UA,Housing services (GFRA only),11060
+E06000025,South Gloucestershire UA,UA,Cultural and related services,9734
+E06000025,South Gloucestershire UA,UA,Environmental and regulatory services,44288
+E06000025,South Gloucestershire UA,UA,Planning and development services,11034
+E07000044,South Hams,SD,Education services,0
+E07000044,South Hams,SD,Highways and transport services,5029
+E07000044,South Hams,SD,Children Social Care,0
+E07000044,South Hams,SD,Adult Social Care,0
+E07000044,South Hams,SD,Public Health,0
+E07000044,South Hams,SD,Housing services (GFRA only),5104
+E07000044,South Hams,SD,Cultural and related services,1887
+E07000044,South Hams,SD,Environmental and regulatory services,13656
+E07000044,South Hams,SD,Planning and development services,6591
+E07000140,South Holland,SD,Education services,0
+E07000140,South Holland,SD,Highways and transport services,354
+E07000140,South Holland,SD,Children Social Care,0
+E07000140,South Holland,SD,Adult Social Care,0
+E07000140,South Holland,SD,Public Health,0
+E07000140,South Holland,SD,Housing services (GFRA only),2557
+E07000140,South Holland,SD,Cultural and related services,3612
+E07000140,South Holland,SD,Environmental and regulatory services,11398
+E07000140,South Holland,SD,Planning and development services,7692
+E07000141,South Kesteven,SD,Education services,0
+E07000141,South Kesteven,SD,Highways and transport services,1893
+E07000141,South Kesteven,SD,Children Social Care,0
+E07000141,South Kesteven,SD,Adult Social Care,0
+E07000141,South Kesteven,SD,Public Health,0
+E07000141,South Kesteven,SD,Housing services (GFRA only),2664
+E07000141,South Kesteven,SD,Cultural and related services,4359
+E07000141,South Kesteven,SD,Environmental and regulatory services,8075
+E07000141,South Kesteven,SD,Planning and development services,7552
+E07000149,South Norfolk,SD,Education services,0
+E07000149,South Norfolk,SD,Highways and transport services,313.19
+E07000149,South Norfolk,SD,Children Social Care,0
+E07000149,South Norfolk,SD,Adult Social Care,0
+E07000149,South Norfolk,SD,Public Health,0
+E07000149,South Norfolk,SD,Housing services (GFRA only),3281.24
+E07000149,South Norfolk,SD,Cultural and related services,4798.53
+E07000149,South Norfolk,SD,Environmental and regulatory services,9565.03
+E07000149,South Norfolk,SD,Planning and development services,8367.15
+E07000179,South Oxfordshire,SD,Education services,0
+E07000179,South Oxfordshire,SD,Highways and transport services,811
+E07000179,South Oxfordshire,SD,Children Social Care,0
+E07000179,South Oxfordshire,SD,Adult Social Care,0
+E07000179,South Oxfordshire,SD,Public Health,0
+E07000179,South Oxfordshire,SD,Housing services (GFRA only),3004
+E07000179,South Oxfordshire,SD,Cultural and related services,4509
+E07000179,South Oxfordshire,SD,Environmental and regulatory services,12740
+E07000179,South Oxfordshire,SD,Planning and development services,8066
+E07000126,South Ribble,SD,Education services,0
+E07000126,South Ribble,SD,Highways and transport services,211
+E07000126,South Ribble,SD,Children Social Care,0
+E07000126,South Ribble,SD,Adult Social Care,0
+E07000126,South Ribble,SD,Public Health,110
+E07000126,South Ribble,SD,Housing services (GFRA only),4987
+E07000126,South Ribble,SD,Cultural and related services,9495
+E07000126,South Ribble,SD,Environmental and regulatory services,12316
+E07000126,South Ribble,SD,Planning and development services,13515
+E07000196,South Staffordshire,SD,Education services,0
+E07000196,South Staffordshire,SD,Highways and transport services,212
+E07000196,South Staffordshire,SD,Children Social Care,0
+E07000196,South Staffordshire,SD,Adult Social Care,0
+E07000196,South Staffordshire,SD,Public Health,88
+E07000196,South Staffordshire,SD,Housing services (GFRA only),2217
+E07000196,South Staffordshire,SD,Cultural and related services,5435
+E07000196,South Staffordshire,SD,Environmental and regulatory services,7880
+E07000196,South Staffordshire,SD,Planning and development services,7239
+E08000023,South Tyneside,MD,Education services,180010
+E08000023,South Tyneside,MD,Highways and transport services,12448
+E08000023,South Tyneside,MD,Children Social Care,64189
+E08000023,South Tyneside,MD,Adult Social Care,136728
+E08000023,South Tyneside,MD,Public Health,17021
+E08000023,South Tyneside,MD,Housing services (GFRA only),4001
+E08000023,South Tyneside,MD,Cultural and related services,17401
+E08000023,South Tyneside,MD,Environmental and regulatory services,23209
+E08000023,South Tyneside,MD,Planning and development services,12236
+E06000045,Southampton UA,UA,Education services,270475
+E06000045,Southampton UA,UA,Highways and transport services,29462
+E06000045,Southampton UA,UA,Children Social Care,76903
+E06000045,Southampton UA,UA,Adult Social Care,152000
+E06000045,Southampton UA,UA,Public Health,18379
+E06000045,Southampton UA,UA,Housing services (GFRA only),16098
+E06000045,Southampton UA,UA,Cultural and related services,26756
+E06000045,Southampton UA,UA,Environmental and regulatory services,42240
+E06000045,Southampton UA,UA,Planning and development services,14375
+E06000033,Southend-on-Sea UA,UA,Education services,89763
+E06000033,Southend-on-Sea UA,UA,Highways and transport services,17639
+E06000033,Southend-on-Sea UA,UA,Children Social Care,56343
+E06000033,Southend-on-Sea UA,UA,Adult Social Care,106003
+E06000033,Southend-on-Sea UA,UA,Public Health,11880
+E06000033,Southend-on-Sea UA,UA,Housing services (GFRA only),11591
+E06000033,Southend-on-Sea UA,UA,Cultural and related services,15014
+E06000033,Southend-on-Sea UA,UA,Environmental and regulatory services,27116
+E06000033,Southend-on-Sea UA,UA,Planning and development services,4762
+E09000028,Southwark,LB,Education services,257175.27
+E09000028,Southwark,LB,Highways and transport services,51345.8
+E09000028,Southwark,LB,Children Social Care,119037.89
+E09000028,Southwark,LB,Adult Social Care,169166.46
+E09000028,Southwark,LB,Public Health,30819.22
+E09000028,Southwark,LB,Housing services (GFRA only),83886.28
+E09000028,Southwark,LB,Cultural and related services,40548.6
+E09000028,Southwark,LB,Environmental and regulatory services,70886.49
+E09000028,Southwark,LB,Planning and development services,30299.75
+E07000213,Spelthorne,SD,Education services,0
+E07000213,Spelthorne,SD,Highways and transport services,1263
+E07000213,Spelthorne,SD,Children Social Care,2151
+E07000213,Spelthorne,SD,Adult Social Care,3124
+E07000213,Spelthorne,SD,Public Health,0
+E07000213,Spelthorne,SD,Housing services (GFRA only),19663
+E07000213,Spelthorne,SD,Cultural and related services,3071
+E07000213,Spelthorne,SD,Environmental and regulatory services,8102
+E07000213,Spelthorne,SD,Planning and development services,10906
+E07000240,St Albans,SD,Education services,0
+E07000240,St Albans,SD,Highways and transport services,4740.61
+E07000240,St Albans,SD,Children Social Care,0
+E07000240,St Albans,SD,Adult Social Care,0
+E07000240,St Albans,SD,Public Health,9.3
+E07000240,St Albans,SD,Housing services (GFRA only),4186.37
+E07000240,St Albans,SD,Cultural and related services,6412.52
+E07000240,St Albans,SD,Environmental and regulatory services,11671.75
+E07000240,St Albans,SD,Planning and development services,6578.6
+E08000013,St Helens MBC,MD,Education services,189068.52
+E08000013,St Helens MBC,MD,Highways and transport services,10854.18
+E08000013,St Helens MBC,MD,Children Social Care,76896.99
+E08000013,St Helens MBC,MD,Adult Social Care,129097.74
+E08000013,St Helens MBC,MD,Public Health,19340
+E08000013,St Helens MBC,MD,Housing services (GFRA only),8110.93
+E08000013,St Helens MBC,MD,Cultural and related services,10946.04
+E08000013,St Helens MBC,MD,Environmental and regulatory services,20366.02
+E08000013,St Helens MBC,MD,Planning and development services,13670.83
+E07000197,Stafford BC,SD,Education services,0
+E07000197,Stafford BC,SD,Highways and transport services,2258
+E07000197,Stafford BC,SD,Children Social Care,0
+E07000197,Stafford BC,SD,Adult Social Care,0
+E07000197,Stafford BC,SD,Public Health,0
+E07000197,Stafford BC,SD,Housing services (GFRA only),3167
+E07000197,Stafford BC,SD,Cultural and related services,2955
+E07000197,Stafford BC,SD,Environmental and regulatory services,8959
+E07000197,Stafford BC,SD,Planning and development services,6130
+E10000028,Staffordshire CC,SC,Education services,473412
+E10000028,Staffordshire CC,SC,Highways and transport services,76741
+E10000028,Staffordshire CC,SC,Children Social Care,239112
+E10000028,Staffordshire CC,SC,Adult Social Care,509440
+E10000028,Staffordshire CC,SC,Public Health,46897
+E10000028,Staffordshire CC,SC,Housing services (GFRA only),0
+E10000028,Staffordshire CC,SC,Cultural and related services,14641
+E10000028,Staffordshire CC,SC,Environmental and regulatory services,82624
+E10000028,Staffordshire CC,SC,Planning and development services,12233
+E07000198,Staffordshire Moorlands,SD,Education services,0
+E07000198,Staffordshire Moorlands,SD,Highways and transport services,537
+E07000198,Staffordshire Moorlands,SD,Children Social Care,0
+E07000198,Staffordshire Moorlands,SD,Adult Social Care,0
+E07000198,Staffordshire Moorlands,SD,Public Health,0
+E07000198,Staffordshire Moorlands,SD,Housing services (GFRA only),1532
+E07000198,Staffordshire Moorlands,SD,Cultural and related services,3571
+E07000198,Staffordshire Moorlands,SD,Environmental and regulatory services,8271
+E07000198,Staffordshire Moorlands,SD,Planning and development services,4129
+E07000243,Stevenage,SD,Education services,0
+E07000243,Stevenage,SD,Highways and transport services,3386.55
+E07000243,Stevenage,SD,Children Social Care,0
+E07000243,Stevenage,SD,Adult Social Care,0
+E07000243,Stevenage,SD,Public Health,0
+E07000243,Stevenage,SD,Housing services (GFRA only),5614.3
+E07000243,Stevenage,SD,Cultural and related services,6034.44
+E07000243,Stevenage,SD,Environmental and regulatory services,10537.8
+E07000243,Stevenage,SD,Planning and development services,11352.48
+E08000007,Stockport MBC,MD,Education services,343351
+E08000007,Stockport MBC,MD,Highways and transport services,26021
+E08000007,Stockport MBC,MD,Children Social Care,81359.98
+E08000007,Stockport MBC,MD,Adult Social Care,198599
+E08000007,Stockport MBC,MD,Public Health,26121.99
+E08000007,Stockport MBC,MD,Housing services (GFRA only),4407
+E08000007,Stockport MBC,MD,Cultural and related services,15821
+E08000007,Stockport MBC,MD,Environmental and regulatory services,22702
+E08000007,Stockport MBC,MD,Planning and development services,12570
+E06000004,Stockton-on-Tees UA,UA,Education services,133192
+E06000004,Stockton-on-Tees UA,UA,Highways and transport services,17932
+E06000004,Stockton-on-Tees UA,UA,Children Social Care,81939
+E06000004,Stockton-on-Tees UA,UA,Adult Social Care,111381.01
+E06000004,Stockton-on-Tees UA,UA,Public Health,21697
+E06000004,Stockton-on-Tees UA,UA,Housing services (GFRA only),7308
+E06000004,Stockton-on-Tees UA,UA,Cultural and related services,12228
+E06000004,Stockton-on-Tees UA,UA,Environmental and regulatory services,24093
+E06000004,Stockton-on-Tees UA,UA,Planning and development services,10514
+E06000021,Stoke-on-Trent UA,UA,Education services,179806.97
+E06000021,Stoke-on-Trent UA,UA,Highways and transport services,40010.8
+E06000021,Stoke-on-Trent UA,UA,Children Social Care,131755.41
+E06000021,Stoke-on-Trent UA,UA,Adult Social Care,163008.74
+E06000021,Stoke-on-Trent UA,UA,Public Health,26522.09
+E06000021,Stoke-on-Trent UA,UA,Housing services (GFRA only),15012.35
+E06000021,Stoke-on-Trent UA,UA,Cultural and related services,20913.97
+E06000021,Stoke-on-Trent UA,UA,Environmental and regulatory services,51462.65
+E06000021,Stoke-on-Trent UA,UA,Planning and development services,24821.54
+E07000221,Stratford-on-Avon,SD,Education services,0
+E07000221,Stratford-on-Avon,SD,Highways and transport services,2206
+E07000221,Stratford-on-Avon,SD,Children Social Care,0
+E07000221,Stratford-on-Avon,SD,Adult Social Care,0
+E07000221,Stratford-on-Avon,SD,Public Health,0
+E07000221,Stratford-on-Avon,SD,Housing services (GFRA only),4726
+E07000221,Stratford-on-Avon,SD,Cultural and related services,1901
+E07000221,Stratford-on-Avon,SD,Environmental and regulatory services,18158
+E07000221,Stratford-on-Avon,SD,Planning and development services,10283
+E07000082,Stroud,SD,Education services,0
+E07000082,Stroud,SD,Highways and transport services,494
+E07000082,Stroud,SD,Children Social Care,0
+E07000082,Stroud,SD,Adult Social Care,0
+E07000082,Stroud,SD,Public Health,0
+E07000082,Stroud,SD,Housing services (GFRA only),2686
+E07000082,Stroud,SD,Cultural and related services,5835
+E07000082,Stroud,SD,Environmental and regulatory services,12154
+E07000082,Stroud,SD,Planning and development services,7140
+E10000029,Suffolk CC,SC,Education services,461530.51
+E10000029,Suffolk CC,SC,Highways and transport services,55815
+E10000029,Suffolk CC,SC,Children Social Care,153294.99
+E10000029,Suffolk CC,SC,Adult Social Care,500318
+E10000029,Suffolk CC,SC,Public Health,47919.92
+E10000029,Suffolk CC,SC,Housing services (GFRA only),4327
+E10000029,Suffolk CC,SC,Cultural and related services,13689
+E10000029,Suffolk CC,SC,Environmental and regulatory services,28850
+E10000029,Suffolk CC,SC,Planning and development services,9868
+E08000024,Sunderland,MD,Education services,160397
+E08000024,Sunderland,MD,Highways and transport services,19375
+E08000024,Sunderland,MD,Children Social Care,91650
+E08000024,Sunderland,MD,Adult Social Care,196174
+E08000024,Sunderland,MD,Public Health,29731
+E08000024,Sunderland,MD,Housing services (GFRA only),8949
+E08000024,Sunderland,MD,Cultural and related services,12836
+E08000024,Sunderland,MD,Environmental and regulatory services,39495
+E08000024,Sunderland,MD,Planning and development services,28686
+E10000030,Surrey CC,SC,Education services,905906
+E10000030,Surrey CC,SC,Highways and transport services,110062
+E10000030,Surrey CC,SC,Children Social Care,265124
+E10000030,Surrey CC,SC,Adult Social Care,714368
+E10000030,Surrey CC,SC,Public Health,40164
+E10000030,Surrey CC,SC,Housing services (GFRA only),8038
+E10000030,Surrey CC,SC,Cultural and related services,25424
+E10000030,Surrey CC,SC,Environmental and regulatory services,93821
+E10000030,Surrey CC,SC,Planning and development services,11729
+E07000214,Surrey Heath,SD,Education services,0
+E07000214,Surrey Heath,SD,Highways and transport services,1859
+E07000214,Surrey Heath,SD,Children Social Care,0
+E07000214,Surrey Heath,SD,Adult Social Care,684
+E07000214,Surrey Heath,SD,Public Health,0
+E07000214,Surrey Heath,SD,Housing services (GFRA only),4893
+E07000214,Surrey Heath,SD,Cultural and related services,4536
+E07000214,Surrey Heath,SD,Environmental and regulatory services,7630
+E07000214,Surrey Heath,SD,Planning and development services,5050
+E09000029,Sutton,LB,Education services,188862
+E09000029,Sutton,LB,Highways and transport services,14622
+E09000029,Sutton,LB,Children Social Care,67217
+E09000029,Sutton,LB,Adult Social Care,139006
+E09000029,Sutton,LB,Public Health,12819
+E09000029,Sutton,LB,Housing services (GFRA only),28049
+E09000029,Sutton,LB,Cultural and related services,7844
+E09000029,Sutton,LB,Environmental and regulatory services,22379
+E09000029,Sutton,LB,Planning and development services,7316
+E07000113,Swale,SD,Education services,0
+E07000113,Swale,SD,Highways and transport services,2014
+E07000113,Swale,SD,Children Social Care,0
+E07000113,Swale,SD,Adult Social Care,0
+E07000113,Swale,SD,Public Health,623
+E07000113,Swale,SD,Housing services (GFRA only),9806
+E07000113,Swale,SD,Cultural and related services,5535
+E07000113,Swale,SD,Environmental and regulatory services,12482
+E07000113,Swale,SD,Planning and development services,7961
+E06000030,Swindon UA,UA,Education services,134954
+E06000030,Swindon UA,UA,Highways and transport services,14561
+E06000030,Swindon UA,UA,Children Social Care,74139
+E06000030,Swindon UA,UA,Adult Social Care,128829
+E06000030,Swindon UA,UA,Public Health,15163
+E06000030,Swindon UA,UA,Housing services (GFRA only),9498
+E06000030,Swindon UA,UA,Cultural and related services,9473
+E06000030,Swindon UA,UA,Environmental and regulatory services,25294
+E06000030,Swindon UA,UA,Planning and development services,5001
+E08000008,Tameside,MD,Education services,215725.25
+E08000008,Tameside,MD,Highways and transport services,11324.29
+E08000008,Tameside,MD,Children Social Care,110411.55
+E08000008,Tameside,MD,Adult Social Care,146859.96
+E08000008,Tameside,MD,Public Health,19252.15
+E08000008,Tameside,MD,Housing services (GFRA only),16875.61
+E08000008,Tameside,MD,Cultural and related services,11603.45
+E08000008,Tameside,MD,Environmental and regulatory services,13834.81
+E08000008,Tameside,MD,Planning and development services,7219.05
+E07000199,Tamworth,SD,Education services,0
+E07000199,Tamworth,SD,Highways and transport services,584
+E07000199,Tamworth,SD,Children Social Care,0
+E07000199,Tamworth,SD,Adult Social Care,0
+E07000199,Tamworth,SD,Public Health,0
+E07000199,Tamworth,SD,Housing services (GFRA only),2581
+E07000199,Tamworth,SD,Cultural and related services,6311
+E07000199,Tamworth,SD,Environmental and regulatory services,5819
+E07000199,Tamworth,SD,Planning and development services,4261
+E07000215,Tandridge,SD,Education services,0
+E07000215,Tandridge,SD,Highways and transport services,225
+E07000215,Tandridge,SD,Children Social Care,0
+E07000215,Tandridge,SD,Adult Social Care,5
+E07000215,Tandridge,SD,Public Health,590
+E07000215,Tandridge,SD,Housing services (GFRA only),1858
+E07000215,Tandridge,SD,Cultural and related services,1423
+E07000215,Tandridge,SD,Environmental and regulatory services,5347
+E07000215,Tandridge,SD,Planning and development services,4385
+E07000045,Teignbridge,SD,Education services,0
+E07000045,Teignbridge,SD,Highways and transport services,2001
+E07000045,Teignbridge,SD,Children Social Care,0
+E07000045,Teignbridge,SD,Adult Social Care,0
+E07000045,Teignbridge,SD,Public Health,0
+E07000045,Teignbridge,SD,Housing services (GFRA only),5282
+E07000045,Teignbridge,SD,Cultural and related services,5981
+E07000045,Teignbridge,SD,Environmental and regulatory services,13318
+E07000045,Teignbridge,SD,Planning and development services,5978
+E06000020,Telford & the Wrekin UA,UA,Education services,161510
+E06000020,Telford & the Wrekin UA,UA,Highways and transport services,11075
+E06000020,Telford & the Wrekin UA,UA,Children Social Care,64594
+E06000020,Telford & the Wrekin UA,UA,Adult Social Care,124772
+E06000020,Telford & the Wrekin UA,UA,Public Health,16086
+E06000020,Telford & the Wrekin UA,UA,Housing services (GFRA only),7137
+E06000020,Telford & the Wrekin UA,UA,Cultural and related services,20696
+E06000020,Telford & the Wrekin UA,UA,Environmental and regulatory services,25956
+E06000020,Telford & the Wrekin UA,UA,Planning and development services,7988
+E07000076,Tendring DC,SD,Education services,0
+E07000076,Tendring DC,SD,Highways and transport services,1020
+E07000076,Tendring DC,SD,Children Social Care,0
+E07000076,Tendring DC,SD,Adult Social Care,1507
+E07000076,Tendring DC,SD,Public Health,148
+E07000076,Tendring DC,SD,Housing services (GFRA only),8757
+E07000076,Tendring DC,SD,Cultural and related services,10499
+E07000076,Tendring DC,SD,Environmental and regulatory services,13969
+E07000076,Tendring DC,SD,Planning and development services,6427
+E07000093,Test Valley,SD,Education services,0
+E07000093,Test Valley,SD,Highways and transport services,1788
+E07000093,Test Valley,SD,Children Social Care,0
+E07000093,Test Valley,SD,Adult Social Care,0
+E07000093,Test Valley,SD,Public Health,0
+E07000093,Test Valley,SD,Housing services (GFRA only),4734
+E07000093,Test Valley,SD,Cultural and related services,7392
+E07000093,Test Valley,SD,Environmental and regulatory services,8200
+E07000093,Test Valley,SD,Planning and development services,10582
+E07000083,Tewkesbury,SD,Education services,0
+E07000083,Tewkesbury,SD,Highways and transport services,323
+E07000083,Tewkesbury,SD,Children Social Care,0
+E07000083,Tewkesbury,SD,Adult Social Care,0
+E07000083,Tewkesbury,SD,Public Health,0
+E07000083,Tewkesbury,SD,Housing services (GFRA only),3428
+E07000083,Tewkesbury,SD,Cultural and related services,3195
+E07000083,Tewkesbury,SD,Environmental and regulatory services,9149
+E07000083,Tewkesbury,SD,Planning and development services,4220
+E07000114,Thanet,SD,Education services,0
+E07000114,Thanet,SD,Highways and transport services,2736
+E07000114,Thanet,SD,Children Social Care,0
+E07000114,Thanet,SD,Adult Social Care,0
+E07000114,Thanet,SD,Public Health,0
+E07000114,Thanet,SD,Housing services (GFRA only),10496
+E07000114,Thanet,SD,Cultural and related services,6210
+E07000114,Thanet,SD,Environmental and regulatory services,16574
+E07000114,Thanet,SD,Planning and development services,8365
+E07000102,Three Rivers,SD,Education services,0
+E07000102,Three Rivers,SD,Highways and transport services,1106
+E07000102,Three Rivers,SD,Children Social Care,0
+E07000102,Three Rivers,SD,Adult Social Care,0
+E07000102,Three Rivers,SD,Public Health,72
+E07000102,Three Rivers,SD,Housing services (GFRA only),5751
+E07000102,Three Rivers,SD,Cultural and related services,4548
+E07000102,Three Rivers,SD,Environmental and regulatory services,11017
+E07000102,Three Rivers,SD,Planning and development services,3377
+E06000034,Thurrock UA,UA,Education services,66785
+E06000034,Thurrock UA,UA,Highways and transport services,9585.07
+E06000034,Thurrock UA,UA,Children Social Care,52526.13
+E06000034,Thurrock UA,UA,Adult Social Care,58072
+E06000034,Thurrock UA,UA,Public Health,11382
+E06000034,Thurrock UA,UA,Housing services (GFRA only),12134
+E06000034,Thurrock UA,UA,Cultural and related services,4807.35
+E06000034,Thurrock UA,UA,Environmental and regulatory services,21234
+E06000034,Thurrock UA,UA,Planning and development services,11202.08
+E07000115,Tonbridge & Malling,SD,Education services,0
+E07000115,Tonbridge & Malling,SD,Highways and transport services,2540
+E07000115,Tonbridge & Malling,SD,Children Social Care,0
+E07000115,Tonbridge & Malling,SD,Adult Social Care,0
+E07000115,Tonbridge & Malling,SD,Public Health,217
+E07000115,Tonbridge & Malling,SD,Housing services (GFRA only),5993
+E07000115,Tonbridge & Malling,SD,Cultural and related services,3262
+E07000115,Tonbridge & Malling,SD,Environmental and regulatory services,8563
+E07000115,Tonbridge & Malling,SD,Planning and development services,5609
+E06000027,Torbay UA,UA,Education services,79277
+E06000027,Torbay UA,UA,Highways and transport services,13493
+E06000027,Torbay UA,UA,Children Social Care,57459
+E06000027,Torbay UA,UA,Adult Social Care,128106.43
+E06000027,Torbay UA,UA,Public Health,14442
+E06000027,Torbay UA,UA,Housing services (GFRA only),10335
+E06000027,Torbay UA,UA,Cultural and related services,6693
+E06000027,Torbay UA,UA,Environmental and regulatory services,23058
+E06000027,Torbay UA,UA,Planning and development services,8984
+E07000046,Torridge,SD,Education services,0
+E07000046,Torridge,SD,Highways and transport services,1353
+E07000046,Torridge,SD,Children Social Care,0
+E07000046,Torridge,SD,Adult Social Care,0
+E07000046,Torridge,SD,Public Health,0
+E07000046,Torridge,SD,Housing services (GFRA only),2426
+E07000046,Torridge,SD,Cultural and related services,2562
+E07000046,Torridge,SD,Environmental and regulatory services,7170
+E07000046,Torridge,SD,Planning and development services,4213
+E09000030,Tower Hamlets,LB,Education services,550271
+E09000030,Tower Hamlets,LB,Highways and transport services,42079
+E09000030,Tower Hamlets,LB,Children Social Care,104646
+E09000030,Tower Hamlets,LB,Adult Social Care,196059
+E09000030,Tower Hamlets,LB,Public Health,43627
+E09000030,Tower Hamlets,LB,Housing services (GFRA only),94878
+E09000030,Tower Hamlets,LB,Cultural and related services,32993
+E09000030,Tower Hamlets,LB,Environmental and regulatory services,89095
+E09000030,Tower Hamlets,LB,Planning and development services,37660
+E08000009,Trafford,MD,Education services,245760
+E08000009,Trafford,MD,Highways and transport services,10037
+E08000009,Trafford,MD,Children Social Care,63256
+E08000009,Trafford,MD,Adult Social Care,140452
+E08000009,Trafford,MD,Public Health,15503
+E08000009,Trafford,MD,Housing services (GFRA only),8564
+E08000009,Trafford,MD,Cultural and related services,13620
+E08000009,Trafford,MD,Environmental and regulatory services,18164
+E08000009,Trafford,MD,Planning and development services,15187
+E07000116,Tunbridge Wells,SD,Education services,0
+E07000116,Tunbridge Wells,SD,Highways and transport services,4136
+E07000116,Tunbridge Wells,SD,Children Social Care,0
+E07000116,Tunbridge Wells,SD,Adult Social Care,0
+E07000116,Tunbridge Wells,SD,Public Health,0
+E07000116,Tunbridge Wells,SD,Housing services (GFRA only),4097
+E07000116,Tunbridge Wells,SD,Cultural and related services,10292
+E07000116,Tunbridge Wells,SD,Environmental and regulatory services,11271
+E07000116,Tunbridge Wells,SD,Planning and development services,11614
+E07000077,Uttlesford,SD,Education services,0
+E07000077,Uttlesford,SD,Highways and transport services,541.88
+E07000077,Uttlesford,SD,Children Social Care,0
+E07000077,Uttlesford,SD,Adult Social Care,0
+E07000077,Uttlesford,SD,Public Health,137.26
+E07000077,Uttlesford,SD,Housing services (GFRA only),1346.46
+E07000077,Uttlesford,SD,Cultural and related services,1615.11
+E07000077,Uttlesford,SD,Environmental and regulatory services,7892.43
+E07000077,Uttlesford,SD,Planning and development services,5153.91
+E07000180,Vale of White Horse DC,SD,Education services,0
+E07000180,Vale of White Horse DC,SD,Highways and transport services,658
+E07000180,Vale of White Horse DC,SD,Children Social Care,0
+E07000180,Vale of White Horse DC,SD,Adult Social Care,0
+E07000180,Vale of White Horse DC,SD,Public Health,0
+E07000180,Vale of White Horse DC,SD,Housing services (GFRA only),3239
+E07000180,Vale of White Horse DC,SD,Cultural and related services,3165
+E07000180,Vale of White Horse DC,SD,Environmental and regulatory services,10703
+E07000180,Vale of White Horse DC,SD,Planning and development services,6706
+E08000036,Wakefield,MD,Education services,220509
+E08000036,Wakefield,MD,Highways and transport services,25453
+E08000036,Wakefield,MD,Children Social Care,120937
+E08000036,Wakefield,MD,Adult Social Care,237112
+E08000036,Wakefield,MD,Public Health,35198
+E08000036,Wakefield,MD,Housing services (GFRA only),15565
+E08000036,Wakefield,MD,Cultural and related services,41335
+E08000036,Wakefield,MD,Environmental and regulatory services,67435
+E08000036,Wakefield,MD,Planning and development services,18580
+E08000030,Walsall,MD,Education services,324189
+E08000030,Walsall,MD,Highways and transport services,20259
+E08000030,Walsall,MD,Children Social Care,105984
+E08000030,Walsall,MD,Adult Social Care,160696
+E08000030,Walsall,MD,Public Health,22804
+E08000030,Walsall,MD,Housing services (GFRA only),16481
+E08000030,Walsall,MD,Cultural and related services,26848
+E08000030,Walsall,MD,Environmental and regulatory services,35996
+E08000030,Walsall,MD,Planning and development services,31450
+E09000031,Waltham Forest,LB,Education services,289794.41
+E09000031,Waltham Forest,LB,Highways and transport services,42776.35
+E09000031,Waltham Forest,LB,Children Social Care,75816.23
+E09000031,Waltham Forest,LB,Adult Social Care,144829.91
+E09000031,Waltham Forest,LB,Public Health,21461.22
+E09000031,Waltham Forest,LB,Housing services (GFRA only),58658.55
+E09000031,Waltham Forest,LB,Cultural and related services,16046.71
+E09000031,Waltham Forest,LB,Environmental and regulatory services,33537.44
+E09000031,Waltham Forest,LB,Planning and development services,11437.88
+E09000032,Wandsworth,LB,Education services,274140
+E09000032,Wandsworth,LB,Highways and transport services,37228
+E09000032,Wandsworth,LB,Children Social Care,74111
+E09000032,Wandsworth,LB,Adult Social Care,170661
+E09000032,Wandsworth,LB,Public Health,38837
+E09000032,Wandsworth,LB,Housing services (GFRA only),81591
+E09000032,Wandsworth,LB,Cultural and related services,14944
+E09000032,Wandsworth,LB,Environmental and regulatory services,26116
+E09000032,Wandsworth,LB,Planning and development services,11715
+E06000007,Warrington UA,UA,Education services,171079
+E06000007,Warrington UA,UA,Highways and transport services,20687.22
+E06000007,Warrington UA,UA,Children Social Care,63739
+E06000007,Warrington UA,UA,Adult Social Care,214040
+E06000007,Warrington UA,UA,Public Health,15486.12
+E06000007,Warrington UA,UA,Housing services (GFRA only),9892.56
+E06000007,Warrington UA,UA,Cultural and related services,24485.11
+E06000007,Warrington UA,UA,Environmental and regulatory services,31809.79
+E06000007,Warrington UA,UA,Planning and development services,10871.64
+E07000222,Warwick,SD,Education services,0
+E07000222,Warwick,SD,Highways and transport services,2458
+E07000222,Warwick,SD,Children Social Care,0
+E07000222,Warwick,SD,Adult Social Care,0
+E07000222,Warwick,SD,Public Health,41
+E07000222,Warwick,SD,Housing services (GFRA only),5151
+E07000222,Warwick,SD,Cultural and related services,10584
+E07000222,Warwick,SD,Environmental and regulatory services,17799
+E07000222,Warwick,SD,Planning and development services,15946
+E10000031,Warwickshire CC,SC,Education services,662559
+E10000031,Warwickshire CC,SC,Highways and transport services,70534
+E10000031,Warwickshire CC,SC,Children Social Care,174951
+E10000031,Warwickshire CC,SC,Adult Social Care,350818
+E10000031,Warwickshire CC,SC,Public Health,33436
+E10000031,Warwickshire CC,SC,Housing services (GFRA only),5094
+E10000031,Warwickshire CC,SC,Cultural and related services,12316
+E10000031,Warwickshire CC,SC,Environmental and regulatory services,31939
+E10000031,Warwickshire CC,SC,Planning and development services,20119
+E07000103,Watford,SD,Education services,0
+E07000103,Watford,SD,Highways and transport services,4100
+E07000103,Watford,SD,Children Social Care,0
+E07000103,Watford,SD,Adult Social Care,0
+E07000103,Watford,SD,Public Health,0
+E07000103,Watford,SD,Housing services (GFRA only),6912
+E07000103,Watford,SD,Cultural and related services,5667
+E07000103,Watford,SD,Environmental and regulatory services,10711
+E07000103,Watford,SD,Planning and development services,3857
+E07000216,Waverley,SD,Education services,0
+E07000216,Waverley,SD,Highways and transport services,2146
+E07000216,Waverley,SD,Children Social Care,0
+E07000216,Waverley,SD,Adult Social Care,450
+E07000216,Waverley,SD,Public Health,0
+E07000216,Waverley,SD,Housing services (GFRA only),3086
+E07000216,Waverley,SD,Cultural and related services,3960.21
+E07000216,Waverley,SD,Environmental and regulatory services,9421.08
+E07000216,Waverley,SD,Planning and development services,8662.43
+E07000065,Wealden,SD,Education services,0
+E07000065,Wealden,SD,Highways and transport services,701
+E07000065,Wealden,SD,Children Social Care,280
+E07000065,Wealden,SD,Adult Social Care,0
+E07000065,Wealden,SD,Public Health,0
+E07000065,Wealden,SD,Housing services (GFRA only),5939
+E07000065,Wealden,SD,Cultural and related services,1185
+E07000065,Wealden,SD,Environmental and regulatory services,11875
+E07000065,Wealden,SD,Planning and development services,7793
+E07000241,Welwyn Hatfield,SD,Education services,0
+E07000241,Welwyn Hatfield,SD,Highways and transport services,2002
+E07000241,Welwyn Hatfield,SD,Children Social Care,0
+E07000241,Welwyn Hatfield,SD,Adult Social Care,0
+E07000241,Welwyn Hatfield,SD,Public Health,0
+E07000241,Welwyn Hatfield,SD,Housing services (GFRA only),5408
+E07000241,Welwyn Hatfield,SD,Cultural and related services,6993
+E07000241,Welwyn Hatfield,SD,Environmental and regulatory services,10683.56
+E07000241,Welwyn Hatfield,SD,Planning and development services,6089
+E06000037,West Berkshire UA,UA,Education services,188789
+E06000037,West Berkshire UA,UA,Highways and transport services,12110
+E06000037,West Berkshire UA,UA,Children Social Care,37602
+E06000037,West Berkshire UA,UA,Adult Social Care,102514
+E06000037,West Berkshire UA,UA,Public Health,13927
+E06000037,West Berkshire UA,UA,Housing services (GFRA only),7022
+E06000037,West Berkshire UA,UA,Cultural and related services,6394
+E06000037,West Berkshire UA,UA,Environmental and regulatory services,31468
+E06000037,West Berkshire UA,UA,Planning and development services,4802
+E07000047,West Devon,SD,Education services,0
+E07000047,West Devon,SD,Highways and transport services,767
+E07000047,West Devon,SD,Children Social Care,0
+E07000047,West Devon,SD,Adult Social Care,0
+E07000047,West Devon,SD,Public Health,0
+E07000047,West Devon,SD,Housing services (GFRA only),3145
+E07000047,West Devon,SD,Cultural and related services,673
+E07000047,West Devon,SD,Environmental and regulatory services,6246
+E07000047,West Devon,SD,Planning and development services,3511
+E07000127,West Lancashire,SD,Education services,0
+E07000127,West Lancashire,SD,Highways and transport services,469
+E07000127,West Lancashire,SD,Children Social Care,0
+E07000127,West Lancashire,SD,Adult Social Care,0
+E07000127,West Lancashire,SD,Public Health,0
+E07000127,West Lancashire,SD,Housing services (GFRA only),2640
+E07000127,West Lancashire,SD,Cultural and related services,4096
+E07000127,West Lancashire,SD,Environmental and regulatory services,12752
+E07000127,West Lancashire,SD,Planning and development services,8340
+E07000142,West Lindsey,SD,Education services,0
+E07000142,West Lindsey,SD,Highways and transport services,503
+E07000142,West Lindsey,SD,Children Social Care,0
+E07000142,West Lindsey,SD,Adult Social Care,0
+E07000142,West Lindsey,SD,Public Health,0
+E07000142,West Lindsey,SD,Housing services (GFRA only),3271
+E07000142,West Lindsey,SD,Cultural and related services,1328
+E07000142,West Lindsey,SD,Environmental and regulatory services,8056
+E07000142,West Lindsey,SD,Planning and development services,6103
+E06000062,West Northamptonshire,UA,Education services,288845.74
+E06000062,West Northamptonshire,UA,Highways and transport services,39259.88
+E06000062,West Northamptonshire,UA,Children Social Care,124556.32
+E06000062,West Northamptonshire,UA,Adult Social Care,217512.61
+E06000062,West Northamptonshire,UA,Public Health,34170.36
+E06000062,West Northamptonshire,UA,Housing services (GFRA only),32642.61
+E06000062,West Northamptonshire,UA,Cultural and related services,15193.22
+E06000062,West Northamptonshire,UA,Environmental and regulatory services,50912.58
+E06000062,West Northamptonshire,UA,Planning and development services,25148.02
+E07000181,West Oxfordshire,SD,Education services,0
+E07000181,West Oxfordshire,SD,Highways and transport services,398
+E07000181,West Oxfordshire,SD,Children Social Care,0
+E07000181,West Oxfordshire,SD,Adult Social Care,0
+E07000181,West Oxfordshire,SD,Public Health,0
+E07000181,West Oxfordshire,SD,Housing services (GFRA only),4022
+E07000181,West Oxfordshire,SD,Cultural and related services,2042
+E07000181,West Oxfordshire,SD,Environmental and regulatory services,12373
+E07000181,West Oxfordshire,SD,Planning and development services,4660
+E07000245,West Suffolk,SD,Education services,0
+E07000245,West Suffolk,SD,Highways and transport services,5233
+E07000245,West Suffolk,SD,Children Social Care,0
+E07000245,West Suffolk,SD,Adult Social Care,0
+E07000245,West Suffolk,SD,Public Health,0
+E07000245,West Suffolk,SD,Housing services (GFRA only),6095
+E07000245,West Suffolk,SD,Cultural and related services,9321
+E07000245,West Suffolk,SD,Environmental and regulatory services,16216
+E07000245,West Suffolk,SD,Planning and development services,7840
+E10000032,West Sussex CC,SC,Education services,774748
+E10000032,West Sussex CC,SC,Highways and transport services,93140
+E10000032,West Sussex CC,SC,Children Social Care,226163
+E10000032,West Sussex CC,SC,Adult Social Care,542987
+E10000032,West Sussex CC,SC,Public Health,47886
+E10000032,West Sussex CC,SC,Housing services (GFRA only),7477
+E10000032,West Sussex CC,SC,Cultural and related services,14262
+E10000032,West Sussex CC,SC,Environmental and regulatory services,91341
+E10000032,West Sussex CC,SC,Planning and development services,13177
+E09000033,Westminster,LB,Education services,148768.26
+E09000033,Westminster,LB,Highways and transport services,65219.62
+E09000033,Westminster,LB,Children Social Care,65922.01
+E09000033,Westminster,LB,Adult Social Care,152797.9
+E09000033,Westminster,LB,Public Health,31044.73
+E09000033,Westminster,LB,Housing services (GFRA only),191220.44
+E09000033,Westminster,LB,Cultural and related services,19565.23
+E09000033,Westminster,LB,Environmental and regulatory services,117650.82
+E09000033,Westminster,LB,Planning and development services,30553.45
+E06000064,Westmorland and Furness,UA,Education services,206438
+E06000064,Westmorland and Furness,UA,Highways and transport services,30760
+E06000064,Westmorland and Furness,UA,Children Social Care,64142
+E06000064,Westmorland and Furness,UA,Adult Social Care,163049
+E06000064,Westmorland and Furness,UA,Public Health,10187
+E06000064,Westmorland and Furness,UA,Housing services (GFRA only),5096
+E06000064,Westmorland and Furness,UA,Cultural and related services,14777
+E06000064,Westmorland and Furness,UA,Environmental and regulatory services,48225
+E06000064,Westmorland and Furness,UA,Planning and development services,19450
+E08000010,Wigan MBC,MD,Education services,350027
+E08000010,Wigan MBC,MD,Highways and transport services,13807
+E08000010,Wigan MBC,MD,Children Social Care,107780
+E08000010,Wigan MBC,MD,Adult Social Care,205552
+E08000010,Wigan MBC,MD,Public Health,37318
+E08000010,Wigan MBC,MD,Housing services (GFRA only),17102
+E08000010,Wigan MBC,MD,Cultural and related services,36094
+E08000010,Wigan MBC,MD,Environmental and regulatory services,37749
+E08000010,Wigan MBC,MD,Planning and development services,16183
+E06000054,Wiltshire UA,UA,Education services,410570
+E06000054,Wiltshire UA,UA,Highways and transport services,50766
+E06000054,Wiltshire UA,UA,Children Social Care,98984
+E06000054,Wiltshire UA,UA,Adult Social Care,303973
+E06000054,Wiltshire UA,UA,Public Health,23736
+E06000054,Wiltshire UA,UA,Housing services (GFRA only),20142
+E06000054,Wiltshire UA,UA,Cultural and related services,42313
+E06000054,Wiltshire UA,UA,Environmental and regulatory services,68314
+E06000054,Wiltshire UA,UA,Planning and development services,19890
+E07000094,Winchester,SD,Education services,0
+E07000094,Winchester,SD,Highways and transport services,5493
+E07000094,Winchester,SD,Children Social Care,0
+E07000094,Winchester,SD,Adult Social Care,0
+E07000094,Winchester,SD,Public Health,0
+E07000094,Winchester,SD,Housing services (GFRA only),3596
+E07000094,Winchester,SD,Cultural and related services,4042
+E07000094,Winchester,SD,Environmental and regulatory services,10235.5
+E07000094,Winchester,SD,Planning and development services,7293
+E06000040,Windsor & Maidenhead UA,UA,Education services,126079.81
+E06000040,Windsor & Maidenhead UA,UA,Highways and transport services,15891.9
+E06000040,Windsor & Maidenhead UA,UA,Children Social Care,33086.04
+E06000040,Windsor & Maidenhead UA,UA,Adult Social Care,75522.49
+E06000040,Windsor & Maidenhead UA,UA,Public Health,5825.18
+E06000040,Windsor & Maidenhead UA,UA,Housing services (GFRA only),15145.2
+E06000040,Windsor & Maidenhead UA,UA,Cultural and related services,6315.27
+E06000040,Windsor & Maidenhead UA,UA,Environmental and regulatory services,20489.01
+E06000040,Windsor & Maidenhead UA,UA,Planning and development services,8329.74
+E08000015,Wirral,MD,Education services,357378
+E08000015,Wirral,MD,Highways and transport services,16427
+E08000015,Wirral,MD,Children Social Care,110691
+E08000015,Wirral,MD,Adult Social Care,231895
+E08000015,Wirral,MD,Public Health,38730
+E08000015,Wirral,MD,Housing services (GFRA only),18045
+E08000015,Wirral,MD,Cultural and related services,30005
+E08000015,Wirral,MD,Environmental and regulatory services,28744
+E08000015,Wirral,MD,Planning and development services,13269
+E07000217,Woking BC,SD,Education services,0
+E07000217,Woking BC,SD,Highways and transport services,4853.43
+E07000217,Woking BC,SD,Children Social Care,1240.86
+E07000217,Woking BC,SD,Adult Social Care,3489.48
+E07000217,Woking BC,SD,Public Health,0
+E07000217,Woking BC,SD,Housing services (GFRA only),9944
+E07000217,Woking BC,SD,Cultural and related services,4987.65
+E07000217,Woking BC,SD,Environmental and regulatory services,6977.64
+E07000217,Woking BC,SD,Planning and development services,3647.64
+E06000041,Wokingham UA,UA,Education services,125528
+E06000041,Wokingham UA,UA,Highways and transport services,19913
+E06000041,Wokingham UA,UA,Children Social Care,39938
+E06000041,Wokingham UA,UA,Adult Social Care,92219
+E06000041,Wokingham UA,UA,Public Health,6354
+E06000041,Wokingham UA,UA,Housing services (GFRA only),4834
+E06000041,Wokingham UA,UA,Cultural and related services,6879
+E06000041,Wokingham UA,UA,Environmental and regulatory services,22030
+E06000041,Wokingham UA,UA,Planning and development services,23350
+E08000031,Wolverhampton,MD,Education services,220522
+E08000031,Wolverhampton,MD,Highways and transport services,22186
+E08000031,Wolverhampton,MD,Children Social Care,106029
+E08000031,Wolverhampton,MD,Adult Social Care,163289
+E08000031,Wolverhampton,MD,Public Health,25757
+E08000031,Wolverhampton,MD,Housing services (GFRA only),17827
+E08000031,Wolverhampton,MD,Cultural and related services,29591
+E08000031,Wolverhampton,MD,Environmental and regulatory services,49341
+E08000031,Wolverhampton,MD,Planning and development services,13095
+E07000237,Worcester,SD,Education services,0
+E07000237,Worcester,SD,Highways and transport services,2343
+E07000237,Worcester,SD,Children Social Care,0
+E07000237,Worcester,SD,Adult Social Care,0
+E07000237,Worcester,SD,Public Health,0
+E07000237,Worcester,SD,Housing services (GFRA only),5046
+E07000237,Worcester,SD,Cultural and related services,5110
+E07000237,Worcester,SD,Environmental and regulatory services,8936
+E07000237,Worcester,SD,Planning and development services,6667
+E10000034,Worcestershire CC,SC,Education services,442051
+E10000034,Worcestershire CC,SC,Highways and transport services,40790
+E10000034,Worcestershire CC,SC,Children Social Care,145616
+E10000034,Worcestershire CC,SC,Adult Social Care,334963
+E10000034,Worcestershire CC,SC,Public Health,40705
+E10000034,Worcestershire CC,SC,Housing services (GFRA only),499
+E10000034,Worcestershire CC,SC,Cultural and related services,19150
+E10000034,Worcestershire CC,SC,Environmental and regulatory services,50737
+E10000034,Worcestershire CC,SC,Planning and development services,16852
+E07000229,Worthing,SD,Education services,0
+E07000229,Worthing,SD,Highways and transport services,2293
+E07000229,Worthing,SD,Children Social Care,0
+E07000229,Worthing,SD,Adult Social Care,0
+E07000229,Worthing,SD,Public Health,0
+E07000229,Worthing,SD,Housing services (GFRA only),11735
+E07000229,Worthing,SD,Cultural and related services,7396
+E07000229,Worthing,SD,Environmental and regulatory services,9653
+E07000229,Worthing,SD,Planning and development services,5263
+E07000238,Wychavon,SD,Education services,0
+E07000238,Wychavon,SD,Highways and transport services,2320
+E07000238,Wychavon,SD,Children Social Care,421
+E07000238,Wychavon,SD,Adult Social Care,0
+E07000238,Wychavon,SD,Public Health,180
+E07000238,Wychavon,SD,Housing services (GFRA only),3608
+E07000238,Wychavon,SD,Cultural and related services,2861
+E07000238,Wychavon,SD,Environmental and regulatory services,10064
+E07000238,Wychavon,SD,Planning and development services,6770
+E07000128,Wyre,SD,Education services,0
+E07000128,Wyre,SD,Highways and transport services,1300
+E07000128,Wyre,SD,Children Social Care,0
+E07000128,Wyre,SD,Adult Social Care,319
+E07000128,Wyre,SD,Public Health,0
+E07000128,Wyre,SD,Housing services (GFRA only),2011
+E07000128,Wyre,SD,Cultural and related services,6587
+E07000128,Wyre,SD,Environmental and regulatory services,8380
+E07000128,Wyre,SD,Planning and development services,5263
+E07000239,Wyre Forest,SD,Education services,0
+E07000239,Wyre Forest,SD,Highways and transport services,2161
+E07000239,Wyre Forest,SD,Children Social Care,0
+E07000239,Wyre Forest,SD,Adult Social Care,214
+E07000239,Wyre Forest,SD,Public Health,241
+E07000239,Wyre Forest,SD,Housing services (GFRA only),4384
+E07000239,Wyre Forest,SD,Cultural and related services,2547
+E07000239,Wyre Forest,SD,Environmental and regulatory services,6469
+E07000239,Wyre Forest,SD,Planning and development services,4898
+E06000014,York UA,UA,Education services,119972
+E06000014,York UA,UA,Highways and transport services,25787
+E06000014,York UA,UA,Children Social Care,35903
+E06000014,York UA,UA,Adult Social Care,122055
+E06000014,York UA,UA,Public Health,9617
+E06000014,York UA,UA,Housing services (GFRA only),10969
+E06000014,York UA,UA,Cultural and related services,7395
+E06000014,York UA,UA,Environmental and regulatory services,28086
+E06000014,York UA,UA,Planning and development services,8797

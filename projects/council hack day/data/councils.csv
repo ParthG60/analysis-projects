@@ -1,0 +1,10 @@
+id,name,external_id,majority_party,council_type,council_type_label,base_scrape_url,party
+201,Bradford,266,LAB,0,modern_gov,https://bradford.moderngov.co.uk/mgCalendarMonthView.aspx,LAB
+9,Kent,12,CON,0,modern_gov,https://democracy.kent.gov.uk/mgCalendarMonthView.aspx,REF
+217,Sheffield,282,NOC,0,modern_gov,https://democracy.sheffield.gov.uk/mgCalendarMonthView.aspx,NOC
+10,Lancashire,13,CON,0,modern_gov,https://council.lancashire.gov.uk/mgCalendarMonthView.aspx,REF
+238,Bristol,366,NOC,0,modern_gov, City of,GRN-led NOC
+191,Tower Hamlets,255,IND,0,modern_gov,https://democracy.towerhamlets.gov.uk/mgCalendarMonthView.aspx,IND
+172,Bromley,231,CON,0,modern_gov,https://cds.bromley.gov.uk/mgCalendarMonthView.aspx,CON
+233,Bath and North East Somerset,327,LD,0,modern_gov,https://democracy.bathnes.gov.uk/mgCalendarMonthView.aspx,LD
+74,Mid Suffolk,99,GRN,0,modern_gov,https://baberghmidsuffolk.moderngov.co.uk/mgCalendarMonthView.aspx,GRN

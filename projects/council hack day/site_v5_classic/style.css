@@ -1,0 +1,308 @@
+:root {
+  --accent: #3366cc;
+  --grey: #8a8a8a;
+  --grey-light: #e5e5e5;
+  --ink: #1a1a1a;
+  --ink-soft: #555;
+  --bg: #ffffff;
+  --card-bg: #fafafa;
+  --border: #e2e2e2;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+}
+
+.container {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 28px 32px 72px;
+}
+
+header {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 8px;
+  margin-bottom: 24px;
+}
+
+header h1 {
+  font-size: 1.9rem;
+  margin: 0 0 4px;
+}
+
+header .tagline {
+  margin: 0 0 14px;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 20px;
+}
+
+.tab {
+  appearance: none;
+  border: none;
+  background: none;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink-soft);
+  padding: 8px 2px 10px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.tab.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+.council-picker {
+  margin-bottom: 8px;
+}
+
+select {
+  width: 320px;
+  max-width: 100%;
+  font-size: 1.05rem;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card-bg);
+  color: var(--ink);
+  margin-bottom: 10px;
+}
+
+.control-line {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  margin-bottom: 6px;
+}
+
+.control-line strong { color: var(--ink); }
+
+.election-banner {
+  background: #fff6e0;
+  border: 1px solid #f0dca0;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  margin: 10px 0;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+.panel {
+  margin: 28px 0;
+  padding: 18px 22px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+}
+
+/* national-tab party charts: more, and taller, bars need more room to be
+   readable — trim side padding so the plot itself gets the extra width. */
+.panel-wide {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.panel h2 {
+  font-size: 1.1rem;
+  margin: 0 0 10px;
+}
+
+.panel .lede {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin: -4px 0 10px;
+}
+
+.big-number {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 4px 0 2px;
+}
+
+.caption {
+  font-size: 0.8rem;
+  color: var(--grey);
+  margin: 6px 0 0;
+}
+
+.key-line {
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin: 2px 0 8px;
+}
+
+.key-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+
+.toggle-group {
+  display: inline-flex;
+  gap: 4px;
+  margin: 0 0 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 3px;
+  background: var(--card-bg);
+}
+
+.toggle-btn {
+  appearance: none;
+  border: none;
+  background: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--ink-soft);
+  padding: 5px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.toggle-btn.active {
+  background: var(--bg);
+  color: var(--accent);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+ul#reading-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul#reading-links li {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+ul#reading-links a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+ul#reading-links .source-tag {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--grey);
+  margin-top: 2px;
+}
+
+details#panel-methodology summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+details#panel-methodology div {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+}
+
+details#panel-methodology p { margin: 0 0 10px; }
+details#panel-methodology h3 { font-size: 0.95rem; color: var(--ink); margin: 16px 0 8px; }
+
+table.taxonomy {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin-bottom: 12px;
+}
+
+table.taxonomy th, table.taxonomy td {
+  text-align: left;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+table.taxonomy th { color: var(--grey); font-weight: 600; }
+
+/* -------------------------------------------------------- scorecard --- */
+.heat-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+}
+
+.heat-cell {
+  border-radius: 8px;
+  padding: 12px 14px;
+}
+
+.heat-cell .heat-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  opacity: 0.85;
+  margin-bottom: 4px;
+}
+
+.heat-cell .heat-value {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.heat-cell .heat-sub {
+  font-size: 0.76rem;
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
+/* ---------------------------------------------------------- league --- */
+table.league {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+table.league th, table.league td {
+  text-align: left;
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+table.league th { color: var(--grey); font-weight: 600; }
+table.league th.sortable { cursor: pointer; user-select: none; }
+table.league th.sortable:hover { color: var(--ink); }
+table.league th.sorted { color: var(--accent); }
+
+.empty-note {
+  font-size: 0.85rem;
+  color: var(--grey);
+  font-style: italic;
+}
+
+@media (max-width: 900px) {
+  .container { padding: 20px 16px 56px; }
+  .grid-2 { grid-template-columns: 1fr; }
+  .heat-strip { grid-template-columns: 1fr 1fr; }
+  select { width: 100%; }
+}

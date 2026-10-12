@@ -1,0 +1,271 @@
+gateway_id,gateway_name,ons_code,rsx_name,matched
+123,Adur,E07000223,Adur,True
+22,Arun,E07000224,Arun,True
+23,Ashfield,E07000170,Ashfield,True
+24,Ashford,E07000105,Ashford,True
+25,Babergh,E07000200,Babergh,True
+168,Barking and Dagenham,E09000002,Barking & Dagenham,True
+169,Barnet,E09000003,Barnet,True
+199,Barnsley,E08000016,Barnsley,True
+128,Basingstoke and Deane,E07000084,Basingstoke & Deane,True
+26,Bassetlaw,E07000171,Bassetlaw,True
+584,Birmingham,E08000025,Birmingham,True
+27,Blaby,E07000129,Blaby,True
+273,Blackburn with Darwen,E06000008,Blackburn with Darwen UA,True
+234,Blackpool,E06000009,Blackpool UA,True
+28,Bolsover,E07000033,Bolsover,True
+200,Bolton,E08000001,Bolton,True
+29,Boston,E07000136,Boston BC,True
+235,Bournemouth,E06000058,"Bournemouth, Christchurch and Poole UA",True
+236,Bracknell Forest,E06000036,Bracknell Forest UA,True
+581,Braintree,E07000067,Braintree,True
+30,Breckland,E07000143,Breckland,True
+171,Brent,E09000005,Brent,True
+129,Brentwood,E07000068,Brentwood,True
+237,Brighton and Hove,E06000043,Brighton & Hove UA,True
+31,Bromsgrove,E07000234,Bromsgrove,True
+32,Broxtowe,E07000172,Broxtowe,True
+239,Buckinghamshire,E06000060,Buckinghamshire UA,True
+202,Bury,E08000002,Bury MBC,True
+203,Calderdale,E08000033,Calderdale,True
+130,Cambridge,E07000008,Cambridge,True
+593,Cambridgeshire,E10000003,Cambridgeshire CC,True
+1,Cambridgeshire,E10000003,Cambridgeshire CC,True
+131,Cannock Chase,E07000192,Cannock Chase,True
+33,Canterbury,E07000106,Canterbury,True
+34,Charnwood,E07000130,Charnwood BC,True
+124,Cheltenham,E07000078,Cheltenham,True
+132,Cherwell,E07000177,Cherwell,True
+240,Cheshire East,E06000049,Cheshire East UA,True
+241,Cheshire West and Chester,E06000050,Cheshire West and Chester UA,True
+35,Chesterfield,E07000034,Chesterfield,True
+36,Chichester,E07000225,Chichester,True
+133,Chorley,E07000118,Chorley,True
+603,Colchester,E07000071,Colchester,True
+242,Cornwall,E06000052,Cornwall UA,True
+37,Cotswold,E07000079,Cotswold,True
+243,County Durham,E06000047,Durham UA,True
+204,Coventry,E08000026,Coventry,True
+135,Crawley,E07000226,Crawley,True
+174,Croydon,E09000008,Croydon,True
+244,Cumberland,E06000063,Cumberland,True
+38,Dacorum,E07000096,Dacorum,True
+245,Darlington,E06000005,Darlington UA,True
+39,Dartford,E07000107,Dartford,True
+609,Derby,E06000015,Derby City UA,True
+2,Derbyshire,E10000007,Derbyshire CC,True
+40,Derbyshire Dales,E07000035,Derbyshire Dales,True
+3,Devon,E10000008,Devon CC,True
+194,Doncaster,E08000017,Doncaster,True
+247,Dorset,E06000059,Dorset UA,True
+41,Dover,E07000108,Dover,True
+590,Dudley,E08000027,Dudley,True
+175,Ealing,E09000009,Ealing,True
+48,Eastbourne,E07000061,Eastbourne,True
+42,East Devon,E07000040,East Devon,True
+43,East Hampshire,E07000085,East Hampshire,True
+44,East Hertfordshire,E07000242,East Hertfordshire,True
+136,Eastleigh,E07000086,Eastleigh,True
+45,East Lindsey,E07000137,East Lindsey,True
+248,East Riding of Yorkshire,E06000011,East Riding of Yorkshire UA,True
+46,East Staffordshire,E07000193,East Staffordshire,True
+589,East Suffolk,E07000244,East Suffolk,True
+4,East Sussex,E10000011,East Sussex CC,True
+137,Elmbridge,E07000207,Elmbridge,True
+176,Enfield,E09000010,Enfield,True
+138,Epping Forest,E07000072,Epping Forest,True
+49,Epsom and Ewell,E07000208,Epsom & Ewell,True
+50,Erewash,E07000036,Erewash,True
+583,Essex,E10000012,Essex CC,True
+5,Essex,E10000012,Essex CC,True
+139,Exeter,E07000041,Exeter,True
+125,Fareham,E07000087,Fareham,True
+51,Fenland,E07000010,Fenland,True
+52,Folkestone and Hythe,E07000112,Folkestone & Hythe,True
+53,Forest of Dean,E07000080,Forest of Dean,True
+597,Fylde,E07000119,Fylde,True
+205,Gateshead,E08000037,Gateshead,True
+55,Gedling,E07000173,Gedling,True
+6,Gloucestershire,E10000013,Gloucestershire CC,True
+126,Gosport,E07000088,Gosport,True
+56,Gravesham,E07000109,Gravesham,True
+587,Great Yarmouth,E07000145,Great Yarmouth,True
+58,Guildford,E07000209,Guildford,True
+177,Hackney,E09000012,Hackney,True
+274,Halton,E06000006,Halton UA,True
+178,Hammersmith and Fulham,E09000013,Hammersmith & Fulham,True
+7,Hampshire,E10000014,Hampshire CC,True
+608,Harborough,E07000131,Harborough,True
+179,Haringey,E09000014,Haringey,True
+140,Harlow,E07000073,Harlow,True
+180,Harrow,E09000015,Harrow,True
+141,Hart,E07000089,Hart DC,True
+127,Hastings,E07000062,Hastings,True
+142,Havant,E07000090,Havant,True
+181,Havering,E09000016,Havering,True
+249,Herefordshire,E06000019,Herefordshire UA,True
+8,Hertfordshire,E10000015,Hertfordshire CC,True
+60,Hertsmere,E07000098,Hertsmere,True
+61,High Peak,E07000037,High Peak,True
+62,Hinckley and Bosworth,E07000132,Hinckley & Bosworth,True
+63,Horsham,E07000227,Horsham,True
+183,Hounslow,E09000018,Hounslow,True
+64,Huntingdonshire,E07000011,Huntingdonshire,True
+143,Hyndburn,E07000120,Hyndburn BC,True
+144,Ipswich,E07000202,Ipswich,True
+250,Isle of Wight,E06000046,Isle of Wight UA,True
+184,Islington,E09000019,Islington,True
+65,King's Lynn and West Norfolk,E07000146,King's Lynn & West Norfolk,True
+594,"Kingston upon Hull, City of",E06000010,Kingston-upon-Hull UA,True
+185,Kingston upon Thames,E09000021,Kingston Upon Thames,True
+206,Kirklees,E08000034,Kirklees,True
+207,Knowsley,E08000011,Knowsley,True
+186,Lambeth,E09000022,Lambeth,True
+66,Lancaster,E07000121,Lancaster,True
+251,Leicester,E06000016,Leicester City UA,True
+11,Leicestershire,E10000018,Leicestershire CC,True
+67,Lewes,E07000063,Lewes,True
+187,Lewisham,E09000023,Lewisham,True
+68,Lichfield,E07000194,Lichfield,True
+145,Lincoln,E07000138,Lincoln City,True
+12,Lincolnshire,E10000019,Lincolnshire CC,True
+195,Liverpool,E08000012,Liverpool,True
+599,Luton,E06000032,Luton UA,True
+69,Maldon,E07000074,Maldon DC,True
+70,Malvern Hills,E07000235,Malvern Hills,True
+71,Mansfield,E07000174,Mansfield,True
+252,Medway,E06000035,Medway Towns UA,True
+72,Melton,E07000133,Melton,True
+188,Merton,E09000024,Merton,True
+73,Mid Devon,E07000042,Mid Devon,True
+253,Middlesbrough,E06000002,Middlesbrough UA,True
+75,Mid Sussex,E07000228,Mid Sussex,True
+275,Milton Keynes,E06000042,Milton Keynes UA,True
+146,Mole Valley,E07000210,Mole Valley,True
+77,Newark and Sherwood,E07000175,Newark & Sherwood ,True
+78,Newcastle-under-Lyme,E07000195,Newcastle-under-Lyme,True
+210,Newcastle upon Tyne,E08000021,Newcastle,True
+76,New Forest,E07000091,New Forest,True
+600,Norfolk,E10000020,Norfolk CC,True
+79,North Devon,E07000043,North Devon,True
+80,North East Derbyshire,E07000038,North East Derbyshire,True
+276,North East Lincolnshire,E06000012,North East Lincolnshire UA,True
+81,North Hertfordshire,E07000099,North Hertfordshire,True
+82,North Kesteven,E07000139,North Kesteven,True
+254,North Lincolnshire,E06000013,North Lincolnshire UA,True
+83,North Norfolk,E07000147,North Norfolk,True
+255,North Northamptonshire,E06000061,North Northamptonshire,True
+256,North Somerset,E06000024,North Somerset UA,True
+211,North Tyneside,E08000022,North Tyneside,True
+258,Northumberland,E06000057,Northumberland UA,True
+84,North West Leicestershire,E07000134,North West Leicestershire,True
+257,North Yorkshire,E06000065,North Yorkshire,True
+582,Norwich,E07000148,Norwich City,True
+259,Nottingham,E06000018,Nottingham City UA,True
+591,Nottinghamshire,E10000024,Nottinghamshire CC,True
+85,Oadby and Wigston,E07000135,Oadby & Wigston,True
+212,Oldham,E08000004,Oldham,True
+15,Oxfordshire,E10000025,Oxfordshire CC,True
+277,Peterborough,E06000031,Peterborough UA,True
+278,Plymouth,E06000026,Plymouth UA,True
+279,Portsmouth,E06000044,Portsmouth UA,True
+147,Preston,E07000123,Preston,True
+148,Redditch,E07000236,Redditch BC,True
+149,Reigate and Banstead,E07000211,Reigate and Banstead,True
+86,Ribble Valley,E07000124,Ribble Valley,True
+213,Rochdale,E08000005,Rochdale,True
+607,Rochford,E07000075,Rochford,True
+87,Rother,E07000064,Rother,True
+196,Rotherham,E08000018,Rotherham,True
+151,Rugby,E07000220,Rugby,True
+152,Runnymede,E07000212,Runnymede,True
+88,Rushcliffe,E07000176,Rushcliffe,True
+153,Rushmoor,E07000092,Rushmoor,True
+260,Rutland,E06000017,Rutland UA,True
+214,Salford,E08000006,Salford,True
+215,Sandwell,E08000028,Sandwell,True
+216,Sefton,E08000014,Sefton,True
+89,Sevenoaks,E07000111,Sevenoaks,True
+261,Shropshire,E06000051,Shropshire UA,True
+262,Slough,E06000039,Slough UA,True
+218,Solihull,E08000029,Solihull,True
+280,Southampton,E06000045,Southampton UA,True
+90,South Cambridgeshire,E07000012,South Cambridgeshire,True
+586,South Derbyshire,E07000039,South Derbyshire,True
+281,Southend-on-Sea,E06000033,Southend-on-Sea UA,True
+264,South Gloucestershire,E06000025,South Gloucestershire UA,True
+92,South Hams,E07000044,South Hams,True
+93,South Holland,E07000140,South Holland,True
+94,South Kesteven,E07000141,South Kesteven,True
+95,South Norfolk,E07000149,South Norfolk,True
+96,South Oxfordshire,E07000179,South Oxfordshire,True
+97,South Ribble,E07000126,South Ribble,True
+598,South Staffordshire,E07000196,South Staffordshire,True
+219,South Tyneside,E08000023,South Tyneside,True
+189,Southwark,E09000028,Southwark,True
+99,Spelthorne,E07000213,Spelthorne,True
+100,Stafford,E07000197,Stafford BC,True
+16,Staffordshire,E10000028,Staffordshire CC,True
+101,Staffordshire Moorlands,E07000198,Staffordshire Moorlands,True
+154,St Albans,E07000240,St Albans,True
+155,Stevenage,E07000243,Stevenage,True
+197,St. Helens,E08000013,St Helens MBC,True
+220,Stockport,E08000007,Stockport MBC,True
+265,Stoke-on-Trent,E06000021,Stoke-on-Trent UA,True
+102,Stratford-on-Avon,E07000221,Stratford-on-Avon,True
+103,Stroud,E07000082,Stroud,True
+17,Suffolk,E10000029,Suffolk CC,True
+606,Sunderland,E08000024,Sunderland,True
+18,Surrey,E10000030,Surrey CC,True
+104,Surrey Heath,E07000214,Surrey Heath,True
+190,Sutton,E09000029,Sutton,True
+105,Swale,E07000113,Swale,True
+221,Tameside,E08000008,Tameside,True
+156,Tamworth,E07000199,Tamworth,True
+157,Tandridge,E07000215,Tandridge,True
+106,Teignbridge,E07000045,Teignbridge,True
+266,Telford and Wrekin,E06000020,Telford & the Wrekin UA,True
+107,Tendring,E07000076,Tendring DC,True
+108,Test Valley,E07000093,Test Valley,True
+109,Tewkesbury,E07000083,Tewkesbury,True
+110,Thanet,E07000114,Thanet,True
+158,Three Rivers,E07000102,Three Rivers,True
+282,Thurrock,E06000034,Thurrock UA,True
+111,Tonbridge and Malling,E07000115,Tonbridge & Malling,True
+267,Torbay,E06000027,Torbay UA,True
+112,Torridge,E07000046,Torridge,True
+222,Trafford,E08000009,Trafford,True
+159,Tunbridge Wells,E07000116,Tunbridge Wells,True
+113,Uttlesford,E07000077,Uttlesford,True
+114,Vale of White Horse,E07000180,Vale of White Horse DC,True
+1628,Walsall,E08000030,Walsall,True
+595,Walsall,E08000030,Walsall,True
+192,Wandsworth,E09000032,Wandsworth,True
+610,Warrington,E06000007,Warrington UA,True
+115,Warwick,E07000222,Warwick,True
+19,Warwickshire,E10000031,Warwickshire CC,True
+160,Watford,E07000103,Watford,True
+116,Waverley,E07000216,Waverley,True
+161,Welwyn Hatfield,E07000241,Welwyn Hatfield,True
+117,West Devon,E07000047,West Devon,True
+162,West Lancashire,E07000127,West Lancashire,True
+118,West Lindsey,E07000142,West Lindsey,True
+193,Westminster,E09000033,Westminster,True
+270,Westmorland and Furness,E06000064,Westmorland and Furness,True
+269,West Northamptonshire,E06000062,West Northamptonshire,True
+163,West Oxfordshire,E07000181,West Oxfordshire,True
+119,West Suffolk,E07000245,West Suffolk,True
+20,West Sussex,E10000032,West Sussex CC,True
+271,Wiltshire,E06000054,Wiltshire UA,True
+164,Winchester,E07000094,Winchester,True
+272,Windsor and Maidenhead,E06000040,Windsor & Maidenhead UA,True
+198,Wirral,E08000015,Wirral,True
+165,Woking,E07000217,Woking BC,True
+283,Wokingham,E06000041,Wokingham UA,True
+224,Wolverhampton,E08000031,Wolverhampton,True
+166,Worcester,E07000237,Worcester,True
+21,Worcestershire,E10000034,Worcestershire CC,True
+167,Worthing,E07000229,Worthing,True
+120,Wychavon,E07000238,Wychavon,True
+121,Wyre,E07000128,Wyre,True
+122,Wyre Forest,E07000239,Wyre Forest,True

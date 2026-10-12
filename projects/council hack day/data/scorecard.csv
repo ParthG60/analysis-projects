@@ -1,0 +1,81 @@
+council,metric,value,year,source,proxy
+Bradford,attainment8,41.0,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Bristol,attainment8,45.2,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Sheffield,attainment8,43.6,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Kent,attainment8,47.0,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Bromley,attainment8,50.5,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Bath and North East Somerset,attainment8,49.2,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Mid Suffolk,attainment8,43.2,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",True
+Tower Hamlets,attainment8,48.3,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Lancashire,attainment8,44.9,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Leeds,attainment8,45.5,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Manchester,attainment8,44.5,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Camden,attainment8,47.9,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Bexley,attainment8,50.4,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Hillingdon,attainment8,49.3,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Somerset,attainment8,42.7,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+England,attainment8,46.1,2023/24,"DfE explore-education-statistics, Key stage 4 performance (revised) 2023/24, LA data (avg_att8)",False
+Bradford,co2_per_capita,2.86,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Bristol,co2_per_capita,2.71,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Sheffield,co2_per_capita,2.98,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Bromley,co2_per_capita,2.53,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Bath and North East Somerset,co2_per_capita,2.8,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Mid Suffolk,co2_per_capita,5.23,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Tower Hamlets,co2_per_capita,2.83,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Leeds,co2_per_capita,3.68,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Manchester,co2_per_capita,2.96,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Camden,co2_per_capita,4.42,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Bexley,co2_per_capita,2.58,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Hillingdon,co2_per_capita,3.86,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Somerset,co2_per_capita,4.32,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Kent,co2_per_capita,3.78,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Lancashire,co2_per_capita,4.52,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+England,co2_per_capita,3.83,2024,"DESNZ UK local authority and regional greenhouse gas emissions statistics 2005-2024, territorial CO2",False
+Bradford,rent_affordability,25.8,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Bristol,rent_affordability,55.6,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Sheffield,rent_affordability,29.2,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Bromley,rent_affordability,40.2,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Bath and North East Somerset,rent_affordability,54.9,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Mid Suffolk,rent_affordability,30.2,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Tower Hamlets,rent_affordability,56.5,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Leeds,rent_affordability,36.4,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Manchester,rent_affordability,44.0,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Camden,rent_affordability,62.6,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Bexley,rent_affordability,39.8,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Hillingdon,rent_affordability,44.8,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Somerset,rent_affordability,32.7,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+England,rent_affordability,43.5,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",False
+Kent,rent_affordability,39.1,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",True
+Lancashire,rent_affordability,24.2,2026-07,"ONS Price Index of Private Rents, monthly price statistics 2026-07 rent / Nomis NM_30_1 ASHE resident 2025 median FT weekly pay",True
+Bradford,crime_per_1000,136.8,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Bristol,crime_per_1000,109.8,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Sheffield,crime_per_1000,106.0,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Bromley,crime_per_1000,68.3,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Bath and North East Somerset,crime_per_1000,61.3,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Tower Hamlets,crime_per_1000,104.8,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Leeds,crime_per_1000,135.9,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Manchester,crime_per_1000,173.7,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Camden,crime_per_1000,166.2,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Bexley,crime_per_1000,63.0,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Hillingdon,crime_per_1000,74.2,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Somerset,crime_per_1000,68.7,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Kent,crime_per_1000,86.6,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Lancashire,crime_per_1000,71.1,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Mid Suffolk,crime_per_1000,70.8,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",True
+England,crime_per_1000,85.3,2023/24,"ONS recorded crime by Community Safety Partnership area, year ending March 2024, Total recorded crime (excl. fraud) / ONS mid-2024 population (Nomis NM_2002_1)",False
+Bradford,aroad_delay,64.4,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Bristol,aroad_delay,83.9,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Sheffield,aroad_delay,53.4,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Kent,aroad_delay,36.0,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Bromley,aroad_delay,88.2,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Bath and North East Somerset,aroad_delay,42.6,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Tower Hamlets,aroad_delay,122.5,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Lancashire,aroad_delay,39.4,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Leeds,aroad_delay,47.8,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Manchester,aroad_delay,101.9,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Camden,aroad_delay,252.2,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Bexley,aroad_delay,62.5,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Hillingdon,aroad_delay,52.8,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+England,aroad_delay,48.3,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Somerset,aroad_delay,25.2,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",False
+Mid Suffolk,aroad_delay,26.7,2024,"DfT CGN0504d, average delay on locally managed 'A' roads by local authority, 2024 (seconds per vehicle per mile)",True

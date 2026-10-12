@@ -1,0 +1,21 @@
+# Large data corpora and shards
+data/
+data_england/
+data_fy*/
+data_bf*/
+data_th/
+data_lancs/
+data_rest/
+data_imd/
+
+# Large compiled web assets
+site/data.json
+
+# Large binaries / raw documents
+samples/*.pdf
+*.xlsx
+*.ods
+
+# Python cache
+__pycache__/
+*.pyc

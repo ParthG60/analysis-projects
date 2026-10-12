@@ -1,0 +1,13 @@
+# Council Receipts — data repo scope
+#
+# The deployable site is its own repository (ParthG60/council-receipts) and is
+# checked out separately by the scheduled workflow, so keep it out of here.
+site/
+
+# Scratch / scratch logs (not needed for a rebuild)
+__pycache__/
+*.pyc
+*.log
+shard*.out
+shard*.err
+*.ipynb_checkpoints/

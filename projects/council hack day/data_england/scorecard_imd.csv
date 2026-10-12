@@ -1,0 +1,2305 @@
+gateway_id,council,ons_code,tier,pool_n,domain,rank,score,prop10,decile
+123,Adur,E07000223,lower,296,IMD,192,14.99,0,7
+123,Adur,E07000223,lower,296,Income,156,0.184,0,6
+123,Adur,E07000223,lower,296,Employment,144,0.117,0,5
+123,Adur,E07000223,lower,296,Education,109,22.47,0.0238,4
+123,Adur,E07000223,lower,296,Health,192,-0.374,0,7
+123,Adur,E07000223,lower,296,Crime,187,-0.245,0,7
+123,Adur,E07000223,lower,296,Barriers,278,13.384,0,10
+123,Adur,E07000223,lower,296,Living,199,14.642,0,7
+22,Arun,E07000224,lower,296,IMD,137,19.416,0.0505,5
+22,Arun,E07000224,lower,296,Income,147,0.191,0.0303,5
+22,Arun,E07000224,lower,296,Employment,132,0.121,0.0303,5
+22,Arun,E07000224,lower,296,Education,78,25.451,0.0707,3
+22,Arun,E07000224,lower,296,Health,113,0.068,0.0202,4
+22,Arun,E07000224,lower,296,Crime,167,-0.168,0.0404,6
+22,Arun,E07000224,lower,296,Barriers,34,28.457,0.1616,2
+22,Arun,E07000224,lower,296,Living,265,12.426,0.0101,9
+23,Ashfield,E07000170,lower,296,IMD,75,25.568,0.1169,3
+23,Ashfield,E07000170,lower,296,Income,72,0.26,0.1169,3
+23,Ashfield,E07000170,lower,296,Employment,37,0.173,0.1688,2
+23,Ashfield,E07000170,lower,296,Education,33,30.394,0.1558,2
+23,Ashfield,E07000170,lower,296,Health,50,0.545,0.1818,2
+23,Ashfield,E07000170,lower,296,Crime,90,0.193,0.1039,4
+23,Ashfield,E07000170,lower,296,Barriers,275,13.936,0,10
+23,Ashfield,E07000170,lower,296,Living,170,17.626,0.0519,6
+24,Ashford,E07000105,lower,296,IMD,133,19.717,0.037,5
+24,Ashford,E07000105,lower,296,Income,132,0.205,0.037,5
+24,Ashford,E07000105,lower,296,Employment,147,0.12,0.0247,5
+24,Ashford,E07000105,lower,296,Education,117,22.459,0.0741,4
+24,Ashford,E07000105,lower,296,Health,172,-0.247,0,6
+24,Ashford,E07000105,lower,296,Crime,112,0.1,0.0988,4
+24,Ashford,E07000105,lower,296,Barriers,40,29.376,0.2469,2
+24,Ashford,E07000105,lower,296,Living,230,15.649,0.0617,8
+25,Babergh,E07000200,lower,296,IMD,184,15.388,0,7
+25,Babergh,E07000200,lower,296,Income,209,0.155,0,8
+25,Babergh,E07000200,lower,296,Employment,217,0.095,0,8
+25,Babergh,E07000200,lower,296,Education,144,18.677,0.0545,5
+25,Babergh,E07000200,lower,296,Health,240,-0.624,0,9
+25,Babergh,E07000200,lower,296,Crime,258,-0.531,0,9
+25,Babergh,E07000200,lower,296,Barriers,30,30.007,0.2545,1
+25,Babergh,E07000200,lower,296,Living,117,20.758,0.0545,4
+168,Barking and Dagenham,E09000002,lower,296,IMD,9,30.266,0.0174,1
+168,Barking and Dagenham,E09000002,lower,296,Income,1,0.384,0.1304,1
+168,Barking and Dagenham,E09000002,lower,296,Employment,18,0.167,0.0087,1
+168,Barking and Dagenham,E09000002,lower,296,Education,50,24.962,0,2
+168,Barking and Dagenham,E09000002,lower,296,Health,77,0.265,0.0087,3
+168,Barking and Dagenham,E09000002,lower,296,Crime,46,0.354,0.0609,2
+168,Barking and Dagenham,E09000002,lower,296,Barriers,8,32.012,0.2087,1
+168,Barking and Dagenham,E09000002,lower,296,Living,48,25.497,0.0435,2
+169,Barnet,E09000003,lower,296,IMD,129,19.499,0.0045,5
+169,Barnet,E09000003,lower,296,Income,70,0.257,0.05,3
+169,Barnet,E09000003,lower,296,Employment,136,0.119,0.0045,5
+169,Barnet,E09000003,lower,296,Education,254,10.793,0,9
+169,Barnet,E09000003,lower,296,Health,261,-0.79,0,9
+169,Barnet,E09000003,lower,296,Crime,146,-0.101,0.0182,5
+169,Barnet,E09000003,lower,296,Barriers,24,31.375,0.3,1
+169,Barnet,E09000003,lower,296,Living,35,28.271,0.0545,2
+199,Barnsley,E08000016,lower,296,IMD,40,30.057,0.2162,2
+199,Barnsley,E08000016,lower,296,Income,48,0.279,0.1149,2
+199,Barnsley,E08000016,lower,296,Employment,23,0.188,0.25,1
+199,Barnsley,E08000016,lower,296,Education,36,33.25,0.277,2
+199,Barnsley,E08000016,lower,296,Health,8,0.972,0.3919,1
+199,Barnsley,E08000016,lower,296,Crime,32,0.472,0.1892,2
+199,Barnsley,E08000016,lower,296,Barriers,240,16.113,0.0068,9
+199,Barnsley,E08000016,lower,296,Living,201,16.047,0.0405,7
+128,Basingstoke and Deane,E07000084,lower,296,IMD,237,12.953,0,8
+128,Basingstoke and Deane,E07000084,lower,296,Income,233,0.148,0,8
+128,Basingstoke and Deane,E07000084,lower,296,Employment,253,0.084,0,9
+128,Basingstoke and Deane,E07000084,lower,296,Education,212,15.331,0.0261,8
+128,Basingstoke and Deane,E07000084,lower,296,Health,206,-0.434,0,7
+128,Basingstoke and Deane,E07000084,lower,296,Crime,186,-0.254,0.0261,7
+128,Basingstoke and Deane,E07000084,lower,296,Barriers,102,23.968,0.087,4
+128,Basingstoke and Deane,E07000084,lower,296,Living,286,10.105,0.0174,10
+26,Bassetlaw,E07000171,lower,296,IMD,111,22.54,0.0725,4
+26,Bassetlaw,E07000171,lower,296,Income,121,0.219,0.0435,5
+26,Bassetlaw,E07000171,lower,296,Employment,94,0.143,0.087,4
+26,Bassetlaw,E07000171,lower,296,Education,60,29.752,0.2174,2
+26,Bassetlaw,E07000171,lower,296,Health,102,0.154,0.087,4
+26,Bassetlaw,E07000171,lower,296,Crime,124,0.022,0.087,5
+26,Bassetlaw,E07000171,lower,296,Barriers,158,21.5,0.087,6
+26,Bassetlaw,E07000171,lower,296,Living,178,18.656,0.1014,6
+584,Birmingham,E08000025,lower,296,IMD,8,38.115,0.4279,1
+584,Birmingham,E08000025,lower,296,Income,7,0.417,0.4476,1
+584,Birmingham,E08000025,lower,296,Employment,9,0.214,0.4112,1
+584,Birmingham,E08000025,lower,296,Education,30,34.448,0.2898,1
+584,Birmingham,E08000025,lower,296,Health,23,0.72,0.2564,1
+584,Birmingham,E08000025,lower,296,Crime,18,0.551,0.2094,1
+584,Birmingham,E08000025,lower,296,Barriers,141,21.68,0.0319,5
+584,Birmingham,E08000025,lower,296,Living,31,31.241,0.1866,2
+27,Blaby,E07000129,lower,296,IMD,265,10.5,0,9
+27,Blaby,E07000129,lower,296,Income,241,0.135,0,9
+27,Blaby,E07000129,lower,296,Employment,234,0.086,0,8
+27,Blaby,E07000129,lower,296,Education,194,14.235,0,7
+27,Blaby,E07000129,lower,296,Health,246,-0.637,0,9
+27,Blaby,E07000129,lower,296,Crime,210,-0.334,0,8
+27,Blaby,E07000129,lower,296,Barriers,229,17.581,0.0333,8
+27,Blaby,E07000129,lower,296,Living,273,10.674,0,10
+273,Blackburn with Darwen,E06000008,lower,296,IMD,11,36.899,0.3736,1
+273,Blackburn with Darwen,E06000008,lower,296,Income,13,0.372,0.3846,1
+273,Blackburn with Darwen,E06000008,lower,296,Employment,20,0.201,0.3297,1
+273,Blackburn with Darwen,E06000008,lower,296,Education,21,36.227,0.3407,1
+273,Blackburn with Darwen,E06000008,lower,296,Health,24,0.787,0.3516,1
+273,Blackburn with Darwen,E06000008,lower,296,Crime,47,0.425,0.2857,2
+273,Blackburn with Darwen,E06000008,lower,296,Barriers,91,23.985,0.044,4
+273,Blackburn with Darwen,E06000008,lower,296,Living,37,33.581,0.3077,2
+234,Blackpool,E06000009,lower,296,IMD,1,43.467,0.4043,1
+234,Blackpool,E06000009,lower,296,Income,10,0.377,0.2979,1
+234,Blackpool,E06000009,lower,296,Employment,1,0.26,0.4149,1
+234,Blackpool,E06000009,lower,296,Education,9,38.323,0.2979,1
+234,Blackpool,E06000009,lower,296,Health,1,1.525,0.5851,1
+234,Blackpool,E06000009,lower,296,Crime,2,0.987,0.3723,1
+234,Blackpool,E06000009,lower,296,Barriers,254,15.611,0,9
+234,Blackpool,E06000009,lower,296,Living,21,37.754,0.3404,1
+28,Bolsover,E07000033,lower,296,IMD,52,25.728,0.06,2
+28,Bolsover,E07000033,lower,296,Income,73,0.246,0.02,3
+28,Bolsover,E07000033,lower,296,Employment,38,0.165,0.08,2
+28,Bolsover,E07000033,lower,296,Education,34,31.369,0.2,2
+28,Bolsover,E07000033,lower,296,Health,15,0.754,0.18,1
+28,Bolsover,E07000033,lower,296,Crime,106,0.113,0.08,4
+28,Bolsover,E07000033,lower,296,Barriers,187,19.259,0,7
+28,Bolsover,E07000033,lower,296,Living,150,16.915,0,6
+200,Bolton,E08000001,lower,296,IMD,43,31.41,0.2599,2
+200,Bolton,E08000001,lower,296,Income,41,0.329,0.2486,2
+200,Bolton,E08000001,lower,296,Employment,32,0.187,0.2429,2
+200,Bolton,E08000001,lower,296,Education,83,27.801,0.1582,3
+200,Bolton,E08000001,lower,296,Health,53,0.521,0.1638,2
+200,Bolton,E08000001,lower,296,Crime,13,0.615,0.2655,1
+200,Bolton,E08000001,lower,296,Barriers,170,20.279,0,6
+200,Bolton,E08000001,lower,296,Living,57,27.018,0.1525,2
+29,Boston,E07000136,lower,296,IMD,36,28.459,0.1282,2
+29,Boston,E07000136,lower,296,Income,44,0.279,0.1026,2
+29,Boston,E07000136,lower,296,Employment,50,0.153,0,2
+29,Boston,E07000136,lower,296,Education,2,43.886,0.359,1
+29,Boston,E07000136,lower,296,Health,85,0.215,0,3
+29,Boston,E07000136,lower,296,Crime,153,-0.102,0.0513,6
+29,Boston,E07000136,lower,296,Barriers,14,31.646,0.2564,1
+29,Boston,E07000136,lower,296,Living,115,20.799,0.0769,4
+235,Bournemouth,E06000058,lower,296,IMD,169,17.513,0.05,6
+235,Bournemouth,E06000058,lower,296,Income,141,0.198,0.0417,5
+235,Bournemouth,E06000058,lower,296,Employment,141,0.123,0.0542,5
+235,Bournemouth,E06000058,lower,296,Education,174,17.686,0.0333,6
+235,Bournemouth,E06000058,lower,296,Health,136,-0.068,0.0417,5
+235,Bournemouth,E06000058,lower,296,Crime,117,0.038,0.0833,4
+235,Bournemouth,E06000058,lower,296,Barriers,197,18.819,0,7
+235,Bournemouth,E06000058,lower,296,Living,195,16.053,0.0042,7
+236,Bracknell Forest,E06000036,lower,296,IMD,271,10.084,0,10
+236,Bracknell Forest,E06000036,lower,296,Income,254,0.133,0,9
+236,Bracknell Forest,E06000036,lower,296,Employment,269,0.073,0,10
+236,Bracknell Forest,E06000036,lower,296,Education,214,14.172,0,8
+236,Bracknell Forest,E06000036,lower,296,Health,281,-1.15,0,10
+236,Bracknell Forest,E06000036,lower,296,Crime,246,-0.552,0,9
+236,Bracknell Forest,E06000036,lower,296,Barriers,85,23.868,0.0122,3
+236,Bracknell Forest,E06000036,lower,296,Living,294,8.052,0,10
+581,Braintree,E07000067,lower,296,IMD,164,16.638,0,6
+581,Braintree,E07000067,lower,296,Income,163,0.179,0,6
+581,Braintree,E07000067,lower,296,Employment,176,0.107,0,6
+581,Braintree,E07000067,lower,296,Education,101,22.132,0.0114,4
+581,Braintree,E07000067,lower,296,Health,179,-0.298,0,7
+581,Braintree,E07000067,lower,296,Crime,148,-0.108,0.0114,5
+581,Braintree,E07000067,lower,296,Barriers,88,24.65,0.0909,3
+581,Braintree,E07000067,lower,296,Living,215,15.817,0.0682,8
+30,Breckland,E07000143,lower,296,IMD,112,20.374,0.0125,4
+30,Breckland,E07000143,lower,296,Income,143,0.189,0.0125,5
+30,Breckland,E07000143,lower,296,Employment,151,0.115,0.0125,6
+30,Breckland,E07000143,lower,296,Education,37,30.121,0.125,2
+30,Breckland,E07000143,lower,296,Health,165,-0.226,0,6
+30,Breckland,E07000143,lower,296,Crime,215,-0.369,0.025,8
+30,Breckland,E07000143,lower,296,Barriers,26,32.716,0.4125,1
+30,Breckland,E07000143,lower,296,Living,165,18.245,0.025,6
+171,Brent,E09000005,lower,296,IMD,22,30.046,0.1547,1
+171,Brent,E09000005,lower,296,Income,6,0.367,0.232,1
+171,Brent,E09000005,lower,296,Employment,74,0.146,0.0663,3
+171,Brent,E09000005,lower,296,Education,99,22.511,0.011,4
+171,Brent,E09000005,lower,296,Health,175,-0.281,0.0055,6
+171,Brent,E09000005,lower,296,Crime,75,0.236,0.0829,3
+171,Brent,E09000005,lower,296,Barriers,2,41.64,0.7348,1
+171,Brent,E09000005,lower,296,Living,26,29.898,0.0608,1
+129,Brentwood,E07000068,lower,296,IMD,262,10.942,0,9
+129,Brentwood,E07000068,lower,296,Income,266,0.127,0,9
+129,Brentwood,E07000068,lower,296,Employment,252,0.083,0,9
+129,Brentwood,E07000068,lower,296,Education,260,10.378,0,9
+129,Brentwood,E07000068,lower,296,Health,264,-0.866,0,9
+129,Brentwood,E07000068,lower,296,Crime,162,-0.192,0,6
+129,Brentwood,E07000068,lower,296,Barriers,167,20.666,0,6
+129,Brentwood,E07000068,lower,296,Living,200,14.919,0,7
+237,Brighton and Hove,E06000043,lower,296,IMD,143,20.266,0.0788,5
+237,Brighton and Hove,E06000043,lower,296,Income,130,0.213,0.0727,5
+237,Brighton and Hove,E06000043,lower,296,Employment,134,0.128,0.097,5
+237,Brighton and Hove,E06000043,lower,296,Education,193,18.53,0.1091,7
+237,Brighton and Hove,E06000043,lower,296,Health,128,0.043,0.0848,5
+237,Brighton and Hove,E06000043,lower,296,Crime,119,0.045,0.0909,4
+237,Brighton and Hove,E06000043,lower,296,Barriers,164,20.471,0.0182,6
+237,Brighton and Hove,E06000043,lower,296,Living,71,24.67,0.1212,3
+31,Bromsgrove,E07000234,lower,296,IMD,266,11.003,0,9
+31,Bromsgrove,E07000234,lower,296,Income,268,0.128,0,10
+31,Bromsgrove,E07000234,lower,296,Employment,240,0.091,0.0167,9
+31,Bromsgrove,E07000234,lower,296,Education,251,12.188,0.0333,9
+31,Bromsgrove,E07000234,lower,296,Health,239,-0.653,0.0167,9
+31,Bromsgrove,E07000234,lower,296,Crime,229,-0.442,0.0167,8
+31,Bromsgrove,E07000234,lower,296,Barriers,249,15.411,0,9
+31,Bromsgrove,E07000234,lower,296,Living,211,15.431,0.05,8
+32,Broxtowe,E07000172,lower,296,IMD,228,13.752,0,8
+32,Broxtowe,E07000172,lower,296,Income,206,0.165,0.0141,7
+32,Broxtowe,E07000172,lower,296,Employment,178,0.112,0.0563,6
+32,Broxtowe,E07000172,lower,296,Education,226,13.963,0.0141,8
+32,Broxtowe,E07000172,lower,296,Health,159,-0.186,0,6
+32,Broxtowe,E07000172,lower,296,Crime,208,-0.338,0.0282,7
+32,Broxtowe,E07000172,lower,296,Barriers,294,8.73,0,10
+32,Broxtowe,E07000172,lower,296,Living,110,19.361,0.0282,4
+239,Buckinghamshire,E06000060,lower,296,IMD,250,11.921,0,9
+239,Buckinghamshire,E06000060,lower,296,Income,250,0.14,0.003,9
+239,Buckinghamshire,E06000060,lower,296,Employment,257,0.08,0,9
+239,Buckinghamshire,E06000060,lower,296,Education,241,13.087,0.0329,9
+239,Buckinghamshire,E06000060,lower,296,Health,273,-1.05,0,10
+239,Buckinghamshire,E06000060,lower,296,Crime,244,-0.52,0.003,9
+239,Buckinghamshire,E06000060,lower,296,Barriers,62,26.996,0.1737,3
+239,Buckinghamshire,E06000060,lower,296,Living,250,13.539,0.0359,9
+202,Bury,E08000002,lower,296,IMD,107,24.008,0.1083,4
+202,Bury,E08000002,lower,296,Income,96,0.252,0.1083,4
+202,Bury,E08000002,lower,296,Employment,76,0.156,0.1167,3
+202,Bury,E08000002,lower,296,Education,143,20.519,0.05,5
+202,Bury,E08000002,lower,296,Health,75,0.343,0.1,3
+202,Bury,E08000002,lower,296,Crime,65,0.33,0.15,3
+202,Bury,E08000002,lower,296,Barriers,243,15.731,0,9
+202,Bury,E08000002,lower,296,Living,51,26.98,0.1167,2
+203,Calderdale,E08000033,lower,296,IMD,71,27.582,0.2016,3
+203,Calderdale,E08000033,lower,296,Income,89,0.263,0.1628,3
+203,Calderdale,E08000033,lower,296,Employment,68,0.165,0.186,3
+203,Calderdale,E08000033,lower,296,Education,133,22.388,0.1318,5
+203,Calderdale,E08000033,lower,296,Health,79,0.34,0.155,3
+203,Calderdale,E08000033,lower,296,Crime,41,0.463,0.2403,2
+203,Calderdale,E08000033,lower,296,Barriers,210,18.366,0.0388,8
+203,Calderdale,E08000033,lower,296,Living,19,38.341,0.3798,1
+130,Cambridge,E07000008,lower,296,IMD,255,11.471,0,9
+130,Cambridge,E07000008,lower,296,Income,260,0.132,0,9
+130,Cambridge,E07000008,lower,296,Employment,279,0.067,0,10
+130,Cambridge,E07000008,lower,296,Education,270,10.188,0.0128,10
+130,Cambridge,E07000008,lower,296,Health,237,-0.774,0.0128,8
+130,Cambridge,E07000008,lower,296,Crime,126,-0.085,0.0128,5
+130,Cambridge,E07000008,lower,296,Barriers,263,15.079,0,9
+130,Cambridge,E07000008,lower,296,Living,97,22.128,0.0641,4
+593,Cambridgeshire,E10000003,upper,153,IMD,133,13.328,0.0127,9
+593,Cambridgeshire,E10000003,upper,153,Income,134,0.148,0.0025,9
+593,Cambridgeshire,E10000003,upper,153,Employment,137,0.086,0.0076,9
+593,Cambridgeshire,E10000003,upper,153,Education,123,15.816,0.0456,8
+593,Cambridgeshire,E10000003,upper,153,Health,136,-0.636,0.0076,9
+593,Cambridgeshire,E10000003,upper,153,Crime,129,-0.364,0.0051,9
+593,Cambridgeshire,E10000003,upper,153,Barriers,54,23.946,0.119,4
+593,Cambridgeshire,E10000003,upper,153,Living,137,14.463,0.0203,9
+131,Cannock Chase,E07000192,lower,296,IMD,132,19.899,0.0328,5
+131,Cannock Chase,E07000192,lower,296,Income,113,0.22,0.0164,4
+131,Cannock Chase,E07000192,lower,296,Employment,91,0.141,0.082,4
+131,Cannock Chase,E07000192,lower,296,Education,56,27.531,0.1148,2
+131,Cannock Chase,E07000192,lower,296,Health,68,0.363,0.0492,3
+131,Cannock Chase,E07000192,lower,296,Crime,188,-0.247,0,7
+131,Cannock Chase,E07000192,lower,296,Barriers,269,14.672,0,10
+131,Cannock Chase,E07000192,lower,296,Living,266,11.289,0,9
+33,Canterbury,E07000106,lower,296,IMD,149,19.219,0.0435,6
+33,Canterbury,E07000106,lower,296,Income,152,0.196,0.0435,6
+33,Canterbury,E07000106,lower,296,Employment,139,0.124,0.0652,5
+33,Canterbury,E07000106,lower,296,Education,151,20.233,0.087,6
+33,Canterbury,E07000106,lower,296,Health,161,-0.189,0.0217,6
+33,Canterbury,E07000106,lower,296,Crime,103,0.166,0.1957,4
+33,Canterbury,E07000106,lower,296,Barriers,82,25.925,0.1196,3
+33,Canterbury,E07000106,lower,296,Living,240,13.926,0.0217,9
+34,Charnwood,E07000130,lower,296,IMD,232,13.272,0.0196,8
+34,Charnwood,E07000130,lower,296,Income,214,0.156,0.0196,8
+34,Charnwood,E07000130,lower,296,Employment,227,0.094,0.0196,8
+34,Charnwood,E07000130,lower,296,Education,210,15.294,0.0196,8
+34,Charnwood,E07000130,lower,296,Health,186,-0.325,0.0098,7
+34,Charnwood,E07000130,lower,296,Crime,135,-0.046,0.0392,5
+34,Charnwood,E07000130,lower,296,Barriers,247,15.845,0,9
+34,Charnwood,E07000130,lower,296,Living,232,14.158,0.0098,8
+124,Cheltenham,E07000078,lower,296,IMD,251,12.961,0.026,9
+124,Cheltenham,E07000078,lower,296,Income,238,0.157,0.039,9
+124,Cheltenham,E07000078,lower,296,Employment,230,0.097,0.039,8
+124,Cheltenham,E07000078,lower,296,Education,256,13.5,0.0519,9
+124,Cheltenham,E07000078,lower,296,Health,212,-0.534,0.026,8
+124,Cheltenham,E07000078,lower,296,Crime,134,-0.063,0.0779,5
+124,Cheltenham,E07000078,lower,296,Barriers,292,9.831,0,10
+124,Cheltenham,E07000078,lower,296,Living,190,16.84,0.0519,7
+132,Cherwell,E07000177,lower,296,IMD,244,12.624,0,9
+132,Cherwell,E07000177,lower,296,Income,231,0.145,0,8
+132,Cherwell,E07000177,lower,296,Employment,260,0.081,0,9
+132,Cherwell,E07000177,lower,296,Education,153,19.18,0.0686,6
+132,Cherwell,E07000177,lower,296,Health,252,-0.732,0,9
+132,Cherwell,E07000177,lower,296,Crime,230,-0.445,0.0098,8
+132,Cherwell,E07000177,lower,296,Barriers,116,23.536,0.1275,4
+132,Cherwell,E07000177,lower,296,Living,274,12.455,0.0588,10
+240,Cheshire East,E06000049,lower,296,IMD,231,14.169,0.0246,8
+240,Cheshire East,E06000049,lower,296,Income,247,0.149,0.0123,9
+240,Cheshire East,E06000049,lower,296,Employment,223,0.1,0.0205,8
+240,Cheshire East,E06000049,lower,296,Education,245,14.716,0.0697,9
+240,Cheshire East,E06000049,lower,296,Health,182,-0.328,0.0246,7
+240,Cheshire East,E06000049,lower,296,Crime,185,-0.226,0.0779,7
+240,Cheshire East,E06000049,lower,296,Barriers,235,17.175,0.041,8
+240,Cheshire East,E06000049,lower,296,Living,174,18.094,0.0779,6
+241,Cheshire West and Chester,E06000050,lower,296,IMD,186,17.736,0.0856,7
+241,Cheshire West and Chester,E06000050,lower,296,Income,195,0.183,0.0586,7
+241,Cheshire West and Chester,E06000050,lower,296,Employment,166,0.122,0.0991,6
+241,Cheshire West and Chester,E06000050,lower,296,Education,198,18.631,0.1126,7
+241,Cheshire West and Chester,E06000050,lower,296,Health,135,-0.033,0.1036,5
+241,Cheshire West and Chester,E06000050,lower,296,Crime,173,-0.177,0.0991,6
+241,Cheshire West and Chester,E06000050,lower,296,Barriers,205,18.903,0.0405,7
+241,Cheshire West and Chester,E06000050,lower,296,Living,198,16.369,0.0405,7
+35,Chesterfield,E07000034,lower,296,IMD,80,25.388,0.1159,3
+35,Chesterfield,E07000034,lower,296,Income,87,0.252,0.087,3
+35,Chesterfield,E07000034,lower,296,Employment,44,0.174,0.1739,2
+35,Chesterfield,E07000034,lower,296,Education,116,23.369,0.0725,4
+35,Chesterfield,E07000034,lower,296,Health,12,0.898,0.3623,1
+35,Chesterfield,E07000034,lower,296,Crime,105,0.086,0.087,4
+35,Chesterfield,E07000034,lower,296,Barriers,277,13.416,0,10
+35,Chesterfield,E07000034,lower,296,Living,181,16.616,0.029,7
+36,Chichester,E07000225,lower,296,IMD,177,15.599,0,6
+36,Chichester,E07000225,lower,296,Income,192,0.163,0,7
+36,Chichester,E07000225,lower,296,Employment,213,0.095,0,8
+36,Chichester,E07000225,lower,296,Education,162,17.756,0.0267,6
+36,Chichester,E07000225,lower,296,Health,196,-0.38,0,7
+36,Chichester,E07000225,lower,296,Crime,239,-0.46,0,9
+36,Chichester,E07000225,lower,296,Barriers,55,28.258,0.2667,2
+36,Chichester,E07000225,lower,296,Living,155,19.275,0.1733,6
+133,Chorley,E07000118,lower,296,IMD,190,16.381,0.0429,7
+133,Chorley,E07000118,lower,296,Income,212,0.168,0.0286,8
+133,Chorley,E07000118,lower,296,Employment,173,0.116,0.0714,6
+133,Chorley,E07000118,lower,296,Education,237,13.365,0.0286,8
+133,Chorley,E07000118,lower,296,Health,101,0.17,0.0857,4
+133,Chorley,E07000118,lower,296,Crime,154,-0.123,0.0571,6
+133,Chorley,E07000118,lower,296,Barriers,232,17.019,0.0143,8
+133,Chorley,E07000118,lower,296,Living,147,18.229,0.0429,5
+603,Colchester,E07000071,lower,296,IMD,168,17.339,0.0171,6
+603,Colchester,E07000071,lower,296,Income,165,0.186,0.0256,6
+603,Colchester,E07000071,lower,296,Employment,175,0.109,0.0171,6
+603,Colchester,E07000071,lower,296,Education,171,18.019,0.0684,6
+603,Colchester,E07000071,lower,296,Health,131,0.002,0.0513,5
+603,Colchester,E07000071,lower,296,Crime,114,0.099,0.094,4
+603,Colchester,E07000071,lower,296,Barriers,132,22.008,0.0342,5
+603,Colchester,E07000071,lower,296,Living,225,14.912,0.0256,8
+242,Cornwall,E06000052,lower,296,IMD,86,22.321,0.0327,3
+242,Cornwall,E06000052,lower,296,Income,104,0.22,0.0238,4
+242,Cornwall,E06000052,lower,296,Employment,93,0.136,0.0536,4
+242,Cornwall,E06000052,lower,296,Education,110,21.43,0.0565,4
+242,Cornwall,E06000052,lower,296,Health,138,-0.068,0.0119,5
+242,Cornwall,E06000052,lower,296,Crime,259,-0.557,0.0179,9
+242,Cornwall,E06000052,lower,296,Barriers,31,30.993,0.3244,2
+242,Cornwall,E06000052,lower,296,Living,43,31.573,0.3185,2
+37,Cotswold,E07000079,lower,296,IMD,243,12.052,0,9
+37,Cotswold,E07000079,lower,296,Income,270,0.121,0,10
+37,Cotswold,E07000079,lower,296,Employment,278,0.072,0,10
+37,Cotswold,E07000079,lower,296,Education,263,10.052,0,9
+37,Cotswold,E07000079,lower,296,Health,282,-1.058,0,10
+37,Cotswold,E07000079,lower,296,Crime,270,-0.589,0,10
+37,Cotswold,E07000079,lower,296,Barriers,50,28.762,0.3036,2
+37,Cotswold,E07000079,lower,296,Living,107,25.766,0.25,4
+243,County Durham,E06000047,lower,296,IMD,47,28.808,0.1697,2
+243,County Durham,E06000047,lower,296,Income,77,0.266,0.1152,3
+243,County Durham,E06000047,lower,296,Employment,39,0.185,0.2545,2
+243,County Durham,E06000047,lower,296,Education,92,25.76,0.1091,4
+243,County Durham,E06000047,lower,296,Health,17,0.836,0.3909,1
+243,County Durham,E06000047,lower,296,Crime,60,0.344,0.1848,2
+243,County Durham,E06000047,lower,296,Barriers,176,20.323,0.0485,6
+243,County Durham,E06000047,lower,296,Living,168,17.638,0.0576,6
+204,Coventry,E08000026,lower,296,IMD,61,27.528,0.1773,3
+204,Coventry,E08000026,lower,296,Income,52,0.293,0.1724,2
+204,Coventry,E08000026,lower,296,Employment,79,0.156,0.1478,3
+204,Coventry,E08000026,lower,296,Education,71,27.267,0.0985,3
+204,Coventry,E08000026,lower,296,Health,43,0.594,0.2069,2
+204,Coventry,E08000026,lower,296,Crime,70,0.282,0.1281,3
+204,Coventry,E08000026,lower,296,Barriers,153,20.733,0.0049,6
+204,Coventry,E08000026,lower,296,Living,68,23.599,0.0739,3
+135,Crawley,E07000226,lower,296,IMD,109,20.786,0.0149,4
+135,Crawley,E07000226,lower,296,Income,64,0.249,0.0149,3
+135,Crawley,E07000226,lower,296,Employment,122,0.123,0.0149,5
+135,Crawley,E07000226,lower,296,Education,49,27.475,0.0299,2
+135,Crawley,E07000226,lower,296,Health,152,-0.174,0,6
+135,Crawley,E07000226,lower,296,Crime,79,0.198,0.0448,3
+135,Crawley,E07000226,lower,296,Barriers,57,26.833,0.0746,2
+135,Crawley,E07000226,lower,296,Living,283,9.528,0,10
+174,Croydon,E09000008,lower,296,IMD,105,22.562,0.0349,4
+174,Croydon,E09000008,lower,296,Income,53,0.277,0.083,2
+174,Croydon,E09000008,lower,296,Employment,82,0.145,0.0655,3
+174,Croydon,E09000008,lower,296,Education,172,16.756,0,6
+174,Croydon,E09000008,lower,296,Health,153,-0.149,0.0087,6
+174,Croydon,E09000008,lower,296,Crime,100,0.128,0.0524,4
+174,Croydon,E09000008,lower,296,Barriers,95,24.072,0.0437,4
+174,Croydon,E09000008,lower,296,Living,44,26.856,0.0524,2
+244,Cumberland,E06000063,lower,296,IMD,98,23.807,0.1017,4
+244,Cumberland,E06000063,lower,296,Income,158,0.2,0.0565,6
+244,Cumberland,E06000063,lower,296,Employment,107,0.145,0.1073,4
+244,Cumberland,E06000063,lower,296,Education,89,26.704,0.1299,3
+244,Cumberland,E06000063,lower,296,Health,67,0.434,0.2034,3
+244,Cumberland,E06000063,lower,296,Crime,155,-0.145,0.0847,6
+244,Cumberland,E06000063,lower,296,Barriers,126,23.678,0.1299,5
+244,Cumberland,E06000063,lower,296,Living,94,24.612,0.2034,4
+38,Dacorum,E07000096,lower,296,IMD,211,14.031,0,8
+38,Dacorum,E07000096,lower,296,Income,178,0.18,0.0104,6
+38,Dacorum,E07000096,lower,296,Employment,210,0.099,0.0104,8
+38,Dacorum,E07000096,lower,296,Education,183,17.069,0.0417,7
+38,Dacorum,E07000096,lower,296,Health,220,-0.596,0,8
+38,Dacorum,E07000096,lower,296,Crime,198,-0.324,0.0208,7
+38,Dacorum,E07000096,lower,296,Barriers,188,19.839,0.0312,7
+38,Dacorum,E07000096,lower,296,Living,249,13.18,0.0208,9
+245,Darlington,E06000005,lower,296,IMD,103,25.713,0.197,4
+245,Darlington,E06000005,lower,296,Income,110,0.248,0.1515,4
+245,Darlington,E06000005,lower,296,Employment,80,0.166,0.1667,3
+245,Darlington,E06000005,lower,296,Education,122,24.246,0.1212,5
+245,Darlington,E06000005,lower,296,Health,54,0.575,0.2576,2
+245,Darlington,E06000005,lower,296,Crime,73,0.283,0.2273,3
+245,Darlington,E06000005,lower,296,Barriers,272,14.779,0.0303,10
+245,Darlington,E06000005,lower,296,Living,136,21.474,0.1818,5
+39,Dartford,E07000107,lower,296,IMD,163,17.375,0.0149,6
+39,Dartford,E07000107,lower,296,Income,166,0.183,0.0149,6
+39,Dartford,E07000107,lower,296,Employment,193,0.104,0.0299,7
+39,Dartford,E07000107,lower,296,Education,185,15.593,0,7
+39,Dartford,E07000107,lower,296,Health,154,-0.146,0,6
+39,Dartford,E07000107,lower,296,Crime,52,0.352,0.0896,2
+39,Dartford,E07000107,lower,296,Barriers,67,26.206,0.1194,3
+39,Dartford,E07000107,lower,296,Living,188,15.505,0,7
+609,Derby,E06000015,lower,296,IMD,79,28.155,0.1842,3
+609,Derby,E06000015,lower,296,Income,55,0.296,0.1842,2
+609,Derby,E06000015,lower,296,Employment,56,0.17,0.1513,2
+609,Derby,E06000015,lower,296,Education,77,31.405,0.2039,3
+609,Derby,E06000015,lower,296,Health,57,0.488,0.1382,2
+609,Derby,E06000015,lower,296,Crime,62,0.331,0.1645,3
+609,Derby,E06000015,lower,296,Barriers,244,15.817,0,9
+609,Derby,E06000015,lower,296,Living,102,22.988,0.1118,4
+2,Derbyshire,E10000007,upper,153,IMD,99,19.386,0.0561,7
+2,Derbyshire,E10000007,upper,153,Income,105,0.195,0.0381,7
+2,Derbyshire,E10000007,upper,153,Employment,84,0.132,0.0741,6
+2,Derbyshire,E10000007,upper,153,Education,81,21.119,0.0842,6
+2,Derbyshire,E10000007,upper,153,Health,65,0.213,0.1122,5
+2,Derbyshire,E10000007,upper,153,Crime,102,-0.182,0.0461,7
+2,Derbyshire,E10000007,upper,153,Barriers,108,17.817,0.022,7
+2,Derbyshire,E10000007,upper,153,Living,82,19.959,0.0701,6
+40,Derbyshire Dales,E07000035,lower,296,IMD,213,13.761,0.0233,8
+40,Derbyshire Dales,E07000035,lower,296,Income,275,0.124,0.0233,10
+40,Derbyshire Dales,E07000035,lower,296,Employment,247,0.088,0.0233,9
+40,Derbyshire Dales,E07000035,lower,296,Education,255,11.045,0.0233,9
+40,Derbyshire Dales,E07000035,lower,296,Health,222,-0.504,0.0233,8
+40,Derbyshire Dales,E07000035,lower,296,Crime,281,-0.701,0,10
+40,Derbyshire Dales,E07000035,lower,296,Barriers,96,25.207,0.1395,4
+40,Derbyshire Dales,E07000035,lower,296,Living,30,32.879,0.2791,1
+3,Devon,E10000008,upper,153,IMD,101,17.722,0.0063,7
+3,Devon,E10000008,upper,153,Income,113,0.171,0.0042,8
+3,Devon,E10000008,upper,153,Employment,105,0.11,0.0105,7
+3,Devon,E10000008,upper,153,Education,94,18.225,0.0316,7
+3,Devon,E10000008,upper,153,Health,96,-0.178,0.0211,7
+3,Devon,E10000008,upper,153,Crime,149,-0.738,0.0127,10
+3,Devon,E10000008,upper,153,Barriers,30,29.176,0.2595,2
+3,Devon,E10000008,upper,153,Living,78,24.023,0.1793,6
+194,Doncaster,E08000017,lower,296,IMD,44,30.523,0.2312,2
+194,Doncaster,E08000017,lower,296,Income,49,0.293,0.1809,2
+194,Doncaster,E08000017,lower,296,Employment,35,0.182,0.201,2
+194,Doncaster,E08000017,lower,296,Education,29,35.977,0.3166,1
+194,Doncaster,E08000017,lower,296,Health,51,0.535,0.1709,2
+194,Doncaster,E08000017,lower,296,Crime,11,0.636,0.2613,1
+194,Doncaster,E08000017,lower,296,Barriers,145,21.841,0.0653,5
+194,Doncaster,E08000017,lower,296,Living,177,18.145,0.0804,6
+247,Dorset,E06000059,lower,296,IMD,174,16.268,0.0224,6
+247,Dorset,E06000059,lower,296,Income,193,0.164,0.0135,7
+247,Dorset,E06000059,lower,296,Employment,170,0.109,0.0224,6
+247,Dorset,E06000059,lower,296,Education,146,18.354,0.0269,5
+247,Dorset,E06000059,lower,296,Health,204,-0.4,0.0135,7
+247,Dorset,E06000059,lower,296,Crime,257,-0.539,0.0179,9
+247,Dorset,E06000059,lower,296,Barriers,56,28.471,0.2287,2
+247,Dorset,E06000059,lower,296,Living,185,18.214,0.0897,7
+41,Dover,E07000108,lower,296,IMD,78,24.869,0.1159,3
+41,Dover,E07000108,lower,296,Income,95,0.238,0.058,4
+41,Dover,E07000108,lower,296,Employment,59,0.158,0.1449,2
+41,Dover,E07000108,lower,296,Education,76,27.176,0.1594,3
+41,Dover,E07000108,lower,296,Health,118,0.064,0.029,4
+41,Dover,E07000108,lower,296,Crime,87,0.261,0.1739,3
+41,Dover,E07000108,lower,296,Barriers,29,30.291,0.2319,1
+41,Dover,E07000108,lower,296,Living,166,17.479,0.029,6
+590,Dudley,E08000027,lower,296,IMD,115,23.174,0.1084,4
+590,Dudley,E08000027,lower,296,Income,82,0.267,0.1429,3
+590,Dudley,E08000027,lower,296,Employment,63,0.162,0.133,3
+590,Dudley,E08000027,lower,296,Education,73,28.694,0.1773,3
+590,Dudley,E08000027,lower,296,Health,100,0.145,0.0246,4
+590,Dudley,E08000027,lower,296,Crime,118,0.01,0.0394,4
+590,Dudley,E08000027,lower,296,Barriers,268,14.558,0,10
+590,Dudley,E08000027,lower,296,Living,141,17.371,0.0148,5
+175,Ealing,E09000009,lower,296,IMD,45,25.947,0.0302,2
+175,Ealing,E09000009,lower,296,Income,18,0.318,0.1307,1
+175,Ealing,E09000009,lower,296,Employment,97,0.131,0.0201,4
+175,Ealing,E09000009,lower,296,Education,168,18.012,0,6
+175,Ealing,E09000009,lower,296,Health,177,-0.298,0,6
+175,Ealing,E09000009,lower,296,Crime,107,0.106,0.0352,4
+175,Ealing,E09000009,lower,296,Barriers,4,37.613,0.5528,1
+175,Ealing,E09000009,lower,296,Living,25,31.721,0.0905,1
+48,Eastbourne,E07000061,lower,296,IMD,96,23.904,0.1333,4
+48,Eastbourne,E07000061,lower,296,Income,61,0.264,0.1167,3
+48,Eastbourne,E07000061,lower,296,Employment,36,0.172,0.1333,2
+48,Eastbourne,E07000061,lower,296,Education,95,24.765,0.1333,4
+48,Eastbourne,E07000061,lower,296,Health,70,0.372,0.1167,3
+48,Eastbourne,E07000061,lower,296,Crime,115,0.096,0.0833,4
+48,Eastbourne,E07000061,lower,296,Barriers,241,15.797,0.0167,9
+48,Eastbourne,E07000061,lower,296,Living,222,15.323,0.0167,8
+42,East Devon,E07000040,lower,296,IMD,195,14.548,0,7
+42,East Devon,E07000040,lower,296,Income,222,0.149,0,8
+42,East Devon,E07000040,lower,296,Employment,199,0.098,0,7
+42,East Devon,E07000040,lower,296,Education,205,14.581,0.0114,7
+42,East Devon,E07000040,lower,296,Health,202,-0.419,0,7
+42,East Devon,E07000040,lower,296,Crime,291,-0.892,0,10
+42,East Devon,E07000040,lower,296,Barriers,43,29.056,0.25,2
+42,East Devon,E07000040,lower,296,Living,164,19.087,0.0909,6
+43,East Hampshire,E07000085,lower,296,IMD,278,9.881,0,10
+43,East Hampshire,E07000085,lower,296,Income,274,0.122,0,10
+43,East Hampshire,E07000085,lower,296,Employment,274,0.074,0,10
+43,East Hampshire,E07000085,lower,296,Education,264,10.369,0.027,9
+43,East Hampshire,E07000085,lower,296,Health,272,-0.935,0,10
+43,East Hampshire,E07000085,lower,296,Crime,232,-0.441,0,8
+43,East Hampshire,E07000085,lower,296,Barriers,114,23.255,0.1081,4
+43,East Hampshire,E07000085,lower,296,Living,279,11.572,0.0405,10
+44,East Hertfordshire,E07000242,lower,296,IMD,276,9.831,0,10
+44,East Hertfordshire,E07000242,lower,296,Income,265,0.127,0,9
+44,East Hertfordshire,E07000242,lower,296,Employment,276,0.074,0,10
+44,East Hertfordshire,E07000242,lower,296,Education,262,10.364,0.0111,9
+44,East Hertfordshire,E07000242,lower,296,Health,287,-1.176,0,10
+44,East Hertfordshire,E07000242,lower,296,Crime,256,-0.536,0.0222,9
+44,East Hertfordshire,E07000242,lower,296,Barriers,175,21.165,0.1,6
+44,East Hertfordshire,E07000242,lower,296,Living,194,16.612,0.0444,7
+136,Eastleigh,E07000086,lower,296,IMD,263,10.996,0,9
+136,Eastleigh,E07000086,lower,296,Income,244,0.143,0,9
+136,Eastleigh,E07000086,lower,296,Employment,249,0.084,0,9
+136,Eastleigh,E07000086,lower,296,Education,242,12.25,0.0122,9
+136,Eastleigh,E07000086,lower,296,Health,216,-0.503,0,8
+136,Eastleigh,E07000086,lower,296,Crime,179,-0.231,0.0122,7
+136,Eastleigh,E07000086,lower,296,Barriers,190,19.083,0,7
+136,Eastleigh,E07000086,lower,296,Living,288,8.628,0,10
+45,East Lindsey,E07000137,lower,296,IMD,27,30.392,0.1463,1
+45,East Lindsey,E07000137,lower,296,Income,63,0.262,0.0732,3
+45,East Lindsey,E07000137,lower,296,Employment,21,0.186,0.2317,1
+45,East Lindsey,E07000137,lower,296,Education,20,33.402,0.1585,1
+45,East Lindsey,E07000137,lower,296,Health,42,0.596,0.2073,2
+45,East Lindsey,E07000137,lower,296,Crime,159,-0.108,0.0732,6
+45,East Lindsey,E07000137,lower,296,Barriers,44,30.474,0.3415,2
+45,East Lindsey,E07000137,lower,296,Living,75,25.073,0.1341,3
+248,East Riding of Yorkshire,E06000011,lower,296,IMD,203,15.755,0.061,7
+248,East Riding of Yorkshire,E06000011,lower,296,Income,216,0.163,0.0423,8
+248,East Riding of Yorkshire,E06000011,lower,296,Employment,202,0.109,0.0704,7
+248,East Riding of Yorkshire,E06000011,lower,296,Education,176,18.435,0.0892,6
+248,East Riding of Yorkshire,E06000011,lower,296,Health,193,-0.358,0.0376,7
+248,East Riding of Yorkshire,E06000011,lower,296,Crime,236,-0.467,0.0657,8
+248,East Riding of Yorkshire,E06000011,lower,296,Barriers,172,21.075,0.1221,6
+248,East Riding of Yorkshire,E06000011,lower,296,Living,160,18.491,0.0704,6
+46,East Staffordshire,E07000193,lower,296,IMD,156,19.021,0.0556,6
+46,East Staffordshire,E07000193,lower,296,Income,139,0.211,0.0556,5
+46,East Staffordshire,E07000193,lower,296,Employment,167,0.115,0.0417,6
+46,East Staffordshire,E07000193,lower,296,Education,121,24.831,0.1944,5
+46,East Staffordshire,E07000193,lower,296,Health,112,0.094,0.0694,4
+46,East Staffordshire,E07000193,lower,296,Crime,213,-0.432,0.0139,8
+46,East Staffordshire,E07000193,lower,296,Barriers,173,20.61,0.0833,6
+46,East Staffordshire,E07000193,lower,296,Living,139,19.203,0.0694,5
+589,East Suffolk,E07000244,lower,296,IMD,138,20.316,0.0759,5
+589,East Suffolk,E07000244,lower,296,Income,162,0.195,0.069,6
+589,East Suffolk,E07000244,lower,296,Employment,133,0.134,0.1034,5
+589,East Suffolk,E07000244,lower,296,Education,91,25.176,0.1172,4
+589,East Suffolk,E07000244,lower,296,Health,133,-0.013,0.0552,5
+589,East Suffolk,E07000244,lower,296,Crime,234,-0.454,0.0552,8
+589,East Suffolk,E07000244,lower,296,Barriers,99,25.682,0.1724,4
+589,East Suffolk,E07000244,lower,296,Living,159,19.231,0.1241,6
+4,East Sussex,E10000011,upper,153,IMD,91,21.23,0.0873,6
+4,East Sussex,E10000011,upper,153,Income,91,0.214,0.0663,6
+4,East Sussex,E10000011,upper,153,Employment,71,0.142,0.0843,5
+4,East Sussex,E10000011,upper,153,Education,70,22.018,0.0783,5
+4,East Sussex,E10000011,upper,153,Health,84,-0.051,0.0633,6
+4,East Sussex,E10000011,upper,153,Crime,113,-0.24,0.0542,8
+4,East Sussex,E10000011,upper,153,Barriers,40,27.145,0.2349,3
+4,East Sussex,E10000011,upper,153,Living,119,17.342,0.0633,8
+137,Elmbridge,E07000207,lower,296,IMD,292,8.047,0,10
+137,Elmbridge,E07000207,lower,296,Income,281,0.118,0,10
+137,Elmbridge,E07000207,lower,296,Employment,288,0.066,0,10
+137,Elmbridge,E07000207,lower,296,Education,291,6.224,0,10
+137,Elmbridge,E07000207,lower,296,Health,289,-1.474,0,10
+137,Elmbridge,E07000207,lower,296,Crime,205,-0.329,0,7
+137,Elmbridge,E07000207,lower,296,Barriers,253,15.535,0,9
+137,Elmbridge,E07000207,lower,296,Living,156,16.065,0,6
+176,Enfield,E09000010,lower,296,IMD,37,29.888,0.1803,2
+176,Enfield,E09000010,lower,296,Income,9,0.377,0.3825,1
+176,Enfield,E09000010,lower,296,Employment,43,0.168,0.1202,2
+176,Enfield,E09000010,lower,296,Education,81,26.858,0.082,3
+176,Enfield,E09000010,lower,296,Health,170,-0.279,0,6
+176,Enfield,E09000010,lower,296,Crime,80,0.209,0.0328,3
+176,Enfield,E09000010,lower,296,Barriers,22,31.552,0.3333,1
+176,Enfield,E09000010,lower,296,Living,28,29.654,0.0437,1
+138,Epping Forest,E07000072,lower,296,IMD,205,14.101,0,7
+138,Epping Forest,E07000072,lower,296,Income,199,0.16,0,7
+138,Epping Forest,E07000072,lower,296,Employment,218,0.095,0,8
+138,Epping Forest,E07000072,lower,296,Education,145,18.198,0,5
+138,Epping Forest,E07000072,lower,296,Health,269,-0.957,0,10
+138,Epping Forest,E07000072,lower,296,Crime,98,0.12,0,4
+138,Epping Forest,E07000072,lower,296,Barriers,204,18.799,0.0385,7
+138,Epping Forest,E07000072,lower,296,Living,87,21.664,0.0513,3
+49,Epsom and Ewell,E07000208,lower,296,IMD,293,7.975,0,10
+49,Epsom and Ewell,E07000208,lower,296,Income,280,0.118,0,10
+49,Epsom and Ewell,E07000208,lower,296,Employment,284,0.07,0,10
+49,Epsom and Ewell,E07000208,lower,296,Education,283,7.866,0,10
+49,Epsom and Ewell,E07000208,lower,296,Health,285,-1.139,0,10
+49,Epsom and Ewell,E07000208,lower,296,Crime,197,-0.288,0.0652,7
+49,Epsom and Ewell,E07000208,lower,296,Barriers,287,11.739,0,10
+49,Epsom and Ewell,E07000208,lower,296,Living,202,14.498,0,7
+50,Erewash,E07000036,lower,296,IMD,144,20.726,0.0822,5
+50,Erewash,E07000036,lower,296,Income,144,0.208,0.0548,5
+50,Erewash,E07000036,lower,296,Employment,115,0.14,0.0959,4
+50,Erewash,E07000036,lower,296,Education,107,25.137,0.1233,4
+50,Erewash,E07000036,lower,296,Health,88,0.244,0.0822,3
+50,Erewash,E07000036,lower,296,Crime,139,-0.066,0.1096,5
+50,Erewash,E07000036,lower,296,Barriers,281,12.558,0,10
+50,Erewash,E07000036,lower,296,Living,85,23.066,0.0959,3
+583,Essex,E10000012,upper,153,IMD,108,17.703,0.0354,7
+583,Essex,E10000012,upper,153,Income,110,0.186,0.0266,8
+583,Essex,E10000012,upper,153,Employment,112,0.114,0.0354,8
+583,Essex,E10000012,upper,153,Education,68,22.092,0.0687,5
+583,Essex,E10000012,upper,153,Health,111,-0.325,0.031,8
+583,Essex,E10000012,upper,153,Crime,87,-0.003,0.072,6
+583,Essex,E10000012,upper,153,Barriers,56,23.332,0.0709,4
+583,Essex,E10000012,upper,153,Living,131,15.312,0.0365,9
+139,Exeter,E07000041,lower,296,IMD,187,15.946,0,7
+139,Exeter,E07000041,lower,296,Income,196,0.165,0,7
+139,Exeter,E07000041,lower,296,Employment,205,0.1,0,7
+139,Exeter,E07000041,lower,296,Education,164,18.696,0.0385,6
+139,Exeter,E07000041,lower,296,Health,89,0.227,0.0641,3
+139,Exeter,E07000041,lower,296,Crime,194,-0.328,0.0385,7
+139,Exeter,E07000041,lower,296,Barriers,251,15.62,0,9
+139,Exeter,E07000041,lower,296,Living,149,18.26,0.0256,6
+125,Fareham,E07000087,lower,296,IMD,291,8.067,0,10
+125,Fareham,E07000087,lower,296,Income,286,0.113,0,10
+125,Fareham,E07000087,lower,296,Employment,268,0.076,0,10
+125,Fareham,E07000087,lower,296,Education,257,10.73,0.0137,9
+125,Fareham,E07000087,lower,296,Health,268,-0.799,0,10
+125,Fareham,E07000087,lower,296,Crime,252,-0.51,0.0274,9
+125,Fareham,E07000087,lower,296,Barriers,274,14,0,10
+125,Fareham,E07000087,lower,296,Living,292,8.187,0,10
+51,Fenland,E07000010,lower,296,IMD,42,26.1,0.0893,2
+51,Fenland,E07000010,lower,296,Income,76,0.238,0.0179,3
+51,Fenland,E07000010,lower,296,Employment,51,0.15,0.0536,2
+51,Fenland,E07000010,lower,296,Education,1,41.526,0.25,1
+51,Fenland,E07000010,lower,296,Health,62,0.385,0.0357,3
+51,Fenland,E07000010,lower,296,Crime,120,0.015,0.0179,5
+51,Fenland,E07000010,lower,296,Barriers,38,29.57,0.2143,2
+51,Fenland,E07000010,lower,296,Living,244,13.757,0.0179,9
+52,Folkestone and Hythe,E07000112,lower,296,IMD,66,25.193,0.0746,3
+52,Folkestone and Hythe,E07000112,lower,296,Income,94,0.235,0.0448,4
+52,Folkestone and Hythe,E07000112,lower,296,Employment,49,0.162,0.0746,2
+52,Folkestone and Hythe,E07000112,lower,296,Education,68,27.324,0.1045,3
+52,Folkestone and Hythe,E07000112,lower,296,Health,80,0.263,0.0448,3
+52,Folkestone and Hythe,E07000112,lower,296,Crime,93,0.197,0.0896,4
+52,Folkestone and Hythe,E07000112,lower,296,Barriers,68,28.372,0.2985,3
+52,Folkestone and Hythe,E07000112,lower,296,Living,138,19.01,0.0448,5
+53,Forest of Dean,E07000080,lower,296,IMD,121,19.129,0,5
+53,Forest of Dean,E07000080,lower,296,Income,167,0.182,0,6
+53,Forest of Dean,E07000080,lower,296,Employment,137,0.12,0.02,5
+53,Forest of Dean,E07000080,lower,296,Education,113,20.837,0,4
+53,Forest of Dean,E07000080,lower,296,Health,198,-0.374,0,7
+53,Forest of Dean,E07000080,lower,296,Crime,206,-0.337,0,7
+53,Forest of Dean,E07000080,lower,296,Barriers,23,30.739,0.22,1
+53,Forest of Dean,E07000080,lower,296,Living,73,26.665,0.26,3
+597,Fylde,E07000119,lower,296,IMD,188,15.712,0.0392,7
+597,Fylde,E07000119,lower,296,Income,191,0.169,0.0196,7
+597,Fylde,E07000119,lower,296,Employment,149,0.119,0.0392,6
+597,Fylde,E07000119,lower,296,Education,213,14.183,0,8
+597,Fylde,E07000119,lower,296,Health,109,0.086,0.0392,4
+597,Fylde,E07000119,lower,296,Crime,218,-0.393,0.0196,8
+597,Fylde,E07000119,lower,296,Barriers,215,18.002,0.0196,8
+597,Fylde,E07000119,lower,296,Living,135,18.846,0.0784,5
+205,Gateshead,E08000037,lower,296,IMD,58,28.128,0.1905,2
+205,Gateshead,E08000037,lower,296,Income,62,0.283,0.1508,3
+205,Gateshead,E08000037,lower,296,Employment,33,0.184,0.2143,2
+205,Gateshead,E08000037,lower,296,Education,97,26.796,0.1825,4
+205,Gateshead,E08000037,lower,296,Health,25,0.737,0.3095,1
+205,Gateshead,E08000037,lower,296,Crime,59,0.333,0.1825,2
+205,Gateshead,E08000037,lower,296,Barriers,273,14.102,0.0159,10
+205,Gateshead,E08000037,lower,296,Living,106,20.631,0.0556,4
+55,Gedling,E07000173,lower,296,IMD,209,14.485,0.013,8
+55,Gedling,E07000173,lower,296,Income,177,0.181,0.013,6
+55,Gedling,E07000173,lower,296,Employment,138,0.123,0.039,5
+55,Gedling,E07000173,lower,296,Education,206,15.159,0.013,7
+55,Gedling,E07000173,lower,296,Health,162,-0.221,0.013,6
+55,Gedling,E07000173,lower,296,Crime,212,-0.373,0,8
+55,Gedling,E07000173,lower,296,Barriers,290,9.007,0,10
+55,Gedling,E07000173,lower,296,Living,153,17.377,0.026,6
+6,Gloucestershire,E10000013,upper,153,IMD,124,15.146,0.0305,9
+6,Gloucestershire,E10000013,upper,153,Income,128,0.164,0.0153,9
+6,Gloucestershire,E10000013,upper,153,Employment,126,0.101,0.0254,9
+6,Gloucestershire,E10000013,upper,153,Education,115,16.66,0.0636,8
+6,Gloucestershire,E10000013,upper,153,Health,126,-0.462,0.0204,9
+6,Gloucestershire,E10000013,upper,153,Crime,118,-0.254,0.0483,8
+6,Gloucestershire,E10000013,upper,153,Barriers,83,21.129,0.0891,6
+6,Gloucestershire,E10000013,upper,153,Living,105,18.957,0.1043,7
+126,Gosport,E07000088,lower,296,IMD,97,23.45,0.0893,4
+126,Gosport,E07000088,lower,296,Income,119,0.223,0.0357,4
+126,Gosport,E07000088,lower,296,Employment,98,0.142,0.1071,4
+126,Gosport,E07000088,lower,296,Education,26,31.421,0.1786,1
+126,Gosport,E07000088,lower,296,Health,81,0.285,0.0893,3
+126,Gosport,E07000088,lower,296,Crime,76,0.251,0.1786,3
+126,Gosport,E07000088,lower,296,Barriers,59,26.011,0.0893,2
+126,Gosport,E07000088,lower,296,Living,233,13.839,0.0179,8
+56,Gravesham,E07000109,lower,296,IMD,94,23.624,0.0923,4
+56,Gravesham,E07000109,lower,296,Income,103,0.242,0.0615,4
+56,Gravesham,E07000109,lower,296,Employment,100,0.142,0.0615,4
+56,Gravesham,E07000109,lower,296,Education,58,27.172,0.0615,2
+56,Gravesham,E07000109,lower,296,Health,122,0.046,0.0154,5
+56,Gravesham,E07000109,lower,296,Crime,19,0.58,0.2154,1
+56,Gravesham,E07000109,lower,296,Barriers,90,24.424,0.0769,4
+56,Gravesham,E07000109,lower,296,Living,163,17.198,0.0154,6
+587,Great Yarmouth,E07000145,lower,296,IMD,25,34.228,0.25,1
+587,Great Yarmouth,E07000145,lower,296,Income,40,0.315,0.2333,2
+587,Great Yarmouth,E07000145,lower,296,Employment,13,0.207,0.25,1
+587,Great Yarmouth,E07000145,lower,296,Education,3,42.796,0.2667,1
+587,Great Yarmouth,E07000145,lower,296,Health,52,0.539,0.2,2
+587,Great Yarmouth,E07000145,lower,296,Crime,88,0.299,0.1667,3
+587,Great Yarmouth,E07000145,lower,296,Barriers,100,24.503,0.1333,4
+587,Great Yarmouth,E07000145,lower,296,Living,79,26.302,0.2333,3
+58,Guildford,E07000209,lower,296,IMD,284,9.468,0,10
+58,Guildford,E07000209,lower,296,Income,284,0.113,0,10
+58,Guildford,E07000209,lower,296,Employment,289,0.065,0,10
+58,Guildford,E07000209,lower,296,Education,278,9.926,0.0119,10
+58,Guildford,E07000209,lower,296,Health,271,-1.033,0,10
+58,Guildford,E07000209,lower,296,Crime,223,-0.429,0.0238,8
+58,Guildford,E07000209,lower,296,Barriers,179,20.251,0.0595,7
+58,Guildford,E07000209,lower,296,Living,217,14.806,0.0238,8
+177,Hackney,E09000012,lower,296,IMD,10,31.795,0.1611,1
+177,Hackney,E09000012,lower,296,Income,5,0.4,0.2886,1
+177,Hackney,E09000012,lower,296,Employment,31,0.17,0.0537,2
+177,Hackney,E09000012,lower,296,Education,211,14.82,0.0201,8
+177,Hackney,E09000012,lower,296,Health,32,0.602,0.0805,2
+177,Hackney,E09000012,lower,296,Crime,12,0.529,0.094,1
+177,Hackney,E09000012,lower,296,Barriers,53,27.425,0.1678,2
+177,Hackney,E09000012,lower,296,Living,14,35.594,0.1208,1
+274,Halton,E06000006,lower,296,IMD,55,31.117,0.3125,2
+274,Halton,E06000006,lower,296,Income,78,0.294,0.25,3
+274,Halton,E06000006,lower,296,Employment,42,0.199,0.3625,2
+274,Halton,E06000006,lower,296,Education,79,29.478,0.25,3
+274,Halton,E06000006,lower,296,Health,21,0.88,0.4625,1
+274,Halton,E06000006,lower,296,Crime,55,0.382,0.2125,2
+274,Halton,E06000006,lower,296,Barriers,208,18.191,0,7
+274,Halton,E06000006,lower,296,Living,189,16.19,0.0375,7
+178,Hammersmith and Fulham,E09000013,lower,296,IMD,108,21.202,0.0174,4
+178,Hammersmith and Fulham,E09000013,lower,296,Income,92,0.239,0.0783,4
+178,Hammersmith and Fulham,E09000013,lower,296,Employment,146,0.119,0.0174,5
+178,Hammersmith and Fulham,E09000013,lower,296,Education,277,8.682,0,10
+178,Hammersmith and Fulham,E09000013,lower,296,Health,127,0,0.0261,5
+178,Hammersmith and Fulham,E09000013,lower,296,Crime,91,0.177,0.0261,4
+178,Hammersmith and Fulham,E09000013,lower,296,Barriers,98,23.697,0.0348,4
+178,Hammersmith and Fulham,E09000013,lower,296,Living,6,41.533,0.3739,1
+7,Hampshire,E10000014,upper,153,IMD,138,12.777,0.0185,9
+7,Hampshire,E10000014,upper,153,Income,137,0.148,0.0104,9
+7,Hampshire,E10000014,upper,153,Employment,136,0.09,0.022,9
+7,Hampshire,E10000014,upper,153,Education,122,15.539,0.0566,8
+7,Hampshire,E10000014,upper,153,Health,135,-0.618,0.0104,9
+7,Hampshire,E10000014,upper,153,Crime,117,-0.262,0.0393,8
+7,Hampshire,E10000014,upper,153,Barriers,75,21.466,0.0682,5
+7,Hampshire,E10000014,upper,153,Living,149,11.009,0.0277,10
+608,Harborough,E07000131,lower,296,IMD,283,9.224,0,10
+608,Harborough,E07000131,lower,296,Income,283,0.111,0,10
+608,Harborough,E07000131,lower,296,Employment,282,0.069,0,10
+608,Harborough,E07000131,lower,296,Education,272,9.046,0,10
+608,Harborough,E07000131,lower,296,Health,270,-0.887,0,10
+608,Harborough,E07000131,lower,296,Crime,267,-0.59,0,9
+608,Harborough,E07000131,lower,296,Barriers,121,23.751,0.1154,5
+608,Harborough,E07000131,lower,296,Living,269,12.532,0.0385,10
+179,Haringey,E09000014,lower,296,IMD,29,30.856,0.1905,1
+179,Haringey,E09000014,lower,296,Income,15,0.354,0.2653,1
+179,Haringey,E09000014,lower,296,Employment,48,0.162,0.0952,2
+179,Haringey,E09000014,lower,296,Education,139,21.016,0,5
+179,Haringey,E09000014,lower,296,Health,141,-0.118,0.0068,5
+179,Haringey,E09000014,lower,296,Crime,30,0.46,0.1224,1
+179,Haringey,E09000014,lower,296,Barriers,10,34.992,0.5238,1
+179,Haringey,E09000014,lower,296,Living,10,37.534,0.1769,1
+140,Harlow,E07000073,lower,296,IMD,92,21.659,0.0172,4
+140,Harlow,E07000073,lower,296,Income,45,0.265,0,2
+140,Harlow,E07000073,lower,296,Employment,71,0.145,0.0172,3
+140,Harlow,E07000073,lower,296,Education,35,27.812,0,2
+140,Harlow,E07000073,lower,296,Health,144,-0.121,0,5
+140,Harlow,E07000073,lower,296,Crime,26,0.463,0.1379,1
+140,Harlow,E07000073,lower,296,Barriers,163,20.411,0.0345,6
+140,Harlow,E07000073,lower,296,Living,290,8.328,0,10
+180,Harrow,E09000015,lower,296,IMD,153,17.527,0,6
+180,Harrow,E09000015,lower,296,Income,57,0.255,0.0069,2
+180,Harrow,E09000015,lower,296,Employment,179,0.103,0,7
+180,Harrow,E09000015,lower,296,Education,220,13.271,0,8
+180,Harrow,E09000015,lower,296,Health,266,-0.79,0,9
+180,Harrow,E09000015,lower,296,Crime,201,-0.305,0,7
+180,Harrow,E09000015,lower,296,Barriers,37,29.271,0.1944,2
+180,Harrow,E09000015,lower,296,Living,61,22.825,0,3
+141,Hart,E07000089,lower,296,IMD,296,5.914,0,10
+141,Hart,E07000089,lower,296,Income,293,0.092,0,10
+141,Hart,E07000089,lower,296,Employment,294,0.055,0,10
+141,Hart,E07000089,lower,296,Education,286,7.252,0,10
+141,Hart,E07000089,lower,296,Health,295,-1.773,0,10
+141,Hart,E07000089,lower,296,Crime,272,-0.656,0,10
+141,Hart,E07000089,lower,296,Barriers,191,19.446,0.0339,7
+141,Hart,E07000089,lower,296,Living,295,7.232,0.0169,10
+127,Hastings,E07000062,lower,296,IMD,3,37.255,0.3396,1
+127,Hastings,E07000062,lower,296,Income,22,0.329,0.2075,1
+127,Hastings,E07000062,lower,296,Employment,4,0.215,0.2642,1
+127,Hastings,E07000062,lower,296,Education,15,34.209,0.1887,1
+127,Hastings,E07000062,lower,296,Health,26,0.726,0.2264,1
+127,Hastings,E07000062,lower,296,Crime,44,0.427,0.1698,2
+127,Hastings,E07000062,lower,296,Barriers,1,40.67,0.6981,1
+127,Hastings,E07000062,lower,296,Living,108,22.003,0.1509,4
+142,Havant,E07000090,lower,296,IMD,139,21.459,0.1139,5
+142,Havant,E07000090,lower,296,Income,122,0.228,0.0633,5
+142,Havant,E07000090,lower,296,Employment,102,0.145,0.1392,4
+142,Havant,E07000090,lower,296,Education,74,29.754,0.2532,3
+142,Havant,E07000090,lower,296,Health,123,0.055,0.0506,5
+142,Havant,E07000090,lower,296,Crime,101,0.145,0.1266,4
+142,Havant,E07000090,lower,296,Barriers,184,19.426,0,7
+142,Havant,E07000090,lower,296,Living,287,9.061,0,10
+181,Havering,E09000016,lower,296,IMD,173,16.755,0.0065,6
+181,Havering,E09000016,lower,296,Income,133,0.203,0.0131,5
+181,Havering,E09000016,lower,296,Employment,160,0.113,0.0131,6
+181,Havering,E09000016,lower,296,Education,142,18.273,0.0065,5
+181,Havering,E09000016,lower,296,Health,197,-0.401,0,7
+181,Havering,E09000016,lower,296,Crime,171,-0.193,0.0131,6
+181,Havering,E09000016,lower,296,Barriers,104,23.605,0.0458,4
+181,Havering,E09000016,lower,296,Living,129,17.268,0,5
+249,Herefordshire,E06000019,lower,296,IMD,136,18.762,0.0085,5
+249,Herefordshire,E06000019,lower,296,Income,169,0.179,0.0085,6
+249,Herefordshire,E06000019,lower,296,Employment,169,0.11,0.0256,6
+249,Herefordshire,E06000019,lower,296,Education,138,19.578,0.0427,5
+249,Herefordshire,E06000019,lower,296,Health,176,-0.274,0,6
+249,Herefordshire,E06000019,lower,296,Crime,254,-0.554,0.0342,9
+249,Herefordshire,E06000019,lower,296,Barriers,60,30.02,0.3504,2
+249,Herefordshire,E06000019,lower,296,Living,59,28.319,0.2735,2
+8,Hertfordshire,E10000015,upper,153,IMD,136,13.007,0.0014,9
+8,Hertfordshire,E10000015,upper,153,Income,120,0.171,0.007,8
+8,Hertfordshire,E10000015,upper,153,Employment,129,0.095,0.0028,9
+8,Hertfordshire,E10000015,upper,153,Education,126,14.082,0.0084,9
+8,Hertfordshire,E10000015,upper,153,Health,138,-0.668,0.0028,9
+8,Hertfordshire,E10000015,upper,153,Crime,122,-0.326,0.0168,8
+8,Hertfordshire,E10000015,upper,153,Barriers,101,18.557,0.0309,7
+8,Hertfordshire,E10000015,upper,153,Living,135,14.546,0.0266,9
+60,Hertsmere,E07000098,lower,296,IMD,214,14.123,0.0159,8
+60,Hertsmere,E07000098,lower,296,Income,164,0.184,0.0159,6
+60,Hertsmere,E07000098,lower,296,Employment,187,0.103,0.0159,7
+60,Hertsmere,E07000098,lower,296,Education,225,13.571,0,8
+60,Hertsmere,E07000098,lower,296,Health,205,-0.463,0,7
+60,Hertsmere,E07000098,lower,296,Crime,168,-0.18,0.0159,6
+60,Hertsmere,E07000098,lower,296,Barriers,198,18.933,0.0159,7
+60,Hertsmere,E07000098,lower,296,Living,184,15.414,0,7
+61,High Peak,E07000037,lower,296,IMD,167,17.642,0.0508,6
+61,High Peak,E07000037,lower,296,Income,202,0.169,0.0508,7
+61,High Peak,E07000037,lower,296,Employment,163,0.115,0.0508,6
+61,High Peak,E07000037,lower,296,Education,208,15.99,0.0508,7
+61,High Peak,E07000037,lower,296,Health,126,0.034,0.0339,5
+61,High Peak,E07000037,lower,296,Crime,172,-0.168,0.0339,6
+61,High Peak,E07000037,lower,296,Barriers,113,22.723,0.0339,4
+61,High Peak,E07000037,lower,296,Living,64,25.008,0.1525,3
+62,Hinckley and Bosworth,E07000132,lower,296,IMD,218,13.703,0,8
+62,Hinckley and Bosworth,E07000132,lower,296,Income,211,0.156,0,8
+62,Hinckley and Bosworth,E07000132,lower,296,Employment,189,0.103,0,7
+62,Hinckley and Bosworth,E07000132,lower,296,Education,182,15.919,0,7
+62,Hinckley and Bosworth,E07000132,lower,296,Health,178,-0.293,0,6
+62,Hinckley and Bosworth,E07000132,lower,296,Crime,178,-0.201,0.0147,6
+62,Hinckley and Bosworth,E07000132,lower,296,Barriers,206,19.309,0.0882,7
+62,Hinckley and Bosworth,E07000132,lower,296,Living,254,13.004,0.0147,9
+63,Horsham,E07000227,lower,296,IMD,279,9.611,0,10
+63,Horsham,E07000227,lower,296,Income,272,0.12,0,10
+63,Horsham,E07000227,lower,296,Employment,277,0.073,0,10
+63,Horsham,E07000227,lower,296,Education,268,9.59,0,10
+63,Horsham,E07000227,lower,296,Health,277,-1.001,0,10
+63,Horsham,E07000227,lower,296,Crime,271,-0.646,0.0112,10
+63,Horsham,E07000227,lower,296,Barriers,115,23.341,0.0674,4
+63,Horsham,E07000227,lower,296,Living,245,14.117,0.0337,9
+183,Hounslow,E09000018,lower,296,IMD,49,24.859,0.02,2
+183,Hounslow,E09000018,lower,296,Income,35,0.289,0.0467,2
+183,Hounslow,E09000018,lower,296,Employment,111,0.126,0.0067,4
+183,Hounslow,E09000018,lower,296,Education,123,20.129,0,5
+183,Hounslow,E09000018,lower,296,Health,209,-0.438,0,8
+183,Hounslow,E09000018,lower,296,Crime,68,0.262,0.04,3
+183,Hounslow,E09000018,lower,296,Barriers,5,35.604,0.4733,1
+183,Hounslow,E09000018,lower,296,Living,18,34.028,0.12,1
+64,Huntingdonshire,E07000011,lower,296,IMD,249,11.804,0,9
+64,Huntingdonshire,E07000011,lower,296,Income,235,0.142,0,8
+64,Huntingdonshire,E07000011,lower,296,Employment,235,0.087,0,8
+64,Huntingdonshire,E07000011,lower,296,Education,191,15.528,0.027,7
+64,Huntingdonshire,E07000011,lower,296,Health,245,-0.662,0,9
+64,Huntingdonshire,E07000011,lower,296,Crime,228,-0.428,0,8
+64,Huntingdonshire,E07000011,lower,296,Barriers,131,22.717,0.0901,5
+64,Huntingdonshire,E07000011,lower,296,Living,285,10.122,0.009,10
+143,Hyndburn,E07000120,lower,296,IMD,16,35.43,0.3208,1
+143,Hyndburn,E07000120,lower,296,Income,31,0.328,0.2642,2
+143,Hyndburn,E07000120,lower,296,Employment,14,0.2,0.2642,1
+143,Hyndburn,E07000120,lower,296,Education,51,30.634,0.1887,2
+143,Hyndburn,E07000120,lower,296,Health,11,0.899,0.3962,1
+143,Hyndburn,E07000120,lower,296,Crime,14,0.593,0.1887,1
+143,Hyndburn,E07000120,lower,296,Barriers,165,20.304,0,6
+143,Hyndburn,E07000120,lower,296,Living,17,41.599,0.434,1
+144,Ipswich,E07000202,lower,296,IMD,84,25.457,0.1294,3
+144,Ipswich,E07000202,lower,296,Income,68,0.267,0.1059,3
+144,Ipswich,E07000202,lower,296,Employment,75,0.154,0.1294,3
+144,Ipswich,E07000202,lower,296,Education,25,34.632,0.3059,1
+144,Ipswich,E07000202,lower,296,Health,74,0.314,0.0471,3
+144,Ipswich,E07000202,lower,296,Crime,77,0.245,0.1176,3
+144,Ipswich,E07000202,lower,296,Barriers,214,17.837,0.0118,8
+144,Ipswich,E07000202,lower,296,Living,132,19.328,0.0824,5
+250,Isle of Wight,E06000046,lower,296,IMD,56,24.599,0.0337,2
+250,Isle of Wight,E06000046,lower,296,Income,88,0.234,0.0225,3
+250,Isle of Wight,E06000046,lower,296,Employment,45,0.161,0.0337,2
+250,Isle of Wight,E06000046,lower,296,Education,75,24.434,0.0337,3
+250,Isle of Wight,E06000046,lower,296,Health,47,0.508,0.1011,2
+250,Isle of Wight,E06000046,lower,296,Crime,133,-0.045,0.0449,5
+250,Isle of Wight,E06000046,lower,296,Barriers,64,27.816,0.2584,3
+250,Isle of Wight,E06000046,lower,296,Living,130,19.094,0.0787,5
+184,Islington,E09000019,lower,296,IMD,39,26.651,0.0397,2
+184,Islington,E09000019,lower,296,Income,23,0.304,0.0873,1
+184,Islington,E09000019,lower,296,Employment,47,0.156,0.0556,2
+184,Islington,E09000019,lower,296,Education,209,13.879,0,8
+184,Islington,E09000019,lower,296,Health,64,0.369,0.0317,3
+184,Islington,E09000019,lower,296,Crime,33,0.413,0.0635,2
+184,Islington,E09000019,lower,296,Barriers,86,24.403,0.0397,3
+184,Islington,E09000019,lower,296,Living,11,37.47,0.1905,1
+65,King's Lynn and West Norfolk,E07000146,lower,296,IMD,69,24.054,0.0543,3
+65,King's Lynn and West Norfolk,E07000146,lower,296,Income,135,0.198,0.0217,5
+65,King's Lynn and West Norfolk,E07000146,lower,296,Employment,101,0.132,0.0326,4
+65,King's Lynn and West Norfolk,E07000146,lower,296,Education,12,34.408,0.1413,1
+65,King's Lynn and West Norfolk,E07000146,lower,296,Health,73,0.304,0.0652,3
+65,King's Lynn and West Norfolk,E07000146,lower,296,Crime,216,-0.403,0.0435,8
+65,King's Lynn and West Norfolk,E07000146,lower,296,Barriers,47,31.121,0.4239,2
+65,King's Lynn and West Norfolk,E07000146,lower,296,Living,96,23.715,0.1196,4
+594,"Kingston upon Hull, City of",E06000010,lower,296,IMD,14,37.206,0.4167,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Income,16,0.363,0.3512,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Employment,22,0.208,0.381,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Education,7,39.863,0.4226,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Health,22,0.784,0.375,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Crime,3,0.841,0.4167,1
+594,"Kingston upon Hull, City of",E06000010,lower,296,Barriers,166,20.114,0.006,6
+594,"Kingston upon Hull, City of",E06000010,lower,296,Living,93,23.629,0.1607,4
+185,Kingston upon Thames,E09000021,lower,296,IMD,259,11.063,0,9
+185,Kingston upon Thames,E09000021,lower,296,Income,194,0.164,0,7
+185,Kingston upon Thames,E09000021,lower,296,Employment,246,0.084,0,9
+185,Kingston upon Thames,E09000021,lower,296,Education,281,8.007,0,10
+185,Kingston upon Thames,E09000021,lower,296,Health,265,-0.795,0,9
+185,Kingston upon Thames,E09000021,lower,296,Crime,222,-0.399,0,8
+185,Kingston upon Thames,E09000021,lower,296,Barriers,289,10.703,0,10
+185,Kingston upon Thames,E09000021,lower,296,Living,36,27.719,0.0101,2
+206,Kirklees,E08000034,lower,296,IMD,85,25.805,0.1346,3
+206,Kirklees,E08000034,lower,296,Income,81,0.269,0.1731,3
+206,Kirklees,E08000034,lower,296,Employment,78,0.156,0.1192,3
+206,Kirklees,E08000034,lower,296,Education,111,25.373,0.1654,4
+206,Kirklees,E08000034,lower,296,Health,83,0.278,0.1038,3
+206,Kirklees,E08000034,lower,296,Crime,48,0.391,0.1538,2
+206,Kirklees,E08000034,lower,296,Barriers,183,19.577,0,7
+206,Kirklees,E08000034,lower,296,Living,45,27.732,0.1346,2
+207,Knowsley,E08000011,lower,296,IMD,17,36.157,0.4,1
+207,Knowsley,E08000011,lower,296,Income,24,0.342,0.29,1
+207,Knowsley,E08000011,lower,296,Employment,2,0.23,0.46,1
+207,Knowsley,E08000011,lower,296,Education,13,39.472,0.39,1
+207,Knowsley,E08000011,lower,296,Health,3,1.215,0.57,1
+207,Knowsley,E08000011,lower,296,Crime,69,0.28,0.12,3
+207,Knowsley,E08000011,lower,296,Barriers,218,17.572,0,8
+207,Knowsley,E08000011,lower,296,Living,238,13.13,0,9
+186,Lambeth,E09000022,lower,296,IMD,70,23.041,0.0055,3
+186,Lambeth,E09000022,lower,296,Income,54,0.26,0.011,2
+186,Lambeth,E09000022,lower,296,Employment,116,0.127,0.0055,4
+186,Lambeth,E09000022,lower,296,Education,232,12.044,0,8
+186,Lambeth,E09000022,lower,296,Health,114,0.047,0.011,4
+186,Lambeth,E09000022,lower,296,Crime,54,0.322,0.0497,2
+186,Lambeth,E09000022,lower,296,Barriers,70,25.329,0.0221,3
+186,Lambeth,E09000022,lower,296,Living,7,41.346,0.3702,1
+66,Lancaster,E07000121,lower,296,IMD,135,22.408,0.1136,5
+66,Lancaster,E07000121,lower,296,Income,173,0.202,0.0795,6
+66,Lancaster,E07000121,lower,296,Employment,157,0.132,0.1477,6
+66,Lancaster,E07000121,lower,296,Education,165,20.867,0.0909,6
+66,Lancaster,E07000121,lower,296,Health,84,0.298,0.2045,3
+66,Lancaster,E07000121,lower,296,Crime,125,0.016,0.1705,5
+66,Lancaster,E07000121,lower,296,Barriers,217,18.168,0.0341,8
+66,Lancaster,E07000121,lower,296,Living,50,29.383,0.2045,2
+251,Leicester,E06000016,lower,296,IMD,6,34.449,0.2,1
+251,Leicester,E06000016,lower,296,Income,12,0.345,0.235,1
+251,Leicester,E06000016,lower,296,Employment,58,0.158,0.15,2
+251,Leicester,E06000016,lower,296,Education,6,38.592,0.35,1
+251,Leicester,E06000016,lower,296,Health,72,0.366,0.135,3
+251,Leicester,E06000016,lower,296,Crime,20,0.574,0.275,1
+251,Leicester,E06000016,lower,296,Barriers,7,33.722,0.315,1
+251,Leicester,E06000016,lower,296,Living,38,32.41,0.275,2
+11,Leicestershire,E10000018,upper,153,IMD,137,12.809,0.0074,9
+11,Leicestershire,E10000018,upper,153,Income,133,0.149,0.0074,9
+11,Leicestershire,E10000018,upper,153,Employment,133,0.093,0.0074,9
+11,Leicestershire,E10000018,upper,153,Education,116,15.043,0.0172,8
+11,Leicestershire,E10000018,upper,153,Health,124,-0.433,0.0049,9
+11,Leicestershire,E10000018,upper,153,Crime,114,-0.234,0.0221,8
+11,Leicestershire,E10000018,upper,153,Barriers,100,19.33,0.0564,7
+11,Leicestershire,E10000018,upper,153,Living,141,13.601,0.0172,10
+67,Lewes,E07000063,lower,296,IMD,170,16.774,0,6
+67,Lewes,E07000063,lower,296,Income,142,0.194,0.0161,5
+67,Lewes,E07000063,lower,296,Employment,127,0.125,0.0161,5
+67,Lewes,E07000063,lower,296,Education,158,18.583,0.0161,6
+67,Lewes,E07000063,lower,296,Health,155,-0.192,0,6
+67,Lewes,E07000063,lower,296,Crime,209,-0.373,0.0161,8
+67,Lewes,E07000063,lower,296,Barriers,147,21.337,0.0323,5
+67,Lewes,E07000063,lower,296,Living,239,14.804,0.0484,9
+187,Lewisham,E09000023,lower,296,IMD,46,25.472,0.0171,2
+187,Lewisham,E09000023,lower,296,Income,36,0.287,0.0629,2
+187,Lewisham,E09000023,lower,296,Employment,60,0.149,0.0457,2
+187,Lewisham,E09000023,lower,296,Education,231,12.43,0,8
+187,Lewisham,E09000023,lower,296,Health,91,0.193,0.0114,4
+187,Lewisham,E09000023,lower,296,Crime,36,0.409,0.0571,2
+187,Lewisham,E09000023,lower,296,Barriers,36,28.27,0.1314,2
+187,Lewisham,E09000023,lower,296,Living,15,34.991,0.1714,1
+68,Lichfield,E07000194,lower,296,IMD,241,12.737,0,9
+68,Lichfield,E07000194,lower,296,Income,226,0.15,0,8
+68,Lichfield,E07000194,lower,296,Employment,197,0.103,0.0161,7
+68,Lichfield,E07000194,lower,296,Education,219,14.713,0.0323,8
+68,Lichfield,E07000194,lower,296,Health,191,-0.349,0,7
+68,Lichfield,E07000194,lower,296,Crime,264,-0.6,0,9
+68,Lichfield,E07000194,lower,296,Barriers,207,18.674,0.0323,7
+68,Lichfield,E07000194,lower,296,Living,264,11.932,0,9
+145,Lincoln,E07000138,lower,296,IMD,48,28.872,0.2,2
+145,Lincoln,E07000138,lower,296,Income,93,0.251,0.1167,4
+145,Lincoln,E07000138,lower,296,Employment,103,0.15,0.15,4
+145,Lincoln,E07000138,lower,296,Education,22,35.298,0.2833,1
+145,Lincoln,E07000138,lower,296,Health,33,0.667,0.25,2
+145,Lincoln,E07000138,lower,296,Crime,21,0.553,0.3167,1
+145,Lincoln,E07000138,lower,296,Barriers,77,24.996,0.0333,3
+145,Lincoln,E07000138,lower,296,Living,137,20.313,0.1167,5
+12,Lincolnshire,E10000019,upper,153,IMD,80,22.239,0.0897,6
+12,Lincolnshire,E10000019,upper,153,Income,87,0.213,0.0529,6
+12,Lincolnshire,E10000019,upper,153,Employment,79,0.137,0.0874,6
+12,Lincolnshire,E10000019,upper,153,Education,50,26.701,0.1379,4
+12,Lincolnshire,E10000019,upper,153,Health,76,0.058,0.0851,5
+12,Lincolnshire,E10000019,upper,153,Crime,116,-0.246,0.0782,8
+12,Lincolnshire,E10000019,upper,153,Barriers,32,27.819,0.2276,3
+12,Lincolnshire,E10000019,upper,153,Living,102,18.63,0.0851,7
+195,Liverpool,E08000012,lower,296,IMD,12,37.11,0.3675,1
+195,Liverpool,E08000012,lower,296,Income,34,0.343,0.3113,2
+195,Liverpool,E08000012,lower,296,Employment,24,0.214,0.4338,1
+195,Liverpool,E08000012,lower,296,Education,44,32.945,0.2583,2
+195,Liverpool,E08000012,lower,296,Health,2,1.273,0.606,1
+195,Liverpool,E08000012,lower,296,Crime,28,0.498,0.2086,1
+195,Liverpool,E08000012,lower,296,Barriers,282,12.078,0,10
+195,Liverpool,E08000012,lower,296,Living,42,31.006,0.255,2
+599,Luton,E06000032,lower,296,IMD,33,29.548,0.136,2
+599,Luton,E06000032,lower,296,Income,8,0.365,0.28,1
+599,Luton,E06000032,lower,296,Employment,61,0.15,0.04,3
+599,Luton,E06000032,lower,296,Education,16,32.088,0.104,1
+599,Luton,E06000032,lower,296,Health,87,0.218,0.048,3
+599,Luton,E06000032,lower,296,Crime,99,0.159,0.08,4
+599,Luton,E06000032,lower,296,Barriers,16,31.306,0.248,1
+599,Luton,E06000032,lower,296,Living,98,22.183,0.088,4
+69,Maldon,E07000074,lower,296,IMD,171,15.976,0,6
+69,Maldon,E07000074,lower,296,Income,204,0.154,0,7
+69,Maldon,E07000074,lower,296,Employment,200,0.097,0,7
+69,Maldon,E07000074,lower,296,Education,85,23.479,0,3
+69,Maldon,E07000074,lower,296,Health,211,-0.459,0,8
+69,Maldon,E07000074,lower,296,Crime,219,-0.385,0,8
+69,Maldon,E07000074,lower,296,Barriers,63,28.074,0.2195,3
+69,Maldon,E07000074,lower,296,Living,131,19.723,0.0732,5
+70,Malvern Hills,E07000235,lower,296,IMD,179,16.051,0.0222,7
+70,Malvern Hills,E07000235,lower,296,Income,203,0.162,0.0222,7
+70,Malvern Hills,E07000235,lower,296,Employment,186,0.107,0.0222,7
+70,Malvern Hills,E07000235,lower,296,Education,236,13.41,0.0222,8
+70,Malvern Hills,E07000235,lower,296,Health,224,-0.522,0.0222,8
+70,Malvern Hills,E07000235,lower,296,Crime,247,-0.492,0.0444,9
+70,Malvern Hills,E07000235,lower,296,Barriers,84,26.987,0.2444,3
+70,Malvern Hills,E07000235,lower,296,Living,72,25.809,0.1778,3
+71,Mansfield,E07000174,lower,296,IMD,77,26.909,0.1324,3
+71,Mansfield,E07000174,lower,296,Income,79,0.264,0.1176,3
+71,Mansfield,E07000174,lower,296,Employment,41,0.18,0.1618,2
+71,Mansfield,E07000174,lower,296,Education,31,33.694,0.2353,2
+71,Mansfield,E07000174,lower,296,Health,39,0.608,0.1618,2
+71,Mansfield,E07000174,lower,296,Crime,86,0.251,0.1912,3
+71,Mansfield,E07000174,lower,296,Barriers,280,12.909,0.0147,10
+71,Mansfield,E07000174,lower,296,Living,197,16.215,0.0294,7
+252,Medway,E06000035,lower,296,IMD,91,24.354,0.0888,4
+252,Medway,E06000035,lower,296,Income,101,0.238,0.0651,4
+252,Medway,E06000035,lower,296,Employment,92,0.145,0.1006,4
+252,Medway,E06000035,lower,296,Education,65,26.209,0.0769,3
+252,Medway,E06000035,lower,296,Health,107,0.102,0.0414,4
+252,Medway,E06000035,lower,296,Crime,38,0.514,0.2308,2
+252,Medway,E06000035,lower,296,Barriers,61,27.147,0.1243,3
+252,Medway,E06000035,lower,296,Living,176,17.406,0.0414,6
+72,Melton,E07000133,lower,296,IMD,198,14.866,0,7
+72,Melton,E07000133,lower,296,Income,207,0.16,0,7
+72,Melton,E07000133,lower,296,Employment,221,0.095,0,8
+72,Melton,E07000133,lower,296,Education,218,15.022,0.0667,8
+72,Melton,E07000133,lower,296,Health,214,-0.475,0,8
+72,Melton,E07000133,lower,296,Crime,204,-0.316,0.0667,7
+72,Melton,E07000133,lower,296,Barriers,111,26.114,0.2333,4
+72,Melton,E07000133,lower,296,Living,157,18.683,0.0667,6
+188,Merton,E09000024,lower,296,IMD,207,14.384,0,7
+188,Merton,E09000024,lower,296,Income,137,0.203,0.0238,5
+188,Merton,E09000024,lower,296,Employment,211,0.099,0.0079,8
+188,Merton,E09000024,lower,296,Education,250,11.376,0,9
+188,Merton,E09000024,lower,296,Health,251,-0.78,0,9
+188,Merton,E09000024,lower,296,Crime,177,-0.219,0,6
+188,Merton,E09000024,lower,296,Barriers,257,15.006,0,9
+188,Merton,E09000024,lower,296,Living,33,28.231,0.0317,2
+73,Mid Devon,E07000042,lower,296,IMD,126,18.984,0,5
+73,Mid Devon,E07000042,lower,296,Income,176,0.173,0,6
+73,Mid Devon,E07000042,lower,296,Employment,177,0.107,0,6
+73,Mid Devon,E07000042,lower,296,Education,127,20.008,0.0455,5
+73,Mid Devon,E07000042,lower,296,Health,160,-0.189,0,6
+73,Mid Devon,E07000042,lower,296,Crime,276,-0.727,0,10
+73,Mid Devon,E07000042,lower,296,Barriers,17,34.54,0.4091,1
+73,Mid Devon,E07000042,lower,296,Living,76,26.348,0.2273,3
+253,Middlesbrough,E06000002,lower,296,IMD,21,40.037,0.5,1
+253,Middlesbrough,E06000002,lower,296,Income,19,0.375,0.4556,1
+253,Middlesbrough,E06000002,lower,296,Employment,12,0.233,0.4667,1
+253,Middlesbrough,E06000002,lower,296,Education,27,38.536,0.4444,1
+253,Middlesbrough,E06000002,lower,296,Health,13,1.023,0.5778,1
+253,Middlesbrough,E06000002,lower,296,Crime,4,0.952,0.5444,1
+253,Middlesbrough,E06000002,lower,296,Barriers,156,20.273,0,6
+253,Middlesbrough,E06000002,lower,296,Living,133,21.818,0.1333,5
+75,Mid Sussex,E07000228,lower,296,IMD,286,8.658,0,10
+75,Mid Sussex,E07000228,lower,296,Income,276,0.121,0,10
+75,Mid Sussex,E07000228,lower,296,Employment,286,0.068,0,10
+75,Mid Sussex,E07000228,lower,296,Education,276,9.056,0,10
+75,Mid Sussex,E07000228,lower,296,Health,278,-1.043,0,10
+75,Mid Sussex,E07000228,lower,296,Crime,273,-0.667,0,10
+75,Mid Sussex,E07000228,lower,296,Barriers,151,21.651,0.0652,6
+75,Mid Sussex,E07000228,lower,296,Living,280,10.935,0.0435,10
+275,Milton Keynes,E06000042,lower,296,IMD,157,18.503,0.0482,6
+275,Milton Keynes,E06000042,lower,296,Income,126,0.21,0.0361,5
+275,Milton Keynes,E06000042,lower,296,Employment,174,0.111,0.0361,6
+275,Milton Keynes,E06000042,lower,296,Education,150,19.843,0.0723,6
+275,Milton Keynes,E06000042,lower,296,Health,151,-0.119,0.0301,6
+275,Milton Keynes,E06000042,lower,296,Crime,130,-0.031,0.0602,5
+275,Milton Keynes,E06000042,lower,296,Barriers,21,30.482,0.1747,1
+275,Milton Keynes,E06000042,lower,296,Living,296,7.165,0.006,10
+146,Mole Valley,E07000210,lower,296,IMD,277,9.77,0,10
+146,Mole Valley,E07000210,lower,296,Income,282,0.113,0,10
+146,Mole Valley,E07000210,lower,296,Employment,271,0.074,0,10
+146,Mole Valley,E07000210,lower,296,Education,275,9.302,0.0185,10
+146,Mole Valley,E07000210,lower,296,Health,276,-1.015,0,10
+146,Mole Valley,E07000210,lower,296,Crime,243,-0.507,0,9
+146,Mole Valley,E07000210,lower,296,Barriers,149,21.88,0.0741,6
+146,Mole Valley,E07000210,lower,296,Living,173,17.02,0.037,6
+77,Newark and Sherwood,E07000175,lower,296,IMD,151,19.056,0.0405,6
+77,Newark and Sherwood,E07000175,lower,296,Income,155,0.198,0.0541,6
+77,Newark and Sherwood,E07000175,lower,296,Employment,128,0.132,0.0676,5
+77,Newark and Sherwood,E07000175,lower,296,Education,137,21.24,0.1081,5
+77,Newark and Sherwood,E07000175,lower,296,Health,119,0.068,0.0541,4
+77,Newark and Sherwood,E07000175,lower,296,Crime,181,-0.215,0.0541,7
+77,Newark and Sherwood,E07000175,lower,296,Barriers,157,21.208,0.0676,6
+77,Newark and Sherwood,E07000175,lower,296,Living,214,15.64,0.027,8
+78,Newcastle-under-Lyme,E07000195,lower,296,IMD,146,19.001,0.025,5
+78,Newcastle-under-Lyme,E07000195,lower,296,Income,159,0.193,0.025,6
+78,Newcastle-under-Lyme,E07000195,lower,296,Employment,130,0.126,0.025,5
+78,Newcastle-under-Lyme,E07000195,lower,296,Education,136,20.586,0.05,5
+78,Newcastle-under-Lyme,E07000195,lower,296,Health,76,0.319,0.0875,3
+78,Newcastle-under-Lyme,E07000195,lower,296,Crime,175,-0.204,0.025,6
+78,Newcastle-under-Lyme,E07000195,lower,296,Barriers,203,18.794,0.0375,7
+78,Newcastle-under-Lyme,E07000195,lower,296,Living,154,17.377,0.0375,6
+210,Newcastle upon Tyne,E08000021,lower,296,IMD,82,28.834,0.2611,3
+210,Newcastle upon Tyne,E08000021,lower,296,Income,100,0.278,0.25,4
+210,Newcastle upon Tyne,E08000021,lower,296,Employment,119,0.16,0.2667,4
+210,Newcastle upon Tyne,E08000021,lower,296,Education,104,29.683,0.2833,4
+210,Newcastle upon Tyne,E08000021,lower,296,Health,44,0.648,0.3056,2
+210,Newcastle upon Tyne,E08000021,lower,296,Crime,51,0.389,0.2278,2
+210,Newcastle upon Tyne,E08000021,lower,296,Barriers,226,17.031,0.0056,8
+210,Newcastle upon Tyne,E08000021,lower,296,Living,86,22.328,0.0611,3
+76,New Forest,E07000091,lower,296,IMD,239,12.941,0.0175,9
+76,New Forest,E07000091,lower,296,Income,245,0.143,0.0088,9
+76,New Forest,E07000091,lower,296,Employment,214,0.098,0.0175,8
+76,New Forest,E07000091,lower,296,Education,203,15.406,0.0175,7
+76,New Forest,E07000091,lower,296,Health,227,-0.558,0,8
+76,New Forest,E07000091,lower,296,Crime,193,-0.265,0.0175,7
+76,New Forest,E07000091,lower,296,Barriers,123,22.806,0.0789,5
+76,New Forest,E07000091,lower,296,Living,282,10.857,0.0351,10
+600,Norfolk,E10000020,upper,153,IMD,83,21.179,0.0562,6
+600,Norfolk,E10000020,upper,153,Income,97,0.202,0.0507,7
+600,Norfolk,E10000020,upper,153,Employment,85,0.128,0.0562,6
+600,Norfolk,E10000020,upper,153,Education,28,28.215,0.1141,2
+600,Norfolk,E10000020,upper,153,Health,88,-0.06,0.0543,6
+600,Norfolk,E10000020,upper,153,Crime,125,-0.288,0.0598,9
+600,Norfolk,E10000020,upper,153,Barriers,41,26.642,0.2319,3
+600,Norfolk,E10000020,upper,153,Living,86,20.752,0.1014,6
+79,North Devon,E07000043,lower,296,IMD,99,22.002,0.0508,4
+79,North Devon,E07000043,lower,296,Income,131,0.199,0.0339,5
+79,North Devon,E07000043,lower,296,Employment,126,0.128,0.0508,5
+79,North Devon,E07000043,lower,296,Education,98,23.54,0.1017,4
+79,North Devon,E07000043,lower,296,Health,145,-0.07,0.0847,5
+79,North Devon,E07000043,lower,296,Crime,269,-0.644,0.0339,10
+79,North Devon,E07000043,lower,296,Barriers,15,34.357,0.322,1
+79,North Devon,E07000043,lower,296,Living,81,27.269,0.2373,3
+80,North East Derbyshire,E07000038,lower,296,IMD,158,18.689,0.0469,6
+80,North East Derbyshire,E07000038,lower,296,Income,168,0.193,0.0312,6
+80,North East Derbyshire,E07000038,lower,296,Employment,120,0.135,0.0625,5
+80,North East Derbyshire,E07000038,lower,296,Education,128,22.135,0.0625,5
+80,North East Derbyshire,E07000038,lower,296,Health,92,0.233,0.0938,4
+80,North East Derbyshire,E07000038,lower,296,Crime,195,-0.337,0,7
+80,North East Derbyshire,E07000038,lower,296,Barriers,192,19.087,0.0156,7
+80,North East Derbyshire,E07000038,lower,296,Living,236,13.582,0,8
+276,North East Lincolnshire,E06000012,lower,296,IMD,81,30.213,0.271,3
+276,North East Lincolnshire,E06000012,lower,296,Income,71,0.301,0.243,3
+276,North East Lincolnshire,E06000012,lower,296,Employment,55,0.192,0.271,2
+276,North East Lincolnshire,E06000012,lower,296,Education,48,33.893,0.2617,2
+276,North East Lincolnshire,E06000012,lower,296,Health,78,0.389,0.1776,3
+276,North East Lincolnshire,E06000012,lower,296,Crime,53,0.462,0.2897,2
+276,North East Lincolnshire,E06000012,lower,296,Barriers,227,17.248,0.0093,8
+276,North East Lincolnshire,E06000012,lower,296,Living,122,22.213,0.215,5
+81,North Hertfordshire,E07000099,lower,296,IMD,256,11.312,0,9
+81,North Hertfordshire,E07000099,lower,296,Income,230,0.15,0.0122,8
+81,North Hertfordshire,E07000099,lower,296,Employment,238,0.09,0,9
+81,North Hertfordshire,E07000099,lower,296,Education,248,12.129,0,9
+81,North Hertfordshire,E07000099,lower,296,Health,249,-0.741,0,9
+81,North Hertfordshire,E07000099,lower,296,Crime,241,-0.504,0,9
+81,North Hertfordshire,E07000099,lower,296,Barriers,233,17.009,0.061,8
+81,North Hertfordshire,E07000099,lower,296,Living,234,14.411,0.0244,8
+82,North Kesteven,E07000139,lower,296,IMD,226,13.168,0,8
+82,North Kesteven,E07000139,lower,296,Income,220,0.148,0,8
+82,North Kesteven,E07000139,lower,296,Employment,209,0.097,0,8
+82,North Kesteven,E07000139,lower,296,Education,199,14.686,0,7
+82,North Kesteven,E07000139,lower,296,Health,207,-0.4,0,7
+82,North Kesteven,E07000139,lower,296,Crime,286,-0.802,0,10
+82,North Kesteven,E07000139,lower,296,Barriers,89,25.419,0.1515,3
+82,North Kesteven,E07000139,lower,296,Living,271,12.212,0.0303,10
+254,North Lincolnshire,E06000013,lower,296,IMD,104,23.473,0.1165,4
+254,North Lincolnshire,E06000013,lower,296,Income,112,0.234,0.1068,4
+254,North Lincolnshire,E06000013,lower,296,Employment,81,0.148,0.0874,3
+254,North Lincolnshire,E06000013,lower,296,Education,87,27.639,0.1845,3
+254,North Lincolnshire,E06000013,lower,296,Health,95,0.218,0.0777,4
+254,North Lincolnshire,E06000013,lower,296,Crime,110,0.144,0.1748,4
+254,North Lincolnshire,E06000013,lower,296,Barriers,140,23.185,0.1748,5
+254,North Lincolnshire,E06000013,lower,296,Living,210,15.446,0.0388,8
+83,North Norfolk,E07000147,lower,296,IMD,89,21.114,0,3
+83,North Norfolk,E07000147,lower,296,Income,134,0.188,0,5
+83,North Norfolk,E07000147,lower,296,Employment,95,0.129,0.0161,4
+83,North Norfolk,E07000147,lower,296,Education,32,27.548,0.0161,2
+83,North Norfolk,E07000147,lower,296,Health,139,-0.079,0,5
+83,North Norfolk,E07000147,lower,296,Crime,265,-0.555,0.0161,9
+83,North Norfolk,E07000147,lower,296,Barriers,33,30.462,0.3548,2
+83,North Norfolk,E07000147,lower,296,Living,49,28.878,0.1774,2
+255,North Northamptonshire,E06000061,lower,296,IMD,160,18.472,0.0439,6
+255,North Northamptonshire,E06000061,lower,296,Income,136,0.204,0.039,5
+255,North Northamptonshire,E06000061,lower,296,Employment,156,0.119,0.0537,6
+255,North Northamptonshire,E06000061,lower,296,Education,88,26.372,0.1366,3
+255,North Northamptonshire,E06000061,lower,296,Health,130,0.001,0.0293,5
+255,North Northamptonshire,E06000061,lower,296,Crime,132,-0.03,0.078,5
+255,North Northamptonshire,E06000061,lower,296,Barriers,221,17.681,0.0244,8
+255,North Northamptonshire,E06000061,lower,296,Living,242,14.01,0.0293,9
+256,North Somerset,E06000024,lower,296,IMD,215,15.456,0.0652,8
+256,North Somerset,E06000024,lower,296,Income,205,0.168,0.0362,7
+256,North Somerset,E06000024,lower,296,Employment,183,0.115,0.0652,7
+256,North Somerset,E06000024,lower,296,Education,181,17.356,0.058,7
+256,North Somerset,E06000024,lower,296,Health,200,-0.405,0.0507,7
+256,North Somerset,E06000024,lower,296,Crime,196,-0.282,0.087,7
+256,North Somerset,E06000024,lower,296,Barriers,180,19.923,0.0072,7
+256,North Somerset,E06000024,lower,296,Living,246,14.633,0.058,9
+211,North Tyneside,E08000022,lower,296,IMD,145,20.932,0.0827,5
+211,North Tyneside,E08000022,lower,296,Income,129,0.225,0.0677,5
+211,North Tyneside,E08000022,lower,296,Employment,106,0.148,0.0977,4
+211,North Tyneside,E08000022,lower,296,Education,177,18.947,0.0376,6
+211,North Tyneside,E08000022,lower,296,Health,71,0.398,0.1579,3
+211,North Tyneside,E08000022,lower,296,Crime,95,0.176,0.1429,4
+211,North Tyneside,E08000022,lower,296,Barriers,295,7.898,0,10
+211,North Tyneside,E08000022,lower,296,Living,140,18.078,0.0602,5
+258,Northumberland,E06000057,lower,296,IMD,128,21.963,0.11,5
+258,Northumberland,E06000057,lower,296,Income,150,0.207,0.07,6
+258,Northumberland,E06000057,lower,296,Employment,118,0.146,0.13,4
+258,Northumberland,E06000057,lower,296,Education,149,21.25,0.095,6
+258,Northumberland,E06000057,lower,296,Health,90,0.278,0.16,4
+258,Northumberland,E06000057,lower,296,Crime,141,-0.096,0.12,5
+258,Northumberland,E06000057,lower,296,Barriers,194,20.739,0.135,7
+258,Northumberland,E06000057,lower,296,Living,186,18.361,0.12,7
+84,North West Leicestershire,E07000134,lower,296,IMD,194,15.307,0.0167,7
+84,North West Leicestershire,E07000134,lower,296,Income,201,0.16,0.0167,7
+84,North West Leicestershire,E07000134,lower,296,Employment,191,0.103,0.0167,7
+84,North West Leicestershire,E07000134,lower,296,Education,134,20.072,0.05,5
+84,North West Leicestershire,E07000134,lower,296,Health,158,-0.184,0.0167,6
+84,North West Leicestershire,E07000134,lower,296,Crime,156,-0.132,0.0333,6
+84,North West Leicestershire,E07000134,lower,296,Barriers,146,21.267,0.0333,5
+84,North West Leicestershire,E07000134,lower,296,Living,219,15.082,0.0167,8
+257,North Yorkshire,E06000065,lower,296,IMD,189,15.799,0.0264,7
+257,North Yorkshire,E06000065,lower,296,Income,234,0.149,0.0132,8
+257,North Yorkshire,E06000065,lower,296,Employment,225,0.097,0.029,8
+257,North Yorkshire,E06000065,lower,296,Education,196,16.586,0.0475,7
+257,North Yorkshire,E06000065,lower,296,Health,203,-0.412,0.0317,7
+257,North Yorkshire,E06000065,lower,296,Crime,268,-0.662,0.0343,10
+257,North Yorkshire,E06000065,lower,296,Barriers,112,25.159,0.2296,4
+257,North Yorkshire,E06000065,lower,296,Living,83,26.225,0.2216,3
+582,Norwich,E07000148,lower,296,IMD,64,26.262,0.1176,3
+582,Norwich,E07000148,lower,296,Income,66,0.272,0.1294,3
+582,Norwich,E07000148,lower,296,Employment,87,0.15,0.1294,3
+582,Norwich,E07000148,lower,296,Education,53,32.947,0.2706,2
+582,Norwich,E07000148,lower,296,Health,66,0.394,0.1412,3
+582,Norwich,E07000148,lower,296,Crime,37,0.441,0.1882,2
+582,Norwich,E07000148,lower,296,Barriers,230,17.034,0,8
+582,Norwich,E07000148,lower,296,Living,126,19.844,0.0941,5
+259,Nottingham,E06000018,lower,296,IMD,18,33.747,0.3073,1
+259,Nottingham,E06000018,lower,296,Income,30,0.334,0.3017,1
+259,Nottingham,E06000018,lower,296,Employment,53,0.181,0.3408,2
+259,Nottingham,E06000018,lower,296,Education,23,32.605,0.1899,1
+259,Nottingham,E06000018,lower,296,Health,14,0.836,0.3799,1
+259,Nottingham,E06000018,lower,296,Crime,15,0.572,0.2458,1
+259,Nottingham,E06000018,lower,296,Barriers,155,20.538,0,6
+259,Nottingham,E06000018,lower,296,Living,41,29.374,0.1788,2
+591,Nottinghamshire,E10000024,upper,153,IMD,106,18.599,0.0535,7
+591,Nottinghamshire,E10000024,upper,153,Income,103,0.199,0.0515,7
+591,Nottinghamshire,E10000024,upper,153,Employment,83,0.134,0.0832,6
+591,Nottinghamshire,E10000024,upper,153,Education,87,21.221,0.105,6
+591,Nottinghamshire,E10000024,upper,153,Health,81,-0.006,0.0713,6
+591,Nottinghamshire,E10000024,upper,153,Crime,104,-0.177,0.0653,7
+591,Nottinghamshire,E10000024,upper,153,Barriers,134,14.811,0.0297,9
+591,Nottinghamshire,E10000024,upper,153,Living,111,17.226,0.0416,8
+85,Oadby and Wigston,E07000135,lower,296,IMD,229,13.428,0,8
+85,Oadby and Wigston,E07000135,lower,296,Income,183,0.173,0,7
+85,Oadby and Wigston,E07000135,lower,296,Employment,204,0.102,0,7
+85,Oadby and Wigston,E07000135,lower,296,Education,200,15.052,0,7
+85,Oadby and Wigston,E07000135,lower,296,Health,187,-0.33,0,7
+85,Oadby and Wigston,E07000135,lower,296,Crime,183,-0.222,0,7
+85,Oadby and Wigston,E07000135,lower,296,Barriers,238,16.277,0,9
+85,Oadby and Wigston,E07000135,lower,296,Living,253,12.785,0,9
+212,Oldham,E08000004,lower,296,IMD,15,36.83,0.3732,1
+212,Oldham,E08000004,lower,296,Income,21,0.365,0.331,1
+212,Oldham,E08000004,lower,296,Employment,17,0.203,0.2746,1
+212,Oldham,E08000004,lower,296,Education,19,36.58,0.2817,1
+212,Oldham,E08000004,lower,296,Health,37,0.65,0.2324,2
+212,Oldham,E08000004,lower,296,Crime,7,0.694,0.2746,1
+212,Oldham,E08000004,lower,296,Barriers,109,23.989,0.0986,4
+212,Oldham,E08000004,lower,296,Living,27,32.763,0.1901,1
+15,Oxfordshire,E10000025,upper,153,IMD,146,11.18,0.0047,10
+15,Oxfordshire,E10000025,upper,153,Income,145,0.134,0.0023,10
+15,Oxfordshire,E10000025,upper,153,Employment,147,0.075,0,10
+15,Oxfordshire,E10000025,upper,153,Education,119,15.749,0.0491,8
+15,Oxfordshire,E10000025,upper,153,Health,146,-0.928,0,10
+15,Oxfordshire,E10000025,upper,153,Crime,141,-0.527,0.007,10
+15,Oxfordshire,E10000025,upper,153,Barriers,64,22.462,0.0794,5
+15,Oxfordshire,E10000025,upper,153,Living,145,13.441,0.035,10
+277,Peterborough,E06000031,lower,296,IMD,51,27.799,0.1322,2
+277,Peterborough,E06000031,lower,296,Income,38,0.31,0.1983,2
+277,Peterborough,E06000031,lower,296,Employment,62,0.157,0.0826,3
+277,Peterborough,E06000031,lower,296,Education,28,35.069,0.2893,1
+277,Peterborough,E06000031,lower,296,Health,86,0.227,0.0331,3
+277,Peterborough,E06000031,lower,296,Crime,57,0.323,0.1488,2
+277,Peterborough,E06000031,lower,296,Barriers,49,26.948,0.0992,2
+277,Peterborough,E06000031,lower,296,Living,251,13.936,0.0413,9
+278,Plymouth,E06000026,lower,296,IMD,101,24.087,0.1159,4
+278,Plymouth,E06000026,lower,296,Income,97,0.244,0.0854,4
+278,Plymouth,E06000026,lower,296,Employment,65,0.16,0.1402,3
+278,Plymouth,E06000026,lower,296,Education,86,26.923,0.1524,3
+278,Plymouth,E06000026,lower,296,Health,63,0.431,0.1524,3
+278,Plymouth,E06000026,lower,296,Crime,121,0.001,0.0976,5
+278,Plymouth,E06000026,lower,296,Barriers,213,17.968,0.0183,8
+278,Plymouth,E06000026,lower,296,Living,171,18.432,0.0854,6
+279,Portsmouth,E06000044,lower,296,IMD,73,26.378,0.12,3
+279,Portsmouth,E06000044,lower,296,Income,80,0.259,0.104,3
+279,Portsmouth,E06000044,lower,296,Employment,108,0.14,0.104,4
+279,Portsmouth,E06000044,lower,296,Education,61,29.299,0.168,3
+279,Portsmouth,E06000044,lower,296,Health,82,0.298,0.12,3
+279,Portsmouth,E06000044,lower,296,Crime,22,0.546,0.216,1
+279,Portsmouth,E06000044,lower,296,Barriers,143,21.27,0.008,5
+279,Portsmouth,E06000044,lower,296,Living,34,28.962,0.08,2
+147,Preston,E07000123,lower,296,IMD,57,28.762,0.1724,2
+147,Preston,E07000123,lower,296,Income,59,0.279,0.1264,2
+147,Preston,E07000123,lower,296,Employment,66,0.161,0.1149,3
+147,Preston,E07000123,lower,296,Education,106,26.373,0.1379,4
+147,Preston,E07000123,lower,296,Health,29,0.759,0.3103,1
+147,Preston,E07000123,lower,296,Crime,25,0.594,0.3333,1
+147,Preston,E07000123,lower,296,Barriers,228,17.136,0,8
+147,Preston,E07000123,lower,296,Living,82,26.4,0.2184,3
+148,Redditch,E07000236,lower,296,IMD,148,20.306,0.0702,5
+148,Redditch,E07000236,lower,296,Income,120,0.229,0.0526,5
+148,Redditch,E07000236,lower,296,Employment,123,0.136,0.1053,5
+148,Redditch,E07000236,lower,296,Education,62,30.184,0.2456,3
+148,Redditch,E07000236,lower,296,Health,124,0.044,0.0526,5
+148,Redditch,E07000236,lower,296,Crime,161,-0.192,0.0702,6
+148,Redditch,E07000236,lower,296,Barriers,224,17.463,0.0175,8
+148,Redditch,E07000236,lower,296,Living,275,11.239,0.0175,10
+149,Reigate and Banstead,E07000211,lower,296,IMD,274,10.14,0,10
+149,Reigate and Banstead,E07000211,lower,296,Income,263,0.13,0,9
+149,Reigate and Banstead,E07000211,lower,296,Employment,266,0.076,0,9
+149,Reigate and Banstead,E07000211,lower,296,Education,252,11.448,0,9
+149,Reigate and Banstead,E07000211,lower,296,Health,259,-0.752,0,9
+149,Reigate and Banstead,E07000211,lower,296,Crime,199,-0.29,0.0222,7
+149,Reigate and Banstead,E07000211,lower,296,Barriers,212,18.06,0,8
+149,Reigate and Banstead,E07000211,lower,296,Living,229,13.817,0,8
+86,Ribble Valley,E07000124,lower,296,IMD,273,9.997,0,10
+86,Ribble Valley,E07000124,lower,296,Income,289,0.106,0,10
+86,Ribble Valley,E07000124,lower,296,Employment,267,0.075,0,9
+86,Ribble Valley,E07000124,lower,296,Education,290,5.686,0,10
+86,Ribble Valley,E07000124,lower,296,Health,260,-0.738,0,9
+86,Ribble Valley,E07000124,lower,296,Crime,280,-0.725,0,10
+86,Ribble Valley,E07000124,lower,296,Barriers,195,19.707,0.1026,7
+86,Ribble Valley,E07000124,lower,296,Living,63,26.799,0.2051,3
+213,Rochdale,E08000005,lower,296,IMD,19,34.331,0.3111,1
+213,Rochdale,E08000005,lower,296,Income,25,0.346,0.3037,1
+213,Rochdale,E08000005,lower,296,Employment,15,0.203,0.2889,1
+213,Rochdale,E08000005,lower,296,Education,38,32.219,0.2222,2
+213,Rochdale,E08000005,lower,296,Health,20,0.777,0.2593,1
+213,Rochdale,E08000005,lower,296,Crime,6,0.724,0.237,1
+213,Rochdale,E08000005,lower,296,Barriers,139,21.861,0.0222,5
+213,Rochdale,E08000005,lower,296,Living,74,23.51,0.0963,3
+607,Rochford,E07000075,lower,296,IMD,260,11.423,0.0189,9
+607,Rochford,E07000075,lower,296,Income,262,0.133,0.0189,9
+607,Rochford,E07000075,lower,296,Employment,248,0.085,0.0189,9
+607,Rochford,E07000075,lower,296,Education,161,17.182,0.0189,6
+607,Rochford,E07000075,lower,296,Health,243,-0.623,0,9
+607,Rochford,E07000075,lower,296,Crime,238,-0.43,0.0189,9
+607,Rochford,E07000075,lower,296,Barriers,159,20.557,0.0377,6
+607,Rochford,E07000075,lower,296,Living,272,11.187,0.0189,10
+87,Rother,E07000064,lower,296,IMD,93,22.519,0.0517,4
+87,Rother,E07000064,lower,296,Income,140,0.198,0.0517,5
+87,Rother,E07000064,lower,296,Employment,84,0.144,0.069,3
+87,Rother,E07000064,lower,296,Education,100,23.408,0.069,4
+87,Rother,E07000064,lower,296,Health,108,0.097,0.0345,4
+87,Rother,E07000064,lower,296,Crime,190,-0.267,0.0517,7
+87,Rother,E07000064,lower,296,Barriers,20,33.47,0.4138,1
+87,Rother,E07000064,lower,296,Living,116,20.332,0.0517,4
+196,Rotherham,E08000018,lower,296,IMD,53,29.836,0.2118,2
+196,Rotherham,E08000018,lower,296,Income,56,0.296,0.1941,2
+196,Rotherham,E08000018,lower,296,Employment,40,0.189,0.2412,2
+196,Rotherham,E08000018,lower,296,Education,55,32.402,0.2353,2
+196,Rotherham,E08000018,lower,296,Health,19,0.807,0.3059,1
+196,Rotherham,E08000018,lower,296,Crime,63,0.328,0.1765,3
+196,Rotherham,E08000018,lower,296,Barriers,216,17.724,0,8
+196,Rotherham,E08000018,lower,296,Living,205,15.841,0.0412,7
+151,Rugby,E07000220,lower,296,IMD,216,14.059,0,8
+151,Rugby,E07000220,lower,296,Income,200,0.162,0,7
+151,Rugby,E07000220,lower,296,Employment,219,0.096,0,8
+151,Rugby,E07000220,lower,296,Education,173,17.613,0.0149,6
+151,Rugby,E07000220,lower,296,Health,163,-0.213,0.0149,6
+151,Rugby,E07000220,lower,296,Crime,202,-0.305,0.0149,7
+151,Rugby,E07000220,lower,296,Barriers,209,18.814,0.0448,8
+151,Rugby,E07000220,lower,296,Living,204,15.909,0.0299,7
+152,Runnymede,E07000212,lower,296,IMD,245,12.394,0,9
+152,Runnymede,E07000212,lower,296,Income,246,0.139,0,9
+152,Runnymede,E07000212,lower,296,Employment,261,0.077,0,9
+152,Runnymede,E07000212,lower,296,Education,227,13.496,0.0192,8
+152,Runnymede,E07000212,lower,296,Health,238,-0.678,0,9
+152,Runnymede,E07000212,lower,296,Crime,128,-0.036,0.0192,5
+152,Runnymede,E07000212,lower,296,Barriers,122,21.978,0.0192,5
+152,Runnymede,E07000212,lower,296,Living,114,18.642,0.0192,4
+88,Rushcliffe,E07000176,lower,296,IMD,294,7.838,0,10
+88,Rushcliffe,E07000176,lower,296,Income,290,0.109,0,10
+88,Rushcliffe,E07000176,lower,296,Employment,273,0.076,0,10
+88,Rushcliffe,E07000176,lower,296,Education,294,4.402,0,10
+88,Rushcliffe,E07000176,lower,296,Health,275,-0.997,0,10
+88,Rushcliffe,E07000176,lower,296,Crime,284,-0.773,0,10
+88,Rushcliffe,E07000176,lower,296,Barriers,246,15.517,0.0435,9
+88,Rushcliffe,E07000176,lower,296,Living,216,15.834,0.029,8
+153,Rushmoor,E07000092,lower,296,IMD,197,15.157,0,7
+153,Rushmoor,E07000092,lower,296,Income,161,0.186,0.0167,6
+153,Rushmoor,E07000092,lower,296,Employment,222,0.094,0,8
+153,Rushmoor,E07000092,lower,296,Education,118,21.882,0.0833,4
+153,Rushmoor,E07000092,lower,296,Health,256,-0.748,0,9
+153,Rushmoor,E07000092,lower,296,Crime,104,0.116,0.05,4
+153,Rushmoor,E07000092,lower,296,Barriers,120,22.126,0.0167,5
+153,Rushmoor,E07000092,lower,296,Living,228,13.485,0,8
+260,Rutland,E06000017,lower,296,IMD,272,9.851,0,10
+260,Rutland,E06000017,lower,296,Income,291,0.105,0,10
+260,Rutland,E06000017,lower,296,Employment,287,0.067,0,10
+260,Rutland,E06000017,lower,296,Education,287,6.437,0,10
+260,Rutland,E06000017,lower,296,Health,280,-0.955,0,10
+260,Rutland,E06000017,lower,296,Crime,292,-0.899,0,10
+260,Rutland,E06000017,lower,296,Barriers,80,28.122,0.3462,3
+260,Rutland,E06000017,lower,296,Living,118,19.98,0.0385,4
+214,Salford,E08000006,lower,296,IMD,34,32.345,0.2547,2
+214,Salford,E08000006,lower,296,Income,47,0.312,0.2174,2
+214,Salford,E08000006,lower,296,Employment,64,0.172,0.236,3
+214,Salford,E08000006,lower,296,Education,54,31.004,0.1863,2
+214,Salford,E08000006,lower,296,Health,18,0.848,0.3913,1
+214,Salford,E08000006,lower,296,Crime,8,0.659,0.236,1
+214,Salford,E08000006,lower,296,Barriers,144,21.55,0.0248,5
+214,Salford,E08000006,lower,296,Living,55,25.454,0.0497,2
+215,Sandwell,E08000028,lower,296,IMD,5,33.772,0.1632,1
+215,Sandwell,E08000028,lower,296,Income,4,0.374,0.2105,1
+215,Sandwell,E08000028,lower,296,Employment,3,0.197,0.1684,1
+215,Sandwell,E08000028,lower,296,Education,5,38.319,0.2316,1
+215,Sandwell,E08000028,lower,296,Health,27,0.657,0.1263,1
+215,Sandwell,E08000028,lower,296,Crime,27,0.438,0.0737,1
+215,Sandwell,E08000028,lower,296,Barriers,138,21.635,0.0316,5
+215,Sandwell,E08000028,lower,296,Living,56,25.463,0.0947,2
+216,Sefton,E08000014,lower,296,IMD,110,25.15,0.1885,4
+216,Sefton,E08000014,lower,296,Income,109,0.245,0.1623,4
+216,Sefton,E08000014,lower,296,Employment,52,0.176,0.2199,2
+216,Sefton,E08000014,lower,296,Education,120,23.695,0.1518,5
+216,Sefton,E08000014,lower,296,Health,49,0.634,0.2827,2
+216,Sefton,E08000014,lower,296,Crime,131,-0.029,0.1204,5
+216,Sefton,E08000014,lower,296,Barriers,284,12.01,0,10
+216,Sefton,E08000014,lower,296,Living,77,24.461,0.1466,3
+89,Sevenoaks,E07000111,lower,296,IMD,206,14.37,0.0133,7
+89,Sevenoaks,E07000111,lower,296,Income,248,0.14,0.0133,9
+89,Sevenoaks,E07000111,lower,296,Employment,244,0.087,0.0133,9
+89,Sevenoaks,E07000111,lower,296,Education,202,16.146,0.0267,7
+89,Sevenoaks,E07000111,lower,296,Health,258,-0.769,0,9
+89,Sevenoaks,E07000111,lower,296,Crime,151,-0.108,0.04,6
+89,Sevenoaks,E07000111,lower,296,Barriers,41,28.85,0.24,2
+89,Sevenoaks,E07000111,lower,296,Living,158,18.012,0.0667,6
+261,Shropshire,E06000051,lower,296,IMD,154,17.604,0.0101,6
+261,Shropshire,E06000051,lower,296,Income,188,0.168,0.0101,7
+261,Shropshire,E06000051,lower,296,Employment,184,0.105,0.0101,7
+261,Shropshire,E06000051,lower,296,Education,170,18.115,0.0556,6
+261,Shropshire,E06000051,lower,296,Health,171,-0.249,0.0051,6
+261,Shropshire,E06000051,lower,296,Crime,255,-0.546,0.0253,9
+261,Shropshire,E06000051,lower,296,Barriers,69,29.613,0.3182,3
+261,Shropshire,E06000051,lower,296,Living,92,24.898,0.1869,4
+262,Slough,E06000039,lower,296,IMD,72,22.967,0,3
+262,Slough,E06000039,lower,296,Income,28,0.289,0.0238,1
+262,Slough,E06000039,lower,296,Employment,124,0.119,0,5
+262,Slough,E06000039,lower,296,Education,66,24.69,0,3
+262,Slough,E06000039,lower,296,Health,210,-0.436,0,8
+262,Slough,E06000039,lower,296,Crime,42,0.384,0.0952,2
+262,Slough,E06000039,lower,296,Barriers,6,34.025,0.3452,1
+262,Slough,E06000039,lower,296,Living,167,15.984,0,6
+218,Solihull,E08000029,lower,296,IMD,204,17.04,0.1343,7
+218,Solihull,E08000029,lower,296,Income,181,0.194,0.1194,7
+218,Solihull,E08000029,lower,296,Employment,168,0.127,0.1493,6
+218,Solihull,E08000029,lower,296,Education,215,17.637,0.1269,8
+218,Solihull,E08000029,lower,296,Health,157,-0.165,0.1343,6
+218,Solihull,E08000029,lower,296,Crime,170,-0.201,0.0896,6
+218,Solihull,E08000029,lower,296,Barriers,276,13.681,0,10
+218,Solihull,E08000029,lower,296,Living,206,14.582,0,7
+280,Southampton,E06000045,lower,296,IMD,76,25.611,0.1184,3
+280,Southampton,E06000045,lower,296,Income,74,0.259,0.1118,3
+280,Southampton,E06000045,lower,296,Employment,110,0.139,0.1118,4
+280,Southampton,E06000045,lower,296,Education,72,28.055,0.1645,3
+280,Southampton,E06000045,lower,296,Health,45,0.552,0.1579,2
+280,Southampton,E06000045,lower,296,Crime,5,0.73,0.2697,1
+280,Southampton,E06000045,lower,296,Barriers,252,15.879,0.0132,9
+280,Southampton,E06000045,lower,296,Living,91,20.485,0.0066,4
+90,South Cambridgeshire,E07000012,lower,296,IMD,281,9.338,0,10
+90,South Cambridgeshire,E07000012,lower,296,Income,277,0.118,0,10
+90,South Cambridgeshire,E07000012,lower,296,Employment,280,0.071,0,10
+90,South Cambridgeshire,E07000012,lower,296,Education,288,6.547,0,10
+90,South Cambridgeshire,E07000012,lower,296,Health,286,-1.099,0,10
+90,South Cambridgeshire,E07000012,lower,296,Crime,279,-0.682,0,10
+90,South Cambridgeshire,E07000012,lower,296,Barriers,45,27.902,0.1313,2
+90,South Cambridgeshire,E07000012,lower,296,Living,267,12.121,0.0101,9
+586,South Derbyshire,E07000039,lower,296,IMD,210,14.369,0.0161,8
+586,South Derbyshire,E07000039,lower,296,Income,198,0.161,0,7
+586,South Derbyshire,E07000039,lower,296,Employment,206,0.102,0.0161,7
+586,South Derbyshire,E07000039,lower,296,Education,195,16.437,0.0323,7
+586,South Derbyshire,E07000039,lower,296,Health,150,-0.112,0.0323,6
+586,South Derbyshire,E07000039,lower,296,Crime,203,-0.296,0,7
+586,South Derbyshire,E07000039,lower,296,Barriers,196,19.021,0.0161,7
+586,South Derbyshire,E07000039,lower,296,Living,243,13.906,0.0323,9
+281,Southend-on-Sea,E06000033,lower,296,IMD,113,24.027,0.1111,4
+281,Southend-on-Sea,E06000033,lower,296,Income,99,0.252,0.0926,4
+281,Southend-on-Sea,E06000033,lower,296,Employment,88,0.156,0.1389,3
+281,Southend-on-Sea,E06000033,lower,296,Education,115,22.845,0.0833,4
+281,Southend-on-Sea,E06000033,lower,296,Health,96,0.193,0.1111,4
+281,Southend-on-Sea,E06000033,lower,296,Crime,71,0.341,0.213,3
+281,Southend-on-Sea,E06000033,lower,296,Barriers,239,16.134,0,9
+281,Southend-on-Sea,E06000033,lower,296,Living,52,26.248,0.0926,2
+264,South Gloucestershire,E06000025,lower,296,IMD,253,11.614,0,9
+264,South Gloucestershire,E06000025,lower,296,Income,240,0.142,0,9
+264,South Gloucestershire,E06000025,lower,296,Employment,242,0.086,0,9
+264,South Gloucestershire,E06000025,lower,296,Education,188,15.673,0.0057,7
+264,South Gloucestershire,E06000025,lower,296,Health,229,-0.566,0,8
+264,South Gloucestershire,E06000025,lower,296,Crime,220,-0.426,0.0114,8
+264,South Gloucestershire,E06000025,lower,296,Barriers,223,17.909,0.0571,8
+264,South Gloucestershire,E06000025,lower,296,Living,256,13.009,0.0171,9
+92,South Hams,E07000044,lower,296,IMD,181,15.115,0,7
+92,South Hams,E07000044,lower,296,Income,210,0.15,0,8
+92,South Hams,E07000044,lower,296,Employment,190,0.1,0,7
+92,South Hams,E07000044,lower,296,Education,249,10.721,0,9
+92,South Hams,E07000044,lower,296,Health,255,-0.699,0,9
+92,South Hams,E07000044,lower,296,Crime,294,-1.052,0,10
+92,South Hams,E07000044,lower,296,Barriers,25,32.55,0.3673,1
+92,South Hams,E07000044,lower,296,Living,78,27.003,0.2857,3
+93,South Holland,E07000140,lower,296,IMD,100,20.984,0.0196,4
+93,South Holland,E07000140,lower,296,Income,116,0.202,0,4
+93,South Holland,E07000140,lower,296,Employment,121,0.12,0,5
+93,South Holland,E07000140,lower,296,Education,8,33.268,0.1373,1
+93,South Holland,E07000140,lower,296,Health,148,-0.122,0,5
+93,South Holland,E07000140,lower,296,Crime,191,-0.246,0.0196,7
+93,South Holland,E07000140,lower,296,Barriers,35,31.012,0.3529,2
+93,South Holland,E07000140,lower,296,Living,179,16.358,0,7
+94,South Kesteven,E07000141,lower,296,IMD,201,15.161,0.0357,7
+94,South Kesteven,E07000141,lower,296,Income,187,0.173,0.0357,7
+94,South Kesteven,E07000141,lower,296,Employment,180,0.112,0.0357,7
+94,South Kesteven,E07000141,lower,296,Education,204,15.618,0.0476,7
+94,South Kesteven,E07000141,lower,296,Health,208,-0.417,0.0119,7
+94,South Kesteven,E07000141,lower,296,Crime,231,-0.468,0.0119,8
+94,South Kesteven,E07000141,lower,296,Barriers,162,22.095,0.1429,6
+94,South Kesteven,E07000141,lower,296,Living,218,16.513,0.0833,8
+95,South Norfolk,E07000149,lower,296,IMD,220,13.115,0,8
+95,South Norfolk,E07000149,lower,296,Income,229,0.14,0,8
+95,South Norfolk,E07000149,lower,296,Employment,215,0.093,0,8
+95,South Norfolk,E07000149,lower,296,Education,187,14.919,0,7
+95,South Norfolk,E07000149,lower,296,Health,248,-0.639,0,9
+95,South Norfolk,E07000149,lower,296,Crime,275,-0.664,0,10
+95,South Norfolk,E07000149,lower,296,Barriers,76,26.454,0.1932,3
+95,South Norfolk,E07000149,lower,296,Living,151,19.01,0.0795,6
+96,South Oxfordshire,E07000179,lower,296,IMD,287,8.546,0,10
+96,South Oxfordshire,E07000179,lower,296,Income,288,0.107,0,10
+96,South Oxfordshire,E07000179,lower,296,Employment,292,0.065,0,10
+96,South Oxfordshire,E07000179,lower,296,Education,258,10.762,0,9
+96,South Oxfordshire,E07000179,lower,296,Health,288,-1.238,0,10
+96,South Oxfordshire,E07000179,lower,296,Crime,287,-0.778,0,10
+96,South Oxfordshire,E07000179,lower,296,Barriers,129,22.795,0.086,5
+96,South Oxfordshire,E07000179,lower,296,Living,258,13.506,0.0215,9
+97,South Ribble,E07000126,lower,296,IMD,227,14.136,0.0286,8
+97,South Ribble,E07000126,lower,296,Income,219,0.161,0.0429,8
+97,South Ribble,E07000126,lower,296,Employment,185,0.11,0.0429,7
+97,South Ribble,E07000126,lower,296,Education,244,13.29,0.0571,9
+97,South Ribble,E07000126,lower,296,Health,137,-0.063,0.0286,5
+97,South Ribble,E07000126,lower,296,Crime,182,-0.224,0.0857,7
+97,South Ribble,E07000126,lower,296,Barriers,283,12.085,0,10
+97,South Ribble,E07000126,lower,296,Living,208,15.504,0.0429,7
+598,South Staffordshire,E07000196,lower,296,IMD,222,13.527,0,8
+598,South Staffordshire,E07000196,lower,296,Income,213,0.156,0,8
+598,South Staffordshire,E07000196,lower,296,Employment,188,0.105,0.0294,7
+598,South Staffordshire,E07000196,lower,296,Education,186,15.665,0.0147,7
+598,South Staffordshire,E07000196,lower,296,Health,188,-0.326,0,7
+598,South Staffordshire,E07000196,lower,296,Crime,266,-0.592,0,9
+598,South Staffordshire,E07000196,lower,296,Barriers,152,21.329,0.0588,6
+598,South Staffordshire,E07000196,lower,296,Living,247,13.482,0.0441,9
+219,South Tyneside,E08000023,lower,296,IMD,35,31.061,0.2136,2
+219,South Tyneside,E08000023,lower,296,Income,37,0.317,0.1942,2
+219,South Tyneside,E08000023,lower,296,Employment,6,0.215,0.3689,1
+219,South Tyneside,E08000023,lower,296,Education,102,23.458,0.0291,4
+219,South Tyneside,E08000023,lower,296,Health,9,0.972,0.4175,1
+219,South Tyneside,E08000023,lower,296,Crime,31,0.469,0.2136,2
+219,South Tyneside,E08000023,lower,296,Barriers,286,11.809,0,10
+219,South Tyneside,E08000023,lower,296,Living,125,18.95,0.068,5
+189,Southwark,E09000028,lower,296,IMD,67,23.328,0,3
+189,Southwark,E09000028,lower,296,Income,51,0.266,0.0058,2
+189,Southwark,E09000028,lower,296,Employment,104,0.132,0,4
+189,Southwark,E09000028,lower,296,Education,239,11.706,0,9
+189,Southwark,E09000028,lower,296,Health,99,0.127,0.0173,4
+189,Southwark,E09000028,lower,296,Crime,61,0.296,0.0578,3
+189,Southwark,E09000028,lower,296,Barriers,48,26.734,0.0462,2
+189,Southwark,E09000028,lower,296,Living,13,36.292,0.1908,1
+99,Spelthorne,E07000213,lower,296,IMD,196,14.861,0,7
+99,Spelthorne,E07000213,lower,296,Income,184,0.169,0,7
+99,Spelthorne,E07000213,lower,296,Employment,201,0.098,0,7
+99,Spelthorne,E07000213,lower,296,Education,163,17.659,0,6
+99,Spelthorne,E07000213,lower,296,Health,218,-0.504,0,8
+99,Spelthorne,E07000213,lower,296,Crime,108,0.098,0.0328,4
+99,Spelthorne,E07000213,lower,296,Barriers,134,21.56,0.0164,5
+99,Spelthorne,E07000213,lower,296,Living,109,18.634,0,4
+100,Stafford,E07000197,lower,296,IMD,225,13.901,0.0123,8
+100,Stafford,E07000197,lower,296,Income,228,0.154,0.0123,8
+100,Stafford,E07000197,lower,296,Employment,208,0.105,0.037,7
+100,Stafford,E07000197,lower,296,Education,229,13.878,0.0247,8
+100,Stafford,E07000197,lower,296,Health,167,-0.229,0.0247,6
+100,Stafford,E07000197,lower,296,Crime,249,-0.573,0.0247,9
+100,Stafford,E07000197,lower,296,Barriers,185,20.59,0.0864,7
+100,Stafford,E07000197,lower,296,Living,235,14.503,0.0247,8
+16,Staffordshire,E10000028,upper,153,IMD,116,16.513,0.0281,8
+16,Staffordshire,E10000028,upper,153,Income,117,0.18,0.0243,8
+16,Staffordshire,E10000028,upper,153,Employment,102,0.116,0.0412,7
+16,Staffordshire,E10000028,upper,153,Education,86,19.94,0.0749,6
+16,Staffordshire,E10000028,upper,153,Health,83,-0.036,0.0393,6
+16,Staffordshire,E10000028,upper,153,Crime,134,-0.435,0.0112,9
+16,Staffordshire,E10000028,upper,153,Barriers,97,19.278,0.0543,7
+16,Staffordshire,E10000028,upper,153,Living,129,15.789,0.0449,9
+101,Staffordshire Moorlands,E07000198,lower,296,IMD,202,14.829,0,7
+101,Staffordshire Moorlands,E07000198,lower,296,Income,258,0.14,0,9
+101,Staffordshire Moorlands,E07000198,lower,296,Employment,203,0.102,0,7
+101,Staffordshire Moorlands,E07000198,lower,296,Education,179,16.664,0.0339,7
+101,Staffordshire Moorlands,E07000198,lower,296,Health,183,-0.295,0,7
+101,Staffordshire Moorlands,E07000198,lower,296,Crime,250,-0.543,0,9
+101,Staffordshire Moorlands,E07000198,lower,296,Barriers,177,21.127,0.1186,6
+101,Staffordshire Moorlands,E07000198,lower,296,Living,65,25.72,0.1695,3
+154,St Albans,E07000240,lower,296,IMD,288,8.102,0,10
+154,St Albans,E07000240,lower,296,Income,269,0.125,0,10
+154,St Albans,E07000240,lower,296,Employment,272,0.074,0,10
+154,St Albans,E07000240,lower,296,Education,292,5.725,0,10
+154,St Albans,E07000240,lower,296,Health,274,-1.098,0,10
+154,St Albans,E07000240,lower,296,Crime,260,-0.63,0,9
+154,St Albans,E07000240,lower,296,Barriers,285,10.835,0,10
+154,St Albans,E07000240,lower,296,Living,213,15.124,0.0455,8
+155,Stevenage,E07000243,lower,296,IMD,125,18.919,0,5
+155,Stevenage,E07000243,lower,296,Income,83,0.229,0,3
+155,Stevenage,E07000243,lower,296,Employment,105,0.128,0,4
+155,Stevenage,E07000243,lower,296,Education,69,23.919,0,3
+155,Stevenage,E07000243,lower,296,Health,105,0.094,0.037,4
+155,Stevenage,E07000243,lower,296,Crime,97,0.115,0.0185,4
+155,Stevenage,E07000243,lower,296,Barriers,171,19.737,0,6
+155,Stevenage,E07000243,lower,296,Living,284,9.441,0,10
+197,St. Helens,E08000013,lower,296,IMD,68,28.953,0.2314,3
+197,St. Helens,E08000013,lower,296,Income,84,0.271,0.1901,3
+197,St. Helens,E08000013,lower,296,Employment,30,0.196,0.2562,1
+197,St. Helens,E08000013,lower,296,Education,94,27.815,0.1818,4
+197,St. Helens,E08000013,lower,296,Health,16,0.887,0.3554,1
+197,St. Helens,E08000013,lower,296,Crime,78,0.277,0.1901,3
+197,St. Helens,E08000013,lower,296,Barriers,279,13.274,0,10
+197,St. Helens,E08000013,lower,296,Living,105,20.527,0.0331,4
+220,Stockport,E08000007,lower,296,IMD,183,18.404,0.0785,7
+220,Stockport,E08000007,lower,296,Income,189,0.188,0.0628,7
+220,Stockport,E08000007,lower,296,Employment,154,0.131,0.089,6
+220,Stockport,E08000007,lower,296,Education,222,16.533,0.0838,8
+220,Stockport,E08000007,lower,296,Health,111,0.137,0.1152,4
+220,Stockport,E08000007,lower,296,Crime,113,0.077,0.0733,4
+220,Stockport,E08000007,lower,296,Barriers,291,10.093,0,10
+220,Stockport,E08000007,lower,296,Living,80,23.568,0.0995,3
+265,Stoke-on-Trent,E06000021,lower,296,IMD,26,33.614,0.2883,1
+265,Stoke-on-Trent,E06000021,lower,296,Income,29,0.331,0.2699,1
+265,Stoke-on-Trent,E06000021,lower,296,Employment,19,0.195,0.3006,1
+265,Stoke-on-Trent,E06000021,lower,296,Education,11,36.718,0.2945,1
+265,Stoke-on-Trent,E06000021,lower,296,Health,10,0.948,0.3742,1
+265,Stoke-on-Trent,E06000021,lower,296,Crime,34,0.458,0.2086,2
+265,Stoke-on-Trent,E06000021,lower,296,Barriers,231,16.893,0,8
+265,Stoke-on-Trent,E06000021,lower,296,Living,99,23.885,0.1656,4
+102,Stratford-on-Avon,E07000221,lower,296,IMD,246,11.767,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Income,243,0.138,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Employment,251,0.083,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Education,266,9.467,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Health,253,-0.718,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Crime,253,-0.503,0,9
+102,Stratford-on-Avon,E07000221,lower,296,Barriers,101,24.709,0.1169,4
+102,Stratford-on-Avon,E07000221,lower,296,Living,144,19.494,0.0649,5
+103,Stroud,E07000082,lower,296,IMD,234,12.629,0,8
+103,Stroud,E07000082,lower,296,Income,249,0.135,0,9
+103,Stroud,E07000082,lower,296,Employment,236,0.087,0,8
+103,Stroud,E07000082,lower,296,Education,238,12.564,0.0278,9
+103,Stroud,E07000082,lower,296,Health,241,-0.633,0,9
+103,Stroud,E07000082,lower,296,Crime,233,-0.439,0.0278,8
+103,Stroud,E07000082,lower,296,Barriers,75,25.449,0.0694,3
+103,Stroud,E07000082,lower,296,Living,121,20.007,0.0417,5
+17,Suffolk,E10000029,upper,153,IMD,100,18.849,0.0512,7
+17,Suffolk,E10000029,upper,153,Income,111,0.186,0.0423,8
+17,Suffolk,E10000029,upper,153,Employment,108,0.116,0.0601,7
+17,Suffolk,E10000029,upper,153,Education,55,24.442,0.1203,4
+17,Suffolk,E10000029,upper,153,Health,98,-0.194,0.0312,7
+17,Suffolk,E10000029,upper,153,Crime,128,-0.357,0.0445,9
+17,Suffolk,E10000029,upper,153,Barriers,42,26.213,0.196,3
+17,Suffolk,E10000029,upper,153,Living,94,19.255,0.0735,7
+606,Sunderland,E08000024,lower,296,IMD,31,32.76,0.2757,2
+606,Sunderland,E08000024,lower,296,Income,42,0.308,0.2108,2
+606,Sunderland,E08000024,lower,296,Employment,10,0.211,0.3189,1
+606,Sunderland,E08000024,lower,296,Education,52,31.471,0.2324,2
+606,Sunderland,E08000024,lower,296,Health,6,1.062,0.4378,1
+606,Sunderland,E08000024,lower,296,Crime,40,0.455,0.2216,2
+606,Sunderland,E08000024,lower,296,Barriers,270,14.582,0,10
+606,Sunderland,E08000024,lower,296,Living,128,20.475,0.1351,5
+18,Surrey,E10000030,upper,153,IMD,150,10.132,0,10
+18,Surrey,E10000030,upper,153,Income,146,0.127,0.0014,10
+18,Surrey,E10000030,upper,153,Employment,145,0.074,0,10
+18,Surrey,E10000030,upper,153,Education,141,10.576,0.007,10
+18,Surrey,E10000030,upper,153,Health,145,-0.966,0,10
+18,Surrey,E10000030,upper,153,Crime,123,-0.315,0.0153,8
+18,Surrey,E10000030,upper,153,Barriers,94,19.479,0.0403,7
+18,Surrey,E10000030,upper,153,Living,124,15,0.0083,9
+104,Surrey Heath,E07000214,lower,296,IMD,290,8.037,0,10
+104,Surrey Heath,E07000214,lower,296,Income,287,0.114,0,10
+104,Surrey Heath,E07000214,lower,296,Employment,283,0.069,0,10
+104,Surrey Heath,E07000214,lower,296,Education,269,10.335,0.0182,10
+104,Surrey Heath,E07000214,lower,296,Health,292,-1.452,0,10
+104,Surrey Heath,E07000214,lower,296,Crime,240,-0.503,0,9
+104,Surrey Heath,E07000214,lower,296,Barriers,219,17.606,0.0364,8
+104,Surrey Heath,E07000214,lower,296,Living,278,10.302,0,10
+190,Sutton,E09000029,lower,296,IMD,224,13.85,0.0081,8
+190,Sutton,E09000029,lower,296,Income,175,0.184,0.0244,6
+190,Sutton,E09000029,lower,296,Employment,195,0.104,0.0325,7
+190,Sutton,E09000029,lower,296,Education,246,12.038,0.0081,9
+190,Sutton,E09000029,lower,296,Health,228,-0.571,0,8
+190,Sutton,E09000029,lower,296,Crime,184,-0.247,0.0081,7
+190,Sutton,E09000029,lower,296,Barriers,234,16.718,0,8
+190,Sutton,E09000029,lower,296,Living,69,21.942,0,3
+105,Swale,E07000113,lower,296,IMD,59,26.683,0.1444,2
+105,Swale,E07000113,lower,296,Income,90,0.242,0.1,4
+105,Swale,E07000113,lower,296,Employment,72,0.154,0.1444,3
+105,Swale,E07000113,lower,296,Education,18,35.732,0.2556,1
+105,Swale,E07000113,lower,296,Health,97,0.183,0.0667,4
+105,Swale,E07000113,lower,296,Crime,43,0.416,0.1333,2
+105,Swale,E07000113,lower,296,Barriers,52,28.78,0.2222,2
+105,Swale,E07000113,lower,296,Living,221,15.698,0.0778,8
+221,Tameside,E08000008,lower,296,IMD,41,29.836,0.1761,2
+221,Tameside,E08000008,lower,296,Income,46,0.296,0.1549,2
+221,Tameside,E08000008,lower,296,Employment,29,0.182,0.1831,1
+221,Tameside,E08000008,lower,296,Education,84,25.642,0.0704,3
+221,Tameside,E08000008,lower,296,Health,28,0.686,0.1901,1
+221,Tameside,E08000008,lower,296,Crime,10,0.635,0.2042,1
+221,Tameside,E08000008,lower,296,Barriers,154,20.916,0.0282,6
+221,Tameside,E08000008,lower,296,Living,62,25.017,0.1197,3
+156,Tamworth,E07000199,lower,296,IMD,140,20.233,0.1176,5
+156,Tamworth,E07000199,lower,296,Income,115,0.226,0.098,4
+156,Tamworth,E07000199,lower,296,Employment,117,0.136,0.1176,4
+156,Tamworth,E07000199,lower,296,Education,46,29.162,0.1569,2
+156,Tamworth,E07000199,lower,296,Health,98,0.171,0.0784,4
+156,Tamworth,E07000199,lower,296,Crime,176,-0.226,0.0196,6
+156,Tamworth,E07000199,lower,296,Barriers,225,17.225,0,8
+156,Tamworth,E07000199,lower,296,Living,262,12.373,0.0196,9
+157,Tandridge,E07000215,lower,296,IMD,236,12.532,0,8
+157,Tandridge,E07000215,lower,296,Income,253,0.132,0,9
+157,Tandridge,E07000215,lower,296,Employment,245,0.082,0,9
+157,Tandridge,E07000215,lower,296,Education,217,14.039,0.0196,8
+157,Tandridge,E07000215,lower,296,Health,254,-0.78,0,9
+157,Tandridge,E07000215,lower,296,Crime,157,-0.148,0,6
+157,Tandridge,E07000215,lower,296,Barriers,87,25.929,0.2157,3
+157,Tandridge,E07000215,lower,296,Living,161,16.275,0,6
+106,Teignbridge,E07000045,lower,296,IMD,159,17.18,0,6
+106,Teignbridge,E07000045,lower,296,Income,171,0.177,0,6
+106,Teignbridge,E07000045,lower,296,Employment,152,0.116,0,6
+106,Teignbridge,E07000045,lower,296,Education,157,17.604,0.0116,6
+106,Teignbridge,E07000045,lower,296,Health,142,-0.082,0,5
+106,Teignbridge,E07000045,lower,296,Crime,277,-0.733,0.0116,10
+106,Teignbridge,E07000045,lower,296,Barriers,81,26.68,0.1395,3
+106,Teignbridge,E07000045,lower,296,Living,119,21.42,0.1279,4
+266,Telford and Wrekin,E06000020,lower,296,IMD,95,24.423,0.1304,4
+266,Telford and Wrekin,E06000020,lower,296,Income,58,0.275,0.1217,2
+266,Telford and Wrekin,E06000020,lower,296,Employment,73,0.158,0.1565,3
+266,Telford and Wrekin,E06000020,lower,296,Education,96,25.892,0.1391,4
+266,Telford and Wrekin,E06000020,lower,296,Health,61,0.436,0.1304,3
+266,Telford and Wrekin,E06000020,lower,296,Crime,111,0.075,0.1217,4
+266,Telford and Wrekin,E06000020,lower,296,Barriers,125,22.195,0.0348,5
+266,Telford and Wrekin,E06000020,lower,296,Living,291,8.54,0,10
+107,Tendring,E07000076,lower,296,IMD,28,32.08,0.2022,1
+107,Tendring,E07000076,lower,296,Income,69,0.267,0.1236,3
+107,Tendring,E07000076,lower,296,Employment,28,0.19,0.2022,1
+107,Tendring,E07000076,lower,296,Education,4,41.646,0.3483,1
+107,Tendring,E07000076,lower,296,Health,34,0.683,0.1798,2
+107,Tendring,E07000076,lower,296,Crime,102,0.195,0.1461,4
+107,Tendring,E07000076,lower,296,Barriers,11,31.315,0.1573,1
+107,Tendring,E07000076,lower,296,Living,134,19.567,0.0674,5
+108,Test Valley,E07000093,lower,296,IMD,247,12.166,0,9
+108,Test Valley,E07000093,lower,296,Income,264,0.134,0,9
+108,Test Valley,E07000093,lower,296,Employment,259,0.081,0,9
+108,Test Valley,E07000093,lower,296,Education,234,13.368,0.037,8
+108,Test Valley,E07000093,lower,296,Health,233,-0.609,0,8
+108,Test Valley,E07000093,lower,296,Crime,217,-0.405,0.0247,8
+108,Test Valley,E07000093,lower,296,Barriers,135,23.131,0.1852,5
+108,Test Valley,E07000093,lower,296,Living,261,14.191,0.0864,9
+109,Tewkesbury,E07000083,lower,296,IMD,254,11.549,0.0179,9
+109,Tewkesbury,E07000083,lower,296,Income,218,0.156,0.0179,8
+109,Tewkesbury,E07000083,lower,296,Employment,237,0.088,0.0179,8
+109,Tewkesbury,E07000083,lower,296,Education,240,12.606,0.0179,9
+109,Tewkesbury,E07000083,lower,296,Health,242,-0.66,0,9
+109,Tewkesbury,E07000083,lower,296,Crime,251,-0.529,0,9
+109,Tewkesbury,E07000083,lower,296,Barriers,182,20.101,0.0357,7
+109,Tewkesbury,E07000083,lower,296,Living,276,12.277,0.0536,10
+110,Thanet,E07000114,lower,296,IMD,32,32.017,0.186,2
+110,Thanet,E07000114,lower,296,Income,39,0.305,0.1512,2
+110,Thanet,E07000114,lower,296,Employment,11,0.206,0.2209,1
+110,Thanet,E07000114,lower,296,Education,39,31.48,0.1977,2
+110,Thanet,E07000114,lower,296,Health,60,0.449,0.1163,2
+110,Thanet,E07000114,lower,296,Crime,16,0.678,0.3023,1
+110,Thanet,E07000114,lower,296,Barriers,54,26.863,0.1047,2
+110,Thanet,E07000114,lower,296,Living,112,20.357,0.0233,4
+158,Three Rivers,E07000102,lower,296,IMD,275,9.978,0,10
+158,Three Rivers,E07000102,lower,296,Income,257,0.135,0,9
+158,Three Rivers,E07000102,lower,296,Employment,258,0.079,0,9
+158,Three Rivers,E07000102,lower,296,Education,265,10.357,0,9
+158,Three Rivers,E07000102,lower,296,Health,267,-0.885,0,9
+158,Three Rivers,E07000102,lower,296,Crime,248,-0.549,0.0182,9
+158,Three Rivers,E07000102,lower,296,Barriers,201,18.611,0.0364,7
+158,Three Rivers,E07000102,lower,296,Living,248,12.673,0,9
+282,Thurrock,E06000034,lower,296,IMD,114,21.032,0.03,4
+282,Thurrock,E06000034,lower,296,Income,91,0.237,0.05,4
+282,Thurrock,E06000034,lower,296,Employment,131,0.124,0.02,5
+282,Thurrock,E06000034,lower,296,Education,67,24.841,0.04,3
+282,Thurrock,E06000034,lower,296,Health,147,-0.107,0,5
+282,Thurrock,E06000034,lower,296,Crime,72,0.241,0.08,3
+282,Thurrock,E06000034,lower,296,Barriers,66,26.66,0.1,3
+282,Thurrock,E06000034,lower,296,Living,183,15.328,0,7
+111,Tonbridge and Malling,E07000115,lower,296,IMD,235,13.023,0,8
+111,Tonbridge and Malling,E07000115,lower,296,Income,225,0.153,0,8
+111,Tonbridge and Malling,E07000115,lower,296,Employment,233,0.091,0,8
+111,Tonbridge and Malling,E07000115,lower,296,Education,216,14.874,0.0128,8
+111,Tonbridge and Malling,E07000115,lower,296,Health,236,-0.617,0,8
+111,Tonbridge and Malling,E07000115,lower,296,Crime,158,-0.161,0.0256,6
+111,Tonbridge and Malling,E07000115,lower,296,Barriers,142,21.936,0.0769,5
+111,Tonbridge and Malling,E07000115,lower,296,Living,259,12.752,0.0256,9
+267,Torbay,E06000027,lower,296,IMD,50,26.917,0.1099,2
+267,Torbay,E06000027,lower,296,Income,60,0.26,0.0549,2
+267,Torbay,E06000027,lower,296,Employment,26,0.18,0.1099,1
+267,Torbay,E06000027,lower,296,Education,43,28.79,0.0989,2
+267,Torbay,E06000027,lower,296,Health,36,0.623,0.1429,2
+267,Torbay,E06000027,lower,296,Crime,127,-0.001,0.0879,5
+267,Torbay,E06000027,lower,296,Barriers,130,21.751,0,5
+267,Torbay,E06000027,lower,296,Living,104,22.167,0.1099,4
+112,Torridge,E07000046,lower,296,IMD,54,23.865,0,2
+112,Torridge,E07000046,lower,296,Income,117,0.207,0,4
+112,Torridge,E07000046,lower,296,Employment,89,0.136,0.0526,3
+112,Torridge,E07000046,lower,296,Education,57,25.877,0.0526,2
+112,Torridge,E07000046,lower,296,Health,134,-0.042,0,5
+112,Torridge,E07000046,lower,296,Crime,288,-0.815,0,10
+112,Torridge,E07000046,lower,296,Barriers,9,38.61,0.4737,1
+112,Torridge,E07000046,lower,296,Living,53,31.082,0.3684,2
+222,Trafford,E08000009,lower,296,IMD,223,14.972,0.0432,8
+222,Trafford,E08000009,lower,296,Income,217,0.171,0.0576,8
+222,Trafford,E08000009,lower,296,Employment,181,0.117,0.0576,7
+222,Trafford,E08000009,lower,296,Education,280,9.272,0.0144,10
+222,Trafford,E08000009,lower,296,Health,169,-0.278,0.0432,6
+222,Trafford,E08000009,lower,296,Crime,142,-0.085,0.0576,5
+222,Trafford,E08000009,lower,296,Barriers,288,11.577,0,10
+222,Trafford,E08000009,lower,296,Living,70,24.069,0.0576,3
+159,Tunbridge Wells,E07000116,lower,296,IMD,212,13.894,0,8
+159,Tunbridge Wells,E07000116,lower,296,Income,224,0.151,0,8
+159,Tunbridge Wells,E07000116,lower,296,Employment,229,0.091,0,8
+159,Tunbridge Wells,E07000116,lower,296,Education,261,11.335,0.029,9
+159,Tunbridge Wells,E07000116,lower,296,Health,230,-0.577,0,8
+159,Tunbridge Wells,E07000116,lower,296,Crime,163,-0.183,0.029,6
+159,Tunbridge Wells,E07000116,lower,296,Barriers,110,24.867,0.1739,4
+159,Tunbridge Wells,E07000116,lower,296,Living,111,20.684,0.0725,4
+113,Uttlesford,E07000077,lower,296,IMD,269,9.968,0,10
+113,Uttlesford,E07000077,lower,296,Income,278,0.116,0,10
+113,Uttlesford,E07000077,lower,296,Employment,291,0.065,0,10
+113,Uttlesford,E07000077,lower,296,Education,259,10.107,0,9
+113,Uttlesford,E07000077,lower,296,Health,294,-1.477,0,10
+113,Uttlesford,E07000077,lower,296,Crime,237,-0.433,0,8
+113,Uttlesford,E07000077,lower,296,Barriers,79,26.249,0.1837,3
+113,Uttlesford,E07000077,lower,296,Living,146,19.193,0.0816,5
+114,Vale of White Horse,E07000180,lower,296,IMD,280,9.472,0,10
+114,Vale of White Horse,E07000180,lower,296,Income,259,0.129,0,9
+114,Vale of White Horse,E07000180,lower,296,Employment,263,0.076,0,9
+114,Vale of White Horse,E07000180,lower,296,Education,235,12.434,0.0123,8
+114,Vale of White Horse,E07000180,lower,296,Health,284,-1.043,0,10
+114,Vale of White Horse,E07000180,lower,296,Crime,283,-0.742,0.0123,10
+114,Vale of White Horse,E07000180,lower,296,Barriers,124,22.463,0.037,5
+114,Vale of White Horse,E07000180,lower,296,Living,289,9.48,0,10
+1628,Walsall,E08000030,lower,296,IMD,38,31.732,0.2485,2
+1628,Walsall,E08000030,lower,296,Income,20,0.356,0.3195,1
+1628,Walsall,E08000030,lower,296,Employment,16,0.199,0.2899,1
+1628,Walsall,E08000030,lower,296,Education,14,36.018,0.3136,1
+1628,Walsall,E08000030,lower,296,Health,46,0.546,0.1183,2
+1628,Walsall,E08000030,lower,296,Crime,56,0.324,0.1065,2
+1628,Walsall,E08000030,lower,296,Barriers,255,15.549,0,9
+1628,Walsall,E08000030,lower,296,Living,89,21.674,0.0473,3
+192,Wandsworth,E09000032,lower,296,IMD,193,15.157,0,7
+192,Wandsworth,E09000032,lower,296,Income,151,0.2,0.0591,6
+192,Wandsworth,E09000032,lower,296,Employment,239,0.089,0.0054,9
+192,Wandsworth,E09000032,lower,296,Education,284,7.388,0,10
+192,Wandsworth,E09000032,lower,296,Health,223,-0.559,0,8
+192,Wandsworth,E09000032,lower,296,Crime,145,-0.092,0.0161,5
+192,Wandsworth,E09000032,lower,296,Barriers,262,15.154,0,9
+192,Wandsworth,E09000032,lower,296,Living,9,38.647,0.2796,1
+610,Warrington,E06000007,lower,296,IMD,199,16.835,0.0606,7
+610,Warrington,E06000007,lower,296,Income,197,0.182,0.0606,7
+610,Warrington,E06000007,lower,296,Employment,162,0.122,0.0833,6
+610,Warrington,E06000007,lower,296,Education,221,15.677,0.0455,8
+610,Warrington,E06000007,lower,296,Health,129,0.034,0.1061,5
+610,Warrington,E06000007,lower,296,Crime,149,-0.111,0.1136,6
+610,Warrington,E06000007,lower,296,Barriers,266,14.842,0,9
+610,Warrington,E06000007,lower,296,Living,172,16.742,0.053,6
+115,Warwick,E07000222,lower,296,IMD,264,10.799,0.0114,9
+115,Warwick,E07000222,lower,296,Income,261,0.131,0,9
+115,Warwick,E07000222,lower,296,Employment,255,0.08,0.0114,9
+115,Warwick,E07000222,lower,296,Education,271,10.492,0.0227,10
+115,Warwick,E07000222,lower,296,Health,215,-0.512,0,8
+115,Warwick,E07000222,lower,296,Crime,211,-0.388,0.0227,8
+115,Warwick,E07000222,lower,296,Barriers,264,15.383,0.0341,9
+115,Warwick,E07000222,lower,296,Living,180,17.579,0.0682,7
+19,Warwickshire,E10000031,upper,153,IMD,119,15.589,0.0254,8
+19,Warwickshire,E10000031,upper,153,Income,122,0.169,0.0169,8
+19,Warwickshire,E10000031,upper,153,Employment,121,0.104,0.0226,8
+19,Warwickshire,E10000031,upper,153,Education,105,18.377,0.065,7
+19,Warwickshire,E10000031,upper,153,Health,99,-0.222,0.0282,7
+19,Warwickshire,E10000031,upper,153,Crime,112,-0.247,0.0311,8
+19,Warwickshire,E10000031,upper,153,Barriers,95,19.638,0.0565,7
+19,Warwickshire,E10000031,upper,153,Living,99,18.308,0.0508,7
+160,Watford,E07000103,lower,296,IMD,175,16.254,0,6
+160,Watford,E07000103,lower,296,Income,111,0.221,0.0345,4
+160,Watford,E07000103,lower,296,Employment,194,0.101,0,7
+160,Watford,E07000103,lower,296,Education,201,14.905,0,7
+160,Watford,E07000103,lower,296,Health,194,-0.411,0,7
+160,Watford,E07000103,lower,296,Crime,144,-0.087,0.0345,5
+160,Watford,E07000103,lower,296,Barriers,174,19.825,0,6
+160,Watford,E07000103,lower,296,Living,95,22.276,0.1207,4
+116,Waverley,E07000216,lower,296,IMD,289,8.128,0,10
+116,Waverley,E07000216,lower,296,Income,292,0.105,0,10
+116,Waverley,E07000216,lower,296,Employment,285,0.068,0,10
+116,Waverley,E07000216,lower,296,Education,285,7.559,0,10
+116,Waverley,E07000216,lower,296,Health,283,-1.145,0,10
+116,Waverley,E07000216,lower,296,Crime,274,-0.688,0,10
+116,Waverley,E07000216,lower,296,Barriers,161,20.949,0.0488,6
+116,Waverley,E07000216,lower,296,Living,255,12.928,0.0122,9
+161,Welwyn Hatfield,E07000241,lower,296,IMD,208,13.866,0,7
+161,Welwyn Hatfield,E07000241,lower,296,Income,157,0.184,0,6
+161,Welwyn Hatfield,E07000241,lower,296,Employment,198,0.099,0,7
+161,Welwyn Hatfield,E07000241,lower,296,Education,190,15.225,0,7
+161,Welwyn Hatfield,E07000241,lower,296,Health,190,-0.42,0,7
+161,Welwyn Hatfield,E07000241,lower,296,Crime,160,-0.176,0.029,6
+161,Welwyn Hatfield,E07000241,lower,296,Barriers,199,18.615,0,7
+161,Welwyn Hatfield,E07000241,lower,296,Living,281,10.003,0,10
+117,West Devon,E07000047,lower,296,IMD,117,19.096,0,4
+117,West Devon,E07000047,lower,296,Income,182,0.164,0,7
+117,West Devon,E07000047,lower,296,Employment,164,0.106,0,6
+117,West Devon,E07000047,lower,296,Education,124,19.057,0,5
+117,West Devon,E07000047,lower,296,Health,166,-0.234,0,6
+117,West Devon,E07000047,lower,296,Crime,293,-0.892,0,10
+117,West Devon,E07000047,lower,296,Barriers,27,33.72,0.5,1
+117,West Devon,E07000047,lower,296,Living,39,34.671,0.375,2
+162,West Lancashire,E07000127,lower,296,IMD,176,18.265,0.0548,6
+162,West Lancashire,E07000127,lower,296,Income,179,0.195,0.0822,7
+162,West Lancashire,E07000127,lower,296,Employment,143,0.131,0.1233,5
+162,West Lancashire,E07000127,lower,296,Education,152,20.835,0.1233,6
+162,West Lancashire,E07000127,lower,296,Health,120,0.076,0.0959,5
+162,West Lancashire,E07000127,lower,296,Crime,227,-0.436,0.0411,8
+162,West Lancashire,E07000127,lower,296,Barriers,200,18.485,0,7
+162,West Lancashire,E07000127,lower,296,Living,191,16.08,0.0274,7
+118,West Lindsey,E07000142,lower,296,IMD,131,21.492,0.1132,5
+118,West Lindsey,E07000142,lower,296,Income,154,0.201,0.0566,6
+118,West Lindsey,E07000142,lower,296,Employment,114,0.141,0.1321,4
+118,West Lindsey,E07000142,lower,296,Education,160,19.775,0.0943,6
+118,West Lindsey,E07000142,lower,296,Health,140,-0.049,0.0755,5
+118,West Lindsey,E07000142,lower,296,Crime,225,-0.389,0.0943,8
+118,West Lindsey,E07000142,lower,296,Barriers,19,32.358,0.3585,1
+118,West Lindsey,E07000142,lower,296,Living,169,19.003,0.1321,6
+193,Westminster,E09000033,lower,296,IMD,87,23.931,0.0894,3
+193,Westminster,E09000033,lower,296,Income,105,0.254,0.1382,4
+193,Westminster,E09000033,lower,296,Employment,155,0.127,0.0732,6
+193,Westminster,E09000033,lower,296,Education,253,11.187,0,9
+193,Westminster,E09000033,lower,296,Health,164,-0.31,0.0081,6
+193,Westminster,E09000033,lower,296,Crime,66,0.285,0.065,3
+193,Westminster,E09000033,lower,296,Barriers,78,25.86,0.0894,3
+193,Westminster,E09000033,lower,296,Living,4,46.969,0.5854,1
+270,Westmorland and Furness,E06000064,lower,296,IMD,165,17.836,0.0634,6
+270,Westmorland and Furness,E06000064,lower,296,Income,252,0.146,0.0352,9
+270,Westmorland and Furness,E06000064,lower,296,Employment,216,0.106,0.0704,8
+270,Westmorland and Furness,E06000064,lower,296,Education,192,16.342,0.0423,7
+270,Westmorland and Furness,E06000064,lower,296,Health,185,-0.297,0.1056,7
+270,Westmorland and Furness,E06000064,lower,296,Crime,242,-0.494,0.0423,9
+270,Westmorland and Furness,E06000064,lower,296,Barriers,107,25.799,0.2254,4
+270,Westmorland and Furness,E06000064,lower,296,Living,32,34.356,0.3592,2
+269,West Northamptonshire,E06000062,lower,296,IMD,182,16.646,0.021,7
+269,West Northamptonshire,E06000062,lower,296,Income,185,0.181,0.0252,7
+269,West Northamptonshire,E06000062,lower,296,Employment,212,0.102,0.021,8
+269,West Northamptonshire,E06000062,lower,296,Education,140,20.278,0.0588,5
+269,West Northamptonshire,E06000062,lower,296,Health,180,-0.316,0.0252,7
+269,West Northamptonshire,E06000062,lower,296,Crime,143,-0.087,0.0588,5
+269,West Northamptonshire,E06000062,lower,296,Barriers,117,23.228,0.0798,4
+269,West Northamptonshire,E06000062,lower,296,Living,207,16.559,0.0672,7
+163,West Oxfordshire,E07000181,lower,296,IMD,270,10.148,0,10
+163,West Oxfordshire,E07000181,lower,296,Income,271,0.122,0,10
+163,West Oxfordshire,E07000181,lower,296,Employment,275,0.074,0,10
+163,West Oxfordshire,E07000181,lower,296,Education,223,13.524,0.0147,8
+163,West Oxfordshire,E07000181,lower,296,Health,279,-0.983,0,10
+163,West Oxfordshire,E07000181,lower,296,Crime,285,-0.746,0,10
+163,West Oxfordshire,E07000181,lower,296,Barriers,118,23.525,0.1471,4
+163,West Oxfordshire,E07000181,lower,296,Living,260,13.77,0.0882,9
+119,West Suffolk,E07000245,lower,296,IMD,172,16.165,0,6
+119,West Suffolk,E07000245,lower,296,Income,208,0.158,0,7
+119,West Suffolk,E07000245,lower,296,Employment,226,0.092,0,8
+119,West Suffolk,E07000245,lower,296,Education,93,23.726,0.0654,4
+119,West Suffolk,E07000245,lower,296,Health,199,-0.398,0.0093,7
+119,West Suffolk,E07000245,lower,296,Crime,200,-0.342,0.0187,7
+119,West Suffolk,E07000245,lower,296,Barriers,73,27.611,0.2336,3
+119,West Suffolk,E07000245,lower,296,Living,193,16.672,0.0187,7
+20,West Sussex,E10000032,upper,153,IMD,123,14.8,0.0113,8
+20,West Sussex,E10000032,upper,153,Income,119,0.17,0.0094,8
+20,West Sussex,E10000032,upper,153,Employment,123,0.1,0.0094,8
+20,West Sussex,E10000032,upper,153,Education,101,17.744,0.0244,7
+20,West Sussex,E10000032,upper,153,Health,119,-0.442,0.0038,8
+20,West Sussex,E10000032,upper,153,Crime,126,-0.326,0.0169,9
+20,West Sussex,E10000032,upper,153,Barriers,57,23.489,0.0996,4
+20,West Sussex,E10000032,upper,153,Living,140,13.863,0.0395,10
+271,Wiltshire,E06000054,lower,296,IMD,219,13.608,0.0065,8
+271,Wiltshire,E06000054,lower,296,Income,227,0.148,0.0033,8
+271,Wiltshire,E06000054,lower,296,Employment,228,0.093,0.0098,8
+271,Wiltshire,E06000054,lower,296,Education,197,15.679,0.0228,7
+271,Wiltshire,E06000054,lower,296,Health,213,-0.484,0.0033,8
+271,Wiltshire,E06000054,lower,296,Crime,263,-0.601,0.0163,9
+271,Wiltshire,E06000054,lower,296,Barriers,127,23.367,0.1661,5
+271,Wiltshire,E06000054,lower,296,Living,192,18.008,0.0977,7
+164,Winchester,E07000094,lower,296,IMD,268,10.218,0,10
+164,Winchester,E07000094,lower,296,Income,273,0.122,0,10
+164,Winchester,E07000094,lower,296,Employment,270,0.074,0,10
+164,Winchester,E07000094,lower,296,Education,282,8.892,0.0278,10
+164,Winchester,E07000094,lower,296,Health,263,-0.845,0,9
+164,Winchester,E07000094,lower,296,Crime,235,-0.463,0.0139,8
+164,Winchester,E07000094,lower,296,Barriers,148,21.853,0.125,5
+164,Winchester,E07000094,lower,296,Living,252,14.817,0.0833,9
+272,Windsor and Maidenhead,E06000040,lower,296,IMD,285,8.881,0,10
+272,Windsor and Maidenhead,E06000040,lower,296,Income,285,0.113,0,10
+272,Windsor and Maidenhead,E06000040,lower,296,Employment,290,0.065,0,10
+272,Windsor and Maidenhead,E06000040,lower,296,Education,274,9.681,0,10
+272,Windsor and Maidenhead,E06000040,lower,296,Health,293,-1.566,0,10
+272,Windsor and Maidenhead,E06000040,lower,296,Crime,245,-0.496,0,9
+272,Windsor and Maidenhead,E06000040,lower,296,Barriers,169,20.448,0.0449,6
+272,Windsor and Maidenhead,E06000040,lower,296,Living,148,17.787,0.0449,5
+198,Wirral,E08000015,lower,296,IMD,106,27.473,0.2344,4
+198,Wirral,E08000015,lower,296,Income,108,0.263,0.201,4
+198,Wirral,E08000015,lower,296,Employment,54,0.19,0.2584,2
+198,Wirral,E08000015,lower,296,Education,148,23.272,0.1722,5
+198,Wirral,E08000015,lower,296,Health,30,0.848,0.3445,1
+198,Wirral,E08000015,lower,296,Crime,129,-0.036,0.1483,5
+198,Wirral,E08000015,lower,296,Barriers,293,8.037,0,10
+198,Wirral,E08000015,lower,296,Living,66,25.898,0.1866,3
+165,Woking,E07000217,lower,296,IMD,258,11.508,0,9
+165,Woking,E07000217,lower,296,Income,232,0.152,0.0161,8
+165,Woking,E07000217,lower,296,Employment,256,0.081,0,9
+165,Woking,E07000217,lower,296,Education,267,10.737,0,9
+165,Woking,E07000217,lower,296,Health,226,-0.547,0,8
+165,Woking,E07000217,lower,296,Crime,165,-0.192,0.0161,6
+165,Woking,E07000217,lower,296,Barriers,181,19.909,0.0161,7
+165,Woking,E07000217,lower,296,Living,237,13.163,0,8
+283,Wokingham,E06000041,lower,296,IMD,295,6.102,0,10
+283,Wokingham,E06000041,lower,296,Income,294,0.093,0,10
+283,Wokingham,E06000041,lower,296,Employment,295,0.055,0,10
+283,Wokingham,E06000041,lower,296,Education,289,6.395,0,10
+283,Wokingham,E06000041,lower,296,Health,291,-1.36,0,10
+283,Wokingham,E06000041,lower,296,Crime,289,-0.84,0,10
+283,Wokingham,E06000041,lower,296,Barriers,178,19.879,0,6
+283,Wokingham,E06000041,lower,296,Living,293,8.118,0,10
+224,Wolverhampton,E08000031,lower,296,IMD,24,32.552,0.2174,1
+224,Wolverhampton,E08000031,lower,296,Income,11,0.358,0.2795,1
+224,Wolverhampton,E08000031,lower,296,Employment,5,0.207,0.2671,1
+224,Wolverhampton,E08000031,lower,296,Education,40,30.265,0.1056,2
+224,Wolverhampton,E08000031,lower,296,Health,31,0.635,0.1553,2
+224,Wolverhampton,E08000031,lower,296,Crime,29,0.462,0.1553,1
+224,Wolverhampton,E08000031,lower,296,Barriers,133,21.618,0.0186,5
+224,Wolverhampton,E08000031,lower,296,Living,100,21.559,0.0745,4
+166,Worcester,E07000237,lower,296,IMD,166,19.112,0.125,6
+166,Worcester,E07000237,lower,296,Income,145,0.21,0.125,5
+166,Worcester,E07000237,lower,296,Employment,165,0.119,0.1094,6
+166,Worcester,E07000237,lower,296,Education,155,21.809,0.1719,6
+166,Worcester,E07000237,lower,296,Health,143,-0.075,0.0312,5
+166,Worcester,E07000237,lower,296,Crime,136,-0.037,0.1875,5
+166,Worcester,E07000237,lower,296,Barriers,119,22.053,0.0156,4
+166,Worcester,E07000237,lower,296,Living,209,16.333,0.0469,8
+21,Worcestershire,E10000034,upper,153,IMD,112,17.311,0.0481,8
+21,Worcestershire,E10000034,upper,153,Income,112,0.186,0.0428,8
+21,Worcestershire,E10000034,upper,153,Employment,106,0.116,0.0642,7
+21,Worcestershire,E10000034,upper,153,Education,92,20.968,0.1096,6
+21,Worcestershire,E10000034,upper,153,Health,104,-0.251,0.0241,7
+21,Worcestershire,E10000034,upper,153,Crime,120,-0.27,0.0722,8
+21,Worcestershire,E10000034,upper,153,Barriers,77,21.603,0.0963,5
+21,Worcestershire,E10000034,upper,153,Living,116,17.479,0.0668,8
+167,Worthing,E07000229,lower,296,IMD,185,15.928,0,7
+167,Worthing,E07000229,lower,296,Income,153,0.187,0.0147,6
+167,Worthing,E07000229,lower,296,Employment,145,0.119,0.0147,5
+167,Worthing,E07000229,lower,296,Education,180,16.006,0.0147,7
+167,Worthing,E07000229,lower,296,Health,132,-0.023,0,5
+167,Worthing,E07000229,lower,296,Crime,147,-0.117,0.0147,5
+167,Worthing,E07000229,lower,296,Barriers,250,15.742,0,9
+167,Worthing,E07000229,lower,296,Living,143,17.798,0,5
+120,Wychavon,E07000238,lower,296,IMD,178,15.828,0,6
+120,Wychavon,E07000238,lower,296,Income,190,0.167,0,7
+120,Wychavon,E07000238,lower,296,Employment,192,0.102,0.0123,7
+120,Wychavon,E07000238,lower,296,Education,141,19.93,0.037,5
+120,Wychavon,E07000238,lower,296,Health,195,-0.363,0,7
+120,Wychavon,E07000238,lower,296,Crime,224,-0.405,0.037,8
+120,Wychavon,E07000238,lower,296,Barriers,83,26.401,0.2346,3
+120,Wychavon,E07000238,lower,296,Living,212,16.368,0.0617,8
+121,Wyre,E07000128,lower,296,IMD,150,20.864,0.1304,6
+121,Wyre,E07000128,lower,296,Income,149,0.204,0.1014,6
+121,Wyre,E07000128,lower,296,Employment,99,0.148,0.1449,4
+121,Wyre,E07000128,lower,296,Education,178,19.139,0.1014,6
+121,Wyre,E07000128,lower,296,Health,69,0.425,0.1739,3
+121,Wyre,E07000128,lower,296,Crime,180,-0.177,0.1159,7
+121,Wyre,E07000128,lower,296,Barriers,242,16.153,0,9
+121,Wyre,E07000128,lower,296,Living,120,20.03,0.087,5
+122,Wyre Forest,E07000239,lower,296,IMD,118,22.053,0.0746,4
+122,Wyre Forest,E07000239,lower,296,Income,123,0.224,0.0597,5
+122,Wyre Forest,E07000239,lower,296,Employment,96,0.145,0.1194,4
+122,Wyre Forest,E07000239,lower,296,Education,70,28.21,0.1493,3
+122,Wyre Forest,E07000239,lower,296,Health,117,0.077,0.0299,4
+122,Wyre Forest,E07000239,lower,296,Crime,138,-0.049,0.0746,5
+122,Wyre Forest,E07000239,lower,296,Barriers,186,20.155,0.0597,7
+122,Wyre Forest,E07000239,lower,296,Living,113,20.825,0.0746,4
+,Bradford,E08000032,lower,296,IMD,23,36.713,0.3686,1
+,Bradford,E08000032,lower,296,Income,27,0.357,0.3365,1
+,Bradford,E08000032,lower,296,Employment,25,0.199,0.2756,1
+,Bradford,E08000032,lower,296,Education,17,40.298,0.3814,1
+,Bradford,E08000032,lower,296,Health,41,0.614,0.2115,2
+,Bradford,E08000032,lower,296,Crime,9,0.713,0.3462,1
+,Bradford,E08000032,lower,296,Barriers,193,19.221,0.0128,7
+,Bradford,E08000032,lower,296,Living,29,36.171,0.2949,1
+,Bristol,E06000023,lower,296,IMD,123,22.496,0.1119,5
+,Bristol,E06000023,lower,296,Income,138,0.218,0.0933,5
+,Bristol,E06000023,lower,296,Employment,159,0.124,0.097,6
+,Bristol,E06000023,lower,296,Education,125,24.567,0.1642,5
+,Bristol,E06000023,lower,296,Health,94,0.216,0.1157,4
+,Bristol,E06000023,lower,296,Crime,50,0.384,0.1791,2
+,Bristol,E06000023,lower,296,Barriers,260,15.393,0.0112,9
+,Bristol,E06000023,lower,296,Living,54,26.386,0.1045,2
+,Sheffield,E08000019,lower,296,IMD,90,27.574,0.2187,4
+,Sheffield,E08000019,lower,296,Income,98,0.278,0.2274,4
+,Sheffield,E08000019,lower,296,Employment,112,0.159,0.2362,4
+,Sheffield,E08000019,lower,296,Education,114,28.775,0.2536,4
+,Sheffield,E08000019,lower,296,Health,58,0.514,0.2566,2
+,Sheffield,E08000019,lower,296,Crime,74,0.247,0.1691,3
+,Sheffield,E08000019,lower,296,Barriers,256,15.455,0.0058,9
+,Sheffield,E08000019,lower,296,Living,103,23.203,0.1545,4
+,Kent,E10000016,upper,153,IMD,92,20.7,0.064,6
+,Kent,E10000016,upper,153,Income,95,0.206,0.0458,7
+,Kent,E10000016,upper,153,Employment,87,0.129,0.0693,6
+,Kent,E10000016,upper,153,Education,69,22.572,0.0906,5
+,Kent,E10000016,upper,153,Health,95,-0.157,0.0277,7
+,Kent,E10000016,upper,153,Crime,70,0.199,0.1258,5
+,Kent,E10000016,upper,153,Barriers,33,27.165,0.1727,3
+,Kent,E10000016,upper,153,Living,122,16.623,0.0416,8
+,Bromley,E09000006,lower,296,IMD,248,12.673,0.005,9
+,Bromley,E09000006,lower,296,Income,223,0.158,0.0201,8
+,Bromley,E09000006,lower,296,Employment,224,0.097,0.0201,8
+,Bromley,E09000006,lower,296,Education,273,10.096,0,10
+,Bromley,E09000006,lower,296,Health,250,-0.773,0,9
+,Bromley,E09000006,lower,296,Crime,189,-0.274,0.0251,7
+,Bromley,E09000006,lower,296,Barriers,211,18.016,0.005,8
+,Bromley,E09000006,lower,296,Living,88,21.051,0.0101,3
+,Bath and North East Somerset,E06000022,lower,296,IMD,252,12.281,0.0254,9
+,Bath and North East Somerset,E06000022,lower,296,Income,256,0.137,0.0169,9
+,Bath and North East Somerset,E06000022,lower,296,Employment,250,0.086,0.0254,9
+,Bath and North East Somerset,E06000022,lower,296,Education,247,12.831,0.0424,9
+,Bath and North East Somerset,E06000022,lower,296,Health,232,-0.619,0.0085,8
+,Bath and North East Somerset,E06000022,lower,296,Crime,214,-0.432,0.0339,8
+,Bath and North East Somerset,E06000022,lower,296,Barriers,202,18.737,0.0254,7
+,Bath and North East Somerset,E06000022,lower,296,Living,127,19.797,0.0932,5
+,Mid Suffolk,E07000203,lower,296,IMD,191,14.429,0.0175,7
+,Mid Suffolk,E07000203,lower,296,Income,251,0.133,0,9
+,Mid Suffolk,E07000203,lower,296,Employment,243,0.085,0.0175,9
+,Mid Suffolk,E07000203,lower,296,Education,175,15.68,0.0175,6
+,Mid Suffolk,E07000203,lower,296,Health,235,-0.548,0.0175,8
+,Mid Suffolk,E07000203,lower,296,Crime,290,-0.791,0,10
+,Mid Suffolk,E07000203,lower,296,Barriers,18,32.694,0.4035,1
+,Mid Suffolk,E07000203,lower,296,Living,101,22.331,0.0526,4
+,Tower Hamlets,E09000030,lower,296,IMD,20,30.554,0.1302,1
+,Tower Hamlets,E09000030,lower,296,Income,3,0.401,0.3787,1
+,Tower Hamlets,E09000030,lower,296,Employment,85,0.143,0.0059,3
+,Tower Hamlets,E09000030,lower,296,Education,169,16.363,0,6
+,Tower Hamlets,E09000030,lower,296,Health,65,0.364,0.0296,3
+,Tower Hamlets,E09000030,lower,296,Crime,35,0.4,0.0533,2
+,Tower Hamlets,E09000030,lower,296,Barriers,12,32.271,0.3195,1
+,Tower Hamlets,E09000030,lower,296,Living,23,32.475,0.1243,1
+,Lancashire,E10000017,upper,153,IMD,84,23.56,0.1447,6
+,Lancashire,E10000017,upper,153,Income,90,0.229,0.1211,6
+,Lancashire,E10000017,upper,153,Employment,75,0.145,0.1316,5
+,Lancashire,E10000017,upper,153,Education,91,21.82,0.1145,6
+,Lancashire,E10000017,upper,153,Health,55,0.347,0.1763,4
+,Lancashire,E10000017,upper,153,Crime,85,0.039,0.1382,6
+,Lancashire,E10000017,upper,153,Barriers,98,18.951,0.025,7
+,Lancashire,E10000017,upper,153,Living,53,27.311,0.2013,4
+,Leeds,E08000035,lower,296,IMD,124,24.115,0.1721,5
+,Leeds,E08000035,lower,296,Income,125,0.246,0.1537,5
+,Leeds,E08000035,lower,296,Employment,140,0.138,0.1496,5
+,Leeds,E08000035,lower,296,Education,135,24.465,0.1803,5
+,Leeds,E08000035,lower,296,Health,104,0.155,0.0861,4
+,Leeds,E08000035,lower,296,Crime,39,0.509,0.2848,2
+,Leeds,E08000035,lower,296,Barriers,265,14.733,0.0061,9
+,Leeds,E08000035,lower,296,Living,58,27.088,0.1393,2
+,Manchester,E08000003,lower,296,IMD,2,38.677,0.4068,1
+,Manchester,E08000003,lower,296,Income,14,0.372,0.3797,1
+,Manchester,E08000003,lower,296,Employment,46,0.187,0.3254,2
+,Manchester,E08000003,lower,296,Education,63,28.046,0.1051,3
+,Manchester,E08000003,lower,296,Health,4,1.087,0.4644,1
+,Manchester,E08000003,lower,296,Crime,1,0.9,0.3898,1
+,Manchester,E08000003,lower,296,Barriers,32,30.586,0.3119,2
+,Manchester,E08000003,lower,296,Living,46,28.116,0.1356,2
+,Camden,E09000007,lower,296,IMD,83,23.695,0.0308,3
+,Camden,E09000007,lower,296,Income,75,0.266,0.1077,3
+,Camden,E09000007,lower,296,Employment,109,0.136,0.0308,4
+,Camden,E09000007,lower,296,Education,233,12.384,0,8
+,Camden,E09000007,lower,296,Health,110,0.047,0.0308,4
+,Camden,E09000007,lower,296,Crime,82,0.22,0.0769,3
+,Camden,E09000007,lower,296,Barriers,137,21.896,0.0538,5
+,Camden,E09000007,lower,296,Living,5,42.556,0.3769,1
+,Bexley,E09000004,lower,296,IMD,200,15.302,0,7
+,Bexley,E09000004,lower,296,Income,174,0.187,0.0068,6
+,Bexley,E09000004,lower,296,Employment,182,0.109,0.0068,7
+,Bexley,E09000004,lower,296,Education,167,16.51,0,6
+,Bexley,E09000004,lower,296,Health,184,-0.327,0.0068,7
+,Bexley,E09000004,lower,296,Crime,164,-0.178,0.0405,6
+,Bexley,E09000004,lower,296,Barriers,245,15.666,0,9
+,Bexley,E09000004,lower,296,Living,84,20.848,0,3
+,Hillingdon,E09000017,lower,296,IMD,116,20.653,0,4
+,Hillingdon,E09000017,lower,296,Income,67,0.257,0.0235,3
+,Hillingdon,E09000017,lower,296,Employment,153,0.114,0,6
+,Hillingdon,E09000017,lower,296,Education,132,19.272,0.0059,5
+,Hillingdon,E09000017,lower,296,Health,181,-0.317,0,7
+,Hillingdon,E09000017,lower,296,Crime,116,0.038,0.0176,4
+,Hillingdon,E09000017,lower,296,Barriers,28,30.292,0.2176,1
+,Hillingdon,E09000017,lower,296,Living,67,22.101,0.0118,3
+,Somerset,E06000066,lower,296,IMD,134,19.137,0.0206,5
+,Somerset,E06000066,lower,296,Income,172,0.181,0.0147,6
+,Somerset,E06000066,lower,296,Employment,150,0.118,0.0206,6
+,Somerset,E06000066,lower,296,Education,112,22.426,0.0708,4
+,Somerset,E06000066,lower,296,Health,168,-0.239,0.0118,6
+,Somerset,E06000066,lower,296,Crime,192,-0.262,0.0619,7
+,Somerset,E06000066,lower,296,Barriers,58,28.901,0.3038,2
+,Somerset,E06000066,lower,296,Living,123,21.461,0.1268,5
+,Kensington and Chelsea,E09000020,lower,296,IMD,130,20.339,0.0297,5
+,Kensington and Chelsea,E09000020,lower,296,Income,180,0.196,0.0891,7
+,Kensington and Chelsea,E09000020,lower,296,Employment,207,0.106,0.0594,7
+,Kensington and Chelsea,E09000020,lower,296,Education,279,8.335,0,10
+,Kensington and Chelsea,E09000020,lower,296,Health,219,-0.743,0.0099,8
+,Kensington and Chelsea,E09000020,lower,296,Crime,67,0.283,0.0594,3
+,Kensington and Chelsea,E09000020,lower,296,Barriers,136,22.279,0.0693,5
+,Kensington and Chelsea,E09000020,lower,296,Living,3,51.559,0.7327,1
+,Greenwich,E09000011,lower,296,IMD,74,23.539,0,3
+,Greenwich,E09000011,lower,296,Income,43,0.277,0.0366,2
+,Greenwich,E09000011,lower,296,Employment,90,0.138,0.0183,4
+,Greenwich,E09000011,lower,296,Education,184,15.364,0,7
+,Greenwich,E09000011,lower,296,Health,103,0.124,0.0122,4
+,Greenwich,E09000011,lower,296,Crime,45,0.356,0.0427,2
+,Greenwich,E09000011,lower,296,Barriers,51,27.329,0.1341,2
+,Greenwich,E09000011,lower,296,Living,47,26.038,0.0305,2
+,Newham,E09000025,lower,296,IMD,7,31.583,0.0541,1
+,Newham,E09000025,lower,296,Income,2,0.39,0.2595,1
+,Newham,E09000025,lower,296,Employment,67,0.143,0.0108,3
+,Newham,E09000025,lower,296,Education,64,24.385,0,3
+,Newham,E09000025,lower,296,Health,106,0.081,0.0216,4
+,Newham,E09000025,lower,296,Crime,64,0.282,0.0541,3
+,Newham,E09000025,lower,296,Barriers,3,39.266,0.7243,1
+,Newham,E09000025,lower,296,Living,16,34.983,0.1568,1
+,Redbridge,E09000026,lower,296,IMD,127,19.854,0.0183,5
+,Redbridge,E09000026,lower,296,Income,50,0.274,0.061,2
+,Redbridge,E09000026,lower,296,Employment,142,0.118,0.0061,5
+,Redbridge,E09000026,lower,296,Education,189,14.805,0,7
+,Redbridge,E09000026,lower,296,Health,225,-0.53,0,8
+,Redbridge,E09000026,lower,296,Crime,122,0,0.0305,5
+,Redbridge,E09000026,lower,296,Barriers,74,26.265,0.1159,3
+,Redbridge,E09000026,lower,296,Living,40,26.564,0.0244,2
+,Richmond upon Thames,E09000027,lower,296,IMD,282,9.532,0,10
+,Richmond upon Thames,E09000027,lower,296,Income,279,0.122,0,10
+,Richmond upon Thames,E09000027,lower,296,Employment,281,0.072,0.0087,10
+,Richmond upon Thames,E09000027,lower,296,Education,296,3.638,0,10
+,Richmond upon Thames,E09000027,lower,296,Health,290,-1.382,0,10
+,Richmond upon Thames,E09000027,lower,296,Crime,221,-0.39,0,8
+,Richmond upon Thames,E09000027,lower,296,Barriers,296,7.225,0,10
+,Richmond upon Thames,E09000027,lower,296,Living,12,37.446,0.287,1
+,Waltham Forest,E09000031,lower,296,IMD,65,23.453,0.0068,3
+,Waltham Forest,E09000031,lower,296,Income,26,0.296,0.0685,1
+,Waltham Forest,E09000031,lower,296,Employment,83,0.136,0.0068,3
+,Waltham Forest,E09000031,lower,296,Education,154,16.611,0,6
+,Waltham Forest,E09000031,lower,296,Health,149,-0.124,0,6
+,Waltham Forest,E09000031,lower,296,Crime,83,0.203,0.0137,3
+,Waltham Forest,E09000031,lower,296,Barriers,72,25.667,0.0548,3
+,Waltham Forest,E09000031,lower,296,Living,20,33.957,0.1712,1

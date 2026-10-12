@@ -1,0 +1,62 @@
+{
+  "id": 10541,
+  "document_id": 822245,
+  "model": "gpt-3.5-turbo-0125",
+  "output": {
+    "attendees": [
+      "Simon Clement-Jones",
+      "Richard Shaw",
+      "Sophie Crossthorn",
+      "Kurtis Crossland",
+      "Ian Horner",
+      "Matthew Dwyer",
+      "Denise Fox",
+      "Karen McGowan",
+      "Angela Argenzio",
+      "Maleiki Haybe",
+      "Brian Holmshaw",
+      "Talib Hussain",
+      "Mark Jones",
+      "Safiya Saeed",
+      "Douglas Johnson",
+      "Ruth Mersereau",
+      "Martin Phipps",
+      "Tim Huggan",
+      "Ruth Milsom",
+      "Minesh Parekh",
+      "Qais Al-Ahdal",
+      "Mary Lea",
+      "Zahira Naz",
+      "Rebecca Atkinson",
+      "Joe Otten",
+      "Martin Smith"
+    ],
+    "decisions": [
+      {
+        "outcome": "Council received an online petition with approximately 480 signatures",
+        "summary": "Petition to stop excessive housing development on green belt land in Ecclesfield",
+        "reason_contentious": "Concerns about excessive housing development on green belt land",
+        "affected_stakeholders": [
+          "Residents of Ecclesfield",
+          "Council"
+        ],
+        "contentiousness_score": 8,
+        "political_party_relevance": false
+      },
+      {
+        "outcome": "Council received a paper and online petition with approximately 3,700 signatures",
+        "summary": "Petition to stop housing development on Handsworth\u2019s Green Belt",
+        "reason_contentious": "Disproportionate housing development in Green Belt area",
+        "affected_stakeholders": [
+          "Residents of Handsworth",
+          "Council",
+          "Developers"
+        ],
+        "contentiousness_score": 9,
+        "political_party_relevance": false
+      }
+    ]
+  },
+  "classifications": null,
+  "created_at": "2025-07-30T08:39:12.480466"
+}

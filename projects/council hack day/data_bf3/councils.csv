@@ -1,0 +1,4 @@
+id,name,external_id,majority_party,council_type,council_type_label,base_scrape_url,party
+10,Lancashire,13,CON,0,modern_gov,https://council.lancashire.gov.uk/mgCalendarMonthView.aspx,REF
+238,Bristol,366,NOC,0,modern_gov, City of,GRN-led NOC
+191,Tower Hamlets,255,IND,0,modern_gov,https://democracy.towerhamlets.gov.uk/mgCalendarMonthView.aspx,IND

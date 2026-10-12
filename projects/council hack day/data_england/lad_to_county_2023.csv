@@ -1,0 +1,165 @@
+LAD23CD,LAD23NM,CTY23CD,CTY23NM,ObjectId
+E07000008,Cambridge,E10000003,Cambridgeshire,1
+E07000009,East Cambridgeshire,E10000003,Cambridgeshire,2
+E07000010,Fenland,E10000003,Cambridgeshire,3
+E07000011,Huntingdonshire,E10000003,Cambridgeshire,4
+E07000012,South Cambridgeshire,E10000003,Cambridgeshire,5
+E07000032,Amber Valley,E10000007,Derbyshire,6
+E07000033,Bolsover,E10000007,Derbyshire,7
+E07000034,Chesterfield,E10000007,Derbyshire,8
+E07000035,Derbyshire Dales,E10000007,Derbyshire,9
+E07000036,Erewash,E10000007,Derbyshire,10
+E07000037,High Peak,E10000007,Derbyshire,11
+E07000038,North East Derbyshire,E10000007,Derbyshire,12
+E07000039,South Derbyshire,E10000007,Derbyshire,13
+E07000040,East Devon,E10000008,Devon,14
+E07000041,Exeter,E10000008,Devon,15
+E07000042,Mid Devon,E10000008,Devon,16
+E07000043,North Devon,E10000008,Devon,17
+E07000044,South Hams,E10000008,Devon,18
+E07000045,Teignbridge,E10000008,Devon,19
+E07000046,Torridge,E10000008,Devon,20
+E07000047,West Devon,E10000008,Devon,21
+E07000061,Eastbourne,E10000011,East Sussex,22
+E07000062,Hastings,E10000011,East Sussex,23
+E07000063,Lewes,E10000011,East Sussex,24
+E07000064,Rother,E10000011,East Sussex,25
+E07000065,Wealden,E10000011,East Sussex,26
+E07000066,Basildon,E10000012,Essex,27
+E07000067,Braintree,E10000012,Essex,28
+E07000068,Brentwood,E10000012,Essex,29
+E07000069,Castle Point,E10000012,Essex,30
+E07000070,Chelmsford,E10000012,Essex,31
+E07000071,Colchester,E10000012,Essex,32
+E07000072,Epping Forest,E10000012,Essex,33
+E07000073,Harlow,E10000012,Essex,34
+E07000074,Maldon,E10000012,Essex,35
+E07000075,Rochford,E10000012,Essex,36
+E07000076,Tendring,E10000012,Essex,37
+E07000077,Uttlesford,E10000012,Essex,38
+E07000078,Cheltenham,E10000013,Gloucestershire,39
+E07000079,Cotswold,E10000013,Gloucestershire,40
+E07000080,Forest of Dean,E10000013,Gloucestershire,41
+E07000081,Gloucester,E10000013,Gloucestershire,42
+E07000082,Stroud,E10000013,Gloucestershire,43
+E07000083,Tewkesbury,E10000013,Gloucestershire,44
+E07000084,Basingstoke and Deane,E10000014,Hampshire,45
+E07000085,East Hampshire,E10000014,Hampshire,46
+E07000086,Eastleigh,E10000014,Hampshire,47
+E07000087,Fareham,E10000014,Hampshire,48
+E07000088,Gosport,E10000014,Hampshire,49
+E07000089,Hart,E10000014,Hampshire,50
+E07000090,Havant,E10000014,Hampshire,51
+E07000091,New Forest,E10000014,Hampshire,52
+E07000092,Rushmoor,E10000014,Hampshire,53
+E07000093,Test Valley,E10000014,Hampshire,54
+E07000094,Winchester,E10000014,Hampshire,55
+E07000095,Broxbourne,E10000015,Hertfordshire,56
+E07000096,Dacorum,E10000015,Hertfordshire,57
+E07000098,Hertsmere,E10000015,Hertfordshire,58
+E07000099,North Hertfordshire,E10000015,Hertfordshire,59
+E07000178,Oxford,E10000025,Oxfordshire,116
+E07000179,South Oxfordshire,E10000025,Oxfordshire,117
+E07000180,Vale of White Horse,E10000025,Oxfordshire,118
+E07000181,West Oxfordshire,E10000025,Oxfordshire,119
+E07000192,Cannock Chase,E10000028,Staffordshire,120
+E07000193,East Staffordshire,E10000028,Staffordshire,121
+E07000194,Lichfield,E10000028,Staffordshire,122
+E07000195,Newcastle-under-Lyme,E10000028,Staffordshire,123
+E07000196,South Staffordshire,E10000028,Staffordshire,124
+E07000197,Stafford,E10000028,Staffordshire,125
+E07000198,Staffordshire Moorlands,E10000028,Staffordshire,126
+E07000199,Tamworth,E10000028,Staffordshire,127
+E07000200,Babergh,E10000029,Suffolk,128
+E07000202,Ipswich,E10000029,Suffolk,129
+E07000203,Mid Suffolk,E10000029,Suffolk,130
+E07000244,East Suffolk,E10000029,Suffolk,131
+E07000245,West Suffolk,E10000029,Suffolk,132
+E07000207,Elmbridge,E10000030,Surrey,133
+E07000208,Epsom and Ewell,E10000030,Surrey,134
+E07000209,Guildford,E10000030,Surrey,135
+E07000210,Mole Valley,E10000030,Surrey,136
+E07000211,Reigate and Banstead,E10000030,Surrey,137
+E07000212,Runnymede,E10000030,Surrey,138
+E07000213,Spelthorne,E10000030,Surrey,139
+E07000214,Surrey Heath,E10000030,Surrey,140
+E07000215,Tandridge,E10000030,Surrey,141
+E07000216,Waverley,E10000030,Surrey,142
+E07000217,Woking,E10000030,Surrey,143
+E07000218,North Warwickshire,E10000031,Warwickshire,144
+E07000219,Nuneaton and Bedworth,E10000031,Warwickshire,145
+E07000220,Rugby,E10000031,Warwickshire,146
+E07000221,Stratford-on-Avon,E10000031,Warwickshire,147
+E07000222,Warwick,E10000031,Warwickshire,148
+E07000223,Adur,E10000032,West Sussex,149
+E07000224,Arun,E10000032,West Sussex,150
+E07000225,Chichester,E10000032,West Sussex,151
+E07000226,Crawley,E10000032,West Sussex,152
+E07000227,Horsham,E10000032,West Sussex,153
+E07000228,Mid Sussex,E10000032,West Sussex,154
+E07000229,Worthing,E10000032,West Sussex,155
+E07000234,Bromsgrove,E10000034,Worcestershire,156
+E07000235,Malvern Hills,E10000034,Worcestershire,157
+E07000236,Redditch,E10000034,Worcestershire,158
+E07000237,Worcester,E10000034,Worcestershire,159
+E07000238,Wychavon,E10000034,Worcestershire,160
+E07000239,Wyre Forest,E10000034,Worcestershire,161
+E07000102,Three Rivers,E10000015,Hertfordshire,175
+E07000103,Watford,E10000015,Hertfordshire,176
+E07000240,St Albans,E10000015,Hertfordshire,177
+E07000241,Welwyn Hatfield,E10000015,Hertfordshire,178
+E07000242,East Hertfordshire,E10000015,Hertfordshire,179
+E07000243,Stevenage,E10000015,Hertfordshire,180
+E07000105,Ashford,E10000016,Kent,181
+E07000106,Canterbury,E10000016,Kent,182
+E07000107,Dartford,E10000016,Kent,183
+E07000108,Dover,E10000016,Kent,184
+E07000109,Gravesham,E10000016,Kent,185
+E07000110,Maidstone,E10000016,Kent,186
+E07000111,Sevenoaks,E10000016,Kent,187
+E07000112,Folkestone and Hythe,E10000016,Kent,188
+E07000113,Swale,E10000016,Kent,189
+E07000114,Thanet,E10000016,Kent,190
+E07000115,Tonbridge and Malling,E10000016,Kent,191
+E07000116,Tunbridge Wells,E10000016,Kent,192
+E07000117,Burnley,E10000017,Lancashire,193
+E07000118,Chorley,E10000017,Lancashire,194
+E07000119,Fylde,E10000017,Lancashire,195
+E07000120,Hyndburn,E10000017,Lancashire,196
+E07000121,Lancaster,E10000017,Lancashire,197
+E07000122,Pendle,E10000017,Lancashire,198
+E07000123,Preston,E10000017,Lancashire,199
+E07000124,Ribble Valley,E10000017,Lancashire,200
+E07000125,Rossendale,E10000017,Lancashire,201
+E07000126,South Ribble,E10000017,Lancashire,202
+E07000127,West Lancashire,E10000017,Lancashire,203
+E07000128,Wyre,E10000017,Lancashire,204
+E07000129,Blaby,E10000018,Leicestershire,205
+E07000130,Charnwood,E10000018,Leicestershire,206
+E07000131,Harborough,E10000018,Leicestershire,207
+E07000132,Hinckley and Bosworth,E10000018,Leicestershire,208
+E07000133,Melton,E10000018,Leicestershire,209
+E07000134,North West Leicestershire,E10000018,Leicestershire,210
+E07000135,Oadby and Wigston,E10000018,Leicestershire,211
+E07000136,Boston,E10000019,Lincolnshire,212
+E07000137,East Lindsey,E10000019,Lincolnshire,213
+E07000138,Lincoln,E10000019,Lincolnshire,214
+E07000139,North Kesteven,E10000019,Lincolnshire,215
+E07000140,South Holland,E10000019,Lincolnshire,216
+E07000141,South Kesteven,E10000019,Lincolnshire,217
+E07000142,West Lindsey,E10000019,Lincolnshire,218
+E07000143,Breckland,E10000020,Norfolk,219
+E07000144,Broadland,E10000020,Norfolk,220
+E07000145,Great Yarmouth,E10000020,Norfolk,221
+E07000146,King's Lynn and West Norfolk,E10000020,Norfolk,222
+E07000147,North Norfolk,E10000020,Norfolk,223
+E07000148,Norwich,E10000020,Norfolk,224
+E07000149,South Norfolk,E10000020,Norfolk,225
+E07000170,Ashfield,E10000024,Nottinghamshire,226
+E07000171,Bassetlaw,E10000024,Nottinghamshire,227
+E07000172,Broxtowe,E10000024,Nottinghamshire,228
+E07000173,Gedling,E10000024,Nottinghamshire,229
+E07000174,Mansfield,E10000024,Nottinghamshire,230
+E07000175,Newark and Sherwood,E10000024,Nottinghamshire,231
+E07000176,Rushcliffe,E10000024,Nottinghamshire,232
+E07000177,Cherwell,E10000025,Oxfordshire,233

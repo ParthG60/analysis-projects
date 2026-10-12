@@ -1,0 +1,289 @@
+ons_code,council,is_s114,s114_year,s114_details,is_efs,efs_amount_gbp_m,efs_details,is_audit_delayed,distress_status,severity
+E07000223,Adur,False,,,False,,,False,Stable,0
+E07000224,Arun,False,,,False,,,False,Stable,0
+E07000170,Ashfield,False,,,False,,,False,Stable,0
+E07000105,Ashford,False,,,False,,,False,Stable,0
+E07000200,Babergh,False,,,False,,,False,Stable,0
+E09000002,Barking and Dagenham,False,,,False,,,False,Stable,0
+E09000003,Barnet,False,,,False,,,False,Stable,0
+E08000016,Barnsley,False,,,False,,,False,Stable,0
+E07000084,Basingstoke and Deane,False,,,False,,,False,Stable,0
+E07000171,Bassetlaw,False,,,False,,,False,Stable,0
+E08000025,Birmingham,True,2023.0,Section 114 notice issued (Sept 2023) over £760m equal pay liability & Oracle IT implementation deficit.,True,1250.0,£1.25bn Exceptional Financial Support granted by MHCLG (2024-26) to manage equal pay liabilities and budget deficit.,True,Critical (Section 114),3
+E07000129,Blaby,False,,,False,,,False,Stable,0
+E06000008,Blackburn with Darwen,False,,,False,,,False,Stable,0
+E06000009,Blackpool,False,,,False,,,False,Stable,0
+E07000033,Bolsover,False,,,False,,,False,Stable,0
+E08000001,Bolton,False,,,False,,,False,Stable,0
+E07000136,Boston,False,,,False,,,False,Stable,0
+E06000058,Bournemouth,False,,,False,,,False,Stable,0
+E06000036,Bracknell Forest,False,,,False,,,False,Stable,0
+E07000067,Braintree,False,,,False,,,False,Stable,0
+E07000143,Breckland,False,,,False,,,False,Stable,0
+E09000005,Brent,False,,,False,,,False,Stable,0
+E07000068,Brentwood,False,,,False,,,False,Stable,0
+E06000043,Brighton and Hove,False,,,False,,,False,Stable,0
+E07000234,Bromsgrove,False,,,False,,,False,Stable,0
+E07000172,Broxtowe,False,,,False,,,False,Stable,0
+E06000060,Buckinghamshire,False,,,False,,,False,Stable,0
+E08000002,Bury,False,,,False,,,False,Stable,0
+E08000033,Calderdale,False,,,False,,,False,Stable,0
+E07000008,Cambridge,False,,,False,,,False,Stable,0
+E10000003,Cambridgeshire,False,,,False,,,False,Stable,0
+E07000192,Cannock Chase,False,,,False,,,False,Stable,0
+E07000106,Canterbury,False,,,False,,,False,Stable,0
+E07000130,Charnwood,False,,,False,,,False,Stable,0
+E07000078,Cheltenham,False,,,False,,,False,Stable,0
+E07000177,Cherwell,False,,,False,,,False,Stable,0
+E06000049,Cheshire East,False,,,True,17.6,£17.6m Exceptional Financial Support granted by MHCLG (2024-25) for Special Educational Needs (SEND) deficit management.,True,High Risk (Exceptional Support),2
+E06000050,Cheshire West and Chester,False,,,False,,,False,Stable,0
+E07000034,Chesterfield,False,,,False,,,False,Stable,0
+E07000225,Chichester,False,,,False,,,False,Stable,0
+E07000118,Chorley,False,,,False,,,False,Stable,0
+E07000071,Colchester,False,,,False,,,False,Stable,0
+E06000052,Cornwall,False,,,False,,,False,Stable,0
+E07000079,Cotswold,False,,,False,,,False,Stable,0
+E06000047,County Durham,False,,,False,,,False,Stable,0
+E08000026,Coventry,False,,,False,,,False,Stable,0
+E07000226,Crawley,False,,,False,,,False,Stable,0
+E09000008,Croydon,True,2022.0,"Section 114 notices issued (Nov 2020, Nov 2022) over housing development company collapse (Brick by Brick).",True,224.0,£224m Exceptional Financial Support granted by MHCLG (2024-25) to balance revenue account.,True,Critical (Section 114),3
+E06000063,Cumberland,False,,,False,,,False,Stable,0
+E07000096,Dacorum,False,,,False,,,False,Stable,0
+E06000005,Darlington,False,,,False,,,False,Stable,0
+E07000107,Dartford,False,,,False,,,False,Stable,0
+E06000015,Derby,False,,,False,,,False,Stable,0
+E10000007,Derbyshire,False,,,False,,,False,Stable,0
+E07000035,Derbyshire Dales,False,,,False,,,False,Stable,0
+E10000008,Devon,False,,,False,,,False,Stable,0
+E08000017,Doncaster,False,,,False,,,False,Stable,0
+E06000059,Dorset,False,,,False,,,False,Stable,0
+E07000108,Dover,False,,,False,,,False,Stable,0
+E08000027,Dudley,False,,,False,,,False,Stable,0
+E09000009,Ealing,False,,,False,,,False,Stable,0
+E07000061,Eastbourne,False,,,True,6.0,£6m Exceptional Financial Support granted by MHCLG (2024-25) for temporary accommodation expenditure.,False,High Risk (Exceptional Support),2
+E07000040,East Devon,False,,,False,,,False,Stable,0
+E07000085,East Hampshire,False,,,False,,,False,Stable,0
+E07000242,East Hertfordshire,False,,,False,,,False,Stable,0
+E07000086,Eastleigh,False,,,False,,,False,Stable,0
+E07000137,East Lindsey,False,,,False,,,False,Stable,0
+E06000011,East Riding of Yorkshire,False,,,False,,,False,Stable,0
+E07000193,East Staffordshire,False,,,False,,,False,Stable,0
+E07000244,East Suffolk,False,,,False,,,False,Stable,0
+E10000011,East Sussex,False,,,False,,,False,Stable,0
+E07000207,Elmbridge,False,,,False,,,False,Stable,0
+E09000010,Enfield,False,,,False,,,False,Stable,0
+E07000072,Epping Forest,False,,,False,,,False,Stable,0
+E07000208,Epsom and Ewell,False,,,False,,,False,Stable,0
+E07000036,Erewash,False,,,False,,,False,Stable,0
+E10000012,Essex,False,,,False,,,False,Stable,0
+E07000041,Exeter,False,,,False,,,False,Stable,0
+E07000087,Fareham,False,,,False,,,False,Stable,0
+E07000010,Fenland,False,,,False,,,False,Stable,0
+E07000112,Folkestone and Hythe,False,,,False,,,False,Stable,0
+E07000080,Forest of Dean,False,,,False,,,False,Stable,0
+E07000119,Fylde,False,,,False,,,False,Stable,0
+E08000037,Gateshead,False,,,False,,,False,Stable,0
+E07000173,Gedling,False,,,False,,,False,Stable,0
+E10000013,Gloucestershire,False,,,False,,,False,Stable,0
+E07000088,Gosport,False,,,False,,,False,Stable,0
+E07000109,Gravesham,False,,,False,,,False,Stable,0
+E07000145,Great Yarmouth,False,,,False,,,False,Stable,0
+E07000209,Guildford,False,,,False,,,False,Stable,0
+E09000012,Hackney,False,,,False,,,False,Stable,0
+E06000006,Halton,False,,,False,,,False,Stable,0
+E09000013,Hammersmith and Fulham,False,,,False,,,False,Stable,0
+E10000014,Hampshire,False,,,False,,,False,Stable,0
+E07000131,Harborough,False,,,False,,,False,Stable,0
+E09000014,Haringey,False,,,False,,,False,Stable,0
+E07000073,Harlow,False,,,False,,,False,Stable,0
+E09000015,Harrow,False,,,False,,,False,Stable,0
+E07000089,Hart,False,,,False,,,False,Stable,0
+E07000062,Hastings,False,,,False,,,False,Stable,0
+E07000090,Havant,False,,,False,,,False,Stable,0
+E09000016,Havering,False,,,True,54.0,£54m Exceptional Financial Support granted by MHCLG (2024-25) for acute temporary accommodation & social care pressures.,True,High Risk (Exceptional Support),2
+E06000019,Herefordshire,False,,,False,,,False,Stable,0
+E10000015,Hertfordshire,False,,,False,,,False,Stable,0
+E07000098,Hertsmere,False,,,False,,,False,Stable,0
+E07000037,High Peak,False,,,False,,,False,Stable,0
+E07000132,Hinckley and Bosworth,False,,,False,,,False,Stable,0
+E07000227,Horsham,False,,,False,,,False,Stable,0
+E09000018,Hounslow,False,,,False,,,False,Stable,0
+E07000011,Huntingdonshire,False,,,False,,,False,Stable,0
+E07000120,Hyndburn,False,,,False,,,False,Stable,0
+E07000202,Ipswich,False,,,False,,,False,Stable,0
+E06000046,Isle of Wight,False,,,False,,,False,Stable,0
+E09000019,Islington,False,,,False,,,False,Stable,0
+E07000146,King's Lynn and West Norfolk,False,,,False,,,False,Stable,0
+E06000010,"Kingston upon Hull, City of",False,,,False,,,False,Stable,0
+E09000021,Kingston upon Thames,False,,,False,,,False,Stable,0
+E08000034,Kirklees,False,,,False,,,False,Stable,0
+E08000011,Knowsley,False,,,False,,,False,Stable,0
+E09000022,Lambeth,False,,,False,,,False,Stable,0
+E07000121,Lancaster,False,,,False,,,False,Stable,0
+E06000016,Leicester,False,,,False,,,False,Stable,0
+E10000018,Leicestershire,False,,,False,,,False,Stable,0
+E07000063,Lewes,False,,,False,,,False,Stable,0
+E09000023,Lewisham,False,,,False,,,False,Stable,0
+E07000194,Lichfield,False,,,False,,,False,Stable,0
+E07000138,Lincoln,False,,,False,,,False,Stable,0
+E10000019,Lincolnshire,False,,,False,,,False,Stable,0
+E08000012,Liverpool,False,,,False,,,False,Stable,0
+E06000032,Luton,False,,,False,,,False,Stable,0
+E07000074,Maldon,False,,,False,,,False,Stable,0
+E07000235,Malvern Hills,False,,,False,,,False,Stable,0
+E07000174,Mansfield,False,,,False,,,False,Stable,0
+E06000035,Medway,False,,,True,14.7,£14.7m Exceptional Financial Support granted by MHCLG (2024-25) for children's social care stabilization.,False,High Risk (Exceptional Support),2
+E07000133,Melton,False,,,False,,,False,Stable,0
+E09000024,Merton,False,,,False,,,False,Stable,0
+E07000042,Mid Devon,False,,,False,,,False,Stable,0
+E06000002,Middlesbrough,False,,,True,13.4,£13.4m Exceptional Financial Support granted by MHCLG (2024-25) for budget stabilization and asset sales.,True,High Risk (Exceptional Support),2
+E07000228,Mid Sussex,False,,,False,,,False,Stable,0
+E06000042,Milton Keynes,False,,,False,,,False,Stable,0
+E07000210,Mole Valley,False,,,False,,,False,Stable,0
+E07000175,Newark and Sherwood,False,,,False,,,False,Stable,0
+E07000195,Newcastle-under-Lyme,False,,,False,,,False,Stable,0
+E08000021,Newcastle upon Tyne,False,,,False,,,False,Stable,0
+E07000091,New Forest,False,,,False,,,False,Stable,0
+E10000020,Norfolk,False,,,False,,,False,Stable,0
+E07000043,North Devon,False,,,False,,,False,Stable,0
+E07000038,North East Derbyshire,False,,,False,,,False,Stable,0
+E06000012,North East Lincolnshire,False,,,False,,,False,Stable,0
+E07000099,North Hertfordshire,False,,,False,,,False,Stable,0
+E07000139,North Kesteven,False,,,False,,,False,Stable,0
+E06000013,North Lincolnshire,False,,,False,,,False,Stable,0
+E07000147,North Norfolk,False,,,False,,,False,Stable,0
+E06000061,North Northamptonshire,False,,,True,10.4,£10.4m Exceptional Financial Support granted by MHCLG (2024-25) for legacy county deficit transformation.,False,High Risk (Exceptional Support),2
+E06000024,North Somerset,False,,,False,,,False,Stable,0
+E08000022,North Tyneside,False,,,False,,,False,Stable,0
+E06000057,Northumberland,True,2022.0,Section 114 notice issued (May 2022) over unlawful international business allowance payments.,False,,,False,Critical (Section 114),3
+E07000134,North West Leicestershire,False,,,False,,,False,Stable,0
+E06000065,North Yorkshire,False,,,False,,,False,Stable,0
+E07000148,Norwich,False,,,False,,,False,Stable,0
+E06000018,Nottingham,True,2023.0,Section 114 notice issued (Nov 2023) over £23m in-year budget deficit following Robin Hood Energy collapse.,True,66.0,£66m Exceptional Financial Support granted by MHCLG (2024-25) alongside commissioners intervention.,True,Critical (Section 114),3
+E10000024,Nottinghamshire,False,,,False,,,False,Stable,0
+E07000135,Oadby and Wigston,False,,,False,,,False,Stable,0
+E08000004,Oldham,False,,,False,,,False,Stable,0
+E10000025,Oxfordshire,False,,,False,,,False,Stable,0
+E06000031,Peterborough,False,,,False,,,False,Stable,0
+E06000026,Plymouth,False,,,True,10.9,£10.9m Exceptional Financial Support granted by MHCLG (2024-25) for capitalisation of pension strain & restructuring.,False,High Risk (Exceptional Support),2
+E06000044,Portsmouth,False,,,False,,,False,Stable,0
+E07000123,Preston,False,,,False,,,False,Stable,0
+E07000236,Redditch,False,,,False,,,False,Stable,0
+E07000211,Reigate and Banstead,False,,,False,,,False,Stable,0
+E07000124,Ribble Valley,False,,,False,,,False,Stable,0
+E08000005,Rochdale,False,,,False,,,False,Stable,0
+E07000075,Rochford,False,,,False,,,False,Stable,0
+E07000064,Rother,False,,,False,,,False,Stable,0
+E08000018,Rotherham,False,,,False,,,False,Stable,0
+E07000220,Rugby,False,,,False,,,False,Stable,0
+E07000212,Runnymede,False,,,False,,,False,Stable,0
+E07000176,Rushcliffe,False,,,False,,,False,Stable,0
+E07000092,Rushmoor,False,,,False,,,False,Stable,0
+E06000017,Rutland,False,,,False,,,False,Stable,0
+E08000006,Salford,False,,,False,,,False,Stable,0
+E08000028,Sandwell,False,,,False,,,False,Stable,0
+E08000014,Sefton,False,,,False,,,False,Stable,0
+E07000111,Sevenoaks,False,,,False,,,False,Stable,0
+E06000051,Shropshire,False,,,False,,,False,Stable,0
+E06000039,Slough,True,2021.0,Section 114 notice issued (July 2021) following £100m accounting black hole and governance breakdown.,True,360.0,£360m Exceptional Financial Support granted by MHCLG (2024-25) with asset sales plan.,True,Critical (Section 114),3
+E08000029,Solihull,False,,,False,,,False,Stable,0
+E06000045,Southampton,False,,,True,121.6,£121.6m Exceptional Financial Support granted by MHCLG (2024-25) to avoid s114 notice and bridge budget gap.,True,High Risk (Exceptional Support),2
+E07000012,South Cambridgeshire,False,,,False,,,False,Stable,0
+E07000039,South Derbyshire,False,,,False,,,False,Stable,0
+E06000033,Southend-on-Sea,False,,,False,,,False,Stable,0
+E06000025,South Gloucestershire,False,,,False,,,False,Stable,0
+E07000044,South Hams,False,,,False,,,False,Stable,0
+E07000140,South Holland,False,,,False,,,False,Stable,0
+E07000141,South Kesteven,False,,,False,,,False,Stable,0
+E07000149,South Norfolk,False,,,False,,,False,Stable,0
+E07000179,South Oxfordshire,False,,,False,,,False,Stable,0
+E07000126,South Ribble,False,,,False,,,False,Stable,0
+E07000196,South Staffordshire,False,,,False,,,False,Stable,0
+E08000023,South Tyneside,False,,,False,,,False,Stable,0
+E09000028,Southwark,False,,,False,,,False,Stable,0
+E07000213,Spelthorne,False,,,False,,,False,Stable,0
+E07000197,Stafford,False,,,False,,,False,Stable,0
+E10000028,Staffordshire,False,,,False,,,False,Stable,0
+E07000198,Staffordshire Moorlands,False,,,False,,,False,Stable,0
+E07000240,St Albans,False,,,False,,,False,Stable,0
+E07000243,Stevenage,False,,,False,,,False,Stable,0
+E08000013,St. Helens,False,,,False,,,False,Stable,0
+E08000007,Stockport,False,,,False,,,False,Stable,0
+E06000021,Stoke-on-Trent,False,,,True,42.2,£42.2m Exceptional Financial Support granted by MHCLG (2024-25) for children's social care pressures.,True,High Risk (Exceptional Support),2
+E07000221,Stratford-on-Avon,False,,,False,,,False,Stable,0
+E07000082,Stroud,False,,,False,,,False,Stable,0
+E10000029,Suffolk,False,,,False,,,False,Stable,0
+E08000024,Sunderland,False,,,False,,,False,Stable,0
+E10000030,Surrey,False,,,False,,,False,Stable,0
+E07000214,Surrey Heath,False,,,False,,,False,Stable,0
+E09000029,Sutton,False,,,False,,,False,Stable,0
+E07000113,Swale,False,,,False,,,False,Stable,0
+E08000008,Tameside,False,,,False,,,False,Stable,0
+E07000199,Tamworth,False,,,False,,,False,Stable,0
+E07000215,Tandridge,True,2023.0,Section 114 notice issued (June 2023) over £1.2bn commercial property debt & investment deficit.,True,331.0,£331m Exceptional Financial Support granted by MHCLG (2024-25) as part of debt-reduction programme.,True,Critical (Section 114),3
+E07000045,Teignbridge,False,,,False,,,False,Stable,0
+E06000020,Telford and Wrekin,False,,,False,,,False,Stable,0
+E07000076,Tendring,False,,,False,,,False,Stable,0
+E07000093,Test Valley,False,,,False,,,False,Stable,0
+E07000083,Tewkesbury,False,,,False,,,False,Stable,0
+E07000114,Thanet,False,,,False,,,False,Stable,0
+E07000102,Three Rivers,False,,,False,,,False,Stable,0
+E06000034,Thurrock,True,2022.0,Section 114 notice issued (Dec 2022) following £500m catastrophic losses on solar farm investments.,True,686.0,£686m Exceptional Financial Support granted by MHCLG (2024-25) to finance investment write-downs.,True,Critical (Section 114),3
+E07000115,Tonbridge and Malling,False,,,False,,,False,Stable,0
+E06000027,Torbay,False,,,False,,,False,Stable,0
+E07000046,Torridge,False,,,False,,,False,Stable,0
+E08000009,Trafford,False,,,False,,,False,Stable,0
+E07000116,Tunbridge Wells,False,,,False,,,False,Stable,0
+E07000077,Uttlesford,False,,,False,,,False,Stable,0
+E07000180,Vale of White Horse,False,,,False,,,False,Stable,0
+E08000030,Walsall,False,,,False,,,False,Stable,0
+E09000032,Wandsworth,False,,,False,,,False,Stable,0
+E06000007,Warrington,False,,,False,,,False,Stable,0
+E07000222,Warwick,False,,,False,,,False,Stable,0
+E10000031,Warwickshire,False,,,False,,,False,Stable,0
+E07000103,Watford,False,,,False,,,False,Stable,0
+E07000216,Waverley,False,,,False,,,False,Stable,0
+E07000241,Welwyn Hatfield,False,,,False,,,False,Stable,0
+E07000047,West Devon,False,,,False,,,False,Stable,0
+E07000127,West Lancashire,False,,,False,,,False,Stable,0
+E07000142,West Lindsey,False,,,False,,,False,Stable,0
+E09000033,Westminster,False,,,False,,,False,Stable,0
+E06000064,Westmorland and Furness,False,,,True,41.2,£41.2m Exceptional Financial Support granted by MHCLG (2024-25) for legacy council reorganisation costs.,True,High Risk (Exceptional Support),2
+E06000062,West Northamptonshire,False,,,True,6.6,£6.6m Exceptional Financial Support granted by MHCLG (2024-25) for children's trust legacy costs.,False,High Risk (Exceptional Support),2
+E07000181,West Oxfordshire,False,,,False,,,False,Stable,0
+E07000245,West Suffolk,False,,,False,,,False,Stable,0
+E10000032,West Sussex,False,,,False,,,False,Stable,0
+E06000054,Wiltshire,False,,,False,,,False,Stable,0
+E07000094,Winchester,False,,,False,,,False,Stable,0
+E06000040,Windsor and Maidenhead,False,,,False,,,False,Stable,0
+E08000015,Wirral,False,,,False,,,False,Stable,0
+E07000217,Woking,False,,,False,,,False,Stable,0
+E06000041,Wokingham,False,,,False,,,False,Stable,0
+E08000031,Wolverhampton,False,,,False,,,False,Stable,0
+E07000237,Worcester,False,,,False,,,False,Stable,0
+E10000034,Worcestershire,False,,,False,,,False,Stable,0
+E07000229,Worthing,False,,,False,,,False,Stable,0
+E07000238,Wychavon,False,,,False,,,False,Stable,0
+E07000128,Wyre,False,,,False,,,False,Stable,0
+E07000239,Wyre Forest,False,,,False,,,False,Stable,0
+E08000032,Bradford,False,,,True,220.0,£220m Exceptional Financial Support granted by MHCLG (2024-25) to prevent s114 issuance amid Children's Services pressures.,True,High Risk (Exceptional Support),2
+E06000023,Bristol,False,,,False,,,False,Stable,0
+E08000019,Sheffield,False,,,False,,,False,Stable,0
+E10000016,Kent,False,,,False,,,False,Stable,0
+E09000006,Bromley,False,,,False,,,False,Stable,0
+E06000022,Bath and North East Somerset,False,,,False,,,False,Stable,0
+E07000203,Mid Suffolk,False,,,False,,,False,Stable,0
+E09000030,Tower Hamlets,False,,,False,,,False,Stable,0
+E10000017,Lancashire,False,,,False,,,False,Stable,0
+E08000035,Leeds,False,,,False,,,False,Stable,0
+E08000003,Manchester,False,,,False,,,False,Stable,0
+E09000007,Camden,False,,,False,,,False,Stable,0
+E09000004,Bexley,False,,,False,,,False,Stable,0
+E09000017,Hillingdon,False,,,False,,,False,Stable,0
+E06000066,Somerset,False,,,True,76.9,£76.9m Exceptional Financial Support granted by MHCLG (2024-25) following unitary transition and adult social care costs.,True,High Risk (Exceptional Support),2
+E09000020,Kensington and Chelsea,False,,,False,,,False,Stable,0
+E09000011,Greenwich,False,,,False,,,False,Stable,0
+E09000025,Newham,False,,,False,,,False,Stable,0
+E09000026,Redbridge,False,,,False,,,False,Stable,0
+E09000027,Richmond upon Thames,False,,,False,,,False,Stable,0
+E09000031,Waltham Forest,False,,,False,,,False,Stable,0

@@ -1,0 +1,419 @@
+ons_code,authority_name,class,total_borrowing_gbp_m
+E07000223,Adur,SD,179.3
+E07000032,Amber Valley,SD,0.0
+E07000224,Arun,SD,35.5
+E07000170,Ashfield,SD,77.3
+E07000105,Ashford,SD,286.2
+E23000036,Avon & Somerset Police and Crime Commissioner and Chief Constable,OTHER,39.3
+E31000001,Avon Combined Fire and Rescue Authority,OTHER,7.0
+E07000200,Babergh,SD,119.3
+E09000002,Barking & Dagenham,OLB,1587.0
+E09000003,Barnet,OLB,1338.8
+E08000016,Barnsley,MD,560.5
+E07000066,Basildon,SD,518.5
+E07000084,Basingstoke & Deane,SD,0.1
+E07000171,Bassetlaw,SD,92.2
+E06000022,Bath & North East Somerset,UNIT,296.0
+E06000055,Bedford,UNIT,121.7
+E31000002,Bedfordshire Combined Fire Authority,OTHER,10.0
+E23000026,Bedfordshire Police and Crime Commissioner and Chief Constable,OTHER,47.7
+E31000003,Berkshire Combined Fire Authority,OTHER,8.5
+E09000004,Bexley,OLB,245.6
+E08000025,Birmingham,MD,3486.1
+E07000129,Blaby,SD,4.0
+E06000008,Blackburn with Darwen,UNIT,108.3
+E06000009,Blackpool,UNIT,605.7
+E07000033,Bolsover,SD,79.0
+E08000001,Bolton,MD,148.0
+E07000136,Boston,SD,1.0
+E06000058,"Bournemouth, Christchurch & Poole",UNIT,455.9
+E06000036,Bracknell Forest,UNIT,120.0
+E08000032,Bradford,MD,697.0
+E07000067,Braintree,SD,4.4
+E07000143,Breckland,SD,0.0
+E09000005,Brent,OLB,1073.6
+E07000068,Brentwood,SD,197.0
+E06000043,Brighton & Hove,UNIT,555.4
+E06000023,Bristol,UNIT,662.5
+E07000144,Broadland,SD,0.0
+E09000006,Bromley,OLB,0.0
+E07000234,Bromsgrove,SD,10.0
+E07000095,Broxbourne,SD,51.6
+E07000172,Broxtowe,SD,117.0
+E31000004,Buckinghamshire & Milton Keynes Combined Fire Authority,OTHER,4.5
+E06000060,Buckinghamshire UA,UNIT,268.8
+E07000117,Burnley,SD,62.7
+E08000002,Bury,MD,361.2
+E08000033,Calderdale,MD,200.4
+E07000008,Cambridge,SD,298.6
+E10000003,Cambridgeshire,SC,867.8
+E47000008,Cambridgeshire and Peterborough Combined Authority,OTHER,0.0
+E31000005,Cambridgeshire Combined Fire Authority,OTHER,5.7
+E23000023,Cambridgeshire Police and Crime Commissioner and Chief Constable,OTHER,40.2
+E09000007,Camden,ILB,294.3
+E07000192,Cannock Chase,SD,77.2
+E07000106,Canterbury,SD,158.7
+E07000069,Castle Point,SD,31.1
+E06000056,Central Bedfordshire,UNIT,820.9
+E07000130,Charnwood,SD,76.2
+E07000070,Chelmsford,SD,7.2
+E07000078,Cheltenham,SD,215.9
+E07000177,Cherwell,SD,154.0
+E47000019,Cheshire & Warrington Combined Authority,CA,0.0
+E31000006,Cheshire Combined Fire Authority,OTHER,11.0
+E06000049,Cheshire East,UNIT,460.0
+E23000006,Cheshire Police and Crime Commissioner and Chief Constable,OTHER,26.9
+E06000050,Cheshire West & Chester,UNIT,232.8
+E07000034,Chesterfield,SD,135.6
+E07000225,Chichester,SD,0.0
+E07000118,Chorley,SD,72.6
+E09000001,City of London,OTHER,0.0
+E31000007,Cleveland Combined Fire Authority,OTHER,8.6
+E23000013,Cleveland Police and Crime Commissioner and Chief Constable,OTHER,18.0
+E07000071,Colchester,SD,207.9
+E06000052,Cornwall,UNIT,1626.1
+E07000079,Cotswold,SD,0.0
+E08000026,Coventry,MD,227.1
+E07000226,Crawley,SD,197.8
+E09000008,Croydon,OLB,1635.9
+E06000063,Cumberland Council,UA,271.5
+E47000020,Cumbria Combined Authority,CA,0.0
+E31000009,Cumbria Fire and Rescue Service,OTHER,7.5
+E23000002,Cumbria Police and Crime Commissioner and Chief Constable,OTHER,0.0
+E07000096,Dacorum,SD,326.4
+E06000005,Darlington,UNIT,167.6
+E07000107,Dartford,SD,23.3
+E26000001,Dartmoor National Park Authority,OTHER,0.0
+E06000015,Derby,UNIT,656.1
+E10000007,Derbyshire,SC,338.4
+E31000010,Derbyshire Combined Fire Authority,OTHER,3.6
+E07000035,Derbyshire Dales,SD,5.5
+E23000018,Derbyshire Police and Crime Commissioner and Chief Constable,OTHER,47.5
+E10000008,Devon,SC,528.3
+E23000035,Devon & Cornwall Police and Crime Commissioner and Chief Constable,OTHER,28.3
+E31000011,Devon & Somerset Combined Fire Authority,OTHER,23.2
+E47000015,Devon and Torbay Combined County Authority,OTHER,0.0
+E08000017,Doncaster,MD,495.7
+E31000047,Dorset and Wiltshire Combined Fire Authority,OTHER,16.1
+E23000039,Dorset Police and Crime Commissioner and Chief Constable,OTHER,26.2
+E06000059,Dorset UA,UNIT,299.7
+E07000108,Dover,SD,126.1
+E08000027,Dudley,MD,615.7
+E06000047,Durham,UNIT,477.9
+E31000013,Durham Combined Fire Authority,OTHER,4.8
+E23000008,Durham Police and Crime Commissioner and Chief Constable,OTHER,0.0
+E09000009,Ealing,OLB,842.3
+E07000009,East Cambridgeshire,SD,0.0
+E07000040,East Devon,SD,87.4
+E07000085,East Hampshire,SD,113.7
+E07000242,East Hertfordshire,SD,43.0
+E07000137,East Lindsey,SD,0.0
+E50000001,East London Waste Authority,OTHER,0.8
+E47000013,East Midlands,OTHER,0.0
+E06000011,East Riding of Yorkshire,UNIT,367.5
+E07000193,East Staffordshire,SD,3.8
+E07000244,East Suffolk,SD,63.1
+E10000011,East Sussex,SC,198.1
+E31000014,East Sussex Combined Fire Authority,OTHER,11.2
+E07000061,Eastbourne,SD,154.7
+E07000086,Eastleigh,SD,615.5
+E07000207,Elmbridge,SD,41.3
+E09000010,Enfield,OLB,1277.6
+E07000072,Epping Forest,SD,278.3
+E07000208,Epsom & Ewell,SD,64.4
+E07000036,Erewash,SD,0.0
+E10000012,Essex,SC,467.7
+E31000015,"Essex Police, Fire and Crime Commissioner Fire and Rescue Authority",OTHER,21.5
+E23000028,"Essex Police, Fire and Crime Commissioner Police Authority",OTHER,10.0
+E07000041,Exeter,SD,171.3
+E26000002,Exmoor National Park Authority,OTHER,0.0
+E07000087,Fareham,SD,53.5
+E07000010,Fenland,SD,11.8
+E07000112,Folkestone & Hythe,SD,117.7
+E07000080,Forest of Dean,SD,0.0
+E07000119,Fylde,SD,0.0
+E08000037,Gateshead,MD,670.2
+E07000173,Gedling,SD,10.8
+E07000081,Gloucester,SD,272.7
+E10000013,Gloucestershire,SC,236.3
+E23000037,Gloucestershire Police and Crime Commissioner and Chief Constable,OTHER,32.6
+E07000088,Gosport,SD,48.1
+E07000109,Gravesham,SD,171.9
+E07000145,Great Yarmouth,SD,148.1
+E47000017,Greater Lincolnshire Combined County Authority,OTHER,0.0
+E12000007,Greater London Authority,GLA,4634.4
+E47000001,Greater Manchester Combined Authority,OTHER,1221.5
+E09000011,Greenwich,ILB,867.6
+E07000209,Guildford,SD,337.5
+E09000012,Hackney,ILB,346.7
+E06000006,Halton,UNIT,240.0
+E09000013,Hammersmith & Fulham,ILB,524.0
+E10000014,Hampshire,SC,178.9
+E31000048,Hampshire and Isle of Wight Fire and Rescue Authority,OTHER,27.4
+E47000022,Hampshire and Solent Combined County Authority,CA,0.0
+E23000030,Hampshire Police and Crime Commissioner and Chief Constable,OTHER,19.0
+E07000131,Harborough,SD,1.5
+E09000014,Haringey,OLB,1170.4
+E07000073,Harlow,SD,355.3
+E09000015,Harrow,OLB,455.2
+E07000089,Hart,SD,13.6
+E06000001,Hartlepool,UNIT,81.3
+E07000062,Hastings,SD,62.2
+E07000090,Havant,SD,7.7
+E09000016,Havering,OLB,630.9
+E31000018,Hereford & Worcester Combined Fire Authority,OTHER,8.5
+E06000019,Herefordshire,UNIT,184.7
+E10000015,Hertfordshire,SC,654.5
+E23000027,Hertfordshire Police and Crime Commissioner and Chief Constable,OTHER,111.7
+E07000098,Hertsmere,SD,0.0
+E07000037,High Peak,SD,74.3
+E09000017,Hillingdon,OLB,637.3
+E07000132,Hinckley & Bosworth,SD,82.7
+E07000227,Horsham,SD,0.0
+E09000018,Hounslow,OLB,624.1
+E47000016,Hull and East Yorkshire Combined County Authority,OTHER,0.0
+E31000020,Humberside Combined Fire Authority,OTHER,15.0
+E23000012,Humberside Police and Crime Commissioner and Chief Constable,OTHER,115.8
+E07000011,Huntingdonshire,SD,34.3
+E07000120,Hyndburn,SD,9.5
+E07000202,Ipswich,SD,246.7
+E06000046,Isle of Wight,UNIT,173.4
+E06000053,Isles of Scilly,UNIT,3.8
+E09000019,Islington,ILB,443.6
+E09000020,Kensington & Chelsea,ILB,675.4
+E10000016,Kent,SC,607.8
+E31000022,Kent Combined Fire Authority,OTHER,0.0
+E23000032,Kent Police and Crime Commissioner and Chief Constable,OTHER,39.0
+E07000146,King's Lynn & West Norfolk,SD,42.0
+E06000010,Kingston upon Hull,UNIT,923.4
+E09000021,Kingston upon Thames,OLB,379.0
+E08000034,Kirklees,MD,836.0
+E08000011,Knowsley,MD,122.2
+E26000011,Lake District National Park,OTHER,0.0
+E09000022,Lambeth,ILB,1127.7
+E10000017,Lancashire,SC,965.8
+E47000018,Lancashire Combined County Authority,OTHER,0.0
+E31000023,Lancashire Combined Fire Authority,OTHER,2.0
+E23000003,Lancashire Police and Crime Commissioner and Chief Constable,OTHER,136.4
+E07000121,Lancaster,SD,55.9
+E08000035,Leeds,MD,2660.4
+E06000016,Leicester,UNIT,240.8
+E10000018,Leicestershire,SC,110.5
+E31000024,Leicestershire Combined Fire Authority,OTHER,7.5
+E23000021,Leicestershire Police and Crime Commissioner and Chief Constable,OTHER,13.4
+E07000063,Lewes,SD,93.7
+E09000023,Lewisham,ILB,182.9
+E07000194,Lichfield,SD,0.9
+E07000138,Lincoln,SD,118.1
+E10000019,Lincolnshire,SC,437.4
+E23000020,Lincolnshire Police and Crime Commissioner and Chief Constable,OTHER,24.6
+E08000012,Liverpool,MD,955.7
+E47000004,Liverpool City Region Combined Authority,OTHER,261.6
+E31000046,London Fire Commissioner,OTHER,38.2
+E51000009,London Legacy Development Corporation,GLA,531.5
+E06000032,Luton,UNIT,819.1
+E07000110,Maidstone,SD,85.0
+E07000074,Maldon,SD,0.0
+E07000235,Malvern Hills,SD,0.0
+E08000003,Manchester,MD,1802.2
+E07000174,Mansfield,SD,100.2
+E23000001,Mayor's Office for Policing and Crime and Metropolis Police,GLA,866.8
+E06000035,Medway Towns,UNIT,746.5
+E07000133,Melton,SD,29.3
+E31000041,Merseyside Fire and Rescue Authority,OTHER,33.7
+E23000004,Merseyside Police and Crime Commissioner and Chief Constable,OTHER,140.6
+E50000006,Merseyside Recycling and Waste Authority,OTHER,36.0
+E09000024,Merton,OLB,38.0
+E07000042,Mid Devon,SD,27.4
+E07000203,Mid Suffolk,SD,102.2
+E07000228,Mid Sussex,SD,0.0
+E06000002,Middlesbrough,UNIT,283.6
+E06000042,Milton Keynes,UNIT,365.0
+E07000210,Mole Valley,SD,57.4
+E07000091,New Forest,SD,124.6
+E26000009,New Forest National Park,OTHER,0.0
+E07000175,Newark & Sherwood,SD,104.9
+E08000021,Newcastle upon Tyne,MD,579.7
+E07000195,Newcastle-under-Lyme,SD,10.0
+E09000025,Newham,OLB,1560.2
+E10000020,Norfolk,SC,964.2
+E23000024,Norfolk Police and Crime Commissioner and Chief Constable,OTHER,36.9
+E07000043,North Devon,SD,22.5
+E07000038,North East Derbyshire,SD,171.2
+E06000012,North East Lincolnshire,UNIT,183.4
+E47000014,North East Mayoral Combined Authority,OTHER,113.3
+E07000099,North Hertfordshire,SD,0.3
+E07000139,North Kesteven,SD,91.7
+E06000013,North Lincolnshire,UNIT,163.8
+E50000002,North London Waste Authority,OTHER,1260.0
+E07000147,North Norfolk,SD,0.0
+E06000061,North Northamptonshire,UNIT,413.2
+E06000024,North Somerset,UNIT,111.6
+E08000022,North Tyneside,MD,508.4
+E07000218,North Warwickshire,SD,41.4
+E07000134,North West Leicestershire,SD,53.8
+E26000005,North York Moors National Park Authority,OTHER,0.0
+E06000065,North Yorkshire UA,UA,519.8
+E31000028,"Northamptonshire Police, Fire and Crime Commissioner Fire and Rescue Authority",OTHER,2.9
+E23000022,"Northamptonshire Police, Fire and Crime Commissioner Police Authority",OTHER,22.2
+E06000057,Northumberland,UNIT,898.0
+E26000004,Northumberland National Park Authority,OTHER,0.2
+E23000007,Northumbria Police and Crime Commissioner and Chief Constable,OTHER,97.0
+E07000148,Norwich,SD,146.0
+E06000018,Nottingham,UNIT,408.0
+E10000024,Nottinghamshire,SC,426.1
+E31000030,Nottinghamshire Fire & Rescue Service,OTHER,29.9
+E23000019,Nottinghamshire Police and Crime Commissioner and Chief Constable,OTHER,57.9
+E07000219,Nuneaton & Bedworth,SD,73.2
+E07000135,Oadby & Wigston,SD,31.7
+E08000004,Oldham,MD,254.8
+E07000178,Oxford,SD,288.5
+E51000008,Oxford Street Development Corporation,GLA,0.0
+E10000025,Oxfordshire,SC,260.9
+E26000006,Peak District National Park Authority,OTHER,0.2
+E07000122,Pendle,SD,16.9
+E06000031,Peterborough,UNIT,476.8
+E06000026,Plymouth,UNIT,800.4
+E06000044,Portsmouth,UNIT,670.4
+E07000123,Preston,SD,12.3
+E06000038,Reading,UNIT,523.5
+E09000026,Redbridge,OLB,566.2
+E06000003,Redcar & Cleveland,UNIT,252.7
+E07000236,Redditch,SD,103.9
+E07000211,Reigate & Banstead,SD,13.0
+E07000124,Ribble Valley,SD,0.0
+E09000027,Richmond upon Thames,OLB,104.0
+E08000005,Rochdale,MD,289.6
+E07000075,Rochford,SD,0.0
+E07000125,Rossendale,SD,3.0
+E07000064,Rother,SD,53.4
+E08000018,Rotherham,MD,708.9
+E07000220,Rugby,SD,82.3
+E07000212,Runnymede,SD,586.8
+E07000176,Rushcliffe,SD,0.0
+E07000092,Rushmoor,SD,127.0
+E06000017,Rutland,UNIT,14.3
+E08000006,Salford,MD,276.8
+E08000028,Sandwell,MD,487.4
+E08000014,Sefton,MD,296.9
+E07000111,Sevenoaks,SD,18.2
+E08000019,Sheffield,MD,733.9
+E06000051,Shropshire,UNIT,469.7
+E31000032,Shropshire Combined Fire Authority,OTHER,5.0
+E06000039,Slough,UNIT,468.0
+E08000029,Solihull,MD,360.1
+E06000066,Somerset UA,UA,674.2
+E07000012,South Cambridgeshire,SD,334.2
+E07000039,South Derbyshire,SD,37.5
+E26000010,South Downs National Park Authority,OTHER,0.0
+E06000025,South Gloucestershire,UNIT,131.6
+E07000044,South Hams,SD,12.9
+E07000140,South Holland,SD,50.0
+E07000141,South Kesteven,SD,76.5
+E07000149,South Norfolk,SD,20.0
+E07000179,South Oxfordshire,SD,0.0
+E07000126,South Ribble,SD,0.0
+E07000196,South Staffordshire,SD,15.0
+E08000023,South Tyneside,MD,787.1
+E31000042,South Yorkshire Fire and Rescue Authority,OTHER,28.3
+E47000002,South Yorkshire Mayoral Combined Authority,OTHER,66.0
+E06000045,Southampton,UNIT,384.3
+E06000033,Southend-on-Sea,UNIT,346.9
+E09000028,Southwark,ILB,1195.7
+E07000213,Spelthorne,SD,711.8
+E07000240,St Albans,SD,203.8
+E08000013,St Helens,MD,157.5
+E07000197,Stafford,SD,0.0
+E10000028,Staffordshire,SC,340.0
+E07000198,Staffordshire Moorlands,SD,17.1
+E31000033,"Staffordshire Police, Fire and Crime Commissioner Fire and Rescue Authority",OTHER,15.2
+E23000015,"Staffordshire Police, Fire and Crime Commissioner Police Authority",OTHER,59.6
+E07000243,Stevenage,SD,266.1
+E08000007,Stockport,MD,838.2
+E06000004,Stockton-on-Tees,UNIT,161.1
+E06000021,Stoke-on-Trent,UNIT,794.7
+E07000221,Stratford-on-Avon,SD,0.0
+E07000082,Stroud,SD,100.7
+E10000029,Suffolk,SC,758.4
+E23000025,Suffolk Police and Crime Commissioner and Chief Constable,OTHER,4.9
+E08000024,Sunderland,MD,547.4
+E10000030,Surrey,SC,1273.2
+E07000214,Surrey Heath,SD,183.1
+E23000031,Surrey Police and Crime Commissioner and Chief Constable,OTHER,12.0
+E47000021,Sussex and Brighton Combined County Authority,CA,0.0
+E23000033,Sussex Police and Crime Commissioner and Chief Constable,OTHER,11.0
+E09000029,Sutton,OLB,452.3
+E07000113,Swale,SD,17.0
+E06000030,Swindon,UNIT,448.3
+E08000008,Tameside,MD,126.3
+E07000199,Tamworth,SD,63.1
+E07000215,Tandridge,SD,101.8
+E47000006,Tees Valley Combined Authority,OTHER,433.1
+E07000045,Teignbridge,SD,0.0
+E06000020,Telford & Wrekin,UNIT,489.8
+E07000076,Tendring,SD,27.7
+E07000093,Test Valley,SD,5.8
+E07000083,Tewkesbury,SD,12.7
+E23000029,Thames Valley Police and Crime Commissioner and Chief Constable,OTHER,46.4
+E07000114,Thanet,SD,90.5
+E26000007,The Broads Authority,OTHER,0.0
+E07000102,Three Rivers,SD,8.0
+E06000034,Thurrock,UNIT,851.6
+E07000115,Tonbridge & Malling,SD,0.0
+E06000027,Torbay,UNIT,344.8
+E07000046,Torridge,SD,0.2
+E09000030,Tower Hamlets,ILB,68.7
+E08000009,Trafford,MD,402.5
+E07000116,Tunbridge Wells,SD,0.0
+E07000077,Uttlesford,SD,300.9
+E07000180,Vale of White Horse,SD,0.0
+E08000036,Wakefield,MD,340.2
+E08000030,Walsall,MD,398.6
+E09000031,Waltham Forest,OLB,535.0
+E09000032,Wandsworth,ILB,1.2
+E06000007,Warrington,UNIT,1548.7
+E07000222,Warwick,SD,296.6
+E10000031,Warwickshire,SC,236.2
+E23000017,Warwickshire Police and Crime Commissioner and Chief Constable,OTHER,16.1
+E07000103,Watford,SD,36.2
+E07000216,Waverley,SD,130.5
+E07000065,Wealden,SD,51.6
+E07000241,Welwyn Hatfield,SD,286.4
+E06000037,West Berkshire,UNIT,306.1
+E07000047,West Devon,SD,25.6
+E07000127,West Lancashire,SD,98.2
+E07000142,West Lindsey,SD,24.0
+E50000003,West London Waste Authority,OTHER,74.3
+E23000016,West Mercia Police and Crime Commissioner and Chief Constable,OTHER,89.1
+E47000007,West Midlands Combined Authority,OTHER,509.1
+E31000044,West Midlands Fire and Rescue Authority,OTHER,12.7
+E23000014,West Midlands Police and Crime Commissioner and Chief Constable,OTHER,80.3
+E06000062,West Northamptonshire,UNIT,833.1
+E47000009,West of England Combined Authority,OTHER,0.0
+E07000181,West Oxfordshire,SD,0.0
+E07000245,West Suffolk,SD,8.9
+E10000032,West Sussex,SC,473.8
+E47000003,West Yorkshire Combined Authority,OTHER,75.0
+E31000045,West Yorkshire Fire and Rescue Authority,OTHER,38.2
+E23000010,West Yorkshire Police and Crime Commissioner and Chief Constable,OTHER,67.4
+E50000004,Western Riverside Waste Authority,OTHER,0.0
+E09000033,Westminster,ILB,551.0
+E06000064,Westmorland and Furness,UA,176.3
+E08000010,Wigan,MD,439.4
+E06000054,Wiltshire,UNIT,545.0
+E23000038,Wiltshire Police and Crime Commissioner and Chief Constable,OTHER,1.7
+E07000094,Winchester,SD,159.0
+E06000040,Windsor & Maidenhead,UNIT,235.4
+E08000015,Wirral,MD,445.4
+E07000217,Woking,SD,2182.6
+E06000041,Wokingham,UNIT,213.1
+E08000031,Wolverhampton,MD,870.1
+E07000237,Worcester,SD,17.1
+E10000034,Worcestershire,SC,714.1
+E07000229,Worthing,SD,206.6
+E07000238,Wychavon,SD,0.1
+E07000128,Wyre,SD,0.0
+E07000239,Wyre Forest,SD,30.3
+E06000014,York,UNIT,342.9
+E47000012,York and North Yorkshire Combined Authority,OTHER,22.2
+E26000012,Yorkshire Dales National Park Authority,OTHER,0.0

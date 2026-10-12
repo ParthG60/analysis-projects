@@ -1,0 +1,44 @@
+id,council_id,committee_id,name,url,date,topline,cancelled,committee
+127776,103,1819,"Council - Thursday, 16th July, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1653,2026-07-16T00:00:00,,False,Council
+127169,103,1821,"Audit and Standards Committee - Tuesday, 7th July, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=138&MId=1643,2026-07-07T00:00:00,,False,Audit and Standards Committee
+125869,103,1822,"Development Control Committee - Tuesday, 30th June, 2026 6.00 pm, CANCELLED",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1660,2026-06-30T00:00:00,,True,Development Control Committee
+124864,103,1842,"Strategy and Resources Committee - Thursday, 18th June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1648,2026-06-18T00:00:00,,False,Strategy and Resources Committee
+123700,103,1824,"Environment Committee - Thursday, 11th June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=140&MId=1628,2026-06-11T00:00:00,,False,Environment Committee
+123697,103,1828,"Extraordinary, Council - Wednesday, 10th June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1677,2026-06-10T00:00:00,,False,"Extraordinary, Council"
+123690,103,1820,"Housing Committee - Tuesday, 9th June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=142&MId=1633,2026-06-09T00:00:00,,False,Housing Committee
+123113,103,1825,"Community Services and Licensing Committee - Thursday, 4th June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=139&MId=1638,2026-06-04T00:00:00,,False,Community Services and Licensing Committee
+123110,103,17275,"Extraordinary, Strategy and Resources Committee - Wednesday, 3rd June, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1678,2026-06-03T00:00:00,,False,"Extraordinary, Strategy and Resources Committee"
+123106,103,1822,"Development Control Committee - Tuesday, 2nd June, 2026 6.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1659,2026-06-02T00:00:00,,False,Development Control Committee
+121772,103,17121,"(Annual Meeting), Council - Thursday, 21st May, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1572,2026-05-21T00:00:00,,False,"(Annual Meeting), Council"
+121358,103,1822,"Development Control Committee - Tuesday, 12th May, 2026 6.00 pm, CANCELLED",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1581,2026-05-12T00:00:00,,True,Development Control Committee
+120463,103,1819,"Council - Thursday, 30th April, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1571,2026-04-30T00:00:00,,False,Council
+119899,103,1824,"Environment Committee - Thursday, 23rd April, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=140&MId=1545,2026-04-23T00:00:00,,False,Environment Committee
+118761,103,1842,"Strategy and Resources Committee - Thursday, 16th April, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1566,2026-04-16T00:00:00,,False,Strategy and Resources Committee
+117025,103,1821,"Audit and Standards Committee - Tuesday, 24th March, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=138&MId=1560,2026-03-24T00:00:00,,False,Audit and Standards Committee
+115515,103,1825,"Community Services and Licensing Committee - Thursday, 19th March, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=139&MId=1555,2026-03-19T00:00:00,,False,Community Services and Licensing Committee
+115504,103,1820,"Housing Committee - Tuesday, 17th March, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=142&MId=1550,2026-03-17T00:00:00,,False,Housing Committee
+114132,103,1822,"Development Control Committee - Tuesday, 10th March, 2026 6.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1580,2026-03-10T00:00:00,,False,Development Control Committee
+111814,103,1824,"Environment Committee - Thursday, 26th February, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=140&MId=1544,2026-02-26T00:00:00,,False,Environment Committee
+110798,103,1819,"Council - Thursday, 19th February, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1570,2026-02-19T00:00:00,,False,Council
+107065,103,1842,"Strategy and Resources Committee - Thursday, 29th January, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1565,2026-01-29T00:00:00,,False,Strategy and Resources Committee
+107997,103,1826,"Licensing Sub-Committee - Wednesday, 28th January, 2026 10.00 am",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=287&MId=1626,2026-01-28T00:00:00,,False,Licensing Sub-Committee
+107063,103,1822,"Development Control Committee - Tuesday, 27th January, 2026 6.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1579,2026-01-27T00:00:00,,False,Development Control Committee
+105228,103,1825,"Community Services and Licensing Committee - Thursday, 22nd January, 2026 7.00 pm, CANCELLED",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=139&MId=1554,2026-01-22T00:00:00,,True,Community Services and Licensing Committee
+105222,103,1821,"Audit and Standards Committee - Tuesday, 20th January, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=138&MId=1559,2026-01-20T00:00:00,,False,Audit and Standards Committee
+104413,103,1842,"Strategy and Resources Committee - Thursday, 15th January, 2026 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1615,2026-01-15T00:00:00,,False,Strategy and Resources Committee
+103127,103,1826,"Licensing Sub-Committee - Monday, 22nd December, 2025 2.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=287&MId=1622,2025-12-22T00:00:00,,False,Licensing Sub-Committee
+103126,103,1826,"Licensing Sub-Committee - Monday, 22nd December, 2025 10.00 am",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=287&MId=1621,2025-12-22T00:00:00,,False,Licensing Sub-Committee
+102729,103,1826,"Licensing Sub-Committee - Friday, 19th December, 2025 2.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=287&MId=1620,2025-12-19T00:00:00,,False,Licensing Sub-Committee
+102728,103,1826,"Licensing Sub-Committee - Friday, 19th December, 2025 10.00 am",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=287&MId=1619,2025-12-19T00:00:00,,False,Licensing Sub-Committee
+101857,103,1819,"Council - Thursday, 18th December, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1569,2025-12-18T00:00:00,,False,Council
+100955,103,1825,"Community Services and Licensing Committee - Thursday, 11th December, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=139&MId=1553,2025-12-11T00:00:00,,False,Community Services and Licensing Committee
+100465,103,1820,"Housing Committee - Tuesday, 9th December, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=142&MId=1549,2025-12-09T00:00:00,,False,Housing Committee
+98800,103,1824,"Environment Committee - Thursday, 4th December, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=140&MId=1543,2025-12-04T00:00:00,,False,Environment Committee
+98794,103,1822,"Development Control Committee - Tuesday, 2nd December, 2025 6.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1578,2025-12-02T00:00:00,,False,Development Control Committee
+96725,103,1819,"Council - Thursday, 20th November, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1597,2025-11-20T00:00:00,,False,Council
+95975,103,1842,"Strategy and Resources Committee - Thursday, 13th November, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1564,2025-11-13T00:00:00,,False,Strategy and Resources Committee
+95963,103,1821,"Audit and Standards Committee - Tuesday, 11th November, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=138&MId=1558,2025-11-11T00:00:00,,False,Audit and Standards Committee
+94637,103,1820,"Housing Committee - Tuesday, 4th November, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=142&MId=1548,2025-11-04T00:00:00,,False,Housing Committee
+92659,103,1819,"Council - Thursday, 23rd October, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=143&MId=1568,2025-10-23T00:00:00,,False,Council
+92657,103,1822,"Development Control Committee - Tuesday, 21st October, 2025 6.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=141&MId=1576,2025-10-21T00:00:00,,False,Development Control Committee
+89546,103,1842,"Strategy and Resources Committee - Thursday, 2nd October, 2025 7.00 pm",https://stroud.moderngov.co.uk/ieListDocuments.aspx?CId=137&MId=1563,2025-10-02T00:00:00,,False,Strategy and Resources Committee

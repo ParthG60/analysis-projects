@@ -1,0 +1,2891 @@
+ons_code,council,band,sex,pct
+E07000223,Adur,0-15,male,9.1
+E07000223,Adur,16-29,male,6.5
+E07000223,Adur,30-44,male,8.6
+E07000223,Adur,45-64,male,13.4
+E07000223,Adur,65+,male,10.6
+E07000223,Adur,0-15,female,8.6
+E07000223,Adur,16-29,female,5.8
+E07000223,Adur,30-44,female,9.7
+E07000223,Adur,45-64,female,14.0
+E07000223,Adur,65+,female,13.5
+E07000224,Arun,0-15,male,7.7
+E07000224,Arun,16-29,male,6.4
+E07000224,Arun,30-44,male,8.4
+E07000224,Arun,45-64,male,12.5
+E07000224,Arun,65+,male,13.1
+E07000224,Arun,0-15,female,7.3
+E07000224,Arun,16-29,female,6.2
+E07000224,Arun,30-44,female,8.8
+E07000224,Arun,45-64,female,13.6
+E07000224,Arun,65+,female,16.0
+E07000170,Ashfield,0-15,male,9.4
+E07000170,Ashfield,16-29,male,7.5
+E07000170,Ashfield,30-44,male,9.6
+E07000170,Ashfield,45-64,male,13.1
+E07000170,Ashfield,65+,male,9.3
+E07000170,Ashfield,0-15,female,8.9
+E07000170,Ashfield,16-29,female,7.4
+E07000170,Ashfield,30-44,female,10.5
+E07000170,Ashfield,45-64,female,13.5
+E07000170,Ashfield,65+,female,10.8
+E07000105,Ashford,0-15,male,9.9
+E07000105,Ashford,16-29,male,7.2
+E07000105,Ashford,30-44,male,9.6
+E07000105,Ashford,45-64,male,12.8
+E07000105,Ashford,65+,male,9.0
+E07000105,Ashford,0-15,female,9.4
+E07000105,Ashford,16-29,female,7.3
+E07000105,Ashford,30-44,female,10.6
+E07000105,Ashford,45-64,female,13.4
+E07000105,Ashford,65+,female,10.7
+E07000200,Babergh,0-15,male,8.1
+E07000200,Babergh,16-29,male,6.5
+E07000200,Babergh,30-44,male,7.9
+E07000200,Babergh,45-64,male,13.4
+E07000200,Babergh,65+,male,12.6
+E07000200,Babergh,0-15,female,7.8
+E07000200,Babergh,16-29,female,6.3
+E07000200,Babergh,30-44,female,8.7
+E07000200,Babergh,45-64,female,14.2
+E07000200,Babergh,65+,female,14.6
+E09000002,Barking and Dagenham,0-15,male,12.6
+E09000002,Barking and Dagenham,16-29,male,10.5
+E09000002,Barking and Dagenham,30-44,male,11.5
+E09000002,Barking and Dagenham,45-64,male,10.8
+E09000002,Barking and Dagenham,65+,male,3.8
+E09000002,Barking and Dagenham,0-15,female,12.0
+E09000002,Barking and Dagenham,16-29,female,9.7
+E09000002,Barking and Dagenham,30-44,female,13.0
+E09000002,Barking and Dagenham,45-64,female,11.4
+E09000002,Barking and Dagenham,65+,female,4.7
+E09000003,Barnet,0-15,male,10.4
+E09000003,Barnet,16-29,male,8.7
+E09000003,Barnet,30-44,male,10.8
+E09000003,Barnet,45-64,male,12.0
+E09000003,Barnet,65+,male,6.7
+E09000003,Barnet,0-15,female,9.6
+E09000003,Barnet,16-29,female,8.7
+E09000003,Barnet,30-44,female,11.9
+E09000003,Barnet,45-64,female,12.8
+E09000003,Barnet,65+,female,8.3
+E08000016,Barnsley,0-15,male,9.3
+E08000016,Barnsley,16-29,male,7.5
+E08000016,Barnsley,30-44,male,10.0
+E08000016,Barnsley,45-64,male,13.0
+E08000016,Barnsley,65+,male,9.4
+E08000016,Barnsley,0-15,female,8.9
+E08000016,Barnsley,16-29,female,7.4
+E08000016,Barnsley,30-44,female,10.4
+E08000016,Barnsley,45-64,female,13.4
+E08000016,Barnsley,65+,female,10.7
+E07000084,Basingstoke and Deane,0-15,male,9.7
+E07000084,Basingstoke and Deane,16-29,male,7.4
+E07000084,Basingstoke and Deane,30-44,male,10.8
+E07000084,Basingstoke and Deane,45-64,male,13.2
+E07000084,Basingstoke and Deane,65+,male,8.3
+E07000084,Basingstoke and Deane,0-15,female,9.1
+E07000084,Basingstoke and Deane,16-29,female,7.2
+E07000084,Basingstoke and Deane,30-44,female,11.4
+E07000084,Basingstoke and Deane,45-64,female,13.2
+E07000084,Basingstoke and Deane,65+,female,9.6
+E07000171,Bassetlaw,0-15,male,8.9
+E07000171,Bassetlaw,16-29,male,7.2
+E07000171,Bassetlaw,30-44,male,9.4
+E07000171,Bassetlaw,45-64,male,13.5
+E07000171,Bassetlaw,65+,male,10.5
+E07000171,Bassetlaw,0-15,female,8.5
+E07000171,Bassetlaw,16-29,female,6.7
+E07000171,Bassetlaw,30-44,female,9.5
+E07000171,Bassetlaw,45-64,female,13.8
+E07000171,Bassetlaw,65+,female,11.9
+E08000025,Birmingham,0-15,male,11.0
+E08000025,Birmingham,16-29,male,11.4
+E08000025,Birmingham,30-44,male,10.3
+E08000025,Birmingham,45-64,male,10.7
+E08000025,Birmingham,65+,male,6.0
+E08000025,Birmingham,0-15,female,10.5
+E08000025,Birmingham,16-29,female,11.1
+E08000025,Birmingham,30-44,female,10.9
+E08000025,Birmingham,45-64,female,10.9
+E08000025,Birmingham,65+,female,7.1
+E07000129,Blaby,0-15,male,9.3
+E07000129,Blaby,16-29,male,7.5
+E07000129,Blaby,30-44,male,10.6
+E07000129,Blaby,45-64,male,12.8
+E07000129,Blaby,65+,male,9.7
+E07000129,Blaby,0-15,female,8.9
+E07000129,Blaby,16-29,female,6.7
+E07000129,Blaby,30-44,female,10.5
+E07000129,Blaby,45-64,female,13.0
+E07000129,Blaby,65+,female,11.0
+E06000008,Blackburn with Darwen,0-15,male,11.5
+E06000008,Blackburn with Darwen,16-29,male,9.6
+E06000008,Blackburn with Darwen,30-44,male,10.1
+E06000008,Blackburn with Darwen,45-64,male,11.9
+E06000008,Blackburn with Darwen,65+,male,6.8
+E06000008,Blackburn with Darwen,0-15,female,11.1
+E06000008,Blackburn with Darwen,16-29,female,8.9
+E06000008,Blackburn with Darwen,30-44,female,10.8
+E06000008,Blackburn with Darwen,45-64,female,11.8
+E06000008,Blackburn with Darwen,65+,female,7.6
+E06000009,Blackpool,0-15,male,9.0
+E06000009,Blackpool,16-29,male,7.7
+E06000009,Blackpool,30-44,male,9.5
+E06000009,Blackpool,45-64,male,13.6
+E06000009,Blackpool,65+,male,9.8
+E06000009,Blackpool,0-15,female,8.6
+E06000009,Blackpool,16-29,female,7.3
+E06000009,Blackpool,30-44,female,10.0
+E06000009,Blackpool,45-64,female,13.3
+E06000009,Blackpool,65+,female,11.1
+E07000033,Bolsover,0-15,male,8.6
+E07000033,Bolsover,16-29,male,7.4
+E07000033,Bolsover,30-44,male,9.8
+E07000033,Bolsover,45-64,male,13.5
+E07000033,Bolsover,65+,male,9.7
+E07000033,Bolsover,0-15,female,8.4
+E07000033,Bolsover,16-29,female,7.8
+E07000033,Bolsover,30-44,female,10.0
+E07000033,Bolsover,45-64,female,13.9
+E07000033,Bolsover,65+,female,11.0
+E08000001,Bolton,0-15,male,10.9
+E08000001,Bolton,16-29,male,8.8
+E08000001,Bolton,30-44,male,9.9
+E08000001,Bolton,45-64,male,12.0
+E08000001,Bolton,65+,male,7.9
+E08000001,Bolton,0-15,female,10.5
+E08000001,Bolton,16-29,female,8.1
+E08000001,Bolton,30-44,female,10.7
+E08000001,Bolton,45-64,female,12.0
+E08000001,Bolton,65+,female,9.1
+E07000136,Boston,0-15,male,9.6
+E07000136,Boston,16-29,male,7.6
+E07000136,Boston,30-44,male,10.1
+E07000136,Boston,45-64,male,12.7
+E07000136,Boston,65+,male,9.8
+E07000136,Boston,0-15,female,9.0
+E07000136,Boston,16-29,female,6.8
+E07000136,Boston,30-44,female,9.9
+E07000136,Boston,45-64,female,13.4
+E07000136,Boston,65+,female,11.1
+E06000058,Bournemouth,0-15,male,8.2
+E06000058,Bournemouth,16-29,male,8.6
+E06000058,Bournemouth,30-44,male,9.6
+E06000058,Bournemouth,45-64,male,12.5
+E06000058,Bournemouth,65+,male,10.0
+E06000058,Bournemouth,0-15,female,7.8
+E06000058,Bournemouth,16-29,female,8.7
+E06000058,Bournemouth,30-44,female,10.1
+E06000058,Bournemouth,45-64,female,12.7
+E06000058,Bournemouth,65+,female,11.9
+E06000036,Bracknell Forest,0-15,male,10.1
+E06000036,Bracknell Forest,16-29,male,7.9
+E06000036,Bracknell Forest,30-44,male,11.0
+E06000036,Bracknell Forest,45-64,male,12.8
+E06000036,Bracknell Forest,65+,male,7.4
+E06000036,Bracknell Forest,0-15,female,9.5
+E06000036,Bracknell Forest,16-29,female,7.4
+E06000036,Bracknell Forest,30-44,female,12.0
+E06000036,Bracknell Forest,45-64,female,13.3
+E06000036,Bracknell Forest,65+,female,8.7
+E07000067,Braintree,0-15,male,9.4
+E07000067,Braintree,16-29,male,7.2
+E07000067,Braintree,30-44,male,9.6
+E07000067,Braintree,45-64,male,13.0
+E07000067,Braintree,65+,male,9.6
+E07000067,Braintree,0-15,female,8.8
+E07000067,Braintree,16-29,female,7.0
+E07000067,Braintree,30-44,female,10.4
+E07000067,Braintree,45-64,female,13.6
+E07000067,Braintree,65+,female,11.3
+E07000143,Breckland,0-15,male,8.3
+E07000143,Breckland,16-29,male,7.1
+E07000143,Breckland,30-44,male,8.8
+E07000143,Breckland,45-64,male,13.1
+E07000143,Breckland,65+,male,12.1
+E07000143,Breckland,0-15,female,7.9
+E07000143,Breckland,16-29,female,6.5
+E07000143,Breckland,30-44,female,8.9
+E07000143,Breckland,45-64,female,13.7
+E07000143,Breckland,65+,female,13.6
+E09000005,Brent,0-15,male,9.3
+E09000005,Brent,16-29,male,11.6
+E09000005,Brent,30-44,male,11.4
+E09000005,Brent,45-64,male,11.3
+E09000005,Brent,65+,male,5.5
+E09000005,Brent,0-15,female,8.8
+E09000005,Brent,16-29,female,11.4
+E09000005,Brent,30-44,female,11.8
+E09000005,Brent,45-64,female,12.2
+E09000005,Brent,65+,female,6.7
+E07000068,Brentwood,0-15,male,9.8
+E07000068,Brentwood,16-29,male,6.8
+E07000068,Brentwood,30-44,male,10.0
+E07000068,Brentwood,45-64,male,12.7
+E07000068,Brentwood,65+,male,9.1
+E07000068,Brentwood,0-15,female,9.1
+E07000068,Brentwood,16-29,female,7.1
+E07000068,Brentwood,30-44,female,11.0
+E07000068,Brentwood,45-64,female,13.4
+E07000068,Brentwood,65+,female,11.2
+E06000043,Brighton and Hove,0-15,male,7.1
+E06000043,Brighton and Hove,16-29,male,11.3
+E06000043,Brighton and Hove,30-44,male,10.5
+E06000043,Brighton and Hove,45-64,male,13.1
+E06000043,Brighton and Hove,65+,male,6.6
+E06000043,Brighton and Hove,0-15,female,6.9
+E06000043,Brighton and Hove,16-29,female,12.8
+E06000043,Brighton and Hove,30-44,female,10.9
+E06000043,Brighton and Hove,45-64,female,13.1
+E06000043,Brighton and Hove,65+,female,7.7
+E07000234,Bromsgrove,0-15,male,9.3
+E07000234,Bromsgrove,16-29,male,6.9
+E07000234,Bromsgrove,30-44,male,8.8
+E07000234,Bromsgrove,45-64,male,13.2
+E07000234,Bromsgrove,65+,male,10.7
+E07000234,Bromsgrove,0-15,female,8.7
+E07000234,Bromsgrove,16-29,female,6.3
+E07000234,Bromsgrove,30-44,female,9.4
+E07000234,Bromsgrove,45-64,female,14.0
+E07000234,Bromsgrove,65+,female,12.7
+E07000172,Broxtowe,0-15,male,8.4
+E07000172,Broxtowe,16-29,male,8.4
+E07000172,Broxtowe,30-44,male,9.6
+E07000172,Broxtowe,45-64,male,12.4
+E07000172,Broxtowe,65+,male,10.0
+E07000172,Broxtowe,0-15,female,8.0
+E07000172,Broxtowe,16-29,female,8.6
+E07000172,Broxtowe,30-44,female,9.9
+E07000172,Broxtowe,45-64,female,12.8
+E07000172,Broxtowe,65+,female,11.7
+E06000060,Buckinghamshire,0-15,male,10.1
+E06000060,Buckinghamshire,16-29,male,7.0
+E06000060,Buckinghamshire,30-44,male,9.6
+E06000060,Buckinghamshire,45-64,male,13.2
+E06000060,Buckinghamshire,65+,male,8.8
+E06000060,Buckinghamshire,0-15,female,9.7
+E06000060,Buckinghamshire,16-29,female,6.9
+E06000060,Buckinghamshire,30-44,female,10.7
+E06000060,Buckinghamshire,45-64,female,13.6
+E06000060,Buckinghamshire,65+,female,10.4
+E08000002,Bury,0-15,male,10.2
+E08000002,Bury,16-29,male,8.0
+E08000002,Bury,30-44,male,10.2
+E08000002,Bury,45-64,male,12.4
+E08000002,Bury,65+,male,8.5
+E08000002,Bury,0-15,female,9.6
+E08000002,Bury,16-29,female,7.5
+E08000002,Bury,30-44,female,10.8
+E08000002,Bury,45-64,female,12.8
+E08000002,Bury,65+,female,10.0
+E08000033,Calderdale,0-15,male,9.6
+E08000033,Calderdale,16-29,male,7.7
+E08000033,Calderdale,30-44,male,9.2
+E08000033,Calderdale,45-64,male,13.3
+E08000033,Calderdale,65+,male,9.1
+E08000033,Calderdale,0-15,female,9.1
+E08000033,Calderdale,16-29,female,7.3
+E08000033,Calderdale,30-44,female,10.2
+E08000033,Calderdale,45-64,female,13.8
+E08000033,Calderdale,65+,female,10.6
+E07000008,Cambridge,0-15,male,7.1
+E07000008,Cambridge,16-29,male,16.8
+E07000008,Cambridge,30-44,male,11.3
+E07000008,Cambridge,45-64,male,9.5
+E07000008,Cambridge,65+,male,5.3
+E07000008,Cambridge,0-15,female,6.8
+E07000008,Cambridge,16-29,female,16.1
+E07000008,Cambridge,30-44,female,11.1
+E07000008,Cambridge,45-64,female,9.7
+E07000008,Cambridge,65+,female,6.2
+E10000003,Cambridgeshire,0-15,male,8.9
+E10000003,Cambridgeshire,16-29,male,9.0
+E10000003,Cambridgeshire,30-44,male,10.1
+E10000003,Cambridgeshire,45-64,male,12.4
+E10000003,Cambridgeshire,65+,male,8.8
+E10000003,Cambridgeshire,0-15,female,8.5
+E10000003,Cambridgeshire,16-29,female,8.6
+E10000003,Cambridgeshire,30-44,female,10.7
+E10000003,Cambridgeshire,45-64,female,12.8
+E10000003,Cambridgeshire,65+,female,10.2
+E07000192,Cannock Chase,0-15,male,9.0
+E07000192,Cannock Chase,16-29,male,7.6
+E07000192,Cannock Chase,30-44,male,10.1
+E07000192,Cannock Chase,45-64,male,13.2
+E07000192,Cannock Chase,65+,male,9.3
+E07000192,Cannock Chase,0-15,female,8.6
+E07000192,Cannock Chase,16-29,female,7.6
+E07000192,Cannock Chase,30-44,female,10.5
+E07000192,Cannock Chase,45-64,female,13.2
+E07000192,Cannock Chase,65+,female,10.8
+E07000106,Canterbury,0-15,male,8.2
+E07000106,Canterbury,16-29,male,10.0
+E07000106,Canterbury,30-44,male,8.4
+E07000106,Canterbury,45-64,male,11.5
+E07000106,Canterbury,65+,male,10.0
+E07000106,Canterbury,0-15,female,7.7
+E07000106,Canterbury,16-29,female,10.4
+E07000106,Canterbury,30-44,female,9.1
+E07000106,Canterbury,45-64,female,12.5
+E07000106,Canterbury,65+,female,12.4
+E07000130,Charnwood,0-15,male,8.5
+E07000130,Charnwood,16-29,male,11.2
+E07000130,Charnwood,30-44,male,9.4
+E07000130,Charnwood,45-64,male,11.8
+E07000130,Charnwood,65+,male,9.0
+E07000130,Charnwood,0-15,female,8.1
+E07000130,Charnwood,16-29,female,9.4
+E07000130,Charnwood,30-44,female,9.9
+E07000130,Charnwood,45-64,female,12.2
+E07000130,Charnwood,65+,female,10.4
+E07000078,Cheltenham,0-15,male,8.6
+E07000078,Cheltenham,16-29,male,8.8
+E07000078,Cheltenham,30-44,male,10.2
+E07000078,Cheltenham,45-64,male,12.3
+E07000078,Cheltenham,65+,male,9.0
+E07000078,Cheltenham,0-15,female,8.5
+E07000078,Cheltenham,16-29,female,8.6
+E07000078,Cheltenham,30-44,female,10.3
+E07000078,Cheltenham,45-64,female,12.7
+E07000078,Cheltenham,65+,female,11.0
+E07000177,Cherwell,0-15,male,9.8
+E07000177,Cherwell,16-29,male,7.6
+E07000177,Cherwell,30-44,male,11.1
+E07000177,Cherwell,45-64,male,12.9
+E07000177,Cherwell,65+,male,8.2
+E07000177,Cherwell,0-15,female,9.1
+E07000177,Cherwell,16-29,female,7.2
+E07000177,Cherwell,30-44,female,11.6
+E07000177,Cherwell,45-64,female,12.9
+E07000177,Cherwell,65+,female,9.5
+E06000049,Cheshire East,0-15,male,8.9
+E06000049,Cheshire East,16-29,male,6.7
+E06000049,Cheshire East,30-44,male,9.4
+E06000049,Cheshire East,45-64,male,13.4
+E06000049,Cheshire East,65+,male,10.5
+E06000049,Cheshire East,0-15,female,8.4
+E06000049,Cheshire East,16-29,female,6.6
+E06000049,Cheshire East,30-44,female,9.9
+E06000049,Cheshire East,45-64,female,13.9
+E06000049,Cheshire East,65+,female,12.2
+E06000050,Cheshire West and Chester,0-15,male,8.6
+E06000050,Cheshire West and Chester,16-29,male,7.6
+E06000050,Cheshire West and Chester,30-44,male,9.5
+E06000050,Cheshire West and Chester,45-64,male,13.0
+E06000050,Cheshire West and Chester,65+,male,10.0
+E06000050,Cheshire West and Chester,0-15,female,8.3
+E06000050,Cheshire West and Chester,16-29,female,7.7
+E06000050,Cheshire West and Chester,30-44,female,9.9
+E06000050,Cheshire West and Chester,45-64,female,13.6
+E06000050,Cheshire West and Chester,65+,female,11.7
+E07000034,Chesterfield,0-15,male,8.4
+E07000034,Chesterfield,16-29,male,7.4
+E07000034,Chesterfield,30-44,male,9.4
+E07000034,Chesterfield,45-64,male,13.5
+E07000034,Chesterfield,65+,male,10.4
+E07000034,Chesterfield,0-15,female,8.1
+E07000034,Chesterfield,16-29,female,7.2
+E07000034,Chesterfield,30-44,female,9.9
+E07000034,Chesterfield,45-64,female,13.7
+E07000034,Chesterfield,65+,female,12.1
+E07000225,Chichester,0-15,male,7.9
+E07000225,Chichester,16-29,male,7.0
+E07000225,Chichester,30-44,male,8.0
+E07000225,Chichester,45-64,male,12.4
+E07000225,Chichester,65+,male,12.5
+E07000225,Chichester,0-15,female,7.5
+E07000225,Chichester,16-29,female,7.2
+E07000225,Chichester,30-44,female,8.4
+E07000225,Chichester,45-64,female,13.8
+E07000225,Chichester,65+,female,15.3
+E07000118,Chorley,0-15,male,9.1
+E07000118,Chorley,16-29,male,7.2
+E07000118,Chorley,30-44,male,10.1
+E07000118,Chorley,45-64,male,13.9
+E07000118,Chorley,65+,male,9.9
+E07000118,Chorley,0-15,female,8.5
+E07000118,Chorley,16-29,female,6.7
+E07000118,Chorley,30-44,female,9.9
+E07000118,Chorley,45-64,female,13.7
+E07000118,Chorley,65+,female,11.1
+E07000071,Colchester,0-15,male,9.6
+E07000071,Colchester,16-29,male,8.9
+E07000071,Colchester,30-44,male,10.2
+E07000071,Colchester,45-64,male,12.0
+E07000071,Colchester,65+,male,8.2
+E07000071,Colchester,0-15,female,9.2
+E07000071,Colchester,16-29,female,8.4
+E07000071,Colchester,30-44,female,11.1
+E07000071,Colchester,45-64,female,12.3
+E07000071,Colchester,65+,female,9.9
+E06000052,Cornwall,0-15,male,8.1
+E06000052,Cornwall,16-29,male,6.8
+E06000052,Cornwall,30-44,male,8.2
+E06000052,Cornwall,45-64,male,13.2
+E06000052,Cornwall,65+,male,12.1
+E06000052,Cornwall,0-15,female,7.8
+E06000052,Cornwall,16-29,female,6.8
+E06000052,Cornwall,30-44,female,8.8
+E06000052,Cornwall,45-64,female,14.2
+E06000052,Cornwall,65+,female,14.1
+E07000079,Cotswold,0-15,male,8.0
+E07000079,Cotswold,16-29,male,6.0
+E07000079,Cotswold,30-44,male,7.5
+E07000079,Cotswold,45-64,male,13.7
+E07000079,Cotswold,65+,male,12.8
+E07000079,Cotswold,0-15,female,7.7
+E07000079,Cotswold,16-29,female,5.9
+E07000079,Cotswold,30-44,female,8.5
+E07000079,Cotswold,45-64,female,15.1
+E07000079,Cotswold,65+,female,14.8
+E06000047,County Durham,0-15,male,8.4
+E06000047,County Durham,16-29,male,8.5
+E06000047,County Durham,30-44,male,8.5
+E06000047,County Durham,45-64,male,12.9
+E06000047,County Durham,65+,male,10.3
+E06000047,County Durham,0-15,female,7.9
+E06000047,County Durham,16-29,female,8.8
+E06000047,County Durham,30-44,female,9.3
+E06000047,County Durham,45-64,female,13.5
+E06000047,County Durham,65+,female,11.7
+E08000026,Coventry,0-15,male,10.0
+E08000026,Coventry,16-29,male,12.1
+E08000026,Coventry,30-44,male,10.9
+E08000026,Coventry,45-64,male,10.8
+E08000026,Coventry,65+,male,6.4
+E08000026,Coventry,0-15,female,9.6
+E08000026,Coventry,16-29,female,11.1
+E08000026,Coventry,30-44,female,10.9
+E08000026,Coventry,45-64,female,10.6
+E08000026,Coventry,65+,female,7.5
+E07000226,Crawley,0-15,male,10.8
+E07000226,Crawley,16-29,male,8.6
+E07000226,Crawley,30-44,male,12.1
+E07000226,Crawley,45-64,male,12.3
+E07000226,Crawley,65+,male,6.1
+E07000226,Crawley,0-15,female,10.0
+E07000226,Crawley,16-29,female,7.9
+E07000226,Crawley,30-44,female,12.7
+E07000226,Crawley,45-64,female,11.9
+E07000226,Crawley,65+,female,7.5
+E09000008,Croydon,0-15,male,10.1
+E09000008,Croydon,16-29,male,8.9
+E09000008,Croydon,30-44,male,11.2
+E09000008,Croydon,45-64,male,11.9
+E09000008,Croydon,65+,male,6.3
+E09000008,Croydon,0-15,female,9.8
+E09000008,Croydon,16-29,female,8.5
+E09000008,Croydon,30-44,female,12.6
+E09000008,Croydon,45-64,female,13.1
+E09000008,Croydon,65+,female,7.7
+E06000063,Cumberland,0-15,male,8.3
+E06000063,Cumberland,16-29,male,7.0
+E06000063,Cumberland,30-44,male,8.9
+E06000063,Cumberland,45-64,male,13.6
+E06000063,Cumberland,65+,male,11.4
+E06000063,Cumberland,0-15,female,8.1
+E06000063,Cumberland,16-29,female,6.8
+E06000063,Cumberland,30-44,female,9.2
+E06000063,Cumberland,45-64,female,13.9
+E06000063,Cumberland,65+,female,12.8
+E07000096,Dacorum,0-15,male,10.3
+E07000096,Dacorum,16-29,male,7.2
+E07000096,Dacorum,30-44,male,10.6
+E07000096,Dacorum,45-64,male,12.8
+E07000096,Dacorum,65+,male,8.1
+E07000096,Dacorum,0-15,female,9.8
+E07000096,Dacorum,16-29,female,6.9
+E07000096,Dacorum,30-44,female,11.5
+E07000096,Dacorum,45-64,female,13.1
+E07000096,Dacorum,65+,female,9.8
+E06000005,Darlington,0-15,male,9.1
+E06000005,Darlington,16-29,male,7.6
+E06000005,Darlington,30-44,male,9.5
+E06000005,Darlington,45-64,male,13.0
+E06000005,Darlington,65+,male,9.9
+E06000005,Darlington,0-15,female,8.7
+E06000005,Darlington,16-29,female,7.4
+E06000005,Darlington,30-44,female,10.1
+E06000005,Darlington,45-64,female,13.4
+E06000005,Darlington,65+,female,11.4
+E07000107,Dartford,0-15,male,11.7
+E07000107,Dartford,16-29,male,7.1
+E07000107,Dartford,30-44,male,11.7
+E07000107,Dartford,45-64,male,12.0
+E07000107,Dartford,65+,male,6.2
+E07000107,Dartford,0-15,female,11.0
+E07000107,Dartford,16-29,female,7.8
+E07000107,Dartford,30-44,female,13.4
+E07000107,Dartford,45-64,female,11.9
+E07000107,Dartford,65+,female,7.3
+E06000015,Derby,0-15,male,10.1
+E06000015,Derby,16-29,male,10.0
+E06000015,Derby,30-44,male,10.8
+E06000015,Derby,45-64,male,11.7
+E06000015,Derby,65+,male,7.5
+E06000015,Derby,0-15,female,9.6
+E06000015,Derby,16-29,female,8.9
+E06000015,Derby,30-44,female,11.1
+E06000015,Derby,45-64,female,11.6
+E06000015,Derby,65+,female,8.8
+E10000007,Derbyshire,0-15,male,8.5
+E10000007,Derbyshire,16-29,male,7.0
+E10000007,Derbyshire,30-44,male,9.1
+E10000007,Derbyshire,45-64,male,13.7
+E10000007,Derbyshire,65+,male,10.6
+E10000007,Derbyshire,0-15,female,8.2
+E10000007,Derbyshire,16-29,female,6.9
+E10000007,Derbyshire,30-44,female,9.7
+E10000007,Derbyshire,45-64,female,14.1
+E10000007,Derbyshire,65+,female,12.1
+E07000035,Derbyshire Dales,0-15,male,7.1
+E07000035,Derbyshire Dales,16-29,male,6.0
+E07000035,Derbyshire Dales,30-44,male,7.0
+E07000035,Derbyshire Dales,45-64,male,15.0
+E07000035,Derbyshire Dales,65+,male,13.9
+E07000035,Derbyshire Dales,0-15,female,7.1
+E07000035,Derbyshire Dales,16-29,female,5.2
+E07000035,Derbyshire Dales,30-44,female,7.5
+E07000035,Derbyshire Dales,45-64,female,15.9
+E07000035,Derbyshire Dales,65+,female,15.5
+E10000008,Devon,0-15,male,7.9
+E10000008,Devon,16-29,male,7.6
+E10000008,Devon,30-44,male,8.0
+E10000008,Devon,45-64,male,12.8
+E10000008,Devon,65+,male,12.2
+E10000008,Devon,0-15,female,7.5
+E10000008,Devon,16-29,female,7.3
+E10000008,Devon,30-44,female,8.7
+E10000008,Devon,45-64,female,13.8
+E10000008,Devon,65+,female,14.3
+E08000017,Doncaster,0-15,male,9.7
+E08000017,Doncaster,16-29,male,7.7
+E08000017,Doncaster,30-44,male,10.5
+E08000017,Doncaster,45-64,male,12.7
+E08000017,Doncaster,65+,male,9.1
+E08000017,Doncaster,0-15,female,9.1
+E08000017,Doncaster,16-29,female,7.4
+E08000017,Doncaster,30-44,female,10.5
+E08000017,Doncaster,45-64,female,12.8
+E08000017,Doncaster,65+,female,10.5
+E06000059,Dorset,0-15,male,7.5
+E06000059,Dorset,16-29,male,6.3
+E06000059,Dorset,30-44,male,7.4
+E06000059,Dorset,45-64,male,13.0
+E06000059,Dorset,65+,male,14.2
+E06000059,Dorset,0-15,female,7.3
+E06000059,Dorset,16-29,female,5.7
+E06000059,Dorset,30-44,female,7.9
+E06000059,Dorset,45-64,female,14.2
+E06000059,Dorset,65+,female,16.5
+E07000108,Dover,0-15,male,8.8
+E07000108,Dover,16-29,male,6.8
+E07000108,Dover,30-44,male,8.7
+E07000108,Dover,45-64,male,12.6
+E07000108,Dover,65+,male,11.7
+E07000108,Dover,0-15,female,8.3
+E07000108,Dover,16-29,female,6.7
+E07000108,Dover,30-44,female,9.4
+E07000108,Dover,45-64,female,13.7
+E07000108,Dover,65+,female,13.3
+E08000027,Dudley,0-15,male,9.7
+E08000027,Dudley,16-29,male,8.0
+E08000027,Dudley,30-44,male,9.8
+E08000027,Dudley,45-64,male,12.5
+E08000027,Dudley,65+,male,9.3
+E08000027,Dudley,0-15,female,9.3
+E08000027,Dudley,16-29,female,7.7
+E08000027,Dudley,30-44,female,10.1
+E08000027,Dudley,45-64,female,12.7
+E08000027,Dudley,65+,female,11.0
+E09000009,Ealing,0-15,male,9.3
+E09000009,Ealing,16-29,male,10.7
+E09000009,Ealing,30-44,male,11.6
+E09000009,Ealing,45-64,male,12.1
+E09000009,Ealing,65+,male,5.7
+E09000009,Ealing,0-15,female,8.9
+E09000009,Ealing,16-29,female,10.1
+E09000009,Ealing,30-44,female,12.4
+E09000009,Ealing,45-64,female,12.4
+E09000009,Ealing,65+,female,6.9
+E07000061,Eastbourne,0-15,male,8.3
+E07000061,Eastbourne,16-29,male,7.6
+E07000061,Eastbourne,30-44,male,8.7
+E07000061,Eastbourne,45-64,male,12.3
+E07000061,Eastbourne,65+,male,11.1
+E07000061,Eastbourne,0-15,female,8.0
+E07000061,Eastbourne,16-29,female,7.2
+E07000061,Eastbourne,30-44,female,9.7
+E07000061,Eastbourne,45-64,female,13.3
+E07000061,Eastbourne,65+,female,13.9
+E07000040,East Devon,0-15,male,7.9
+E07000040,East Devon,16-29,male,6.3
+E07000040,East Devon,30-44,male,7.6
+E07000040,East Devon,45-64,male,12.5
+E07000040,East Devon,65+,male,13.8
+E07000040,East Devon,0-15,female,7.5
+E07000040,East Devon,16-29,female,5.7
+E07000040,East Devon,30-44,female,8.4
+E07000040,East Devon,45-64,female,13.7
+E07000040,East Devon,65+,female,16.5
+E07000085,East Hampshire,0-15,male,8.9
+E07000085,East Hampshire,16-29,male,6.4
+E07000085,East Hampshire,30-44,male,8.4
+E07000085,East Hampshire,45-64,male,13.6
+E07000085,East Hampshire,65+,male,11.2
+E07000085,East Hampshire,0-15,female,8.3
+E07000085,East Hampshire,16-29,female,6.2
+E07000085,East Hampshire,30-44,female,9.0
+E07000085,East Hampshire,45-64,female,14.6
+E07000085,East Hampshire,65+,female,13.2
+E07000242,East Hertfordshire,0-15,male,9.8
+E07000242,East Hertfordshire,16-29,male,7.0
+E07000242,East Hertfordshire,30-44,male,9.7
+E07000242,East Hertfordshire,45-64,male,13.4
+E07000242,East Hertfordshire,65+,male,8.7
+E07000242,East Hertfordshire,0-15,female,9.3
+E07000242,East Hertfordshire,16-29,female,7.1
+E07000242,East Hertfordshire,30-44,female,10.7
+E07000242,East Hertfordshire,45-64,female,14.0
+E07000242,East Hertfordshire,65+,female,10.3
+E07000086,Eastleigh,0-15,male,9.6
+E07000086,Eastleigh,16-29,male,7.2
+E07000086,Eastleigh,30-44,male,10.2
+E07000086,Eastleigh,45-64,male,12.6
+E07000086,Eastleigh,65+,male,9.2
+E07000086,Eastleigh,0-15,female,9.3
+E07000086,Eastleigh,16-29,female,6.9
+E07000086,Eastleigh,30-44,female,11.0
+E07000086,Eastleigh,45-64,female,13.1
+E07000086,Eastleigh,65+,female,11.0
+E07000137,East Lindsey,0-15,male,7.1
+E07000137,East Lindsey,16-29,male,6.2
+E07000137,East Lindsey,30-44,male,6.7
+E07000137,East Lindsey,45-64,male,13.5
+E07000137,East Lindsey,65+,male,15.1
+E07000137,East Lindsey,0-15,female,6.9
+E07000137,East Lindsey,16-29,female,5.7
+E07000137,East Lindsey,30-44,female,7.3
+E07000137,East Lindsey,45-64,female,14.9
+E07000137,East Lindsey,65+,female,16.5
+E06000011,East Riding of Yorkshire,0-15,male,8.0
+E06000011,East Riding of Yorkshire,16-29,male,6.4
+E06000011,East Riding of Yorkshire,30-44,male,8.2
+E06000011,East Riding of Yorkshire,45-64,male,13.6
+E06000011,East Riding of Yorkshire,65+,male,12.7
+E06000011,East Riding of Yorkshire,0-15,female,7.5
+E06000011,East Riding of Yorkshire,16-29,female,6.1
+E06000011,East Riding of Yorkshire,30-44,female,8.6
+E06000011,East Riding of Yorkshire,45-64,female,14.4
+E06000011,East Riding of Yorkshire,65+,female,14.5
+E07000193,East Staffordshire,0-15,male,9.8
+E07000193,East Staffordshire,16-29,male,7.7
+E07000193,East Staffordshire,30-44,male,10.4
+E07000193,East Staffordshire,45-64,male,12.9
+E07000193,East Staffordshire,65+,male,9.0
+E07000193,East Staffordshire,0-15,female,9.2
+E07000193,East Staffordshire,16-29,female,7.4
+E07000193,East Staffordshire,30-44,female,10.2
+E07000193,East Staffordshire,45-64,female,13.0
+E07000193,East Staffordshire,65+,female,10.3
+E07000244,East Suffolk,0-15,male,7.8
+E07000244,East Suffolk,16-29,male,6.7
+E07000244,East Suffolk,30-44,male,7.6
+E07000244,East Suffolk,45-64,male,13.2
+E07000244,East Suffolk,65+,male,13.5
+E07000244,East Suffolk,0-15,female,7.6
+E07000244,East Suffolk,16-29,female,6.0
+E07000244,East Suffolk,30-44,female,8.0
+E07000244,East Suffolk,45-64,female,14.0
+E07000244,East Suffolk,65+,female,15.6
+E10000011,East Sussex,0-15,male,8.3
+E10000011,East Sussex,16-29,male,6.5
+E10000011,East Sussex,30-44,male,8.0
+E10000011,East Sussex,45-64,male,13.0
+E10000011,East Sussex,65+,male,12.1
+E10000011,East Sussex,0-15,female,7.9
+E10000011,East Sussex,16-29,female,6.3
+E10000011,East Sussex,30-44,female,9.0
+E10000011,East Sussex,45-64,female,14.2
+E10000011,East Sussex,65+,female,14.7
+E07000207,Elmbridge,0-15,male,10.6
+E07000207,Elmbridge,16-29,male,6.2
+E07000207,Elmbridge,30-44,male,8.9
+E07000207,Elmbridge,45-64,male,14.2
+E07000207,Elmbridge,65+,male,8.3
+E07000207,Elmbridge,0-15,female,10.2
+E07000207,Elmbridge,16-29,female,6.1
+E07000207,Elmbridge,30-44,female,10.4
+E07000207,Elmbridge,45-64,female,14.9
+E07000207,Elmbridge,65+,female,10.3
+E09000010,Enfield,0-15,male,10.7
+E09000010,Enfield,16-29,male,9.0
+E09000010,Enfield,30-44,male,9.5
+E09000010,Enfield,45-64,male,12.2
+E09000010,Enfield,65+,male,6.5
+E09000010,Enfield,0-15,female,10.3
+E09000010,Enfield,16-29,female,8.8
+E09000010,Enfield,30-44,female,11.4
+E09000010,Enfield,45-64,female,13.7
+E09000010,Enfield,65+,female,8.0
+E07000072,Epping Forest,0-15,male,9.5
+E07000072,Epping Forest,16-29,male,7.6
+E07000072,Epping Forest,30-44,male,9.4
+E07000072,Epping Forest,45-64,male,13.0
+E07000072,Epping Forest,65+,male,9.1
+E07000072,Epping Forest,0-15,female,9.0
+E07000072,Epping Forest,16-29,female,6.9
+E07000072,Epping Forest,30-44,female,10.6
+E07000072,Epping Forest,45-64,female,13.9
+E07000072,Epping Forest,65+,female,11.1
+E07000208,Epsom and Ewell,0-15,male,10.2
+E07000208,Epsom and Ewell,16-29,male,7.2
+E07000208,Epsom and Ewell,30-44,male,9.2
+E07000208,Epsom and Ewell,45-64,male,13.4
+E07000208,Epsom and Ewell,65+,male,8.1
+E07000208,Epsom and Ewell,0-15,female,9.9
+E07000208,Epsom and Ewell,16-29,female,7.4
+E07000208,Epsom and Ewell,30-44,female,10.6
+E07000208,Epsom and Ewell,45-64,female,13.9
+E07000208,Epsom and Ewell,65+,female,10.1
+E07000036,Erewash,0-15,male,8.7
+E07000036,Erewash,16-29,male,7.6
+E07000036,Erewash,30-44,male,9.6
+E07000036,Erewash,45-64,male,13.3
+E07000036,Erewash,65+,male,9.9
+E07000036,Erewash,0-15,female,8.1
+E07000036,Erewash,16-29,female,7.5
+E07000036,Erewash,30-44,female,10.1
+E07000036,Erewash,45-64,female,13.7
+E07000036,Erewash,65+,female,11.5
+E10000012,Essex,0-15,male,9.6
+E10000012,Essex,16-29,male,7.4
+E10000012,Essex,30-44,male,9.5
+E10000012,Essex,45-64,male,12.6
+E10000012,Essex,65+,male,9.5
+E10000012,Essex,0-15,female,9.1
+E10000012,Essex,16-29,female,7.2
+E10000012,Essex,30-44,female,10.4
+E10000012,Essex,45-64,female,13.2
+E10000012,Essex,65+,female,11.4
+E07000041,Exeter,0-15,male,7.3
+E07000041,Exeter,16-29,male,14.1
+E07000041,Exeter,30-44,male,9.6
+E07000041,Exeter,45-64,male,10.4
+E07000041,Exeter,65+,male,7.3
+E07000041,Exeter,0-15,female,6.8
+E07000041,Exeter,16-29,female,14.9
+E07000041,Exeter,30-44,female,10.0
+E07000041,Exeter,45-64,female,10.6
+E07000041,Exeter,65+,female,9.1
+E07000087,Fareham,0-15,male,8.1
+E07000087,Fareham,16-29,male,7.2
+E07000087,Fareham,30-44,male,8.4
+E07000087,Fareham,45-64,male,13.1
+E07000087,Fareham,65+,male,11.8
+E07000087,Fareham,0-15,female,7.9
+E07000087,Fareham,16-29,female,6.1
+E07000087,Fareham,30-44,female,9.0
+E07000087,Fareham,45-64,female,14.1
+E07000087,Fareham,65+,female,14.2
+E07000010,Fenland,0-15,male,8.8
+E07000010,Fenland,16-29,male,7.2
+E07000010,Fenland,30-44,male,9.2
+E07000010,Fenland,45-64,male,13.0
+E07000010,Fenland,65+,male,10.8
+E07000010,Fenland,0-15,female,8.4
+E07000010,Fenland,16-29,female,6.8
+E07000010,Fenland,30-44,female,9.8
+E07000010,Fenland,45-64,female,13.5
+E07000010,Fenland,65+,female,12.5
+E07000112,Folkestone and Hythe,0-15,male,8.3
+E07000112,Folkestone and Hythe,16-29,male,6.7
+E07000112,Folkestone and Hythe,30-44,male,8.3
+E07000112,Folkestone and Hythe,45-64,male,13.1
+E07000112,Folkestone and Hythe,65+,male,12.0
+E07000112,Folkestone and Hythe,0-15,female,8.0
+E07000112,Folkestone and Hythe,16-29,female,6.3
+E07000112,Folkestone and Hythe,30-44,female,9.4
+E07000112,Folkestone and Hythe,45-64,female,13.9
+E07000112,Folkestone and Hythe,65+,female,14.0
+E07000080,Forest of Dean,0-15,male,8.1
+E07000080,Forest of Dean,16-29,male,6.8
+E07000080,Forest of Dean,30-44,male,8.2
+E07000080,Forest of Dean,45-64,male,13.6
+E07000080,Forest of Dean,65+,male,12.1
+E07000080,Forest of Dean,0-15,female,7.8
+E07000080,Forest of Dean,16-29,female,6.8
+E07000080,Forest of Dean,30-44,female,8.7
+E07000080,Forest of Dean,45-64,female,14.2
+E07000080,Forest of Dean,65+,female,13.5
+E07000119,Fylde,0-15,male,7.4
+E07000119,Fylde,16-29,male,6.1
+E07000119,Fylde,30-44,male,7.9
+E07000119,Fylde,45-64,male,13.9
+E07000119,Fylde,65+,male,13.7
+E07000119,Fylde,0-15,female,7.2
+E07000119,Fylde,16-29,female,5.6
+E07000119,Fylde,30-44,female,8.2
+E07000119,Fylde,45-64,female,14.7
+E07000119,Fylde,65+,female,15.5
+E08000037,Gateshead,0-15,male,8.9
+E08000037,Gateshead,16-29,male,8.4
+E08000037,Gateshead,30-44,male,10.2
+E08000037,Gateshead,45-64,male,12.5
+E08000037,Gateshead,65+,male,9.5
+E08000037,Gateshead,0-15,female,8.6
+E08000037,Gateshead,16-29,female,7.8
+E08000037,Gateshead,30-44,female,10.2
+E08000037,Gateshead,45-64,female,12.9
+E08000037,Gateshead,65+,female,11.1
+E07000173,Gedling,0-15,male,8.8
+E07000173,Gedling,16-29,male,6.9
+E07000173,Gedling,30-44,male,9.7
+E07000173,Gedling,45-64,male,13.0
+E07000173,Gedling,65+,male,10.0
+E07000173,Gedling,0-15,female,8.7
+E07000173,Gedling,16-29,female,6.9
+E07000173,Gedling,30-44,female,10.6
+E07000173,Gedling,45-64,female,13.7
+E07000173,Gedling,65+,female,11.8
+E10000013,Gloucestershire,0-15,male,8.9
+E10000013,Gloucestershire,16-29,male,7.4
+E10000013,Gloucestershire,30-44,male,9.3
+E10000013,Gloucestershire,45-64,male,13.0
+E10000013,Gloucestershire,65+,male,10.3
+E10000013,Gloucestershire,0-15,female,8.5
+E10000013,Gloucestershire,16-29,female,7.3
+E10000013,Gloucestershire,30-44,female,9.9
+E10000013,Gloucestershire,45-64,female,13.6
+E10000013,Gloucestershire,65+,female,12.0
+E07000088,Gosport,0-15,male,9.0
+E07000088,Gosport,16-29,male,8.0
+E07000088,Gosport,30-44,male,8.9
+E07000088,Gosport,45-64,male,12.8
+E07000088,Gosport,65+,male,10.3
+E07000088,Gosport,0-15,female,8.3
+E07000088,Gosport,16-29,female,7.2
+E07000088,Gosport,30-44,female,9.7
+E07000088,Gosport,45-64,female,13.6
+E07000088,Gosport,65+,female,12.3
+E07000109,Gravesham,0-15,male,10.8
+E07000109,Gravesham,16-29,male,8.1
+E07000109,Gravesham,30-44,male,10.2
+E07000109,Gravesham,45-64,male,12.1
+E07000109,Gravesham,65+,male,7.7
+E07000109,Gravesham,0-15,female,10.4
+E07000109,Gravesham,16-29,female,7.7
+E07000109,Gravesham,30-44,female,11.4
+E07000109,Gravesham,45-64,female,12.4
+E07000109,Gravesham,65+,female,9.2
+E07000145,Great Yarmouth,0-15,male,8.7
+E07000145,Great Yarmouth,16-29,male,7.1
+E07000145,Great Yarmouth,30-44,male,8.4
+E07000145,Great Yarmouth,45-64,male,12.9
+E07000145,Great Yarmouth,65+,male,11.7
+E07000145,Great Yarmouth,0-15,female,8.2
+E07000145,Great Yarmouth,16-29,female,7.1
+E07000145,Great Yarmouth,30-44,female,9.0
+E07000145,Great Yarmouth,45-64,female,13.8
+E07000145,Great Yarmouth,65+,female,13.2
+E07000209,Guildford,0-15,male,8.5
+E07000209,Guildford,16-29,male,11.1
+E07000209,Guildford,30-44,male,9.3
+E07000209,Guildford,45-64,male,12.2
+E07000209,Guildford,65+,male,7.9
+E07000209,Guildford,0-15,female,8.3
+E07000209,Guildford,16-29,female,10.7
+E07000209,Guildford,30-44,female,10.0
+E07000209,Guildford,45-64,female,12.7
+E07000209,Guildford,65+,female,9.3
+E09000012,Hackney,0-15,male,9.1
+E09000012,Hackney,16-29,male,11.6
+E09000012,Hackney,30-44,male,13.7
+E09000012,Hackney,45-64,male,9.6
+E09000012,Hackney,65+,male,3.8
+E09000012,Hackney,0-15,female,8.7
+E09000012,Hackney,16-29,female,13.5
+E09000012,Hackney,30-44,female,14.4
+E09000012,Hackney,45-64,female,10.9
+E09000012,Hackney,65+,female,4.7
+E06000006,Halton,0-15,male,9.5
+E06000006,Halton,16-29,male,8.1
+E06000006,Halton,30-44,male,9.7
+E06000006,Halton,45-64,male,12.8
+E06000006,Halton,65+,male,9.0
+E06000006,Halton,0-15,female,9.0
+E06000006,Halton,16-29,female,7.6
+E06000006,Halton,30-44,female,10.6
+E06000006,Halton,45-64,female,13.3
+E06000006,Halton,65+,female,10.4
+E09000013,Hammersmith and Fulham,0-15,male,7.3
+E09000013,Hammersmith and Fulham,16-29,male,12.1
+E09000013,Hammersmith and Fulham,30-44,male,11.7
+E09000013,Hammersmith and Fulham,45-64,male,10.5
+E09000013,Hammersmith and Fulham,65+,male,4.7
+E09000013,Hammersmith and Fulham,0-15,female,7.2
+E09000013,Hammersmith and Fulham,16-29,female,14.9
+E09000013,Hammersmith and Fulham,30-44,female,12.9
+E09000013,Hammersmith and Fulham,45-64,female,12.5
+E09000013,Hammersmith and Fulham,65+,female,6.1
+E10000014,Hampshire,0-15,male,9.0
+E10000014,Hampshire,16-29,male,7.2
+E10000014,Hampshire,30-44,male,9.2
+E10000014,Hampshire,45-64,male,13.0
+E10000014,Hampshire,65+,male,10.3
+E10000014,Hampshire,0-15,female,8.5
+E10000014,Hampshire,16-29,female,6.9
+E10000014,Hampshire,30-44,female,9.9
+E10000014,Hampshire,45-64,female,13.7
+E10000014,Hampshire,65+,female,12.2
+E07000131,Harborough,0-15,male,9.0
+E07000131,Harborough,16-29,male,6.8
+E07000131,Harborough,30-44,male,8.9
+E07000131,Harborough,45-64,male,13.7
+E07000131,Harborough,65+,male,10.6
+E07000131,Harborough,0-15,female,8.5
+E07000131,Harborough,16-29,female,6.6
+E07000131,Harborough,30-44,female,9.7
+E07000131,Harborough,45-64,female,14.1
+E07000131,Harborough,65+,female,12.1
+E09000014,Haringey,0-15,male,8.9
+E09000014,Haringey,16-29,male,9.6
+E09000014,Haringey,30-44,male,12.7
+E09000014,Haringey,45-64,male,12.1
+E09000014,Haringey,65+,male,4.9
+E09000014,Haringey,0-15,female,8.4
+E09000014,Haringey,16-29,female,10.5
+E09000014,Haringey,30-44,female,13.5
+E09000014,Haringey,45-64,female,13.3
+E09000014,Haringey,65+,female,6.3
+E07000073,Harlow,0-15,male,11.2
+E07000073,Harlow,16-29,male,7.7
+E07000073,Harlow,30-44,male,11.6
+E07000073,Harlow,45-64,male,11.4
+E07000073,Harlow,65+,male,6.4
+E07000073,Harlow,0-15,female,10.7
+E07000073,Harlow,16-29,female,8.1
+E07000073,Harlow,30-44,female,13.0
+E07000073,Harlow,45-64,female,11.8
+E07000073,Harlow,65+,female,8.0
+E09000015,Harrow,0-15,male,9.8
+E09000015,Harrow,16-29,male,9.7
+E09000015,Harrow,30-44,male,11.3
+E09000015,Harrow,45-64,male,11.6
+E09000015,Harrow,65+,male,7.1
+E09000015,Harrow,0-15,female,9.4
+E09000015,Harrow,16-29,female,8.8
+E09000015,Harrow,30-44,female,11.5
+E09000015,Harrow,45-64,female,12.1
+E09000015,Harrow,65+,female,8.7
+E07000089,Hart,0-15,male,9.6
+E07000089,Hart,16-29,male,7.7
+E07000089,Hart,30-44,male,9.1
+E07000089,Hart,45-64,male,13.6
+E07000089,Hart,65+,male,9.4
+E07000089,Hart,0-15,female,9.0
+E07000089,Hart,16-29,female,6.3
+E07000089,Hart,30-44,female,10.1
+E07000089,Hart,45-64,female,14.0
+E07000089,Hart,65+,female,11.3
+E07000062,Hastings,0-15,male,8.8
+E07000062,Hastings,16-29,male,7.3
+E07000062,Hastings,30-44,male,9.2
+E07000062,Hastings,45-64,male,13.4
+E07000062,Hastings,65+,male,9.7
+E07000062,Hastings,0-15,female,8.4
+E07000062,Hastings,16-29,female,6.8
+E07000062,Hastings,30-44,female,10.6
+E07000062,Hastings,45-64,female,14.3
+E07000062,Hastings,65+,female,11.5
+E07000090,Havant,0-15,male,8.8
+E07000090,Havant,16-29,male,6.7
+E07000090,Havant,30-44,male,8.5
+E07000090,Havant,45-64,male,12.6
+E07000090,Havant,65+,male,11.5
+E07000090,Havant,0-15,female,8.3
+E07000090,Havant,16-29,female,6.9
+E07000090,Havant,30-44,female,9.4
+E07000090,Havant,45-64,female,13.6
+E07000090,Havant,65+,female,13.7
+E09000016,Havering,0-15,male,10.5
+E09000016,Havering,16-29,male,8.0
+E09000016,Havering,30-44,male,10.6
+E09000016,Havering,45-64,male,11.7
+E09000016,Havering,65+,male,7.7
+E09000016,Havering,0-15,female,9.9
+E09000016,Havering,16-29,female,8.0
+E09000016,Havering,30-44,female,11.8
+E09000016,Havering,45-64,female,12.3
+E09000016,Havering,65+,female,9.6
+E06000019,Herefordshire,0-15,male,8.1
+E06000019,Herefordshire,16-29,male,6.6
+E06000019,Herefordshire,30-44,male,8.4
+E06000019,Herefordshire,45-64,male,13.3
+E06000019,Herefordshire,65+,male,12.6
+E06000019,Herefordshire,0-15,female,7.5
+E06000019,Herefordshire,16-29,female,6.0
+E06000019,Herefordshire,30-44,female,8.9
+E06000019,Herefordshire,45-64,female,14.1
+E06000019,Herefordshire,65+,female,14.3
+E10000015,Hertfordshire,0-15,male,10.1
+E10000015,Hertfordshire,16-29,male,7.7
+E10000015,Hertfordshire,30-44,male,10.2
+E10000015,Hertfordshire,45-64,male,12.9
+E10000015,Hertfordshire,65+,male,8.0
+E10000015,Hertfordshire,0-15,female,9.6
+E10000015,Hertfordshire,16-29,female,7.4
+E10000015,Hertfordshire,30-44,female,11.2
+E10000015,Hertfordshire,45-64,female,13.4
+E10000015,Hertfordshire,65+,female,9.6
+E07000098,Hertsmere,0-15,male,10.1
+E07000098,Hertsmere,16-29,male,7.3
+E07000098,Hertsmere,30-44,male,9.5
+E07000098,Hertsmere,45-64,male,12.8
+E07000098,Hertsmere,65+,male,8.3
+E07000098,Hertsmere,0-15,female,9.6
+E07000098,Hertsmere,16-29,female,7.5
+E07000098,Hertsmere,30-44,female,10.8
+E07000098,Hertsmere,45-64,female,13.9
+E07000098,Hertsmere,65+,female,10.3
+E07000037,High Peak,0-15,male,8.3
+E07000037,High Peak,16-29,male,6.7
+E07000037,High Peak,30-44,male,8.8
+E07000037,High Peak,45-64,male,14.3
+E07000037,High Peak,65+,male,11.0
+E07000037,High Peak,0-15,female,8.0
+E07000037,High Peak,16-29,female,6.4
+E07000037,High Peak,30-44,female,9.5
+E07000037,High Peak,45-64,female,14.8
+E07000037,High Peak,65+,female,12.2
+E07000132,Hinckley and Bosworth,0-15,male,8.8
+E07000132,Hinckley and Bosworth,16-29,male,6.9
+E07000132,Hinckley and Bosworth,30-44,male,9.5
+E07000132,Hinckley and Bosworth,45-64,male,13.4
+E07000132,Hinckley and Bosworth,65+,male,10.7
+E07000132,Hinckley and Bosworth,0-15,female,8.2
+E07000132,Hinckley and Bosworth,16-29,female,6.7
+E07000132,Hinckley and Bosworth,30-44,female,10.0
+E07000132,Hinckley and Bosworth,45-64,female,13.6
+E07000132,Hinckley and Bosworth,65+,female,12.2
+E07000227,Horsham,0-15,male,9.2
+E07000227,Horsham,16-29,male,6.4
+E07000227,Horsham,30-44,male,8.9
+E07000227,Horsham,45-64,male,13.4
+E07000227,Horsham,65+,male,10.8
+E07000227,Horsham,0-15,female,8.6
+E07000227,Horsham,16-29,female,6.1
+E07000227,Horsham,30-44,female,9.5
+E07000227,Horsham,45-64,female,14.1
+E07000227,Horsham,65+,female,12.9
+E09000018,Hounslow,0-15,male,10.0
+E09000018,Hounslow,16-29,male,10.0
+E09000018,Hounslow,30-44,male,11.9
+E09000018,Hounslow,45-64,male,12.5
+E09000018,Hounslow,65+,male,5.6
+E09000018,Hounslow,0-15,female,9.4
+E09000018,Hounslow,16-29,female,9.0
+E09000018,Hounslow,30-44,female,12.6
+E09000018,Hounslow,45-64,female,12.4
+E09000018,Hounslow,65+,female,6.6
+E07000011,Huntingdonshire,0-15,male,9.3
+E07000011,Huntingdonshire,16-29,male,7.2
+E07000011,Huntingdonshire,30-44,male,10.1
+E07000011,Huntingdonshire,45-64,male,13.2
+E07000011,Huntingdonshire,65+,male,9.6
+E07000011,Huntingdonshire,0-15,female,8.8
+E07000011,Huntingdonshire,16-29,female,6.8
+E07000011,Huntingdonshire,30-44,female,10.7
+E07000011,Huntingdonshire,45-64,female,13.4
+E07000011,Huntingdonshire,65+,female,11.0
+E07000120,Hyndburn,0-15,male,10.1
+E07000120,Hyndburn,16-29,male,8.8
+E07000120,Hyndburn,30-44,male,10.0
+E07000120,Hyndburn,45-64,male,12.3
+E07000120,Hyndburn,65+,male,8.4
+E07000120,Hyndburn,0-15,female,9.8
+E07000120,Hyndburn,16-29,female,8.2
+E07000120,Hyndburn,30-44,female,10.2
+E07000120,Hyndburn,45-64,female,12.4
+E07000120,Hyndburn,65+,female,9.6
+E07000202,Ipswich,0-15,male,10.2
+E07000202,Ipswich,16-29,male,8.4
+E07000202,Ipswich,30-44,male,10.8
+E07000202,Ipswich,45-64,male,12.2
+E07000202,Ipswich,65+,male,8.0
+E07000202,Ipswich,0-15,female,9.8
+E07000202,Ipswich,16-29,female,8.0
+E07000202,Ipswich,30-44,female,11.4
+E07000202,Ipswich,45-64,female,12.1
+E07000202,Ipswich,65+,female,9.2
+E06000046,Isle of Wight,0-15,male,7.4
+E06000046,Isle of Wight,16-29,male,6.2
+E06000046,Isle of Wight,30-44,male,7.6
+E06000046,Isle of Wight,45-64,male,13.1
+E06000046,Isle of Wight,65+,male,14.1
+E06000046,Isle of Wight,0-15,female,7.0
+E06000046,Isle of Wight,16-29,female,5.9
+E06000046,Isle of Wight,30-44,female,8.0
+E06000046,Isle of Wight,45-64,female,14.5
+E06000046,Isle of Wight,65+,female,16.3
+E09000019,Islington,0-15,male,7.0
+E09000019,Islington,16-29,male,12.6
+E09000019,Islington,30-44,male,13.4
+E09000019,Islington,45-64,male,9.8
+E09000019,Islington,65+,male,4.3
+E09000019,Islington,0-15,female,6.8
+E09000019,Islington,16-29,female,15.8
+E09000019,Islington,30-44,female,14.0
+E09000019,Islington,45-64,female,10.8
+E09000019,Islington,65+,female,5.3
+E07000146,King's Lynn and West Norfolk,0-15,male,8.2
+E07000146,King's Lynn and West Norfolk,16-29,male,6.9
+E07000146,King's Lynn and West Norfolk,30-44,male,8.4
+E07000146,King's Lynn and West Norfolk,45-64,male,13.0
+E07000146,King's Lynn and West Norfolk,65+,male,12.3
+E07000146,King's Lynn and West Norfolk,0-15,female,8.0
+E07000146,King's Lynn and West Norfolk,16-29,female,6.1
+E07000146,King's Lynn and West Norfolk,30-44,female,8.9
+E07000146,King's Lynn and West Norfolk,45-64,female,13.7
+E07000146,King's Lynn and West Norfolk,65+,female,14.3
+E06000010,"Kingston upon Hull, City of",0-15,male,10.1
+E06000010,"Kingston upon Hull, City of",16-29,male,9.6
+E06000010,"Kingston upon Hull, City of",30-44,male,11.4
+E06000010,"Kingston upon Hull, City of",45-64,male,11.9
+E06000010,"Kingston upon Hull, City of",65+,male,7.3
+E06000010,"Kingston upon Hull, City of",0-15,female,9.6
+E06000010,"Kingston upon Hull, City of",16-29,female,9.0
+E06000010,"Kingston upon Hull, City of",30-44,female,11.2
+E06000010,"Kingston upon Hull, City of",45-64,female,11.5
+E06000010,"Kingston upon Hull, City of",65+,female,8.3
+E09000021,Kingston upon Thames,0-15,male,9.4
+E09000021,Kingston upon Thames,16-29,male,8.4
+E09000021,Kingston upon Thames,30-44,male,10.4
+E09000021,Kingston upon Thames,45-64,male,12.6
+E09000021,Kingston upon Thames,65+,male,6.9
+E09000021,Kingston upon Thames,0-15,female,9.2
+E09000021,Kingston upon Thames,16-29,female,9.7
+E09000021,Kingston upon Thames,30-44,female,11.9
+E09000021,Kingston upon Thames,45-64,female,13.2
+E09000021,Kingston upon Thames,65+,female,8.2
+E08000034,Kirklees,0-15,male,10.0
+E08000034,Kirklees,16-29,male,8.6
+E08000034,Kirklees,30-44,male,9.7
+E08000034,Kirklees,45-64,male,12.5
+E08000034,Kirklees,65+,male,8.4
+E08000034,Kirklees,0-15,female,9.5
+E08000034,Kirklees,16-29,female,8.3
+E08000034,Kirklees,30-44,female,10.4
+E08000034,Kirklees,45-64,female,12.8
+E08000034,Kirklees,65+,female,9.8
+E08000011,Knowsley,0-15,male,10.2
+E08000011,Knowsley,16-29,male,7.8
+E08000011,Knowsley,30-44,male,10.1
+E08000011,Knowsley,45-64,male,11.8
+E08000011,Knowsley,65+,male,8.0
+E08000011,Knowsley,0-15,female,9.7
+E08000011,Knowsley,16-29,female,8.1
+E08000011,Knowsley,30-44,female,11.6
+E08000011,Knowsley,45-64,female,13.3
+E08000011,Knowsley,65+,female,9.5
+E09000022,Lambeth,0-15,male,7.1
+E09000022,Lambeth,16-29,male,13.1
+E09000022,Lambeth,30-44,male,13.1
+E09000022,Lambeth,45-64,male,11.0
+E09000022,Lambeth,65+,male,4.2
+E09000022,Lambeth,0-15,female,6.8
+E09000022,Lambeth,16-29,female,14.9
+E09000022,Lambeth,30-44,female,12.8
+E09000022,Lambeth,45-64,female,11.8
+E09000022,Lambeth,65+,female,5.3
+E07000121,Lancaster,0-15,male,8.1
+E07000121,Lancaster,16-29,male,11.0
+E07000121,Lancaster,30-44,male,8.5
+E07000121,Lancaster,45-64,male,12.0
+E07000121,Lancaster,65+,male,9.7
+E07000121,Lancaster,0-15,female,7.8
+E07000121,Lancaster,16-29,female,10.1
+E07000121,Lancaster,30-44,female,9.0
+E07000121,Lancaster,45-64,female,12.5
+E07000121,Lancaster,65+,female,11.3
+E06000016,Leicester,0-15,male,10.4
+E06000016,Leicester,16-29,male,12.8
+E06000016,Leicester,30-44,male,10.7
+E06000016,Leicester,45-64,male,10.6
+E06000016,Leicester,65+,male,5.6
+E06000016,Leicester,0-15,female,9.8
+E06000016,Leicester,16-29,female,11.9
+E06000016,Leicester,30-44,female,11.0
+E06000016,Leicester,45-64,female,10.7
+E06000016,Leicester,65+,female,6.5
+E10000018,Leicestershire,0-15,male,8.9
+E10000018,Leicestershire,16-29,male,8.2
+E10000018,Leicestershire,30-44,male,9.5
+E10000018,Leicestershire,45-64,male,12.9
+E10000018,Leicestershire,65+,male,9.9
+E10000018,Leicestershire,0-15,female,8.5
+E10000018,Leicestershire,16-29,female,7.6
+E10000018,Leicestershire,30-44,female,10.0
+E10000018,Leicestershire,45-64,female,13.2
+E10000018,Leicestershire,65+,female,11.3
+E07000063,Lewes,0-15,male,8.3
+E07000063,Lewes,16-29,male,6.4
+E07000063,Lewes,30-44,male,7.9
+E07000063,Lewes,45-64,male,13.2
+E07000063,Lewes,65+,male,12.1
+E07000063,Lewes,0-15,female,7.8
+E07000063,Lewes,16-29,female,6.0
+E07000063,Lewes,30-44,female,9.0
+E07000063,Lewes,45-64,female,14.3
+E07000063,Lewes,65+,female,15.0
+E09000023,Lewisham,0-15,male,9.1
+E09000023,Lewisham,16-29,male,9.1
+E09000023,Lewisham,30-44,male,12.8
+E09000023,Lewisham,45-64,male,11.6
+E09000023,Lewisham,65+,male,4.6
+E09000023,Lewisham,0-15,female,8.8
+E09000023,Lewisham,16-29,female,10.4
+E09000023,Lewisham,30-44,female,14.7
+E09000023,Lewisham,45-64,female,13.1
+E09000023,Lewisham,65+,female,5.8
+E07000194,Lichfield,0-15,male,8.5
+E07000194,Lichfield,16-29,male,7.4
+E07000194,Lichfield,30-44,male,8.9
+E07000194,Lichfield,45-64,male,13.3
+E07000194,Lichfield,65+,male,11.1
+E07000194,Lichfield,0-15,female,8.2
+E07000194,Lichfield,16-29,female,6.4
+E07000194,Lichfield,30-44,female,9.5
+E07000194,Lichfield,45-64,female,13.6
+E07000194,Lichfield,65+,female,13.0
+E07000138,Lincoln,0-15,male,8.2
+E07000138,Lincoln,16-29,male,12.7
+E07000138,Lincoln,30-44,male,11.0
+E07000138,Lincoln,45-64,male,10.6
+E07000138,Lincoln,65+,male,6.9
+E07000138,Lincoln,0-15,female,7.6
+E07000138,Lincoln,16-29,female,13.7
+E07000138,Lincoln,30-44,female,10.6
+E07000138,Lincoln,45-64,female,10.5
+E07000138,Lincoln,65+,female,8.3
+E10000019,Lincolnshire,0-15,male,8.4
+E10000019,Lincolnshire,16-29,male,7.5
+E10000019,Lincolnshire,30-44,male,8.7
+E10000019,Lincolnshire,45-64,male,13.0
+E10000019,Lincolnshire,65+,male,11.4
+E10000019,Lincolnshire,0-15,female,8.0
+E10000019,Lincolnshire,16-29,female,7.3
+E10000019,Lincolnshire,30-44,female,9.2
+E10000019,Lincolnshire,45-64,female,13.7
+E10000019,Lincolnshire,65+,female,12.8
+E08000012,Liverpool,0-15,male,8.6
+E08000012,Liverpool,16-29,male,12.2
+E08000012,Liverpool,30-44,male,10.4
+E08000012,Liverpool,45-64,male,10.6
+E08000012,Liverpool,65+,male,7.0
+E08000012,Liverpool,0-15,female,8.2
+E08000012,Liverpool,16-29,female,12.9
+E08000012,Liverpool,30-44,female,10.6
+E08000012,Liverpool,45-64,female,11.1
+E08000012,Liverpool,65+,female,8.4
+E06000032,Luton,0-15,male,11.6
+E06000032,Luton,16-29,male,11.4
+E06000032,Luton,30-44,male,11.6
+E06000032,Luton,45-64,male,11.3
+E06000032,Luton,65+,male,5.3
+E06000032,Luton,0-15,female,11.0
+E06000032,Luton,16-29,female,9.7
+E06000032,Luton,30-44,female,11.6
+E06000032,Luton,45-64,female,10.4
+E06000032,Luton,65+,female,6.2
+E07000074,Maldon,0-15,male,8.2
+E07000074,Maldon,16-29,male,6.7
+E07000074,Maldon,30-44,male,7.9
+E07000074,Maldon,45-64,male,13.7
+E07000074,Maldon,65+,male,12.3
+E07000074,Maldon,0-15,female,7.9
+E07000074,Maldon,16-29,female,6.3
+E07000074,Maldon,30-44,female,8.6
+E07000074,Maldon,45-64,female,14.6
+E07000074,Maldon,65+,female,13.8
+E07000235,Malvern Hills,0-15,male,7.7
+E07000235,Malvern Hills,16-29,male,6.5
+E07000235,Malvern Hills,30-44,male,7.2
+E07000235,Malvern Hills,45-64,male,13.6
+E07000235,Malvern Hills,65+,male,13.3
+E07000235,Malvern Hills,0-15,female,7.6
+E07000235,Malvern Hills,16-29,female,6.1
+E07000235,Malvern Hills,30-44,female,8.0
+E07000235,Malvern Hills,45-64,female,14.6
+E07000235,Malvern Hills,65+,female,15.4
+E07000174,Mansfield,0-15,male,9.4
+E07000174,Mansfield,16-29,male,7.2
+E07000174,Mansfield,30-44,male,10.5
+E07000174,Mansfield,45-64,male,12.9
+E07000174,Mansfield,65+,male,9.2
+E07000174,Mansfield,0-15,female,9.1
+E07000174,Mansfield,16-29,female,7.1
+E07000174,Mansfield,30-44,female,10.8
+E07000174,Mansfield,45-64,female,13.2
+E07000174,Mansfield,65+,female,10.7
+E06000035,Medway,0-15,male,10.6
+E06000035,Medway,16-29,male,7.9
+E06000035,Medway,30-44,male,10.5
+E06000035,Medway,45-64,male,12.2
+E06000035,Medway,65+,male,7.6
+E06000035,Medway,0-15,female,10.1
+E06000035,Medway,16-29,female,8.2
+E06000035,Medway,30-44,female,11.5
+E06000035,Medway,45-64,female,12.5
+E06000035,Medway,65+,female,9.0
+E07000133,Melton,0-15,male,8.6
+E07000133,Melton,16-29,male,6.4
+E07000133,Melton,30-44,male,8.2
+E07000133,Melton,45-64,male,13.9
+E07000133,Melton,65+,male,11.6
+E07000133,Melton,0-15,female,8.3
+E07000133,Melton,16-29,female,6.5
+E07000133,Melton,30-44,female,9.0
+E07000133,Melton,45-64,female,14.8
+E07000133,Melton,65+,female,12.8
+E09000024,Merton,0-15,male,9.6
+E09000024,Merton,16-29,male,8.7
+E09000024,Merton,30-44,male,12.1
+E09000024,Merton,45-64,male,12.3
+E09000024,Merton,65+,male,5.9
+E09000024,Merton,0-15,female,9.0
+E09000024,Merton,16-29,female,8.9
+E09000024,Merton,30-44,female,13.1
+E09000024,Merton,45-64,female,13.1
+E09000024,Merton,65+,female,7.3
+E07000042,Mid Devon,0-15,male,8.8
+E07000042,Mid Devon,16-29,male,6.8
+E07000042,Mid Devon,30-44,male,8.1
+E07000042,Mid Devon,45-64,male,13.4
+E07000042,Mid Devon,65+,male,11.8
+E07000042,Mid Devon,0-15,female,8.2
+E07000042,Mid Devon,16-29,female,6.3
+E07000042,Mid Devon,30-44,female,9.0
+E07000042,Mid Devon,45-64,female,14.4
+E07000042,Mid Devon,65+,female,13.2
+E06000002,Middlesbrough,0-15,male,10.3
+E06000002,Middlesbrough,16-29,male,10.3
+E06000002,Middlesbrough,30-44,male,10.9
+E06000002,Middlesbrough,45-64,male,10.6
+E06000002,Middlesbrough,65+,male,7.7
+E06000002,Middlesbrough,0-15,female,9.8
+E06000002,Middlesbrough,16-29,female,9.2
+E06000002,Middlesbrough,30-44,female,10.9
+E06000002,Middlesbrough,45-64,female,11.2
+E06000002,Middlesbrough,65+,female,9.2
+E07000228,Mid Sussex,0-15,male,9.8
+E07000228,Mid Sussex,16-29,male,6.7
+E07000228,Mid Sussex,30-44,male,9.5
+E07000228,Mid Sussex,45-64,male,13.1
+E07000228,Mid Sussex,65+,male,9.4
+E07000228,Mid Sussex,0-15,female,9.4
+E07000228,Mid Sussex,16-29,female,6.3
+E07000228,Mid Sussex,30-44,female,10.5
+E07000228,Mid Sussex,45-64,female,13.7
+E07000228,Mid Sussex,65+,female,11.6
+E06000042,Milton Keynes,0-15,male,10.9
+E06000042,Milton Keynes,16-29,male,8.2
+E06000042,Milton Keynes,30-44,male,11.5
+E06000042,Milton Keynes,45-64,male,12.2
+E06000042,Milton Keynes,65+,male,6.5
+E06000042,Milton Keynes,0-15,female,10.4
+E06000042,Milton Keynes,16-29,female,7.7
+E06000042,Milton Keynes,30-44,female,12.4
+E06000042,Milton Keynes,45-64,female,12.5
+E06000042,Milton Keynes,65+,female,7.8
+E07000210,Mole Valley,0-15,male,8.7
+E07000210,Mole Valley,16-29,male,6.3
+E07000210,Mole Valley,30-44,male,7.9
+E07000210,Mole Valley,45-64,male,14.2
+E07000210,Mole Valley,65+,male,11.3
+E07000210,Mole Valley,0-15,female,8.5
+E07000210,Mole Valley,16-29,female,6.2
+E07000210,Mole Valley,30-44,female,8.7
+E07000210,Mole Valley,45-64,female,15.0
+E07000210,Mole Valley,65+,female,13.3
+E07000175,Newark and Sherwood,0-15,male,8.7
+E07000175,Newark and Sherwood,16-29,male,7.1
+E07000175,Newark and Sherwood,30-44,male,9.2
+E07000175,Newark and Sherwood,45-64,male,13.3
+E07000175,Newark and Sherwood,65+,male,10.8
+E07000175,Newark and Sherwood,0-15,female,8.3
+E07000175,Newark and Sherwood,16-29,female,6.9
+E07000175,Newark and Sherwood,30-44,female,9.6
+E07000175,Newark and Sherwood,45-64,female,13.7
+E07000175,Newark and Sherwood,65+,female,12.3
+E07000195,Newcastle-under-Lyme,0-15,male,8.3
+E07000195,Newcastle-under-Lyme,16-29,male,8.9
+E07000195,Newcastle-under-Lyme,30-44,male,8.9
+E07000195,Newcastle-under-Lyme,45-64,male,12.6
+E07000195,Newcastle-under-Lyme,65+,male,10.1
+E07000195,Newcastle-under-Lyme,0-15,female,7.8
+E07000195,Newcastle-under-Lyme,16-29,female,9.4
+E07000195,Newcastle-under-Lyme,30-44,female,9.4
+E07000195,Newcastle-under-Lyme,45-64,female,13.0
+E07000195,Newcastle-under-Lyme,65+,female,11.7
+E08000021,Newcastle upon Tyne,0-15,male,8.6
+E08000021,Newcastle upon Tyne,16-29,male,13.9
+E08000021,Newcastle upon Tyne,30-44,male,9.8
+E08000021,Newcastle upon Tyne,45-64,male,10.3
+E08000021,Newcastle upon Tyne,65+,male,6.8
+E08000021,Newcastle upon Tyne,0-15,female,8.2
+E08000021,Newcastle upon Tyne,16-29,female,14.0
+E08000021,Newcastle upon Tyne,30-44,female,10.1
+E08000021,Newcastle upon Tyne,45-64,female,10.3
+E08000021,Newcastle upon Tyne,65+,female,8.1
+E07000091,New Forest,0-15,male,7.7
+E07000091,New Forest,16-29,male,6.0
+E07000091,New Forest,30-44,male,7.1
+E07000091,New Forest,45-64,male,13.2
+E07000091,New Forest,65+,male,14.1
+E07000091,New Forest,0-15,female,7.2
+E07000091,New Forest,16-29,female,5.7
+E07000091,New Forest,30-44,female,7.9
+E07000091,New Forest,45-64,female,14.4
+E07000091,New Forest,65+,female,16.7
+E10000020,Norfolk,0-15,male,8.2
+E10000020,Norfolk,16-29,male,7.6
+E10000020,Norfolk,30-44,male,8.8
+E10000020,Norfolk,45-64,male,12.8
+E10000020,Norfolk,65+,male,11.7
+E10000020,Norfolk,0-15,female,7.8
+E10000020,Norfolk,16-29,female,7.3
+E10000020,Norfolk,30-44,female,9.2
+E10000020,Norfolk,45-64,female,13.3
+E10000020,Norfolk,65+,female,13.4
+E07000043,North Devon,0-15,male,8.3
+E07000043,North Devon,16-29,male,6.6
+E07000043,North Devon,30-44,male,7.9
+E07000043,North Devon,45-64,male,13.4
+E07000043,North Devon,65+,male,12.4
+E07000043,North Devon,0-15,female,8.0
+E07000043,North Devon,16-29,female,6.3
+E07000043,North Devon,30-44,female,8.7
+E07000043,North Devon,45-64,female,14.2
+E07000043,North Devon,65+,female,14.2
+E07000038,North East Derbyshire,0-15,male,8.5
+E07000038,North East Derbyshire,16-29,male,6.5
+E07000038,North East Derbyshire,30-44,male,8.9
+E07000038,North East Derbyshire,45-64,male,13.2
+E07000038,North East Derbyshire,65+,male,11.6
+E07000038,North East Derbyshire,0-15,female,8.1
+E07000038,North East Derbyshire,16-29,female,6.6
+E07000038,North East Derbyshire,30-44,female,9.5
+E07000038,North East Derbyshire,45-64,female,13.8
+E07000038,North East Derbyshire,65+,female,13.3
+E06000012,North East Lincolnshire,0-15,male,9.4
+E06000012,North East Lincolnshire,16-29,male,7.5
+E06000012,North East Lincolnshire,30-44,male,9.2
+E06000012,North East Lincolnshire,45-64,male,12.9
+E06000012,North East Lincolnshire,65+,male,10.1
+E06000012,North East Lincolnshire,0-15,female,9.1
+E06000012,North East Lincolnshire,16-29,female,7.0
+E06000012,North East Lincolnshire,30-44,female,9.9
+E06000012,North East Lincolnshire,45-64,female,13.3
+E06000012,North East Lincolnshire,65+,female,11.6
+E07000099,North Hertfordshire,0-15,male,9.6
+E07000099,North Hertfordshire,16-29,male,6.8
+E07000099,North Hertfordshire,30-44,male,10.0
+E07000099,North Hertfordshire,45-64,male,12.9
+E07000099,North Hertfordshire,65+,male,9.2
+E07000099,North Hertfordshire,0-15,female,9.1
+E07000099,North Hertfordshire,16-29,female,6.9
+E07000099,North Hertfordshire,30-44,female,11.0
+E07000099,North Hertfordshire,45-64,female,13.6
+E07000099,North Hertfordshire,65+,female,11.0
+E07000139,North Kesteven,0-15,male,8.4
+E07000139,North Kesteven,16-29,male,7.3
+E07000139,North Kesteven,30-44,male,8.7
+E07000139,North Kesteven,45-64,male,13.3
+E07000139,North Kesteven,65+,male,11.3
+E07000139,North Kesteven,0-15,female,8.2
+E07000139,North Kesteven,16-29,female,6.5
+E07000139,North Kesteven,30-44,female,9.3
+E07000139,North Kesteven,45-64,female,14.2
+E07000139,North Kesteven,65+,female,12.7
+E06000013,North Lincolnshire,0-15,male,8.9
+E06000013,North Lincolnshire,16-29,male,7.2
+E06000013,North Lincolnshire,30-44,male,9.0
+E06000013,North Lincolnshire,45-64,male,13.4
+E06000013,North Lincolnshire,65+,male,10.7
+E06000013,North Lincolnshire,0-15,female,8.7
+E06000013,North Lincolnshire,16-29,female,6.7
+E06000013,North Lincolnshire,30-44,female,9.4
+E06000013,North Lincolnshire,45-64,female,13.6
+E06000013,North Lincolnshire,65+,female,12.3
+E07000147,North Norfolk,0-15,male,6.8
+E07000147,North Norfolk,16-29,male,5.8
+E07000147,North Norfolk,30-44,male,6.7
+E07000147,North Norfolk,45-64,male,13.1
+E07000147,North Norfolk,65+,male,16.4
+E07000147,North Norfolk,0-15,female,6.2
+E07000147,North Norfolk,16-29,female,5.2
+E07000147,North Norfolk,30-44,female,6.9
+E07000147,North Norfolk,45-64,female,14.4
+E07000147,North Norfolk,65+,female,18.6
+E06000061,North Northamptonshire,0-15,male,9.9
+E06000061,North Northamptonshire,16-29,male,7.5
+E06000061,North Northamptonshire,30-44,male,10.4
+E06000061,North Northamptonshire,45-64,male,13.0
+E06000061,North Northamptonshire,65+,male,8.5
+E06000061,North Northamptonshire,0-15,female,9.4
+E06000061,North Northamptonshire,16-29,female,7.3
+E06000061,North Northamptonshire,30-44,female,11.0
+E06000061,North Northamptonshire,45-64,female,13.2
+E06000061,North Northamptonshire,65+,female,9.9
+E06000024,North Somerset,0-15,male,8.9
+E06000024,North Somerset,16-29,male,6.7
+E06000024,North Somerset,30-44,male,9.0
+E06000024,North Somerset,45-64,male,13.1
+E06000024,North Somerset,65+,male,11.0
+E06000024,North Somerset,0-15,female,8.4
+E06000024,North Somerset,16-29,female,6.6
+E06000024,North Somerset,30-44,female,9.7
+E06000024,North Somerset,45-64,female,13.5
+E06000024,North Somerset,65+,female,13.1
+E08000022,North Tyneside,0-15,male,9.0
+E08000022,North Tyneside,16-29,male,7.2
+E08000022,North Tyneside,30-44,male,10.0
+E08000022,North Tyneside,45-64,male,12.8
+E08000022,North Tyneside,65+,male,9.6
+E08000022,North Tyneside,0-15,female,8.3
+E08000022,North Tyneside,16-29,female,7.0
+E08000022,North Tyneside,30-44,female,10.8
+E08000022,North Tyneside,45-64,female,13.5
+E08000022,North Tyneside,65+,female,11.7
+E06000057,Northumberland,0-15,male,8.1
+E06000057,Northumberland,16-29,male,6.7
+E06000057,Northumberland,30-44,male,8.1
+E06000057,Northumberland,45-64,male,13.5
+E06000057,Northumberland,65+,male,12.5
+E06000057,Northumberland,0-15,female,7.6
+E06000057,Northumberland,16-29,female,6.2
+E06000057,Northumberland,30-44,female,8.7
+E06000057,Northumberland,45-64,female,14.4
+E06000057,Northumberland,65+,female,14.3
+E07000134,North West Leicestershire,0-15,male,9.0
+E07000134,North West Leicestershire,16-29,male,7.4
+E07000134,North West Leicestershire,30-44,male,9.8
+E07000134,North West Leicestershire,45-64,male,13.4
+E07000134,North West Leicestershire,65+,male,9.6
+E07000134,North West Leicestershire,0-15,female,8.6
+E07000134,North West Leicestershire,16-29,female,7.7
+E07000134,North West Leicestershire,30-44,female,10.5
+E07000134,North West Leicestershire,45-64,female,13.6
+E07000134,North West Leicestershire,65+,female,10.6
+E06000065,North Yorkshire,0-15,male,8.1
+E06000065,North Yorkshire,16-29,male,6.9
+E06000065,North Yorkshire,30-44,male,8.2
+E06000065,North Yorkshire,45-64,male,13.5
+E06000065,North Yorkshire,65+,male,12.2
+E06000065,North Yorkshire,0-15,female,7.7
+E06000065,North Yorkshire,16-29,female,6.1
+E06000065,North Yorkshire,30-44,female,8.7
+E06000065,North Yorkshire,45-64,female,14.6
+E06000065,North Yorkshire,65+,female,14.0
+E07000148,Norwich,0-15,male,7.9
+E07000148,Norwich,16-29,male,12.7
+E07000148,Norwich,30-44,male,11.5
+E07000148,Norwich,45-64,male,10.7
+E07000148,Norwich,65+,male,6.8
+E07000148,Norwich,0-15,female,7.6
+E07000148,Norwich,16-29,female,13.1
+E07000148,Norwich,30-44,female,11.0
+E07000148,Norwich,45-64,female,10.4
+E07000148,Norwich,65+,female,8.2
+E06000018,Nottingham,0-15,male,9.2
+E06000018,Nottingham,16-29,male,14.5
+E06000018,Nottingham,30-44,male,9.8
+E06000018,Nottingham,45-64,male,9.9
+E06000018,Nottingham,65+,male,5.5
+E06000018,Nottingham,0-15,female,8.7
+E06000018,Nottingham,16-29,female,15.3
+E06000018,Nottingham,30-44,female,10.8
+E06000018,Nottingham,45-64,female,9.9
+E06000018,Nottingham,65+,female,6.4
+E10000024,Nottinghamshire,0-15,male,9.0
+E10000024,Nottinghamshire,16-29,male,7.3
+E10000024,Nottinghamshire,30-44,male,9.6
+E10000024,Nottinghamshire,45-64,male,13.1
+E10000024,Nottinghamshire,65+,male,10.0
+E10000024,Nottinghamshire,0-15,female,8.6
+E10000024,Nottinghamshire,16-29,female,7.3
+E10000024,Nottinghamshire,30-44,female,10.1
+E10000024,Nottinghamshire,45-64,female,13.5
+E10000024,Nottinghamshire,65+,female,11.6
+E07000135,Oadby and Wigston,0-15,male,9.7
+E07000135,Oadby and Wigston,16-29,male,8.6
+E07000135,Oadby and Wigston,30-44,male,9.2
+E07000135,Oadby and Wigston,45-64,male,11.7
+E07000135,Oadby and Wigston,65+,male,9.4
+E07000135,Oadby and Wigston,0-15,female,9.2
+E07000135,Oadby and Wigston,16-29,female,8.4
+E07000135,Oadby and Wigston,30-44,female,10.2
+E07000135,Oadby and Wigston,45-64,female,12.4
+E07000135,Oadby and Wigston,65+,female,11.2
+E08000004,Oldham,0-15,male,11.4
+E08000004,Oldham,16-29,male,9.1
+E08000004,Oldham,30-44,male,9.7
+E08000004,Oldham,45-64,male,11.7
+E08000004,Oldham,65+,male,7.3
+E08000004,Oldham,0-15,female,11.0
+E08000004,Oldham,16-29,female,8.7
+E08000004,Oldham,30-44,female,10.8
+E08000004,Oldham,45-64,female,11.9
+E08000004,Oldham,65+,female,8.5
+E10000025,Oxfordshire,0-15,male,9.2
+E10000025,Oxfordshire,16-29,male,9.2
+E10000025,Oxfordshire,30-44,male,10.2
+E10000025,Oxfordshire,45-64,male,12.2
+E10000025,Oxfordshire,65+,male,8.4
+E10000025,Oxfordshire,0-15,female,8.5
+E10000025,Oxfordshire,16-29,female,8.9
+E10000025,Oxfordshire,30-44,female,10.7
+E10000025,Oxfordshire,45-64,female,12.6
+E10000025,Oxfordshire,65+,female,10.0
+E06000031,Peterborough,0-15,male,11.5
+E06000031,Peterborough,16-29,male,8.6
+E06000031,Peterborough,30-44,male,11.5
+E06000031,Peterborough,45-64,male,11.4
+E06000031,Peterborough,65+,male,6.6
+E06000031,Peterborough,0-15,female,10.8
+E06000031,Peterborough,16-29,female,7.9
+E06000031,Peterborough,30-44,female,12.1
+E06000031,Peterborough,45-64,female,11.7
+E06000031,Peterborough,65+,female,7.9
+E06000026,Plymouth,0-15,male,8.6
+E06000026,Plymouth,16-29,male,9.9
+E06000026,Plymouth,30-44,male,10.0
+E06000026,Plymouth,45-64,male,11.9
+E06000026,Plymouth,65+,male,8.7
+E06000026,Plymouth,0-15,female,8.1
+E06000026,Plymouth,16-29,female,10.1
+E06000026,Plymouth,30-44,female,10.3
+E06000026,Plymouth,45-64,female,12.1
+E06000026,Plymouth,65+,female,10.3
+E06000044,Portsmouth,0-15,male,9.0
+E06000044,Portsmouth,16-29,male,11.6
+E06000044,Portsmouth,30-44,male,11.1
+E06000044,Portsmouth,45-64,male,11.5
+E06000044,Portsmouth,65+,male,6.9
+E06000044,Portsmouth,0-15,female,8.6
+E06000044,Portsmouth,16-29,female,10.4
+E06000044,Portsmouth,30-44,female,11.4
+E06000044,Portsmouth,45-64,female,11.4
+E06000044,Portsmouth,65+,female,8.2
+E07000123,Preston,0-15,male,10.0
+E07000123,Preston,16-29,male,11.3
+E07000123,Preston,30-44,male,10.6
+E07000123,Preston,45-64,male,11.5
+E07000123,Preston,65+,male,6.7
+E07000123,Preston,0-15,female,9.6
+E07000123,Preston,16-29,female,10.5
+E07000123,Preston,30-44,female,10.9
+E07000123,Preston,45-64,female,11.2
+E07000123,Preston,65+,female,7.7
+E07000236,Redditch,0-15,male,9.8
+E07000236,Redditch,16-29,male,7.6
+E07000236,Redditch,30-44,male,10.6
+E07000236,Redditch,45-64,male,12.5
+E07000236,Redditch,65+,male,8.9
+E07000236,Redditch,0-15,female,9.0
+E07000236,Redditch,16-29,female,7.5
+E07000236,Redditch,30-44,female,11.2
+E07000236,Redditch,45-64,female,12.5
+E07000236,Redditch,65+,female,10.4
+E07000211,Reigate and Banstead,0-15,male,10.2
+E07000211,Reigate and Banstead,16-29,male,7.1
+E07000211,Reigate and Banstead,30-44,male,10.4
+E07000211,Reigate and Banstead,45-64,male,13.0
+E07000211,Reigate and Banstead,65+,male,8.3
+E07000211,Reigate and Banstead,0-15,female,9.6
+E07000211,Reigate and Banstead,16-29,female,6.7
+E07000211,Reigate and Banstead,30-44,female,11.5
+E07000211,Reigate and Banstead,45-64,female,13.3
+E07000211,Reigate and Banstead,65+,female,10.0
+E07000124,Ribble Valley,0-15,male,8.3
+E07000124,Ribble Valley,16-29,male,6.7
+E07000124,Ribble Valley,30-44,male,8.0
+E07000124,Ribble Valley,45-64,male,14.1
+E07000124,Ribble Valley,65+,male,11.7
+E07000124,Ribble Valley,0-15,female,7.8
+E07000124,Ribble Valley,16-29,female,6.5
+E07000124,Ribble Valley,30-44,female,8.7
+E07000124,Ribble Valley,45-64,female,14.9
+E07000124,Ribble Valley,65+,female,13.4
+E08000005,Rochdale,0-15,male,11.2
+E08000005,Rochdale,16-29,male,8.6
+E08000005,Rochdale,30-44,male,10.0
+E08000005,Rochdale,45-64,male,11.9
+E08000005,Rochdale,65+,male,7.6
+E08000005,Rochdale,0-15,female,10.5
+E08000005,Rochdale,16-29,female,8.2
+E08000005,Rochdale,30-44,female,11.1
+E08000005,Rochdale,45-64,female,12.1
+E08000005,Rochdale,65+,female,8.9
+E07000075,Rochford,0-15,male,9.1
+E07000075,Rochford,16-29,male,7.3
+E07000075,Rochford,30-44,male,8.6
+E07000075,Rochford,45-64,male,13.0
+E07000075,Rochford,65+,male,10.5
+E07000075,Rochford,0-15,female,8.7
+E07000075,Rochford,16-29,female,6.8
+E07000075,Rochford,30-44,female,9.5
+E07000075,Rochford,45-64,female,13.9
+E07000075,Rochford,65+,female,12.7
+E07000064,Rother,0-15,male,7.5
+E07000064,Rother,16-29,male,5.8
+E07000064,Rother,30-44,male,6.7
+E07000064,Rother,45-64,male,12.6
+E07000064,Rother,65+,male,14.8
+E07000064,Rother,0-15,female,7.1
+E07000064,Rother,16-29,female,5.8
+E07000064,Rother,30-44,female,7.5
+E07000064,Rother,45-64,female,14.3
+E07000064,Rother,65+,female,17.9
+E08000018,Rotherham,0-15,male,9.7
+E08000018,Rotherham,16-29,male,7.9
+E08000018,Rotherham,30-44,male,9.9
+E08000018,Rotherham,45-64,male,12.5
+E08000018,Rotherham,65+,male,9.2
+E08000018,Rotherham,0-15,female,9.2
+E08000018,Rotherham,16-29,female,7.7
+E08000018,Rotherham,30-44,female,10.5
+E08000018,Rotherham,45-64,female,12.9
+E08000018,Rotherham,65+,female,10.6
+E07000220,Rugby,0-15,male,10.0
+E07000220,Rugby,16-29,male,7.5
+E07000220,Rugby,30-44,male,11.1
+E07000220,Rugby,45-64,male,12.8
+E07000220,Rugby,65+,male,8.3
+E07000220,Rugby,0-15,female,9.6
+E07000220,Rugby,16-29,female,7.1
+E07000220,Rugby,30-44,female,11.4
+E07000220,Rugby,45-64,female,12.7
+E07000220,Rugby,65+,female,9.5
+E07000212,Runnymede,0-15,male,8.8
+E07000212,Runnymede,16-29,male,9.5
+E07000212,Runnymede,30-44,male,9.4
+E07000212,Runnymede,45-64,male,12.2
+E07000212,Runnymede,65+,male,7.8
+E07000212,Runnymede,0-15,female,8.4
+E07000212,Runnymede,16-29,female,11.3
+E07000212,Runnymede,30-44,female,10.4
+E07000212,Runnymede,45-64,female,12.7
+E07000212,Runnymede,65+,female,9.3
+E07000176,Rushcliffe,0-15,male,9.3
+E07000176,Rushcliffe,16-29,male,7.0
+E07000176,Rushcliffe,30-44,male,9.1
+E07000176,Rushcliffe,45-64,male,13.3
+E07000176,Rushcliffe,65+,male,10.1
+E07000176,Rushcliffe,0-15,female,8.7
+E07000176,Rushcliffe,16-29,female,7.3
+E07000176,Rushcliffe,30-44,female,9.6
+E07000176,Rushcliffe,45-64,female,13.5
+E07000176,Rushcliffe,65+,female,12.1
+E07000092,Rushmoor,0-15,male,9.7
+E07000092,Rushmoor,16-29,male,9.1
+E07000092,Rushmoor,30-44,male,12.3
+E07000092,Rushmoor,45-64,male,12.1
+E07000092,Rushmoor,65+,male,7.1
+E07000092,Rushmoor,0-15,female,9.0
+E07000092,Rushmoor,16-29,female,8.0
+E07000092,Rushmoor,30-44,female,12.4
+E07000092,Rushmoor,45-64,female,12.3
+E07000092,Rushmoor,65+,female,8.2
+E06000017,Rutland,0-15,male,8.1
+E06000017,Rutland,16-29,male,8.5
+E06000017,Rutland,30-44,male,8.9
+E06000017,Rutland,45-64,male,13.2
+E06000017,Rutland,65+,male,12.4
+E06000017,Rutland,0-15,female,7.5
+E06000017,Rutland,16-29,female,6.0
+E06000017,Rutland,30-44,female,7.6
+E06000017,Rutland,45-64,female,13.6
+E06000017,Rutland,65+,female,14.2
+E08000006,Salford,0-15,male,9.8
+E08000006,Salford,16-29,male,12.0
+E08000006,Salford,30-44,male,12.4
+E08000006,Salford,45-64,male,10.1
+E08000006,Salford,65+,male,5.9
+E08000006,Salford,0-15,female,9.2
+E08000006,Salford,16-29,female,12.4
+E08000006,Salford,30-44,female,11.6
+E08000006,Salford,45-64,female,9.7
+E08000006,Salford,65+,female,6.7
+E08000028,Sandwell,0-15,male,11.3
+E08000028,Sandwell,16-29,male,9.5
+E08000028,Sandwell,30-44,male,10.2
+E08000028,Sandwell,45-64,male,11.9
+E08000028,Sandwell,65+,male,6.6
+E08000028,Sandwell,0-15,female,10.6
+E08000028,Sandwell,16-29,female,8.8
+E08000028,Sandwell,30-44,female,11.3
+E08000028,Sandwell,45-64,female,11.9
+E08000028,Sandwell,65+,female,7.9
+E08000014,Sefton,0-15,male,8.7
+E08000014,Sefton,16-29,male,7.1
+E08000014,Sefton,30-44,male,9.1
+E08000014,Sefton,45-64,male,13.0
+E08000014,Sefton,65+,male,10.8
+E08000014,Sefton,0-15,female,8.2
+E08000014,Sefton,16-29,female,6.7
+E08000014,Sefton,30-44,female,9.7
+E08000014,Sefton,45-64,female,13.7
+E08000014,Sefton,65+,female,13.1
+E07000111,Sevenoaks,0-15,male,9.9
+E07000111,Sevenoaks,16-29,male,6.4
+E07000111,Sevenoaks,30-44,male,8.5
+E07000111,Sevenoaks,45-64,male,13.2
+E07000111,Sevenoaks,65+,male,10.1
+E07000111,Sevenoaks,0-15,female,9.5
+E07000111,Sevenoaks,16-29,female,6.4
+E07000111,Sevenoaks,30-44,female,9.8
+E07000111,Sevenoaks,45-64,female,14.0
+E07000111,Sevenoaks,65+,female,12.2
+E06000051,Shropshire,0-15,male,8.1
+E06000051,Shropshire,16-29,male,6.9
+E06000051,Shropshire,30-44,male,8.3
+E06000051,Shropshire,45-64,male,13.5
+E06000051,Shropshire,65+,male,12.4
+E06000051,Shropshire,0-15,female,7.6
+E06000051,Shropshire,16-29,female,6.3
+E06000051,Shropshire,30-44,female,8.5
+E06000051,Shropshire,45-64,female,14.2
+E06000051,Shropshire,65+,female,14.2
+E06000039,Slough,0-15,male,12.3
+E06000039,Slough,16-29,male,9.5
+E06000039,Slough,30-44,male,11.8
+E06000039,Slough,45-64,male,11.6
+E06000039,Slough,65+,male,4.6
+E06000039,Slough,0-15,female,11.9
+E06000039,Slough,16-29,female,8.9
+E06000039,Slough,30-44,female,13.1
+E06000039,Slough,45-64,female,11.1
+E06000039,Slough,65+,female,5.2
+E08000029,Solihull,0-15,male,10.1
+E08000029,Solihull,16-29,male,7.5
+E08000029,Solihull,30-44,male,8.8
+E08000029,Solihull,45-64,male,12.5
+E08000029,Solihull,65+,male,9.6
+E08000029,Solihull,0-15,female,9.4
+E08000029,Solihull,16-29,female,6.9
+E08000029,Solihull,30-44,female,10.0
+E08000029,Solihull,45-64,female,13.3
+E08000029,Solihull,65+,female,11.8
+E06000045,Southampton,0-15,male,8.7
+E06000045,Southampton,16-29,male,13.0
+E06000045,Southampton,30-44,male,11.0
+E06000045,Southampton,45-64,male,10.7
+E06000045,Southampton,65+,male,6.4
+E06000045,Southampton,0-15,female,8.2
+E06000045,Southampton,16-29,female,13.0
+E06000045,Southampton,30-44,female,11.2
+E06000045,Southampton,45-64,female,10.4
+E06000045,Southampton,65+,female,7.3
+E07000012,South Cambridgeshire,0-15,male,10.0
+E07000012,South Cambridgeshire,16-29,male,6.6
+E07000012,South Cambridgeshire,30-44,male,9.8
+E07000012,South Cambridgeshire,45-64,male,13.1
+E07000012,South Cambridgeshire,65+,male,9.2
+E07000012,South Cambridgeshire,0-15,female,9.6
+E07000012,South Cambridgeshire,16-29,female,6.3
+E07000012,South Cambridgeshire,30-44,female,10.9
+E07000012,South Cambridgeshire,45-64,female,13.7
+E07000012,South Cambridgeshire,65+,female,10.7
+E07000039,South Derbyshire,0-15,male,9.5
+E07000039,South Derbyshire,16-29,male,7.4
+E07000039,South Derbyshire,30-44,male,10.0
+E07000039,South Derbyshire,45-64,male,13.2
+E07000039,South Derbyshire,65+,male,8.8
+E07000039,South Derbyshire,0-15,female,9.2
+E07000039,South Derbyshire,16-29,female,7.5
+E07000039,South Derbyshire,30-44,female,10.8
+E07000039,South Derbyshire,45-64,female,13.7
+E07000039,South Derbyshire,65+,female,10.1
+E06000033,Southend-on-Sea,0-15,male,9.5
+E06000033,Southend-on-Sea,16-29,male,7.5
+E06000033,Southend-on-Sea,30-44,male,10.0
+E06000033,Southend-on-Sea,45-64,male,12.9
+E06000033,Southend-on-Sea,65+,male,8.7
+E06000033,Southend-on-Sea,0-15,female,9.3
+E06000033,Southend-on-Sea,16-29,female,7.3
+E06000033,Southend-on-Sea,30-44,female,10.8
+E06000033,Southend-on-Sea,45-64,female,13.2
+E06000033,Southend-on-Sea,65+,female,10.8
+E06000025,South Gloucestershire,0-15,male,9.3
+E06000025,South Gloucestershire,16-29,male,9.0
+E06000025,South Gloucestershire,30-44,male,10.4
+E06000025,South Gloucestershire,45-64,male,12.1
+E06000025,South Gloucestershire,65+,male,8.6
+E06000025,South Gloucestershire,0-15,female,8.7
+E06000025,South Gloucestershire,16-29,female,8.4
+E06000025,South Gloucestershire,30-44,female,10.9
+E06000025,South Gloucestershire,45-64,female,12.3
+E06000025,South Gloucestershire,65+,female,10.1
+E07000044,South Hams,0-15,male,8.0
+E07000044,South Hams,16-29,male,5.9
+E07000044,South Hams,30-44,male,7.4
+E07000044,South Hams,45-64,male,13.3
+E07000044,South Hams,65+,male,13.5
+E07000044,South Hams,0-15,female,7.6
+E07000044,South Hams,16-29,female,5.5
+E07000044,South Hams,30-44,female,8.3
+E07000044,South Hams,45-64,female,15.0
+E07000044,South Hams,65+,female,15.5
+E07000140,South Holland,0-15,male,8.7
+E07000140,South Holland,16-29,male,6.7
+E07000140,South Holland,30-44,male,9.0
+E07000140,South Holland,45-64,male,13.4
+E07000140,South Holland,65+,male,11.3
+E07000140,South Holland,0-15,female,8.3
+E07000140,South Holland,16-29,female,6.5
+E07000140,South Holland,30-44,female,9.4
+E07000140,South Holland,45-64,female,13.9
+E07000140,South Holland,65+,female,12.9
+E07000141,South Kesteven,0-15,male,8.8
+E07000141,South Kesteven,16-29,male,6.5
+E07000141,South Kesteven,30-44,male,8.5
+E07000141,South Kesteven,45-64,male,13.4
+E07000141,South Kesteven,65+,male,11.0
+E07000141,South Kesteven,0-15,female,8.4
+E07000141,South Kesteven,16-29,female,6.7
+E07000141,South Kesteven,30-44,female,9.5
+E07000141,South Kesteven,45-64,female,14.2
+E07000141,South Kesteven,65+,female,12.9
+E07000149,South Norfolk,0-15,male,8.9
+E07000149,South Norfolk,16-29,male,6.3
+E07000149,South Norfolk,30-44,male,8.7
+E07000149,South Norfolk,45-64,male,13.1
+E07000149,South Norfolk,65+,male,11.6
+E07000149,South Norfolk,0-15,female,8.5
+E07000149,South Norfolk,16-29,female,6.1
+E07000149,South Norfolk,30-44,female,9.7
+E07000149,South Norfolk,45-64,female,13.8
+E07000149,South Norfolk,65+,female,13.2
+E07000179,South Oxfordshire,0-15,male,9.3
+E07000179,South Oxfordshire,16-29,male,6.9
+E07000179,South Oxfordshire,30-44,male,9.6
+E07000179,South Oxfordshire,45-64,male,13.5
+E07000179,South Oxfordshire,65+,male,9.7
+E07000179,South Oxfordshire,0-15,female,8.8
+E07000179,South Oxfordshire,16-29,female,6.5
+E07000179,South Oxfordshire,30-44,female,10.2
+E07000179,South Oxfordshire,45-64,female,13.9
+E07000179,South Oxfordshire,65+,female,11.6
+E07000126,South Ribble,0-15,male,8.8
+E07000126,South Ribble,16-29,male,7.2
+E07000126,South Ribble,30-44,male,9.4
+E07000126,South Ribble,45-64,male,13.3
+E07000126,South Ribble,65+,male,10.2
+E07000126,South Ribble,0-15,female,8.5
+E07000126,South Ribble,16-29,female,7.1
+E07000126,South Ribble,30-44,female,9.9
+E07000126,South Ribble,45-64,female,13.8
+E07000126,South Ribble,65+,female,11.9
+E07000196,South Staffordshire,0-15,male,8.0
+E07000196,South Staffordshire,16-29,male,7.2
+E07000196,South Staffordshire,30-44,male,9.0
+E07000196,South Staffordshire,45-64,male,13.7
+E07000196,South Staffordshire,65+,male,12.0
+E07000196,South Staffordshire,0-15,female,7.7
+E07000196,South Staffordshire,16-29,female,6.1
+E07000196,South Staffordshire,30-44,female,8.7
+E07000196,South Staffordshire,45-64,female,13.8
+E07000196,South Staffordshire,65+,female,13.9
+E08000023,South Tyneside,0-15,male,9.2
+E08000023,South Tyneside,16-29,male,7.6
+E08000023,South Tyneside,30-44,male,9.5
+E08000023,South Tyneside,45-64,male,12.6
+E08000023,South Tyneside,65+,male,9.9
+E08000023,South Tyneside,0-15,female,8.6
+E08000023,South Tyneside,16-29,female,7.2
+E08000023,South Tyneside,30-44,female,10.2
+E08000023,South Tyneside,45-64,female,13.4
+E08000023,South Tyneside,65+,female,11.7
+E09000028,Southwark,0-15,male,7.8
+E09000028,Southwark,16-29,male,12.1
+E09000028,Southwark,30-44,male,13.4
+E09000028,Southwark,45-64,male,10.9
+E09000028,Southwark,65+,male,4.1
+E09000028,Southwark,0-15,female,7.4
+E09000028,Southwark,16-29,female,14.0
+E09000028,Southwark,30-44,female,13.6
+E09000028,Southwark,45-64,female,11.7
+E09000028,Southwark,65+,female,5.0
+E07000213,Spelthorne,0-15,male,9.9
+E07000213,Spelthorne,16-29,male,7.3
+E07000213,Spelthorne,30-44,male,10.6
+E07000213,Spelthorne,45-64,male,13.0
+E07000213,Spelthorne,65+,male,8.2
+E07000213,Spelthorne,0-15,female,9.2
+E07000213,Spelthorne,16-29,female,7.2
+E07000213,Spelthorne,30-44,female,11.5
+E07000213,Spelthorne,45-64,female,13.1
+E07000213,Spelthorne,65+,female,9.8
+E07000197,Stafford,0-15,male,8.5
+E07000197,Stafford,16-29,male,7.0
+E07000197,Stafford,30-44,male,9.6
+E07000197,Stafford,45-64,male,13.3
+E07000197,Stafford,65+,male,11.0
+E07000197,Stafford,0-15,female,8.2
+E07000197,Stafford,16-29,female,6.6
+E07000197,Stafford,30-44,female,9.8
+E07000197,Stafford,45-64,female,13.7
+E07000197,Stafford,65+,female,12.4
+E10000028,Staffordshire,0-15,male,8.7
+E10000028,Staffordshire,16-29,male,7.5
+E10000028,Staffordshire,30-44,male,9.4
+E10000028,Staffordshire,45-64,male,13.2
+E10000028,Staffordshire,65+,male,10.5
+E10000028,Staffordshire,0-15,female,8.3
+E10000028,Staffordshire,16-29,female,7.2
+E10000028,Staffordshire,30-44,female,9.6
+E10000028,Staffordshire,45-64,female,13.5
+E10000028,Staffordshire,65+,female,12.1
+E07000198,Staffordshire Moorlands,0-15,male,7.9
+E07000198,Staffordshire Moorlands,16-29,male,6.5
+E07000198,Staffordshire Moorlands,30-44,male,7.8
+E07000198,Staffordshire Moorlands,45-64,male,14.1
+E07000198,Staffordshire Moorlands,65+,male,12.8
+E07000198,Staffordshire Moorlands,0-15,female,7.4
+E07000198,Staffordshire Moorlands,16-29,female,6.3
+E07000198,Staffordshire Moorlands,30-44,female,8.3
+E07000198,Staffordshire Moorlands,45-64,female,14.4
+E07000198,Staffordshire Moorlands,65+,female,14.4
+E07000240,St Albans,0-15,male,10.8
+E07000240,St Albans,16-29,male,6.8
+E07000240,St Albans,30-44,male,9.2
+E07000240,St Albans,45-64,male,13.9
+E07000240,St Albans,65+,male,8.0
+E07000240,St Albans,0-15,female,10.2
+E07000240,St Albans,16-29,female,6.6
+E07000240,St Albans,30-44,female,10.3
+E07000240,St Albans,45-64,female,14.4
+E07000240,St Albans,65+,female,9.7
+E07000243,Stevenage,0-15,male,10.3
+E07000243,Stevenage,16-29,male,8.3
+E07000243,Stevenage,30-44,male,11.5
+E07000243,Stevenage,45-64,male,12.1
+E07000243,Stevenage,65+,male,7.2
+E07000243,Stevenage,0-15,female,9.7
+E07000243,Stevenage,16-29,female,7.6
+E07000243,Stevenage,30-44,female,12.3
+E07000243,Stevenage,45-64,female,12.5
+E07000243,Stevenage,65+,female,8.6
+E08000013,St. Helens,0-15,male,9.1
+E08000013,St. Helens,16-29,male,7.8
+E08000013,St. Helens,30-44,male,9.8
+E08000013,St. Helens,45-64,male,13.0
+E08000013,St. Helens,65+,male,9.6
+E08000013,St. Helens,0-15,female,8.5
+E08000013,St. Helens,16-29,female,7.5
+E08000013,St. Helens,30-44,female,10.4
+E08000013,St. Helens,45-64,female,13.3
+E08000013,St. Helens,65+,female,11.1
+E08000007,Stockport,0-15,male,9.6
+E08000007,Stockport,16-29,male,7.1
+E08000007,Stockport,30-44,male,10.2
+E08000007,Stockport,45-64,male,12.6
+E08000007,Stockport,65+,male,9.2
+E08000007,Stockport,0-15,female,9.3
+E08000007,Stockport,16-29,female,6.7
+E08000007,Stockport,30-44,female,11.0
+E08000007,Stockport,45-64,female,13.1
+E08000007,Stockport,65+,female,11.1
+E06000021,Stoke-on-Trent,0-15,male,10.2
+E06000021,Stoke-on-Trent,16-29,male,9.5
+E06000021,Stoke-on-Trent,30-44,male,10.7
+E06000021,Stoke-on-Trent,45-64,male,11.8
+E06000021,Stoke-on-Trent,65+,male,8.0
+E06000021,Stoke-on-Trent,0-15,female,10.0
+E06000021,Stoke-on-Trent,16-29,female,8.5
+E06000021,Stoke-on-Trent,30-44,female,10.7
+E06000021,Stoke-on-Trent,45-64,female,11.5
+E06000021,Stoke-on-Trent,65+,female,9.1
+E07000221,Stratford-on-Avon,0-15,male,8.3
+E07000221,Stratford-on-Avon,16-29,male,6.3
+E07000221,Stratford-on-Avon,30-44,male,8.7
+E07000221,Stratford-on-Avon,45-64,male,13.5
+E07000221,Stratford-on-Avon,65+,male,11.8
+E07000221,Stratford-on-Avon,0-15,female,8.0
+E07000221,Stratford-on-Avon,16-29,female,6.1
+E07000221,Stratford-on-Avon,30-44,female,9.3
+E07000221,Stratford-on-Avon,45-64,female,14.4
+E07000221,Stratford-on-Avon,65+,female,13.7
+E07000082,Stroud,0-15,male,8.7
+E07000082,Stroud,16-29,male,6.4
+E07000082,Stroud,30-44,male,8.7
+E07000082,Stroud,45-64,male,13.7
+E07000082,Stroud,65+,male,11.1
+E07000082,Stroud,0-15,female,8.3
+E07000082,Stroud,16-29,female,6.2
+E07000082,Stroud,30-44,female,9.5
+E07000082,Stroud,45-64,female,14.6
+E07000082,Stroud,65+,female,12.9
+E10000029,Suffolk,0-15,male,8.7
+E10000029,Suffolk,16-29,male,7.4
+E10000029,Suffolk,30-44,male,9.0
+E10000029,Suffolk,45-64,male,12.8
+E10000029,Suffolk,65+,male,11.3
+E10000029,Suffolk,0-15,female,8.3
+E10000029,Suffolk,16-29,female,6.8
+E10000029,Suffolk,30-44,female,9.3
+E10000029,Suffolk,45-64,female,13.3
+E10000029,Suffolk,65+,female,13.0
+E08000024,Sunderland,0-15,male,8.8
+E08000024,Sunderland,16-29,male,8.1
+E08000024,Sunderland,30-44,male,9.9
+E08000024,Sunderland,45-64,male,12.4
+E08000024,Sunderland,65+,male,9.6
+E08000024,Sunderland,0-15,female,8.3
+E08000024,Sunderland,16-29,female,7.9
+E08000024,Sunderland,30-44,female,10.5
+E08000024,Sunderland,45-64,female,13.1
+E08000024,Sunderland,65+,female,11.3
+E10000030,Surrey,0-15,male,9.6
+E10000030,Surrey,16-29,male,7.6
+E10000030,Surrey,30-44,male,9.4
+E10000030,Surrey,45-64,male,13.2
+E10000030,Surrey,65+,male,8.7
+E10000030,Surrey,0-15,female,9.2
+E10000030,Surrey,16-29,female,7.6
+E10000030,Surrey,30-44,female,10.4
+E10000030,Surrey,45-64,female,13.7
+E10000030,Surrey,65+,female,10.5
+E07000214,Surrey Heath,0-15,male,9.4
+E07000214,Surrey Heath,16-29,male,7.2
+E07000214,Surrey Heath,30-44,male,9.5
+E07000214,Surrey Heath,45-64,male,13.8
+E07000214,Surrey Heath,65+,male,9.3
+E07000214,Surrey Heath,0-15,female,8.8
+E07000214,Surrey Heath,16-29,female,6.9
+E07000214,Surrey Heath,30-44,female,10.0
+E07000214,Surrey Heath,45-64,female,13.9
+E07000214,Surrey Heath,65+,female,11.2
+E09000029,Sutton,0-15,male,10.7
+E09000029,Sutton,16-29,male,7.4
+E09000029,Sutton,30-44,male,10.5
+E09000029,Sutton,45-64,male,13.1
+E09000029,Sutton,65+,male,6.8
+E09000029,Sutton,0-15,female,10.0
+E09000029,Sutton,16-29,female,7.1
+E09000029,Sutton,30-44,female,12.2
+E09000029,Sutton,45-64,female,13.6
+E09000029,Sutton,65+,female,8.6
+E07000113,Swale,0-15,male,10.0
+E07000113,Swale,16-29,male,7.7
+E07000113,Swale,30-44,male,10.0
+E07000113,Swale,45-64,male,12.7
+E07000113,Swale,65+,male,9.0
+E07000113,Swale,0-15,female,9.5
+E07000113,Swale,16-29,female,7.3
+E07000113,Swale,30-44,female,10.6
+E07000113,Swale,45-64,female,13.0
+E07000113,Swale,65+,female,10.2
+E08000008,Tameside,0-15,male,10.0
+E08000008,Tameside,16-29,male,8.1
+E08000008,Tameside,30-44,male,10.2
+E08000008,Tameside,45-64,male,12.7
+E08000008,Tameside,65+,male,8.2
+E08000008,Tameside,0-15,female,9.4
+E08000008,Tameside,16-29,female,7.9
+E08000008,Tameside,30-44,female,11.2
+E08000008,Tameside,45-64,female,12.7
+E08000008,Tameside,65+,female,9.5
+E07000199,Tamworth,0-15,male,9.5
+E07000199,Tamworth,16-29,male,7.8
+E07000199,Tamworth,30-44,male,10.4
+E07000199,Tamworth,45-64,male,12.5
+E07000199,Tamworth,65+,male,8.8
+E07000199,Tamworth,0-15,female,9.1
+E07000199,Tamworth,16-29,female,7.4
+E07000199,Tamworth,30-44,female,10.8
+E07000199,Tamworth,45-64,female,13.0
+E07000199,Tamworth,65+,female,10.6
+E07000215,Tandridge,0-15,male,9.7
+E07000215,Tandridge,16-29,male,6.7
+E07000215,Tandridge,30-44,male,8.5
+E07000215,Tandridge,45-64,male,13.4
+E07000215,Tandridge,65+,male,9.6
+E07000215,Tandridge,0-15,female,9.3
+E07000215,Tandridge,16-29,female,6.8
+E07000215,Tandridge,30-44,female,10.1
+E07000215,Tandridge,45-64,female,13.9
+E07000215,Tandridge,65+,female,11.9
+E07000045,Teignbridge,0-15,male,8.0
+E07000045,Teignbridge,16-29,male,6.2
+E07000045,Teignbridge,30-44,male,8.2
+E07000045,Teignbridge,45-64,male,13.3
+E07000045,Teignbridge,65+,male,12.9
+E07000045,Teignbridge,0-15,female,7.5
+E07000045,Teignbridge,16-29,female,5.8
+E07000045,Teignbridge,30-44,female,8.7
+E07000045,Teignbridge,45-64,female,14.5
+E07000045,Teignbridge,65+,female,15.1
+E06000020,Telford and Wrekin,0-15,male,10.1
+E06000020,Telford and Wrekin,16-29,male,8.1
+E06000020,Telford and Wrekin,30-44,male,9.9
+E06000020,Telford and Wrekin,45-64,male,12.5
+E06000020,Telford and Wrekin,65+,male,8.3
+E06000020,Telford and Wrekin,0-15,female,9.6
+E06000020,Telford and Wrekin,16-29,female,8.2
+E06000020,Telford and Wrekin,30-44,female,10.7
+E06000020,Telford and Wrekin,45-64,female,12.9
+E06000020,Telford and Wrekin,65+,female,9.6
+E07000076,Tendring,0-15,male,8.1
+E07000076,Tendring,16-29,male,6.4
+E07000076,Tendring,30-44,male,7.5
+E07000076,Tendring,45-64,male,12.6
+E07000076,Tendring,65+,male,13.6
+E07000076,Tendring,0-15,female,7.7
+E07000076,Tendring,16-29,female,6.2
+E07000076,Tendring,30-44,female,8.2
+E07000076,Tendring,45-64,female,13.6
+E07000076,Tendring,65+,female,16.0
+E07000093,Test Valley,0-15,male,9.2
+E07000093,Test Valley,16-29,male,6.6
+E07000093,Test Valley,30-44,male,9.6
+E07000093,Test Valley,45-64,male,13.2
+E07000093,Test Valley,65+,male,10.2
+E07000093,Test Valley,0-15,female,8.9
+E07000093,Test Valley,16-29,female,6.5
+E07000093,Test Valley,30-44,female,10.2
+E07000093,Test Valley,45-64,female,13.8
+E07000093,Test Valley,65+,female,11.8
+E07000083,Tewkesbury,0-15,male,9.7
+E07000083,Tewkesbury,16-29,male,6.4
+E07000083,Tewkesbury,30-44,male,9.6
+E07000083,Tewkesbury,45-64,male,12.4
+E07000083,Tewkesbury,65+,male,10.1
+E07000083,Tewkesbury,0-15,female,9.1
+E07000083,Tewkesbury,16-29,female,6.7
+E07000083,Tewkesbury,30-44,female,10.7
+E07000083,Tewkesbury,45-64,female,13.3
+E07000083,Tewkesbury,65+,female,11.9
+E07000114,Thanet,0-15,male,9.2
+E07000114,Thanet,16-29,male,6.9
+E07000114,Thanet,30-44,male,8.7
+E07000114,Thanet,45-64,male,12.4
+E07000114,Thanet,65+,male,10.9
+E07000114,Thanet,0-15,female,8.4
+E07000114,Thanet,16-29,female,6.6
+E07000114,Thanet,30-44,female,10.0
+E07000114,Thanet,45-64,female,13.6
+E07000114,Thanet,65+,female,13.2
+E07000102,Three Rivers,0-15,male,10.0
+E07000102,Three Rivers,16-29,male,7.5
+E07000102,Three Rivers,30-44,male,9.2
+E07000102,Three Rivers,45-64,male,13.7
+E07000102,Three Rivers,65+,male,8.5
+E07000102,Three Rivers,0-15,female,9.5
+E07000102,Three Rivers,16-29,female,6.9
+E07000102,Three Rivers,30-44,female,10.5
+E07000102,Three Rivers,45-64,female,14.1
+E07000102,Three Rivers,65+,female,10.2
+E06000034,Thurrock,0-15,male,11.5
+E06000034,Thurrock,16-29,male,8.2
+E06000034,Thurrock,30-44,male,11.1
+E06000034,Thurrock,45-64,male,11.9
+E06000034,Thurrock,65+,male,6.2
+E06000034,Thurrock,0-15,female,10.9
+E06000034,Thurrock,16-29,female,8.2
+E06000034,Thurrock,30-44,female,12.5
+E06000034,Thurrock,45-64,female,12.2
+E06000034,Thurrock,65+,female,7.4
+E07000115,Tonbridge and Malling,0-15,male,10.2
+E07000115,Tonbridge and Malling,16-29,male,6.9
+E07000115,Tonbridge and Malling,30-44,male,9.3
+E07000115,Tonbridge and Malling,45-64,male,13.2
+E07000115,Tonbridge and Malling,65+,male,8.9
+E07000115,Tonbridge and Malling,0-15,female,9.6
+E07000115,Tonbridge and Malling,16-29,female,6.8
+E07000115,Tonbridge and Malling,30-44,female,10.8
+E07000115,Tonbridge and Malling,45-64,female,13.8
+E07000115,Tonbridge and Malling,65+,female,10.6
+E06000027,Torbay,0-15,male,7.9
+E06000027,Torbay,16-29,male,6.6
+E06000027,Torbay,30-44,male,8.1
+E06000027,Torbay,45-64,male,13.4
+E06000027,Torbay,65+,male,12.7
+E06000027,Torbay,0-15,female,7.5
+E06000027,Torbay,16-29,female,6.3
+E06000027,Torbay,30-44,female,8.8
+E06000027,Torbay,45-64,female,14.0
+E06000027,Torbay,65+,female,14.7
+E07000046,Torridge,0-15,male,7.9
+E07000046,Torridge,16-29,male,6.2
+E07000046,Torridge,30-44,male,7.0
+E07000046,Torridge,45-64,male,13.8
+E07000046,Torridge,65+,male,14.0
+E07000046,Torridge,0-15,female,7.3
+E07000046,Torridge,16-29,female,5.4
+E07000046,Torridge,30-44,female,7.8
+E07000046,Torridge,45-64,female,14.9
+E07000046,Torridge,65+,female,15.8
+E08000009,Trafford,0-15,male,10.6
+E08000009,Trafford,16-29,male,7.5
+E08000009,Trafford,30-44,male,9.9
+E08000009,Trafford,45-64,male,12.7
+E08000009,Trafford,65+,male,8.0
+E08000009,Trafford,0-15,female,10.0
+E08000009,Trafford,16-29,female,7.2
+E08000009,Trafford,30-44,female,11.0
+E08000009,Trafford,45-64,female,13.2
+E08000009,Trafford,65+,female,9.8
+E07000116,Tunbridge Wells,0-15,male,10.1
+E07000116,Tunbridge Wells,16-29,male,6.5
+E07000116,Tunbridge Wells,30-44,male,9.2
+E07000116,Tunbridge Wells,45-64,male,13.6
+E07000116,Tunbridge Wells,65+,male,9.1
+E07000116,Tunbridge Wells,0-15,female,9.7
+E07000116,Tunbridge Wells,16-29,female,6.5
+E07000116,Tunbridge Wells,30-44,female,10.2
+E07000116,Tunbridge Wells,45-64,female,14.1
+E07000116,Tunbridge Wells,65+,female,11.1
+E07000077,Uttlesford,0-15,male,9.8
+E07000077,Uttlesford,16-29,male,6.7
+E07000077,Uttlesford,30-44,male,8.8
+E07000077,Uttlesford,45-64,male,13.6
+E07000077,Uttlesford,65+,male,10.0
+E07000077,Uttlesford,0-15,female,9.2
+E07000077,Uttlesford,16-29,female,6.3
+E07000077,Uttlesford,30-44,female,9.7
+E07000077,Uttlesford,45-64,female,14.4
+E07000077,Uttlesford,65+,female,11.4
+E07000180,Vale of White Horse,0-15,male,10.1
+E07000180,Vale of White Horse,16-29,male,7.4
+E07000180,Vale of White Horse,30-44,male,10.2
+E07000180,Vale of White Horse,45-64,male,12.5
+E07000180,Vale of White Horse,65+,male,9.3
+E07000180,Vale of White Horse,0-15,female,9.2
+E07000180,Vale of White Horse,16-29,female,6.8
+E07000180,Vale of White Horse,30-44,female,10.9
+E07000180,Vale of White Horse,45-64,female,12.9
+E07000180,Vale of White Horse,65+,female,10.8
+E08000030,Walsall,0-15,male,10.9
+E08000030,Walsall,16-29,male,8.7
+E08000030,Walsall,30-44,male,9.9
+E08000030,Walsall,45-64,male,11.8
+E08000030,Walsall,65+,male,7.9
+E08000030,Walsall,0-15,female,10.5
+E08000030,Walsall,16-29,female,8.3
+E08000030,Walsall,30-44,female,10.8
+E08000030,Walsall,45-64,female,12.0
+E08000030,Walsall,65+,female,9.3
+E09000032,Wandsworth,0-15,male,7.9
+E09000032,Wandsworth,16-29,male,11.8
+E09000032,Wandsworth,30-44,male,13.2
+E09000032,Wandsworth,45-64,male,10.0
+E09000032,Wandsworth,65+,male,4.3
+E09000032,Wandsworth,0-15,female,7.4
+E09000032,Wandsworth,16-29,female,14.5
+E09000032,Wandsworth,30-44,female,14.3
+E09000032,Wandsworth,45-64,female,11.0
+E09000032,Wandsworth,65+,female,5.6
+E06000007,Warrington,0-15,male,9.3
+E06000007,Warrington,16-29,male,7.4
+E06000007,Warrington,30-44,male,10.0
+E06000007,Warrington,45-64,male,13.6
+E06000007,Warrington,65+,male,9.1
+E06000007,Warrington,0-15,female,8.8
+E06000007,Warrington,16-29,female,6.9
+E06000007,Warrington,30-44,female,10.3
+E06000007,Warrington,45-64,female,13.8
+E06000007,Warrington,65+,female,10.8
+E07000222,Warwick,0-15,male,8.9
+E07000222,Warwick,16-29,male,9.6
+E07000222,Warwick,30-44,male,10.5
+E07000222,Warwick,45-64,male,12.1
+E07000222,Warwick,65+,male,8.7
+E07000222,Warwick,0-15,female,8.4
+E07000222,Warwick,16-29,female,8.7
+E07000222,Warwick,30-44,female,10.4
+E07000222,Warwick,45-64,female,12.3
+E07000222,Warwick,65+,female,10.3
+E10000031,Warwickshire,0-15,male,9.2
+E10000031,Warwickshire,16-29,male,7.7
+E10000031,Warwickshire,30-44,male,10.0
+E10000031,Warwickshire,45-64,male,12.8
+E10000031,Warwickshire,65+,male,9.5
+E10000031,Warwickshire,0-15,female,8.8
+E10000031,Warwickshire,16-29,female,7.4
+E10000031,Warwickshire,30-44,female,10.4
+E10000031,Warwickshire,45-64,female,13.1
+E10000031,Warwickshire,65+,female,11.1
+E07000103,Watford,0-15,male,10.5
+E07000103,Watford,16-29,male,8.3
+E07000103,Watford,30-44,male,12.4
+E07000103,Watford,45-64,male,12.0
+E07000103,Watford,65+,male,5.9
+E07000103,Watford,0-15,female,10.3
+E07000103,Watford,16-29,female,8.3
+E07000103,Watford,30-44,female,13.2
+E07000103,Watford,45-64,female,12.0
+E07000103,Watford,65+,female,7.1
+E07000216,Waverley,0-15,male,9.7
+E07000216,Waverley,16-29,male,6.7
+E07000216,Waverley,30-44,male,8.4
+E07000216,Waverley,45-64,male,13.4
+E07000216,Waverley,65+,male,9.9
+E07000216,Waverley,0-15,female,9.2
+E07000216,Waverley,16-29,female,6.8
+E07000216,Waverley,30-44,female,9.4
+E07000216,Waverley,45-64,female,14.1
+E07000216,Waverley,65+,female,12.3
+E07000241,Welwyn Hatfield,0-15,male,9.4
+E07000241,Welwyn Hatfield,16-29,male,10.3
+E07000241,Welwyn Hatfield,30-44,male,10.4
+E07000241,Welwyn Hatfield,45-64,male,12.0
+E07000241,Welwyn Hatfield,65+,male,7.4
+E07000241,Welwyn Hatfield,0-15,female,8.9
+E07000241,Welwyn Hatfield,16-29,female,9.4
+E07000241,Welwyn Hatfield,30-44,female,11.3
+E07000241,Welwyn Hatfield,45-64,female,12.1
+E07000241,Welwyn Hatfield,65+,female,8.8
+E07000047,West Devon,0-15,male,7.3
+E07000047,West Devon,16-29,male,6.1
+E07000047,West Devon,30-44,male,7.2
+E07000047,West Devon,45-64,male,13.8
+E07000047,West Devon,65+,male,13.8
+E07000047,West Devon,0-15,female,7.1
+E07000047,West Devon,16-29,female,5.7
+E07000047,West Devon,30-44,female,7.8
+E07000047,West Devon,45-64,female,15.2
+E07000047,West Devon,65+,female,16.0
+E07000127,West Lancashire,0-15,male,8.3
+E07000127,West Lancashire,16-29,male,8.3
+E07000127,West Lancashire,30-44,male,8.2
+E07000127,West Lancashire,45-64,male,12.9
+E07000127,West Lancashire,65+,male,10.3
+E07000127,West Lancashire,0-15,female,7.9
+E07000127,West Lancashire,16-29,female,9.4
+E07000127,West Lancashire,30-44,female,8.7
+E07000127,West Lancashire,45-64,female,13.6
+E07000127,West Lancashire,65+,female,12.2
+E07000142,West Lindsey,0-15,male,8.5
+E07000142,West Lindsey,16-29,male,6.5
+E07000142,West Lindsey,30-44,male,8.0
+E07000142,West Lindsey,45-64,male,13.6
+E07000142,West Lindsey,65+,male,12.3
+E07000142,West Lindsey,0-15,female,8.0
+E07000142,West Lindsey,16-29,female,6.3
+E07000142,West Lindsey,30-44,female,8.9
+E07000142,West Lindsey,45-64,female,14.3
+E07000142,West Lindsey,65+,female,13.6
+E09000033,Westminster,0-15,male,6.0
+E09000033,Westminster,16-29,male,12.6
+E09000033,Westminster,30-44,male,12.5
+E09000033,Westminster,45-64,male,11.6
+E09000033,Westminster,65+,male,5.7
+E09000033,Westminster,0-15,female,5.7
+E09000033,Westminster,16-29,female,14.5
+E09000033,Westminster,30-44,female,12.2
+E09000033,Westminster,45-64,female,12.5
+E09000033,Westminster,65+,female,6.7
+E06000064,Westmorland and Furness,0-15,male,7.6
+E06000064,Westmorland and Furness,16-29,male,6.9
+E06000064,Westmorland and Furness,30-44,male,8.3
+E06000064,Westmorland and Furness,45-64,male,13.9
+E06000064,Westmorland and Furness,65+,male,12.5
+E06000064,Westmorland and Furness,0-15,female,7.1
+E06000064,Westmorland and Furness,16-29,female,6.5
+E06000064,Westmorland and Furness,30-44,female,8.6
+E06000064,Westmorland and Furness,45-64,female,14.5
+E06000064,Westmorland and Furness,65+,female,14.1
+E06000062,West Northamptonshire,0-15,male,9.7
+E06000062,West Northamptonshire,16-29,male,8.1
+E06000062,West Northamptonshire,30-44,male,10.7
+E06000062,West Northamptonshire,45-64,male,12.8
+E06000062,West Northamptonshire,65+,male,8.1
+E06000062,West Northamptonshire,0-15,female,9.4
+E06000062,West Northamptonshire,16-29,female,7.9
+E06000062,West Northamptonshire,30-44,female,11.1
+E06000062,West Northamptonshire,45-64,female,12.9
+E06000062,West Northamptonshire,65+,female,9.4
+E07000181,West Oxfordshire,0-15,male,9.0
+E07000181,West Oxfordshire,16-29,male,7.5
+E07000181,West Oxfordshire,30-44,male,9.5
+E07000181,West Oxfordshire,45-64,male,12.8
+E07000181,West Oxfordshire,65+,male,10.2
+E07000181,West Oxfordshire,0-15,female,8.7
+E07000181,West Oxfordshire,16-29,female,6.7
+E07000181,West Oxfordshire,30-44,female,9.9
+E07000181,West Oxfordshire,45-64,female,13.6
+E07000181,West Oxfordshire,65+,female,12.2
+E07000245,West Suffolk,0-15,male,9.3
+E07000245,West Suffolk,16-29,male,8.4
+E07000245,West Suffolk,30-44,male,10.2
+E07000245,West Suffolk,45-64,male,12.2
+E07000245,West Suffolk,65+,male,9.7
+E07000245,West Suffolk,0-15,female,8.8
+E07000245,West Suffolk,16-29,female,7.4
+E07000245,West Suffolk,30-44,female,10.2
+E07000245,West Suffolk,45-64,female,12.5
+E07000245,West Suffolk,65+,female,11.4
+E10000032,West Sussex,0-15,male,8.9
+E10000032,West Sussex,16-29,male,6.9
+E10000032,West Sussex,30-44,male,9.3
+E10000032,West Sussex,45-64,male,12.9
+E10000032,West Sussex,65+,male,10.5
+E10000032,West Sussex,0-15,female,8.5
+E10000032,West Sussex,16-29,female,6.6
+E10000032,West Sussex,30-44,female,9.9
+E10000032,West Sussex,45-64,female,13.6
+E10000032,West Sussex,65+,female,12.9
+E06000054,Wiltshire,0-15,male,8.9
+E06000054,Wiltshire,16-29,male,7.6
+E06000054,Wiltshire,30-44,male,9.0
+E06000054,Wiltshire,45-64,male,13.1
+E06000054,Wiltshire,65+,male,10.6
+E06000054,Wiltshire,0-15,female,8.5
+E06000054,Wiltshire,16-29,female,6.5
+E06000054,Wiltshire,30-44,female,9.5
+E06000054,Wiltshire,45-64,female,13.8
+E06000054,Wiltshire,65+,female,12.4
+E07000094,Winchester,0-15,male,9.3
+E07000094,Winchester,16-29,male,8.2
+E07000094,Winchester,30-44,male,8.6
+E07000094,Winchester,45-64,male,12.6
+E07000094,Winchester,65+,male,9.6
+E07000094,Winchester,0-15,female,8.6
+E07000094,Winchester,16-29,female,8.8
+E07000094,Winchester,30-44,female,9.3
+E07000094,Winchester,45-64,female,13.4
+E07000094,Winchester,65+,female,11.5
+E06000040,Windsor and Maidenhead,0-15,male,9.7
+E06000040,Windsor and Maidenhead,16-29,male,7.9
+E06000040,Windsor and Maidenhead,30-44,male,9.5
+E06000040,Windsor and Maidenhead,45-64,male,13.7
+E06000040,Windsor and Maidenhead,65+,male,8.6
+E06000040,Windsor and Maidenhead,0-15,female,9.1
+E06000040,Windsor and Maidenhead,16-29,female,6.7
+E06000040,Windsor and Maidenhead,30-44,female,10.3
+E06000040,Windsor and Maidenhead,45-64,female,14.2
+E06000040,Windsor and Maidenhead,65+,female,10.4
+E08000015,Wirral,0-15,male,9.1
+E08000015,Wirral,16-29,male,7.3
+E08000015,Wirral,30-44,male,9.0
+E08000015,Wirral,45-64,male,12.8
+E08000015,Wirral,65+,male,10.3
+E08000015,Wirral,0-15,female,8.6
+E08000015,Wirral,16-29,female,7.1
+E08000015,Wirral,30-44,female,9.8
+E08000015,Wirral,45-64,female,13.6
+E08000015,Wirral,65+,female,12.4
+E07000217,Woking,0-15,male,9.9
+E07000217,Woking,16-29,male,7.9
+E07000217,Woking,30-44,male,10.8
+E07000217,Woking,45-64,male,13.0
+E07000217,Woking,65+,male,7.8
+E07000217,Woking,0-15,female,9.6
+E07000217,Woking,16-29,female,7.2
+E07000217,Woking,30-44,female,11.4
+E07000217,Woking,45-64,female,13.1
+E07000217,Woking,65+,female,9.3
+E06000041,Wokingham,0-15,male,10.7
+E06000041,Wokingham,16-29,male,7.2
+E06000041,Wokingham,30-44,male,9.8
+E06000041,Wokingham,45-64,male,13.4
+E06000041,Wokingham,65+,male,8.0
+E06000041,Wokingham,0-15,female,10.0
+E06000041,Wokingham,16-29,female,6.9
+E06000041,Wokingham,30-44,female,11.0
+E06000041,Wokingham,45-64,female,13.5
+E06000041,Wokingham,65+,female,9.4
+E08000031,Wolverhampton,0-15,male,10.9
+E08000031,Wolverhampton,16-29,male,9.1
+E08000031,Wolverhampton,30-44,male,10.3
+E08000031,Wolverhampton,45-64,male,11.8
+E08000031,Wolverhampton,65+,male,7.3
+E08000031,Wolverhampton,0-15,female,10.2
+E08000031,Wolverhampton,16-29,female,8.4
+E08000031,Wolverhampton,30-44,female,11.2
+E08000031,Wolverhampton,45-64,female,11.9
+E08000031,Wolverhampton,65+,female,8.7
+E07000237,Worcester,0-15,male,8.7
+E07000237,Worcester,16-29,male,8.7
+E07000237,Worcester,30-44,male,10.4
+E07000237,Worcester,45-64,male,12.5
+E07000237,Worcester,65+,male,8.4
+E07000237,Worcester,0-15,female,8.3
+E07000237,Worcester,16-29,female,9.7
+E07000237,Worcester,30-44,female,10.6
+E07000237,Worcester,45-64,female,12.6
+E07000237,Worcester,65+,female,9.9
+E10000034,Worcestershire,0-15,male,8.7
+E10000034,Worcestershire,16-29,male,7.2
+E10000034,Worcestershire,30-44,male,9.0
+E10000034,Worcestershire,45-64,male,13.1
+E10000034,Worcestershire,65+,male,10.9
+E10000034,Worcestershire,0-15,female,8.2
+E10000034,Worcestershire,16-29,female,7.1
+E10000034,Worcestershire,30-44,female,9.5
+E10000034,Worcestershire,45-64,female,13.6
+E10000034,Worcestershire,65+,female,12.6
+E07000229,Worthing,0-15,male,8.3
+E07000229,Worthing,16-29,male,6.9
+E07000229,Worthing,30-44,male,9.6
+E07000229,Worthing,45-64,male,13.4
+E07000229,Worthing,65+,male,10.2
+E07000229,Worthing,0-15,female,7.9
+E07000229,Worthing,16-29,female,6.7
+E07000229,Worthing,30-44,female,10.3
+E07000229,Worthing,45-64,female,13.9
+E07000229,Worthing,65+,female,12.8
+E07000238,Wychavon,0-15,male,8.3
+E07000238,Wychavon,16-29,male,6.6
+E07000238,Wychavon,30-44,male,8.6
+E07000238,Wychavon,45-64,male,13.5
+E07000238,Wychavon,65+,male,12.0
+E07000238,Wychavon,0-15,female,7.8
+E07000238,Wychavon,16-29,female,6.2
+E07000238,Wychavon,30-44,female,9.0
+E07000238,Wychavon,45-64,female,14.3
+E07000238,Wychavon,65+,female,13.7
+E07000128,Wyre,0-15,male,7.9
+E07000128,Wyre,16-29,male,6.7
+E07000128,Wyre,30-44,male,7.7
+E07000128,Wyre,45-64,male,13.2
+E07000128,Wyre,65+,male,13.2
+E07000128,Wyre,0-15,female,7.3
+E07000128,Wyre,16-29,female,6.2
+E07000128,Wyre,30-44,female,8.4
+E07000128,Wyre,45-64,female,14.1
+E07000128,Wyre,65+,female,15.3
+E07000239,Wyre Forest,0-15,male,8.5
+E07000239,Wyre Forest,16-29,male,6.9
+E07000239,Wyre Forest,30-44,male,8.3
+E07000239,Wyre Forest,45-64,male,13.3
+E07000239,Wyre Forest,65+,male,11.9
+E07000239,Wyre Forest,0-15,female,7.8
+E07000239,Wyre Forest,16-29,female,6.8
+E07000239,Wyre Forest,30-44,female,9.2
+E07000239,Wyre Forest,45-64,female,13.7
+E07000239,Wyre Forest,65+,female,13.7
+E08000032,Bradford,0-15,male,11.3
+E08000032,Bradford,16-29,male,9.0
+E08000032,Bradford,30-44,male,10.0
+E08000032,Bradford,45-64,male,11.6
+E08000032,Bradford,65+,male,7.2
+E08000032,Bradford,0-15,female,10.9
+E08000032,Bradford,16-29,female,8.8
+E08000032,Bradford,30-44,female,11.0
+E08000032,Bradford,45-64,female,11.8
+E08000032,Bradford,65+,female,8.5
+E06000023,Bristol,0-15,male,8.3
+E06000023,Bristol,16-29,male,13.4
+E06000023,Bristol,30-44,male,12.1
+E06000023,Bristol,45-64,male,10.0
+E06000023,Bristol,65+,male,5.8
+E06000023,Bristol,0-15,female,8.0
+E06000023,Bristol,16-29,female,13.7
+E06000023,Bristol,30-44,female,11.9
+E06000023,Bristol,45-64,female,10.0
+E06000023,Bristol,65+,female,6.8
+E08000019,Sheffield,0-15,male,8.9
+E08000019,Sheffield,16-29,male,11.5
+E08000019,Sheffield,30-44,male,10.0
+E08000019,Sheffield,45-64,male,11.3
+E08000019,Sheffield,65+,male,7.7
+E08000019,Sheffield,0-15,female,8.5
+E08000019,Sheffield,16-29,female,11.2
+E08000019,Sheffield,30-44,female,10.3
+E08000019,Sheffield,45-64,female,11.4
+E08000019,Sheffield,65+,female,9.1
+E10000016,Kent,0-15,male,9.7
+E10000016,Kent,16-29,male,7.4
+E10000016,Kent,30-44,male,9.5
+E10000016,Kent,45-64,male,12.6
+E10000016,Kent,65+,male,9.4
+E10000016,Kent,0-15,female,9.2
+E10000016,Kent,16-29,female,7.3
+E10000016,Kent,30-44,female,10.5
+E10000016,Kent,45-64,female,13.2
+E10000016,Kent,65+,female,11.2
+E09000006,Bromley,0-15,male,9.9
+E09000006,Bromley,16-29,male,6.9
+E09000006,Bromley,30-44,male,10.0
+E09000006,Bromley,45-64,male,13.1
+E09000006,Bromley,65+,male,8.0
+E09000006,Bromley,0-15,female,9.4
+E09000006,Bromley,16-29,female,6.8
+E09000006,Bromley,30-44,female,11.8
+E09000006,Bromley,45-64,female,14.1
+E09000006,Bromley,65+,female,10.0
+E06000022,Bath and North East Somerset,0-15,male,8.2
+E06000022,Bath and North East Somerset,16-29,male,11.6
+E06000022,Bath and North East Somerset,30-44,male,8.4
+E06000022,Bath and North East Somerset,45-64,male,11.7
+E06000022,Bath and North East Somerset,65+,male,8.9
+E06000022,Bath and North East Somerset,0-15,female,7.7
+E06000022,Bath and North East Somerset,16-29,female,11.5
+E06000022,Bath and North East Somerset,30-44,female,9.1
+E06000022,Bath and North East Somerset,45-64,female,12.2
+E06000022,Bath and North East Somerset,65+,female,10.6
+E07000203,Mid Suffolk,0-15,male,8.2
+E07000203,Mid Suffolk,16-29,male,7.0
+E07000203,Mid Suffolk,30-44,male,8.4
+E07000203,Mid Suffolk,45-64,male,13.4
+E07000203,Mid Suffolk,65+,male,12.2
+E07000203,Mid Suffolk,0-15,female,7.7
+E07000203,Mid Suffolk,16-29,female,6.6
+E07000203,Mid Suffolk,30-44,female,8.9
+E07000203,Mid Suffolk,45-64,female,14.1
+E07000203,Mid Suffolk,65+,female,13.5
+E09000030,Tower Hamlets,0-15,male,8.4
+E09000030,Tower Hamlets,16-29,male,15.5
+E09000030,Tower Hamlets,30-44,male,14.6
+E09000030,Tower Hamlets,45-64,male,9.1
+E09000030,Tower Hamlets,65+,male,2.7
+E09000030,Tower Hamlets,0-15,female,8.0
+E09000030,Tower Hamlets,16-29,female,16.3
+E09000030,Tower Hamlets,30-44,female,14.4
+E09000030,Tower Hamlets,45-64,female,7.9
+E09000030,Tower Hamlets,65+,female,3.2
+E10000017,Lancashire,0-15,male,9.1
+E10000017,Lancashire,16-29,male,8.5
+E10000017,Lancashire,30-44,male,9.2
+E10000017,Lancashire,45-64,male,12.7
+E10000017,Lancashire,65+,male,9.8
+E10000017,Lancashire,0-15,female,8.6
+E10000017,Lancashire,16-29,female,8.0
+E10000017,Lancashire,30-44,female,9.6
+E10000017,Lancashire,45-64,female,13.1
+E10000017,Lancashire,65+,female,11.3
+E08000035,Leeds,0-15,male,9.4
+E08000035,Leeds,16-29,male,10.8
+E08000035,Leeds,30-44,male,10.3
+E08000035,Leeds,45-64,male,11.1
+E08000035,Leeds,65+,male,7.1
+E08000035,Leeds,0-15,female,9.0
+E08000035,Leeds,16-29,female,11.5
+E08000035,Leeds,30-44,female,10.9
+E08000035,Leeds,45-64,female,11.3
+E08000035,Leeds,65+,female,8.6
+E08000003,Manchester,0-15,male,9.9
+E08000003,Manchester,16-29,male,14.7
+E08000003,Manchester,30-44,male,11.4
+E08000003,Manchester,45-64,male,9.6
+E08000003,Manchester,65+,male,4.4
+E08000003,Manchester,0-15,female,9.5
+E08000003,Manchester,16-29,female,14.8
+E08000003,Manchester,30-44,female,11.3
+E08000003,Manchester,45-64,female,9.5
+E08000003,Manchester,65+,female,5.0
+E09000007,Camden,0-15,male,6.9
+E09000007,Camden,16-29,male,12.8
+E09000007,Camden,30-44,male,11.2
+E09000007,Camden,45-64,male,10.7
+E09000007,Camden,65+,male,5.2
+E09000007,Camden,0-15,female,6.7
+E09000007,Camden,16-29,female,16.3
+E09000007,Camden,30-44,female,11.7
+E09000007,Camden,45-64,female,11.7
+E09000007,Camden,65+,female,6.7
+E09000004,Bexley,0-15,male,10.2
+E09000004,Bexley,16-29,male,8.1
+E09000004,Bexley,30-44,male,10.3
+E09000004,Bexley,45-64,male,12.3
+E09000004,Bexley,65+,male,7.4
+E09000004,Bexley,0-15,female,9.8
+E09000004,Bexley,16-29,female,8.1
+E09000004,Bexley,30-44,female,11.7
+E09000004,Bexley,45-64,female,13.0
+E09000004,Bexley,65+,female,9.2
+E09000017,Hillingdon,0-15,male,10.2
+E09000017,Hillingdon,16-29,male,10.5
+E09000017,Hillingdon,30-44,male,11.5
+E09000017,Hillingdon,45-64,male,11.7
+E09000017,Hillingdon,65+,male,6.0
+E09000017,Hillingdon,0-15,female,9.8
+E09000017,Hillingdon,16-29,female,9.2
+E09000017,Hillingdon,30-44,female,12.2
+E09000017,Hillingdon,45-64,female,11.7
+E09000017,Hillingdon,65+,female,7.2
+E06000066,Somerset,0-15,male,8.5
+E06000066,Somerset,16-29,male,7.0
+E06000066,Somerset,30-44,male,8.6
+E06000066,Somerset,45-64,male,13.0
+E06000066,Somerset,65+,male,11.8
+E06000066,Somerset,0-15,female,8.1
+E06000066,Somerset,16-29,female,6.5
+E06000066,Somerset,30-44,female,9.0
+E06000066,Somerset,45-64,female,13.8
+E06000066,Somerset,65+,female,13.7
+E09000020,Kensington and Chelsea,0-15,male,6.7
+E09000020,Kensington and Chelsea,16-29,male,10.5
+E09000020,Kensington and Chelsea,30-44,male,10.3
+E09000020,Kensington and Chelsea,45-64,male,12.4
+E09000020,Kensington and Chelsea,65+,male,6.8
+E09000020,Kensington and Chelsea,0-15,female,6.4
+E09000020,Kensington and Chelsea,16-29,female,12.1
+E09000020,Kensington and Chelsea,30-44,female,11.7
+E09000020,Kensington and Chelsea,45-64,female,14.6
+E09000020,Kensington and Chelsea,65+,female,8.6
+E09000011,Greenwich,0-15,male,9.6
+E09000011,Greenwich,16-29,male,9.9
+E09000011,Greenwich,30-44,male,12.9
+E09000011,Greenwich,45-64,male,11.4
+E09000011,Greenwich,65+,male,4.9
+E09000011,Greenwich,0-15,female,9.3
+E09000011,Greenwich,16-29,female,10.2
+E09000011,Greenwich,30-44,female,13.8
+E09000011,Greenwich,45-64,female,11.9
+E09000011,Greenwich,65+,female,5.9
+E09000025,Newham,0-15,male,9.7
+E09000025,Newham,16-29,male,14.3
+E09000025,Newham,30-44,male,13.2
+E09000025,Newham,45-64,male,10.1
+E09000025,Newham,65+,male,3.4
+E09000025,Newham,0-15,female,9.6
+E09000025,Newham,16-29,female,12.7
+E09000025,Newham,30-44,female,12.9
+E09000025,Newham,45-64,female,10.0
+E09000025,Newham,65+,female,4.1
+E09000026,Redbridge,0-15,male,10.7
+E09000026,Redbridge,16-29,male,10.7
+E09000026,Redbridge,30-44,male,11.4
+E09000026,Redbridge,45-64,male,11.6
+E09000026,Redbridge,65+,male,5.7
+E09000026,Redbridge,0-15,female,10.3
+E09000026,Redbridge,16-29,female,9.4
+E09000026,Redbridge,30-44,female,11.7
+E09000026,Redbridge,45-64,female,11.7
+E09000026,Redbridge,65+,female,6.8
+E09000027,Richmond upon Thames,0-15,male,10.0
+E09000027,Richmond upon Thames,16-29,male,6.8
+E09000027,Richmond upon Thames,30-44,male,9.3
+E09000027,Richmond upon Thames,45-64,male,14.2
+E09000027,Richmond upon Thames,65+,male,7.6
+E09000027,Richmond upon Thames,0-15,female,9.5
+E09000027,Richmond upon Thames,16-29,female,7.0
+E09000027,Richmond upon Thames,30-44,female,10.9
+E09000027,Richmond upon Thames,45-64,female,15.2
+E09000027,Richmond upon Thames,65+,female,9.5
+E09000031,Waltham Forest,0-15,male,9.9
+E09000031,Waltham Forest,16-29,male,9.2
+E09000031,Waltham Forest,30-44,male,13.6
+E09000031,Waltham Forest,45-64,male,11.6
+E09000031,Waltham Forest,65+,male,4.8
+E09000031,Waltham Forest,0-15,female,9.5
+E09000031,Waltham Forest,16-29,female,8.6
+E09000031,Waltham Forest,30-44,female,14.7
+E09000031,Waltham Forest,45-64,female,12.3
+E09000031,Waltham Forest,65+,female,5.9
+E92000001,England,0-15,male,9.3
+E92000001,England,16-29,male,8.7
+E92000001,England,30-44,male,10.0
+E92000001,England,45-64,male,12.3
+E92000001,England,65+,male,8.6
+E92000001,England,0-15,female,8.8
+E92000001,England,16-29,female,8.6
+E92000001,England,30-44,female,10.6
+E92000001,England,45-64,female,12.8
+E92000001,England,65+,female,10.2

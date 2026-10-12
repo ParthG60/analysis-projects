@@ -1,0 +1,4 @@
+id,name,external_id,majority_party,council_type,council_type_label,base_scrape_url,party
+172,Bromley,231,CON,0,modern_gov,https://cds.bromley.gov.uk/mgCalendarMonthView.aspx,CON
+233,Bath and North East Somerset,327,LD,0,modern_gov,https://democracy.bathnes.gov.uk/mgCalendarMonthView.aspx,LD
+74,Mid Suffolk,99,GRN,0,modern_gov,https://baberghmidsuffolk.moderngov.co.uk/mgCalendarMonthView.aspx,GRN

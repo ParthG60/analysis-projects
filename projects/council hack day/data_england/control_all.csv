@@ -1,0 +1,289 @@
+ons_code,council,majority_raw,bucket,control_label,since_year,changed,previous_label
+E07000223,Adur,LAB,Labour,Labour,2024,True,Conservative
+E07000224,Arun,LD/LAB/GRN,Liberal Democrat,No overall control (Liberal Democrat / Labour / Green),2025,True,No overall control (Conservative-led)
+E07000170,Ashfield,IND,Independent/Other,Independent,2018,True,Labour
+E07000105,Ashford,IND/GRN,Independent/Other,No overall control (Independent / Green),2025,True,No overall control (Conservative-led)
+E07000200,Babergh,GRN/IND/LD,Green,No overall control (Green / Independent / Liberal Democrat),2023,True,No overall control (Other-led)
+E09000002,Barking and Dagenham,LAB,Labour,Labour,2016,False,
+E09000003,Barnet,LAB min,Labour,No overall control (Labour-led),2022,True,Conservative
+E08000016,Barnsley,REF,Reform UK,Reform UK,2026,True,Labour
+E07000084,Basingstoke and Deane,IND/LD,Independent/Other,No overall control (Independent / Liberal Democrat),2025,True,No overall control (Conservative-led)
+E07000171,Bassetlaw,LAB,Labour,Labour,2016,False,
+E08000025,Birmingham,LD/GRN/IND min,Liberal Democrat,No overall control (Liberal Democrat / Green / Independent),2026,True,Labour
+E07000129,Blaby,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E06000008,Blackburn with Darwen,LAB min,Labour,No overall control (Labour-led),2016,False,
+E06000009,Blackpool,LAB,Labour,Labour,2016,False,
+E07000033,Bolsover,LAB,Labour,Labour,2016,False,
+E08000001,Bolton,LAB min,Labour,No overall control (Labour-led),2023,True,No overall control (Conservative-led)
+E07000136,Boston,IND/CON,Independent/Other,No overall control (Independent / Conservative),2023,True,No overall control (Conservative-led)
+E06000058,Bournemouth,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2023,True,Conservative
+E06000036,Bracknell Forest,LAB min,Labour,No overall control (Labour-led),2023,True,Conservative
+E07000067,Braintree,CON,Conservative,Conservative,2016,False,
+E07000143,Breckland,CON,Conservative,Conservative,2016,False,
+E09000005,Brent,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000068,Brentwood,LD/LAB,Liberal Democrat,No overall control (Liberal Democrat / Labour),2025,True,No overall control (Conservative-led)
+E06000043,Brighton and Hove,LAB,Labour,Labour,2023,True,No overall control (Green-led)
+E07000234,Bromsgrove,CON/IND,Conservative,No overall control (Conservative / Independent),2016,False,
+E07000172,Broxtowe,IND min,Independent/Other,No overall control (Independent-led),2025,True,Labour
+E06000060,Buckinghamshire,CON,Conservative,Conservative,2021,False,
+E08000002,Bury,LAB,Labour,Labour,2016,False,
+E08000033,Calderdale,REF,Reform UK,Reform UK,2026,True,Labour
+E07000008,Cambridge,LAB min,Labour,No overall control (Labour-led),2016,False,
+E10000003,Cambridgeshire,LD,Liberal Democrat,Liberal Democrat,2024,True,No overall control (Conservative-led)
+E07000192,Cannock Chase,REF min,Reform UK,No overall control (Reform UK-led),2026,True,Labour
+E07000106,Canterbury,LAB/LD,Labour,No overall control (Labour / Liberal Democrat),2023,True,Conservative
+E07000130,Charnwood,LAB min,Labour,No overall control (Labour-led),2025,True,No overall control (Conservative-led)
+E07000078,Cheltenham,LD,Liberal Democrat,Liberal Democrat,2016,False,
+E07000177,Cherwell,LD/GRN,Liberal Democrat,No overall control (Liberal Democrat / Green),2024,True,No overall control (Conservative-led)
+E06000049,Cheshire East,LAB/IND,Labour,No overall control (Labour / Independent),2025,True,No overall control (Conservative-led)
+E06000050,Cheshire West and Chester,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000034,Chesterfield,LAB,Labour,Labour,2016,False,
+E07000225,Chichester,LD,Liberal Democrat,Liberal Democrat,2023,True,No overall control (Conservative-led)
+E07000118,Chorley,LAB,Labour,Labour,2016,False,
+E07000071,Colchester,CON/LD,Conservative,No overall control (Conservative / Liberal Democrat),2026,True,No overall control (Liberal Democrat-led)
+E06000052,Cornwall,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2025,True,Conservative
+E07000079,Cotswold,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E06000047,County Durham,REF,Reform UK,Reform UK,2025,True,No overall control (Labour-led)
+E08000026,Coventry,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000226,Crawley,LAB,Labour,Labour,2022,True,No overall control (Conservative-led)
+E09000008,Croydon,CON Mayor,Conservative,Conservative (elected mayor),2025,True,No overall control (Labour-led)
+E06000063,Cumberland,LAB,Labour,Labour,2022,False,
+E07000096,Dacorum,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2023,True,Conservative
+E06000005,Darlington,LAB/LD,Labour,No overall control (Labour / Liberal Democrat),2023,True,No overall control (Conservative-led)
+E07000107,Dartford,CON,Conservative,Conservative,2016,False,
+E06000015,Derby,LAB min,Labour,No overall control (Labour-led),2023,True,No overall control (Conservative-led)
+E10000007,Derbyshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E07000035,Derbyshire Dales,LD/LAB/GRN,Liberal Democrat,No overall control (Liberal Democrat / Labour / Green),2023,True,Conservative
+E10000008,Devon,LD/GRN,Liberal Democrat,No overall control (Liberal Democrat / Green),2025,True,Conservative
+E08000017,Doncaster,LAB Mayor,Labour,Labour (elected mayor),2016,False,
+E06000059,Dorset,LD/GRN,Liberal Democrat,No overall control (Liberal Democrat / Green),2024,True,Conservative
+E07000108,Dover,LAB min,Labour,No overall control (Labour-led),2023,True,Conservative
+E08000027,Dudley,CON min,Conservative,No overall control (Conservative-led),2021,True,No overall control (Labour-led)
+E09000009,Ealing,LAB,Labour,Labour,2016,False,
+E07000061,Eastbourne,LD,Liberal Democrat,Liberal Democrat,2016,False,
+E07000040,East Devon,LD/GRN/IND,Liberal Democrat,No overall control (Liberal Democrat / Green / Independent),2025,True,No overall control (Other-led)
+E07000085,East Hampshire,CON/IND,Conservative,No overall control (Conservative / Independent),2016,False,
+E07000242,East Hertfordshire,GRN/LD,Green,No overall control (Green / Liberal Democrat),2023,True,Conservative
+E07000086,Eastleigh,LD,Liberal Democrat,Liberal Democrat,2016,False,
+E07000137,East Lindsey,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E06000011,East Riding of Yorkshire,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000193,East Staffordshire,LAB,Labour,Labour,2023,True,Conservative
+E07000244,East Suffolk,GRN/LD/IND,Green,No overall control (Green / Liberal Democrat / Independent),2023,True,Conservative
+E10000011,East Sussex,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000207,Elmbridge,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2023,True,No overall control (Other-led)
+E09000010,Enfield,CON min,Conservative,No overall control (Conservative-led),2026,True,Labour
+E07000072,Epping Forest,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000208,Epsom and Ewell,IND,Independent/Other,Independent,2016,False,
+E07000036,Erewash,LAB,Labour,Labour,2023,True,Conservative
+E10000012,Essex,REF,Reform UK,Reform UK,2026,True,Conservative
+E07000041,Exeter,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000087,Fareham,CON,Conservative,Conservative,2016,False,
+E07000010,Fenland,CON,Conservative,Conservative,2016,False,
+E07000112,Folkestone and Hythe,GRN/LD,Green,No overall control (Green / Liberal Democrat),2023,True,No overall control (Conservative-led)
+E07000080,Forest of Dean,GRN min,Green,No overall control (Green-led),2023,True,Other
+E07000119,Fylde,CON,Conservative,Conservative,2016,False,
+E08000037,Gateshead,REF,Reform UK,Reform UK,2026,True,Labour
+E07000173,Gedling,LAB,Labour,Labour,2016,False,
+E10000013,Gloucestershire,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2025,True,Conservative
+E07000088,Gosport,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2022,True,Conservative
+E07000109,Gravesham,LAB,Labour,Labour,2019,True,Conservative
+E07000145,Great Yarmouth,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000209,Guildford,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2023,True,No overall control (Other-led)
+E09000012,Hackney,GRN Mayor,Green,Green (elected mayor),2026,True,Labour (elected mayor)
+E06000006,Halton,LAB,Labour,Labour,2016,False,
+E09000013,Hammersmith and Fulham,LAB,Labour,Labour,2016,False,
+E10000014,Hampshire,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000131,Harborough,CON min,Conservative,No overall control (Conservative-led),2026,True,No overall control (Liberal Democrat / Labour / Green)
+E09000014,Haringey,GRN min,Green,No overall control (Green-led),2026,True,Labour
+E07000073,Harlow,CON,Conservative,Conservative,2021,True,Labour
+E09000015,Harrow,CON,Conservative,Conservative,2022,True,Labour
+E07000089,Hart,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2024,True,No overall control (Conservative-led)
+E07000062,Hastings,GRN,Green,Green,2024,True,No overall control (Labour-led)
+E07000090,Havant,LAB/LD/GRN,Labour,No overall control (Labour / Liberal Democrat / Green),2025,True,No overall control (Conservative-led)
+E09000016,Havering,REF,Reform UK,Reform UK,2026,True,No overall control (Independent / Labour)
+E06000019,Herefordshire,CON min,Conservative,No overall control (Conservative-led),2023,True,No overall control (Other-led)
+E10000015,Hertfordshire,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2025,True,Conservative
+E07000098,Hertsmere,LAB/LD,Labour,No overall control (Labour / Liberal Democrat),2025,True,No overall control (Conservative-led)
+E07000037,High Peak,LAB,Labour,Labour,2019,True,Conservative
+E07000132,Hinckley and Bosworth,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E07000227,Horsham,LD,Liberal Democrat,Liberal Democrat,2023,True,Conservative
+E09000018,Hounslow,LAB,Labour,Labour,2016,False,
+E07000011,Huntingdonshire,LD/LAB/IND/GRN,Liberal Democrat,No overall control (Liberal Democrat / Labour / Independent / Green),2025,True,No overall control (Conservative-led)
+E07000120,Hyndburn,LAB min,Labour,No overall control (Labour-led),2024,True,No overall control (Conservative-led)
+E07000202,Ipswich,LAB,Labour,Labour,2016,False,
+E06000046,Isle of Wight,IND/GRN,Independent/Other,No overall control (Independent / Green),2025,True,No overall control (Conservative-led)
+E09000019,Islington,LAB,Labour,Labour,2016,False,
+E07000146,King's Lynn and West Norfolk,IND/LD/GRN,Independent/Other,No overall control (Independent / Liberal Democrat / Green),2025,True,No overall control (Conservative-led)
+E06000010,"Kingston upon Hull, City of",LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2022,True,Labour
+E09000021,Kingston upon Thames,LD,Liberal Democrat,Liberal Democrat,2018,True,Conservative
+E08000034,Kirklees,REF min,Reform UK,No overall control (Reform UK-led),2026,True,No overall control (Labour-led)
+E08000011,Knowsley,LAB,Labour,Labour,2016,False,
+E09000022,Lambeth,GRN min,Green,No overall control (Green-led),2026,True,Labour
+E07000121,Lancaster,GRN/LD/IND,Green,No overall control (Green / Liberal Democrat / Independent),2025,True,No overall control (Labour-led)
+E06000016,Leicester,LAB Mayor,Labour,Labour (elected mayor),2016,False,
+E10000018,Leicestershire,REF min,Reform UK,No overall control (Reform UK-led),2025,True,Conservative
+E07000063,Lewes,GRN/LAB,Green,No overall control (Green / Labour),2023,True,No overall control (Conservative-led)
+E09000023,Lewisham,GRN Mayor,Green,Green (elected mayor),2026,True,Labour (elected mayor)
+E07000194,Lichfield,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000138,Lincoln,LAB,Labour,Labour,2016,False,
+E10000019,Lincolnshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E08000012,Liverpool,LAB,Labour,Labour,2016,False,
+E06000032,Luton,LAB,Labour,Labour,2016,False,
+E07000074,Maldon,IND min,Independent/Other,No overall control (Independent-led),2021,True,Conservative
+E07000235,Malvern Hills,IND/GRN/CON/LD,Independent/Other,No overall control (Independent / Green / Conservative / Liberal Democrat),2021,True,No overall control (Conservative-led)
+E07000174,Mansfield,LAB Mayor,Labour,Labour (elected mayor),2023,True,Other
+E06000035,Medway,LAB,Labour,Labour,2023,True,Conservative
+E07000133,Melton,IND/LAB,Independent/Other,No overall control (Independent / Labour),2024,True,No overall control (Conservative-led)
+E09000024,Merton,LAB,Labour,Labour,2016,False,
+E07000042,Mid Devon,LD,Liberal Democrat,Liberal Democrat,2023,True,No overall control (Conservative-led)
+E06000002,Middlesbrough,LAB Mayor,Labour,Labour (elected mayor),2023,True,No overall control (Other-led)
+E07000228,Mid Sussex,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2023,True,Conservative
+E06000042,Milton Keynes,LD/LAB,Liberal Democrat,No overall control (Liberal Democrat / Labour),2026,True,Labour
+E07000210,Mole Valley,LD,Liberal Democrat,Liberal Democrat,2019,True,No overall control (Conservative-led)
+E07000175,Newark and Sherwood,LAB min,Labour,No overall control (Labour-led),2025,True,No overall control (Conservative-led)
+E07000195,Newcastle-under-Lyme,REF,Reform UK,Reform UK,2026,True,Conservative
+E08000021,Newcastle upon Tyne,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2026,True,No overall control (Labour-led)
+E07000091,New Forest,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E10000020,Norfolk,REF min,Reform UK,No overall control (Reform UK-led),2026,True,Conservative
+E07000043,North Devon,LD,Liberal Democrat,Liberal Democrat,2019,True,No overall control (Conservative-led)
+E07000038,North East Derbyshire,LAB,Labour,Labour,2023,True,Conservative
+E06000012,North East Lincolnshire,CON min,Conservative,No overall control (Conservative-led),2019,True,No overall control (Labour-led)
+E07000099,North Hertfordshire,LAB min,Labour,No overall control (Labour-led),2023,True,No overall control (Conservative-led)
+E07000139,North Kesteven,CON,Conservative,Conservative,2021,True,Other
+E06000013,North Lincolnshire,CON,Conservative,Conservative,2016,False,
+E07000147,North Norfolk,LD,Liberal Democrat,Liberal Democrat,2019,True,No overall control (Conservative-led)
+E06000061,North Northamptonshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E06000024,North Somerset,LD/LAB/GRN/IND,Liberal Democrat,No overall control (Liberal Democrat / Labour / Green / Independent),2025,True,No overall control (Conservative-led)
+E08000022,North Tyneside,LAB Mayor,Labour,Labour (elected mayor),2016,False,
+E06000057,Northumberland,CON min,Conservative,No overall control (Conservative-led),2017,True,No overall control (Labour-led)
+E07000134,North West Leicestershire,CON/LD/IND,Conservative,No overall control (Conservative / Liberal Democrat / Independent),2025,True,No overall control (Labour-led)
+E06000065,North Yorkshire,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000148,Norwich,GRN,Green,Green,2026,True,No overall control (Labour-led)
+E06000018,Nottingham,LAB,Labour,Labour,2016,False,
+E10000024,Nottinghamshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E07000135,Oadby and Wigston,LD,Liberal Democrat,Liberal Democrat,2016,False,
+E08000004,Oldham,TBC,Independent/Other,No overall control,2026,True,No overall control (Labour-led)
+E10000025,Oxfordshire,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2025,True,No overall control (Conservative-led)
+E06000031,Peterborough,LAB min,Labour,No overall control (Labour-led),2024,True,No overall control (Conservative-led)
+E06000026,Plymouth,LAB,Labour,Labour,2023,True,No overall control (Conservative-led)
+E06000044,Portsmouth,LD,Liberal Democrat,Liberal Democrat,2022,True,No overall control (Conservative-led)
+E07000123,Preston,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000236,Redditch,CON/IND,Conservative,No overall control (Conservative / Independent),2026,True,Labour
+E07000211,Reigate and Banstead,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000124,Ribble Valley,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E08000005,Rochdale,LAB,Labour,Labour,2016,False,
+E07000075,Rochford,CON/IND,Conservative,No overall control (Conservative / Independent),2026,True,No overall control (Liberal Democrat / Independent)
+E07000064,Rother,IND/LD/LAB/GRN,Independent/Other,No overall control (Independent / Liberal Democrat / Labour / Green),2025,True,No overall control (Conservative-led)
+E08000018,Rotherham,LAB,Labour,Labour,2016,False,
+E07000220,Rugby,LAB min,Labour,No overall control (Labour-led),2026,True,No overall control (Conservative-led)
+E07000212,Runnymede,LAB/LD/IND/GRN,Labour,No overall control (Labour / Liberal Democrat / Independent / Green),2025,True,No overall control (Conservative-led)
+E07000176,Rushcliffe,CON,Conservative,Conservative,2016,False,
+E07000092,Rushmoor,LAB min,Labour,No overall control (Labour-led),2024,True,Conservative
+E06000017,Rutland,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2023,True,No overall control (Other-led)
+E08000006,Salford,LAB Mayor,Labour,Labour (elected mayor),2016,False,
+E08000028,Sandwell,REF,Reform UK,Reform UK,2026,True,Labour
+E08000014,Sefton,LAB,Labour,Labour,2016,False,
+E07000111,Sevenoaks,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E06000051,Shropshire,LD,Liberal Democrat,Liberal Democrat,2025,True,Conservative
+E06000039,Slough,CON/LD,Conservative,No overall control (Conservative / Liberal Democrat),2023,True,Labour
+E08000029,Solihull,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E06000045,Southampton,LAB min,Labour,No overall control (Labour-led),2022,True,Conservative
+E07000012,South Cambridgeshire,LD,Liberal Democrat,Liberal Democrat,2018,True,Conservative
+E07000039,South Derbyshire,LAB,Labour,Labour,2022,True,No overall control (Conservative-led)
+E06000033,Southend-on-Sea,LAB/IND/LD,Labour,No overall control (Labour / Independent / Liberal Democrat),2024,True,No overall control (Conservative-led)
+E06000025,South Gloucestershire,LD/LAB,Liberal Democrat,No overall control (Liberal Democrat / Labour),2025,True,No overall control (Conservative-led)
+E07000044,South Hams,LD,Liberal Democrat,Liberal Democrat,2023,True,Conservative
+E07000140,South Holland,CON,Conservative,Conservative,2016,False,
+E07000141,South Kesteven,IND/GRN/LD,Independent/Other,No overall control (Independent / Green / Liberal Democrat),2023,True,Conservative
+E07000149,South Norfolk,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000179,South Oxfordshire,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E07000126,South Ribble,LAB,Labour,Labour,2022,True,No overall control (Conservative-led)
+E07000196,South Staffordshire,CON,Conservative,Conservative,2016,False,
+E08000023,South Tyneside,REF,Reform UK,Reform UK,2026,True,Labour
+E09000028,Southwark,GRN/LD,Green,No overall control (Green / Liberal Democrat),2026,True,Labour
+E07000213,Spelthorne,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2025,True,No overall control (Conservative-led)
+E07000197,Stafford,LAB/IND/GRN,Labour,No overall control (Labour / Independent / Green),2025,True,No overall control (Conservative-led)
+E10000028,Staffordshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E07000198,Staffordshire Moorlands,LAB min,Labour,No overall control (Labour-led),2023,True,No overall control (Conservative-led)
+E07000240,St Albans,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E07000243,Stevenage,LAB,Labour,Labour,2016,False,
+E08000013,St. Helens,REF,Reform UK,Reform UK,2026,True,Labour
+E08000007,Stockport,LD,Liberal Democrat,Liberal Democrat,2022,True,No overall control (Labour-led)
+E06000021,Stoke-on-Trent,LAB,Labour,Labour,2023,True,No overall control (Conservative-led)
+E07000221,Stratford-on-Avon,LD,Liberal Democrat,Liberal Democrat,2023,True,Conservative
+E07000082,Stroud,GRN min,Green,No overall control (Green-led),2024,True,No overall control (Conservative-led)
+E10000029,Suffolk,REF,Reform UK,Reform UK,2026,True,Conservative
+E08000024,Sunderland,REF,Reform UK,Reform UK,2026,True,Labour
+E10000030,Surrey,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000214,Surrey Heath,LD,Liberal Democrat,Liberal Democrat,2023,True,No overall control (Conservative-led)
+E09000029,Sutton,LD,Liberal Democrat,Liberal Democrat,2016,False,
+E07000113,Swale,LAB/IND/GRN,Labour,No overall control (Labour / Independent / Green),2023,True,No overall control (Other-led)
+E08000008,Tameside,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000199,Tamworth,LAB min,Labour,No overall control (Labour-led),2024,True,No overall control (Conservative-led)
+E07000215,Tandridge,IND min,Independent/Other,No overall control (Independent-led),2021,True,No overall control (Conservative-led)
+E07000045,Teignbridge,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E06000020,Telford and Wrekin,LAB,Labour,Labour,2016,False,
+E07000076,Tendring,IND/LAB/LD,Independent/Other,No overall control (Independent / Labour / Liberal Democrat),2024,True,No overall control (Conservative-led)
+E07000093,Test Valley,CON,Conservative,Conservative,2016,False,
+E07000083,Tewkesbury,LD/IND/GRN,Liberal Democrat,No overall control (Liberal Democrat / Independent / Green),2023,True,Conservative
+E07000114,Thanet,LAB,Labour,Labour,2023,True,No overall control (Conservative-led)
+E07000102,Three Rivers,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2016,False,
+E06000034,Thurrock,REF,Reform UK,Reform UK,2026,True,Labour
+E07000115,Tonbridge and Malling,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E06000027,Torbay,CON min,Conservative,No overall control (Conservative-led),2016,False,
+E07000046,Torridge,IND,Independent/Other,Independent,2019,True,Conservative
+E08000009,Trafford,LAB,Labour,Labour,2018,True,Conservative
+E07000116,Tunbridge Wells,LD,Liberal Democrat,Liberal Democrat,2022,True,No overall control (Conservative-led)
+E07000077,Uttlesford,IND,Independent/Other,Independent,2019,True,Conservative
+E07000180,Vale of White Horse,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E08000030,Walsall,REF,Reform UK,Reform UK,2026,True,Conservative
+E09000032,Wandsworth,CON min,Conservative,No overall control (Conservative-led),2026,True,Labour
+E06000007,Warrington,LAB,Labour,Labour,2016,False,
+E07000222,Warwick,GRN/LAB,Green,No overall control (Green / Labour),2023,True,No overall control (Conservative-led)
+E10000031,Warwickshire,REF min,Reform UK,No overall control (Reform UK-led),2026,True,Conservative
+E07000103,Watford,LD Mayor,Liberal Democrat,Liberal Democrat (elected mayor),2016,False,
+E07000216,Waverley,LD/IND/GRN,Liberal Democrat,No overall control (Liberal Democrat / Independent / Green),2023,True,No overall control (Conservative-led)
+E07000241,Welwyn Hatfield,LAB/LD,Labour,No overall control (Labour / Liberal Democrat),2024,True,No overall control (Conservative-led)
+E07000047,West Devon,IND/GRN/LD/LAB,Independent/Other,No overall control (Independent / Green / Liberal Democrat / Labour),2025,True,No overall control (Conservative-led)
+E07000127,West Lancashire,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000142,West Lindsey,LD min,Liberal Democrat,No overall control (Liberal Democrat-led),2023,True,No overall control (Conservative-led)
+E09000033,Westminster,CON,Conservative,Conservative,2026,True,Labour
+E06000064,Westmorland and Furness,LD,Liberal Democrat,Liberal Democrat,2022,False,
+E06000062,West Northamptonshire,REF,Reform UK,Reform UK,2025,True,Conservative
+E07000181,West Oxfordshire,LD/LAB/GRN,Liberal Democrat,No overall control (Liberal Democrat / Labour / Green),2023,True,No overall control (Conservative-led)
+E07000245,West Suffolk,LAB/IND/GRN/LD,Labour,No overall control (Labour / Independent / Green / Liberal Democrat),2025,True,No overall control (Conservative-led)
+E10000032,West Sussex,LD/GRN,Liberal Democrat,No overall control (Liberal Democrat / Green),2026,True,Conservative
+E06000054,Wiltshire,LD/IND,Liberal Democrat,No overall control (Liberal Democrat / Independent),2025,True,Conservative
+E07000094,Winchester,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E06000040,Windsor and Maidenhead,LD,Liberal Democrat,Liberal Democrat,2023,True,Conservative
+E08000015,Wirral,LAB min,Labour,No overall control (Labour-led),2016,False,
+E07000217,Woking,LD,Liberal Democrat,Liberal Democrat,2022,True,No overall control (Conservative-led)
+E06000041,Wokingham,LD,Liberal Democrat,Liberal Democrat,2023,True,No overall control (Conservative-led)
+E08000031,Wolverhampton,LAB,Labour,Labour,2016,False,
+E07000237,Worcester,LAB min,Labour,No overall control (Labour-led),2023,True,No overall control (Conservative-led)
+E10000034,Worcestershire,REF min,Reform UK,No overall control (Reform UK-led),2025,True,Conservative
+E07000229,Worthing,LAB min,Labour,No overall control (Labour-led),2022,True,Conservative
+E07000238,Wychavon,CON,Conservative,Conservative,2016,False,
+E07000128,Wyre,CON,Conservative,Conservative,2016,False,
+E07000239,Wyre Forest,CON,Conservative,Conservative,2023,True,No overall control (Other-led)
+E08000032,Bradford,REF min,Reform UK,No overall control (Reform UK-led),2026,True,Labour
+E06000023,Bristol,GRN/LD,Green,No overall control (Green / Liberal Democrat),2024,True,No overall control (Labour-led)
+E08000019,Sheffield,LAB/LD/GRN,Labour,No overall control (Labour / Liberal Democrat / Green),2016,False,
+E10000016,Kent,REF,Reform UK,Reform UK,2025,True,Conservative
+E09000006,Bromley,CON,Conservative,Conservative,2016,False,
+E06000022,Bath and North East Somerset,LD,Liberal Democrat,Liberal Democrat,2019,True,Conservative
+E07000203,Mid Suffolk,GRN,Green,Green,2023,True,No overall control (Conservative-led)
+E09000030,Tower Hamlets,Aspire Mayor,Independent/Other,Aspire (elected mayor),2022,True,Labour
+E10000017,Lancashire,REF,Reform UK,Reform UK,2025,True,Conservative
+E08000035,Leeds,LAB min,Labour,No overall control (Labour-led),2016,False,
+E08000003,Manchester,LAB,Labour,Labour,2016,False,
+E09000007,Camden,LAB,Labour,Labour,2016,False,
+E09000004,Bexley,CON,Conservative,Conservative,2016,False,
+E09000017,Hillingdon,CON,Conservative,Conservative,2016,False,
+E06000066,Somerset,LD,Liberal Democrat,Liberal Democrat,2022,True,Conservative
+E09000020,Kensington and Chelsea,CON,Conservative,Conservative,2016,False,
+E09000011,Greenwich,LAB,Labour,Labour,2016,False,
+E09000025,Newham,LAB Mayor,Labour,Labour (elected mayor),2016,False,
+E09000026,Redbridge,LAB,Labour,Labour,2016,False,
+E09000027,Richmond upon Thames,LD,Liberal Democrat,Liberal Democrat,2018,True,Conservative
+E09000031,Waltham Forest,GRN,Green,Green,2026,True,Labour

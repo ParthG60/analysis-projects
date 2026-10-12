@@ -1,0 +1,161 @@
+council,band,sex,pct
+Bradford,0-15,male,11.3
+Bradford,16-29,male,9.0
+Bradford,30-44,male,10.0
+Bradford,45-64,male,11.6
+Bradford,65+,male,7.2
+Bradford,0-15,female,10.9
+Bradford,16-29,female,8.8
+Bradford,30-44,female,11.0
+Bradford,45-64,female,11.8
+Bradford,65+,female,8.5
+Bristol,0-15,male,8.3
+Bristol,16-29,male,13.4
+Bristol,30-44,male,12.1
+Bristol,45-64,male,10.0
+Bristol,65+,male,5.8
+Bristol,0-15,female,8.0
+Bristol,16-29,female,13.7
+Bristol,30-44,female,11.9
+Bristol,45-64,female,10.0
+Bristol,65+,female,6.8
+Sheffield,0-15,male,8.9
+Sheffield,16-29,male,11.5
+Sheffield,30-44,male,10.0
+Sheffield,45-64,male,11.3
+Sheffield,65+,male,7.7
+Sheffield,0-15,female,8.5
+Sheffield,16-29,female,11.2
+Sheffield,30-44,female,10.3
+Sheffield,45-64,female,11.4
+Sheffield,65+,female,9.1
+Kent,0-15,male,9.7
+Kent,16-29,male,7.4
+Kent,30-44,male,9.5
+Kent,45-64,male,12.6
+Kent,65+,male,9.4
+Kent,0-15,female,9.2
+Kent,16-29,female,7.3
+Kent,30-44,female,10.5
+Kent,45-64,female,13.2
+Kent,65+,female,11.2
+Bromley,0-15,male,9.9
+Bromley,16-29,male,6.9
+Bromley,30-44,male,10.0
+Bromley,45-64,male,13.1
+Bromley,65+,male,8.0
+Bromley,0-15,female,9.4
+Bromley,16-29,female,6.8
+Bromley,30-44,female,11.8
+Bromley,45-64,female,14.1
+Bromley,65+,female,10.0
+Bath and North East Somerset,0-15,male,8.2
+Bath and North East Somerset,16-29,male,11.6
+Bath and North East Somerset,30-44,male,8.4
+Bath and North East Somerset,45-64,male,11.7
+Bath and North East Somerset,65+,male,8.9
+Bath and North East Somerset,0-15,female,7.7
+Bath and North East Somerset,16-29,female,11.5
+Bath and North East Somerset,30-44,female,9.1
+Bath and North East Somerset,45-64,female,12.2
+Bath and North East Somerset,65+,female,10.6
+Mid Suffolk,0-15,male,8.2
+Mid Suffolk,16-29,male,7.0
+Mid Suffolk,30-44,male,8.4
+Mid Suffolk,45-64,male,13.4
+Mid Suffolk,65+,male,12.2
+Mid Suffolk,0-15,female,7.7
+Mid Suffolk,16-29,female,6.6
+Mid Suffolk,30-44,female,8.9
+Mid Suffolk,45-64,female,14.1
+Mid Suffolk,65+,female,13.5
+Tower Hamlets,0-15,male,8.4
+Tower Hamlets,16-29,male,15.5
+Tower Hamlets,30-44,male,14.6
+Tower Hamlets,45-64,male,9.1
+Tower Hamlets,65+,male,2.7
+Tower Hamlets,0-15,female,8.0
+Tower Hamlets,16-29,female,16.3
+Tower Hamlets,30-44,female,14.4
+Tower Hamlets,45-64,female,7.9
+Tower Hamlets,65+,female,3.2
+Lancashire,0-15,male,9.1
+Lancashire,16-29,male,8.5
+Lancashire,30-44,male,9.2
+Lancashire,45-64,male,12.7
+Lancashire,65+,male,9.8
+Lancashire,0-15,female,8.6
+Lancashire,16-29,female,8.0
+Lancashire,30-44,female,9.6
+Lancashire,45-64,female,13.1
+Lancashire,65+,female,11.3
+Leeds,0-15,male,9.4
+Leeds,16-29,male,10.8
+Leeds,30-44,male,10.3
+Leeds,45-64,male,11.1
+Leeds,65+,male,7.1
+Leeds,0-15,female,9.0
+Leeds,16-29,female,11.5
+Leeds,30-44,female,10.9
+Leeds,45-64,female,11.3
+Leeds,65+,female,8.6
+Manchester,0-15,male,9.9
+Manchester,16-29,male,14.7
+Manchester,30-44,male,11.4
+Manchester,45-64,male,9.6
+Manchester,65+,male,4.4
+Manchester,0-15,female,9.5
+Manchester,16-29,female,14.8
+Manchester,30-44,female,11.3
+Manchester,45-64,female,9.5
+Manchester,65+,female,5.0
+Camden,0-15,male,6.9
+Camden,16-29,male,12.8
+Camden,30-44,male,11.2
+Camden,45-64,male,10.7
+Camden,65+,male,5.2
+Camden,0-15,female,6.7
+Camden,16-29,female,16.3
+Camden,30-44,female,11.7
+Camden,45-64,female,11.7
+Camden,65+,female,6.7
+Bexley,0-15,male,10.2
+Bexley,16-29,male,8.1
+Bexley,30-44,male,10.3
+Bexley,45-64,male,12.3
+Bexley,65+,male,7.4
+Bexley,0-15,female,9.8
+Bexley,16-29,female,8.1
+Bexley,30-44,female,11.7
+Bexley,45-64,female,13.0
+Bexley,65+,female,9.2
+Hillingdon,0-15,male,10.2
+Hillingdon,16-29,male,10.5
+Hillingdon,30-44,male,11.5
+Hillingdon,45-64,male,11.7
+Hillingdon,65+,male,6.0
+Hillingdon,0-15,female,9.8
+Hillingdon,16-29,female,9.2
+Hillingdon,30-44,female,12.2
+Hillingdon,45-64,female,11.7
+Hillingdon,65+,female,7.2
+Somerset,0-15,male,8.5
+Somerset,16-29,male,7.0
+Somerset,30-44,male,8.6
+Somerset,45-64,male,13.0
+Somerset,65+,male,11.8
+Somerset,0-15,female,8.1
+Somerset,16-29,female,6.5
+Somerset,30-44,female,9.0
+Somerset,45-64,female,13.8
+Somerset,65+,female,13.7
+England,0-15,male,9.3
+England,16-29,male,8.7
+England,30-44,male,10.0
+England,45-64,male,12.3
+England,65+,male,8.6
+England,0-15,female,8.8
+England,16-29,female,8.6
+England,30-44,female,10.6
+England,45-64,female,12.8
+England,65+,female,10.2
