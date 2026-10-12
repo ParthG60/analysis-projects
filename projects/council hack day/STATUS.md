@@ -7,7 +7,9 @@ stage (`PREP_STEPS`): name_map → scorecard_imd (master registry) → populatio
 england_scorecard → control → qol_all → ethnicity → age_bands → financial_distress. Then the light
 fetchers (ombudsman, borrowing, elections, qol_history, contracts) → build → search → verify. New
 flags: `--skip-prep`, `--prep-only`, plus existing `--skip-fetch` / `--skip-contracts`. A registry
-change now flows through automatically. Tested `--skip-fetch` end-to-end (verify PASSED).
+change now flows through automatically. Tested `--skip-fetch` end-to-end (verify PASSED) and the full
+`--prep-only` chain in order (~80s, exit 0; fixed a gating bug where `--prep-only` also suppressed prep).
+Prep is idempotent — rebuild produced an identical `data.json`.
 
 **Talk panels.** Data-only councils (K&C + the 5 London boroughs) already had no `topic_share`, so the
 discussion and talk-vs-spend panels were hidden — but silently. Added a short `#gateway-note` under the
