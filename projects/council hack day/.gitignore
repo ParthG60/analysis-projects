@@ -11,3 +11,6 @@ __pycache__/
 shard*.out
 shard*.err
 *.ipynb_checkpoints/
+
+# re-fetchable history downloads (HMLR file, crime xlsx, KS4 zips)
+data_england/history_cache/

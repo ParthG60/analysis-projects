@@ -1,5 +1,39 @@
 # STATUS
 
+## 2026-10-12 — Trends for all 8 QoL cards + clear line labels
+
+**All cards now have a time series.** Rewrote `data_england/qol_history.py` to build an annual series
+per council for every scorecard indicator, not just the three Fingertips ones:
+
+| Card | Source | Series |
+|---|---|---|
+| Life expectancy | OHID Fingertips 90366 | 2010–2025 |
+| Child poverty | OHID Fingertips 93701 | 2022–2025 |
+| Air quality (PM2.5) | OHID Fingertips 93861 | 2018–2024 |
+| Rent affordability | ONS PIPR monthly rent ÷ ASHE pay (Nomis NM_30_1) | 2015–2026 |
+| House / earnings | HM Land Registry HPI ÷ ASHE pay | 2015–2026 |
+| Claimant rate | Nomis NM_162_1 (July) | 2015–2026 |
+| Crime per 1,000 | ONS CSP tables, year ending March | 2022–2024 |
+| GCSE Attainment 8 | DfE KS4 release (explore-education-statistics API) | 2019–2024 |
+
+County/district rollups match the snapshot scorecard (counties = mean of districts for rent/house
+price, summed offences/population for crime; shire districts inherit parent county for attainment).
+The **last point of each series matches its card value** (checked: Barnet attainment 57.3, crime 69.7,
+rent 49.6, child poverty 11.2 all align). 288 councils × 8 metrics; `qol_history.json` 267 KB.
+
+**Line labels.** Added a legend above the trend grid: solid blue = *This council*, dashed grey =
+*median of <group>* (or *median council rank* in rank mode). The grid title states the comparison.
+
+**Robustness:** Fingertips was refusing connections mid-build, so the script now caches the Fingertips
+CSV and falls back to the previous `qol_history.json` for those three metrics. Crime/EES/HMLR downloads
+cache to `data_england/history_cache/` (git-ignored, 152 MB, re-fetchable). Fixed: DfE zip contains the
+whole year series (pick the main `_la_data` file, group by time_period); EES `/files` needs the release
+`id` not `releaseId`; suppression codes (`c`, `[x]`) coerced to numeric; crime header row/column names
+drift between releases.
+
+`app.js` `QOL_FIELDS` all `hist: true`; `verify.py` now requires all eight metrics. Cache-bust
+`20261012g`. Pushed `96cbba1`, Pages OK.
+
 ## 2026-10-12 — Pipeline prep stage + hide talk for Gateway-absent councils
 
 **Pipeline.** Folded the manual `*_all` builders into `pipeline.py` as an ordered **registry prep**
