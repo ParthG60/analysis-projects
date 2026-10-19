@@ -1,5 +1,49 @@
 # STATUS
 
+## 2026-10-19 — Audit panel, supplier flags, league rank-change; footnote + Ask fixes
+
+Shipped to the site repo (commit `607f1be`, live `v=20261019a`). Four batches, all in `site/`
+except the new audit scan:
+
+1. **Population footnote clarity** — the headline population and the ethnicity chart now carry
+   their own bound sources: subhead *"Ethnicity profile vs England"* and captions *"Headline
+   population: ONS mid-2024 estimates."* / *"Ethnicity: <source>."*. No more ambiguity about
+   which ONS series is which.
+2. **Humanised `## Ask`** in `app.js` (`buildCitizenBriefing`) and `build_dossiers.py` — plain
+   first-person voice, no system-prompt guardrails.
+3. **Audit & governance panel** (`#panel-audit`, `renderAudit`). New pipeline script
+   `audit_scan.py` → `data_england/audit_scan.csv` (270 councils, 244 scanned, 188 with flags;
+   18 data-only councils have no Gateway id). Per council it finds the audit/governance committee,
+   its latest meeting (date + link), and counts audit-committee papers whose highlighted snippet
+   contains high-signal phrases (Section 24 report, statutory recommendation, limited assurance,
+   disclaimed opinion, public interest report). Baked into `data.json` as `c.audit`; also written
+   into the dossiers. Cached in `data_england/audit_cache/` (untracked).
+4. **Supplier flags** — `supplier_index()` in `build.py` counts how many councils list each
+   supplier among their top awards; suppliers in ≥4 councils get a "national · N councils" tag in
+   the contracts table. A concentration flag (and standout badge) fires when one supplier holds
+   ≥40% of the shown awards and the total is ≥£5m. `data.json.supplier_index` (18 entries).
+5. **League table rank-change toggle** — `Latest values` / `Rank change` modes with 3y / 5y / Max
+   windows. In change mode each cell shows national-rank movement (green = gained places, red =
+   fell, amber = flat) with hover provenance (`#from (year) → #to (year)`), sortable per column.
+   Computed client-side from `qol_history.json` (all 288 councils already carry per-year ranks).
+
+Also refreshed `data/elections.csv` via `elections.py` (4 polls had passed; `verify.py` was
+failing on "no already-closed election").
+
+**Deploy state:** `site/` pushed (`607f1be`), `verify.py` PASSES. Data-repo commit pending below.
+
+### To resume
+- **Full refresh at home:** `python pipeline.py` (runs prep → fetchers → build → search → verify),
+  then `python site/build_dossiers.py`. This will re-run `elections.py`, refresh contracts and
+  QoL, and rebuild `data.json`/dossiers. Then bump the cache-bust token in `site/index.html` +
+  `site/app.js`, commit and push `site/`.
+- **Audit scan** is NOT in `pipeline.py` yet. It is a separate, cached, ~3-min step:
+  `python audit_scan.py` (add `--refresh` to ignore cache). Wire it into `pipeline.py`'s
+  `PREP_STEPS` if it should run on every refresh. **This is the main loose end.**
+- **Thread B (document query interface) is paused by request** — do not build the search box /
+  RAG chat yet. (Note: a `renderDocumentSearch(c)` already exists in `app.js`; it predates this
+  work and was left untouched.)
+
 ## 2026-10-12 — Colour-coded QoL trends + cards (green/red/amber)
 
 Trend council line and its end label are now colour-coded by standing at the latest point vs the
