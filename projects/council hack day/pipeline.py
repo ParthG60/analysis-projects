@@ -4,7 +4,7 @@ Runs, in order:
   1. Registry prep   — the "*_all" builders that derive the master council registry
                        (scorecard_imd.csv) and every dataset keyed off it.
   2. Data fetchers   — the lighter per-run pulls (ombudsman, borrowing, elections,
-                       QoL time series, contracts).
+                       QoL time series, contracts, audit committee scan).
   3. Build + verify  — bake site/data.json, search indexes, preflight checks.
 
 Designed to be the single entrypoint used by the scheduled GitHub Action
@@ -14,6 +14,7 @@ Designed to be the single entrypoint used by the scheduled GitHub Action
     python pipeline.py --skip-prep     # skip registry builders (use existing CSVs)
     python pipeline.py --skip-fetch    # rebuild from existing data_england/*.csv only
     python pipeline.py --skip-contracts  # skip the slow Contracts Finder fetch
+    python pipeline.py --skip-audit    # skip the Council Gateway audit scan (cached, ~3 min cold)
     python pipeline.py --prep-only     # run the registry builders, then stop
 
 Exit code is non-zero if any step fails or a preflight invariant breaks.
@@ -57,6 +58,7 @@ def main():
     skip_fetch = "--skip-fetch" in sys.argv
     skip_prep = "--skip-prep" in sys.argv
     skip_contracts = "--skip-contracts" in sys.argv
+    skip_audit = "--skip-audit" in sys.argv
     prep_only = "--prep-only" in sys.argv
 
     if prep_only:
@@ -84,6 +86,8 @@ def main():
         run("QoL time series", ["data_england/qol_history.py"])
         if not skip_contracts:
             run("Contracts Finder suppliers", ["england_contracts.py"])
+        if not skip_audit:
+            run("Audit committee scan", ["audit_scan.py"])
     else:
         print("(skipping fetchers — using existing data_england/*.csv)")
 
