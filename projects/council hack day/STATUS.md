@@ -1,5 +1,23 @@
 # STATUS
 
+## 2026-10-19 (b) — Audit section pulled from live; PDF-parsing findings
+
+The Audit & governance panel was **removed from the live site** on request (site commit `ff70c25`,
+live `v=20261019b`): panel, `renderAudit()`, and the dossier section are gone. `audit_scan.py`,
+`data_england/audit_scan.csv` and `data.json.audit` are kept so it can be re-enabled cheaply.
+
+**Key API findings (for the "more than highlighting" question):**
+- The Gateway's `/documents/{id}` `text` field is **always empty** — you cannot read document
+  bodies through the API. Only `/search` returns text, and only ~1 highlight fragment (~400 chars)
+  per document. So phrase-highlighting is the API's ceiling.
+- **But `/documents/{id}/file` redirects to Poteris's own mirror** on
+  `lon1.digitaloceanspaces.com/poteris-scraped-council-minutes/...` and returns the real PDF.
+  PyMuPDF (installed) parses them cleanly: sample of 7 audit PDFs across Barnet/Birmingham/Croydon
+  → 7/7 extracted, 0 scanned, **median ~27,000 chars per document**. This unlocks genuinely
+  structured extraction (risk registers, audit opinions, assurance ratings, reserves).
+- Meeting `agenda`, `attendees` and per-meeting `decisions` were **empty/null** for audit meetings
+  in the sample; `/decisions` is council-wide and thin for audit committees (they note, not decide).
+
 ## 2026-10-19 — Audit panel, supplier flags, league rank-change; footnote + Ask fixes
 
 Shipped to the site repo (commit `607f1be`, live `v=20261019a`). Four batches, all in `site/`
