@@ -1,5 +1,28 @@
 # STATUS
 
+## 2026-11-03 — Full manual refresh + redeploy (cache-bust 20261103a)
+
+Ran the whole pipeline end to end at home and redeployed the site repo
+(`ParthG60/council-receipts`, commit `3f4189c`, live cache-bust `20261103a`).
+
+- `python pipeline.py` — prep + fetchers (ombudsman, borrowing, elections, QoL history,
+  contracts, audit scan) + build + verify. Then `python site/build_dossiers.py` (288 dossiers).
+- **Verify initially FAILED** on `method-eng-claim`: the fresh Nomis claimant-count England
+  benchmark moved **3.1 → 3.2**, drifting from the hardcoded static value in `index.html`
+  (line 170). Corrected it to 3.2; verify now passes (0 warnings). app.js already rewrites it
+  at runtime from data, so only the static methodology blurb needed the fix.
+- **Data repo changed:** `data/elections.csv`, `data_england/{audit_scan,ethnicity_all,name_map,
+  profile_all,qol_all}.csv`. Added `data_england/audit_cache/` to `.gitignore` (re-fetchable,
+  matches the `history_cache/` convention).
+- **Site repo changed:** `data.json`, `qol_history.json`, `search_index_global.json`, all 288
+  `dossiers/*.md`, plus `index.html`+`app.js` cache-bust bump (`20261019b` → `20261103a`).
+  `llms.txt` and per-council `search_index/` were byte-identical this run.
+
+### To resume
+- Nothing outstanding from this refresh. The monthly GitHub Action (1st, 06:00 UTC) will
+  re-run the same pipeline; if a methodology blurb drifts again, `verify.py` will flag it and
+  the static `method-eng-*` value in `index.html` needs the matching update before push.
+
 ## 2026-10-19 (b) — Audit section pulled from live; PDF-parsing findings
 
 The Audit & governance panel was **removed from the live site** on request (site commit `ff70c25`,

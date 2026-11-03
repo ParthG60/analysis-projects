@@ -1,13 +1,4 @@
 council,election_id,title,poll_date
-East Hertfordshire,local.east-hertfordshire.hertford-kingsmead.by.2026-10-22,East Hertfordshire local election Hertford Kingsmead by-election,2026-10-22
-Leeds,local.leeds.calverley-farsley.by.2026-10-22,Leeds local election Calverley & Farsley by-election,2026-10-22
-South Kesteven,local.south-kesteven.grantham-st-wulframs.by.2026-10-22,South Kesteven local election Grantham St Wulfram's by-election,2026-10-22
-Wychavon,local.wychavon.hartlebury.by.2026-10-22,Wychavon local election Hartlebury by-election,2026-10-22
-Bassetlaw,local.bassetlaw.worksop-east.by.2026-10-29,Bassetlaw local election Worksop East by-election,2026-10-29
-Dudley,local.dudley.st-jamess.by.2026-10-29,Dudley local election St. James's by-election,2026-10-29
-Halton,local.halton.beechwood-heath.by.2026-10-29,Halton local election Beechwood & Heath by-election,2026-10-29
-Newark and Sherwood,local.newark-and-sherwood.dover-beck.by.2026-10-29,Newark and Sherwood local election Dover Beck by-election,2026-10-29
-Nottinghamshire,local.nottinghamshire.southwell.by.2026-10-29,Nottinghamshire local election Southwell by-election,2026-10-29
 Bournemouth,local.bournemouth-christchurch-and-poole.penn-hill.by.2026-11-05,"Bournemouth, Christchurch and Poole local election Penn Hill by-election",2026-11-05
 Hyndburn,local.hyndburn.huncoat.by.2026-11-12,Hyndburn local election Huncoat by-election,2026-11-12
 North East Lincolnshire,local.north-east-lincolnshire.croft-baker.by.2026-11-12,North East Lincolnshire local election Croft Baker by-election,2026-11-12
@@ -21,3 +12,8 @@ Hertfordshire,local.hertfordshire.letchworth-north.by.2026-11-19,Hertfordshire l
 North Hertfordshire,local.north-hertfordshire.letchworth-norton.by.2026-11-19,North Hertfordshire local election Letchworth Norton by-election,2026-11-19
 Rotherham,local.rotherham.anston-woodsetts.by.2026-11-19,Rotherham local election Anston & Woodsetts by-election,2026-11-19
 South Staffordshire,local.south-staffordshire.huntington-hatherton.by.2026-11-19,South Staffordshire local election Huntington & Hatherton by-election,2026-11-19
+Birmingham,local.birmingham.shard-end.by.2026-11-26,Birmingham local election Shard End by-election,2026-11-26
+Bromsgrove,local.bromsgrove.marlbrook.by.2026-11-26,Bromsgrove local election Marlbrook by-election,2026-11-26
+Manchester,local.manchester.harpurhey.by.2026-11-26,Manchester local election Harpurhey by-election,2026-11-26
+Solihull,local.solihull.castle-bromwich.by.2026-11-26,Solihull local election Castle Bromwich by-election,2026-11-26
+Gosport,local.gosport.hardway.by.2026-12-03,Gosport local election Hardway by-election,2026-12-03

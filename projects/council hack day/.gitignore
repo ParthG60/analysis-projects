@@ -14,3 +14,6 @@ shard*.err
 
 # re-fetchable history downloads (HMLR file, crime xlsx, KS4 zips)
 data_england/history_cache/
+
+# Council Gateway audit-scan cache (rebuildable with audit_scan.py --refresh)
+data_england/audit_cache/
