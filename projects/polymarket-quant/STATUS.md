@@ -1,5 +1,22 @@
 # STATUS
 
+## 2026-11-10 (session 9) — git-based deploy + strategy.yaml (no more manual uploads)
+
+**Done**
+- **Two scanner bugs fixed** (found during a live coverage audit):
+  1. `Brazil Serie A` was silently dropped — the blacklist term `Serie A` substring-matched it. It appears in BOTH the series name and the tags, so exempting only the series wasn't enough. Fix: in `is_league_whitelisted()`, when an exact whitelisted series is present, erase all whitelisted-series names (longest-first) from the blacklist text. Verified: Brazil Serie A went 0 -> 17 passing fixtures; Italian `Serie A`, `La Liga`, `Copa del Rey`, `Coupe de France`, friendlies, Nations League all still correctly rejected.
+  2. **CORRECTION:** Brazil is NOT paused — Serie A (83 events) and Serie B (40) play through the European international break. Post-fix coverage over 20 days = 106 match-level fixtures across 11 leagues.
+- **Volume-floor study** (`scripts/volume_curve.py`, `logs/volume_curve.txt`): soccer-underdog edge is monotonically increasing in volume. p6h, band 0.05-0.35, 5% fee + 1.8c slip: <2k = +1.0pp (ret -0.07); 2-5k = +0.3pp (-0.08); 5-10k = +3.4pp (+0.11); 10-25k = +5.9pp (+0.30); 25-50k = +8.7pp (+0.38); 50-100k = +15.4pp (+0.77). Below ~5k the strategy is a net loser. **Decision: keep MIN_VOLUME_USD = 10,000.**
+- **`strategy.yaml` — single source of truth for strategy params.** Sizing, risk limits, selection bands, and league whitelist/blacklist moved out of `config.py`/`.env` into `strategy.yaml`; `config.py` now loads it (with built-in defaults). `.env` keeps only secrets + mode. Tuning = edit one YAML file.
+- **All modules given script-mode import fallbacks** (`scanner/executor/db/notifier`) so the bot runs via `python run.py` from the git checkout without the old `bot -> .` symlink.
+- **Git-deploy tooling:** `deploy.sh` (on VM: `git pull` + pip sync + restart) and `setup_git_vm.sh` (one-time VM migration to a sparse git checkout at `~/polybot-repo`, preserves `.env`/`trades.db`).
+- **Committed + pushed** to `github.com/ParthG60/analysis-projects` (branch `master`) — bot/, strategy.yaml, scripts, logs, PROJECT.md, STATUS.md. `.gitignore` (project) excludes `data/` (12 GB), `.env`, `trades.db`, `venv/`, `*.tar.gz`.
+
+**Next**
+- **One-time VM migration:** upload `setup_git_vm.sh`, then on the VM `bash setup_git_vm.sh` (stops service, sets up git checkout, restores secrets, repoints systemd, restarts).
+- Thereafter: edit `strategy.yaml` locally -> `git push` -> on VM `cd ~/polybot-repo/projects/polymarket-quant/bot && ./deploy.sh`.
+- Monitor Telegram for round-robin fixtures entering the 6h-24h window; audit first live fill.
+
 ## 2026-11-10 (session 8) — 24/7 cloud migration complete: google cloud helsinki vm, systemd service, live authenticated relayer
 
 **Done**
