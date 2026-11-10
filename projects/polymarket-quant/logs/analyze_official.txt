@@ -1,0 +1,92 @@
+Official-taxonomy edge analysis | p6h | vol>=25000 | band [0.05,0.35]
+events loaded=572135  market->event map=3233733
+horizon markets=572251  mapped to event=528600 (92.4%)
+
+ON-SCHEDULE pool n=2882
+
+=== BY TAG-BUCKET (official tags) ===
+            n    win  mean_price  edge_pp   ret
+bucket                                         
+Sports   1466   31.9       0.210     10.9  0.49
+Crypto   1366   17.9       0.159      2.0 -0.08
+Other      28   42.9       0.174     25.4  1.57
+Finance    21   19.0       0.232     -4.1 -0.14
+Weather     1  100.0       0.246     75.4  2.69
+
+=== BY EVENT SERIES (n>=20) ===
+                                 n   win  mean_price  edge_pp   ret
+ev_series                                                          
+BTC Multi Strikes Weekly       225  16.9       0.144      2.5  0.02
+Ethereum Multi Strikes Weekly  206  16.5       0.151      1.5 -0.01
+Serie A 2025                   196  31.6       0.203     11.3  0.63
+Bitcoin Hit Price Daily        181   8.8       0.120     -3.2 -0.47
+UEFA Nations League            160  22.5       0.188      3.7  0.19
+Fifa Friendly                  136  30.9       0.210      9.8  0.42
+ETH Up or Down Daily           121  23.1       0.196      3.6  0.02
+BTC Up or Down Daily           120  20.0       0.196      0.4 -0.31
+La Liga 2025                   114  23.7       0.184      5.3  0.27
+Primera División Argentina     113  38.9       0.215     17.4  0.78
+Bundesliga 2025                105  39.0       0.238     15.3  0.62
+Brazil Serie A                  73  42.5       0.224     20.1  1.11
+Solana Multi Strikes Weekly     65  16.9       0.165      0.4 -0.17
+Saudi Professional League       62  40.3       0.206     19.7  0.82
+Solana Up or Down Daily         57  19.3       0.184      0.9 -0.17
+Ethereum Hit Price Daily        52  17.3       0.130      4.3  0.16
+Ligue 1 2025                    49  20.4       0.213     -0.9 -0.26
+none                            47  29.8       0.206      9.2  0.55
+XRP Up or Down Daily            47  21.3       0.179      3.4  0.13
+SPX Daily Up or Down            44   9.1       0.160     -6.9 -0.52
+Süper Lig 2025                  36  22.2       0.222      0.1 -0.13
+XRP Multi Strikes Weekly        35  17.1       0.165      0.7 -0.19
+Japan J League                  27  44.4       0.186     25.9  1.46
+Copa Libertadores 2025          24  20.8       0.246     -3.8 -0.22
+Norway Eliteserien              23  30.4       0.238      6.6  0.09
+SPY Daily Up or Down            22   9.1       0.150     -5.9 -0.70
+Bitcoin Multi Strikes 4H        21  28.6       0.189      9.7  0.14
+Copa Sudamericana 2025          21  42.9       0.205     22.3  1.05
+Sweden Allsvenskan 2026         21  23.8       0.228      1.0 -0.04
+
+=== BY INDIVIDUAL TAG (n>=50, multi-tag) ===
+                       tag    n  win  mean_price  edge_pp   ret
+                     Games 1463 32.0       0.210     11.0  0.49
+                    Sports 1461 32.0       0.210     11.0  0.49
+                    Soccer 1407 32.1       0.209     11.2  0.50
+             Hide From New 1368 17.8       0.161      1.8 -0.09
+                    Crypto 1200 17.4       0.157      1.7 -0.09
+             Crypto Prices 1198 17.4       0.157      1.7 -0.09
+                 Recurring 1194 17.4       0.157      1.7 -0.09
+                     Daily  737 17.8       0.165      1.3 -0.17
+                   Today 🚀  604 17.9       0.165      1.4 -0.17
+                    Weekly  581 17.6       0.148      2.8  0.04
+                   Bitcoin  580 15.2       0.148      0.4 -0.20
+             Multi Strikes  523 16.8       0.152      1.7 -0.05
+                Up or Down  505 20.2       0.186      1.6 -0.13
+                  Ethereum  398 19.8       0.162      3.7  0.07
+                 Hit Price  282 12.4       0.120      0.4 -0.21
+               Daily-Close  241 20.3       0.186      1.7 -0.13
+                       sea  196 31.6       0.203     11.3  0.63
+                   Finance  188 20.2       0.179      2.3 -0.08
+       UEFA Nations League  160 22.5       0.188      3.7  0.19
+             Fifa Friendly  136 30.9       0.210      9.8  0.42
+                    Solana  130 18.5       0.173      1.1 -0.17
+                   La Liga  114 23.7       0.184      5.3  0.27
+Argentina Primera División  113 38.9       0.215     17.4  0.78
+                Bundesliga  105 39.0       0.238     15.3  0.62
+                  Equities  102 24.5       0.188      5.7  0.07
+                       XRP   89 20.2       0.170      3.2  0.07
+                    Ripple   89 20.2       0.170      3.2  0.07
+                    Stocks   85 27.1       0.178      9.2  0.18
+            Brazil Serie A   73 42.5       0.224     20.1  1.11
+              Pyth Finance   70 21.4       0.177      3.8  0.04
+            Finance Updown   70 21.4       0.177      3.8  0.04
+ Saudi Professional League   62 40.3       0.206     19.7  0.82
+                  Indicies   57 14.0       0.163     -2.2 -0.35
+
+=== SPORTS vs NON-SPORTS (official tags/series) ===
+              n   win  mean_price  edge_pp   ret
+is_sports                                       
+True       1466  31.9        0.21     10.9  0.49
+False      1416  18.4        0.16      2.4 -0.05
+
+=== OVERALL ===
+n=2882 win=25.3% edge=+6.7pp ret=+0.22

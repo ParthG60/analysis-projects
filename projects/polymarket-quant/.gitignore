@@ -1,0 +1,12 @@
+# Secrets / runtime artifacts — never commit
+bot/.env
+bot/trades.db
+bot/venv/
+bot/reports/
+bot/__pycache__/
+
+# Large raw/intermediate datasets
+data/
+
+# Deployment bundles
+*.tar.gz

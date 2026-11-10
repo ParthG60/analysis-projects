@@ -1,0 +1,72 @@
+# Polybot strategy parameters. This file is the single source of truth for the
+# trading strategy. Edit it, then restart the bot (or run ./deploy.sh on the VM).
+# Secrets and mode (private key, wallet, Telegram, DRY_RUN) stay in .env.
+
+sizing:
+  risk_fraction: 0.04        # fraction of equity per bet (0.04 = 4% Quarter-Kelly)
+  min_stake_usd: 5.0         # minimum order size floor
+  max_stake_usd: 50.0        # per-order cap (liquidity protection)
+
+risk:
+  max_open_positions: 10     # max concurrent bets
+  max_positions_per_event: 2 # max underdogs per match (e.g. draw + away)
+  circuit_breaker_max_drawdown: 0.40           # halt if equity falls 40% from peak
+  circuit_breaker_max_consecutive_losses: 12   # halt after 12 losses in a row
+
+selection:
+  min_volume_usd: 10000.0    # evidence-based: below ~5k the edge is negative
+  price_min: 0.05            # underdog band lower bound
+  price_max: 0.35            # underdog band upper bound
+  min_hours_to_kickoff: 6.0  # earliest entry before kickoff
+  max_hours_to_kickoff: 24.0 # latest entry before kickoff
+  max_spread: 0.02           # max allowed bid-ask spread
+
+tax:
+  gbp_usd_rate: 1.28         # baseline FX for the UK tax ledger
+
+leagues:
+  # Authorised round-robin domestic leagues only. Exact series names.
+  whitelist:
+    # Tier 1 (strongest historical edge)
+    - "Japan J League"
+    - "Belgium Pro League"
+    - "Primeira Liga"
+    - "Brazil Serie A"
+    - "Brazil Serie B"
+    - "Primera División Argentina"
+    - "Eredivisie 2025"
+    - "Eredivisie"
+    - "Norway Eliteserien"
+    - "Süper Lig 2025"
+    - "Süper Lig"
+    - "Saudi Professional League"
+    - "Liga MX 2025"
+    - "Liga MX"
+    - "Poland Ekstraklasa"
+    - "Denmark Superliga"
+    # Tier 2 (solid edge)
+    - "Bundesliga 2025"
+    - "Bundesliga"
+    - "Bundesliga 2"
+    - "Ligue 1 2025"
+    - "Ligue 1"
+    - "Sweden Allsvenskan 2026"
+    - "Sweden Allsvenskan"
+  # Knockout cups, friendlies, international tournaments, and efficient top leagues.
+  # NOTE: "Serie A" / "La Liga" here intentionally block the Italian/Spanish top
+  # flights. The scanner erases exact whitelisted names first so they don't collide
+  # with "Brazil Serie A".
+  blacklist:
+    - "Cup"
+    - "Pokal"
+    - "Copa"
+    - "Kupa"
+    - "Tournament"
+    - "Friendly"
+    - "Friendlies"
+    - "Nations League"
+    - "Conference League"
+    - "Advance"
+    - "To Advance"
+    - "La Liga"
+    - "Serie A"

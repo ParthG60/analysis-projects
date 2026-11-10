@@ -1,0 +1,18 @@
+[Unit]
+Description=Polymarket Soccer Quantitative Autotrader
+After=network.target
+
+[Service]
+Type=simple
+User=REPLACE_USER
+WorkingDirectory=REPLACE_BOT_DIR
+ExecStart=REPLACE_BOT_DIR/venv/bin/python run.py --live --interval 900
+Restart=always
+RestartSec=30
+
+# Output logs to journald (view with: journalctl -u polybot -f)
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
